@@ -1,0 +1,447 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI version="5.0" xmlns="http://www.tei-c.org/ns/1.0" xml:lang="pt">
+    <teiHeader type="text" xml:lang="pt">
+        <fileDesc>
+            <titleStmt>
+                <title>Dicionário Grego-Português- Letra Ζ, versão 1.0 </title>
+                
+                <author>Autores da versão impressa da Editora Ateliê, incluindo todos os volumes: 
+                    
+                    <name>MALHADAS, D. ; DEZOTTI, M. C.C. ; NEVES, M. H. de M. ; DUARTE, A. S. ;  PRADO, Anna. Lia. A. A. ; FERAL, Claudia R. ; FERREIRA, Anise D'O. ; MORAIS, C. B. ; ROSA, Edvanda. B. ; SANTOS, Fernando. B. ; STARZYNSKI, G. M. R. ; ONELLEY, G. B. ; STARLING, M. A. P. A. ; PESSANHA, N. M. ; DAMASCENO, S. ; BARBOSA, T. V. R. </name>
+                    Responsável pela edição digital:<name> Anise D'Orange Ferreira.</name>
+                    <name> Edição digital: CC BY-NC-SA. Atribuição-NãoComercial-CompartilhaIgual 4.0 Internacional</name>
+                    <!--CC BY-NC-SA. Edição impressa, vols 1 a 5: Editora  Ateliê:
+                        http://www.atelie.com.br/livro/especial-dicionario-grego-portugues--> 
+                </author>
+                
+                <editor><name>Organizadores/coordenadores:  Malhadas, Daisi; Neves, M.H.M e Dezotti, Maria Celeste C. </name></editor>
+                <principal>
+                    <name>Responsável pela edição eletrônica: Anise D'Orange Ferreira, FCLAr, UNESP</name></principal>
+                <sponsor> Financiado por _____ </sponsor>
+                <respStmt>
+                    <resp> editado por </resp>  
+                    <name> Nome do editor </name>
+                </respStmt>   
+                <respStmt>
+                    <resp> Colaboradores</resp>  
+                    <name> Fulano </name>
+                    <!-- pode haver tantos resp quantos necessários no statement de responsabilidades, dependendo do tipo de participação)-->
+                    
+                </respStmt>
+                
+            </titleStmt>
+            
+            <publicationStmt>
+                <publisher>Ateliê</publisher>
+                <pubPlace>São Paulo</pubPlace>
+                <distributor> Pessoa ou agência responsável pela distribuição</distributor>
+                <authority>Responsável, agência ou pessoa, para disponibilizar, sem ser o distribuidor ou editora</authority>
+                <date>  2006-2010</date>
+                <idno type="ISBN" >vol 1: 8574803278; vol 2: 9788574803845; vol 3: 9788574803845; vol 4: 9788574804323; vol 5 : 9788574804 </idno>
+                
+                <availability status="free">
+                    <!--<licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/"> Atribuição-NãoComercial-CompartilhaIgual 
+CC BY-NC-SA
+                    </licence>-->
+                    <p>Edição digital: Licença Creative Commons http://creativecommons.org/licenses/by-nc-sa/4.0/. Edição impressa: Ateliê Editorial: http://www.atelie.com.br</p>
+                    
+                </availability>
+                
+            </publicationStmt>
+            <sourceDesc>
+                <!-- origem da publicação - se não for 'born digital', colocar a fonte - Acho que aqui vou colocar as referências a todos os volumes usando listBbl--> 
+                <bibl default="false">
+                    <lb></lb>
+                    Dicionário Grego-Português vol.1, vol.2, vol.3, vol.4 e vol.5
+                    DEZOTTI, M. C.C. ; MALHADAS, D. ; Neves, M. H. de M. ; Prado, A. L. A. A. ; SANTOS, F. B. ; ROSA, E. B. ; DUARTE, A. S. ; FERREIRA, A. A. G. D. ; Barbosa, T. V. R. ; Pessanha, N. M. ; Damasceno, S. ; Morais, C. B. ; Onelley, G. B. ; et al. . (da equipe de autores) In Neves, Dezotti e Malhadas (coords) Dicionario grego-português. Vol. 5. 1. ed. São Paulo: Atelie, 2010. v. 1. 296p .
+                    
+                    <lb></lb>
+                    MALHADAS, D. ; DEZOTTI, M. C.C. ; Neves, M. H. de M. ; DUARTE, A. S. ; FERREIRA, A. A. G. D. ; Prado, A. L. A. A. ; FERAL, C. ; Morais, C. B. ; ROSA, E. B. ; SANTOS, F. B. ; Starzynski, G. M. R. ; Onelley, G. B. ; Starling, M. A. P. A. ; Pessanha, N. M. ; Damasceno, S. ; Barbosa, T. V. R. . (da equipe de autores) In Daisi Malhadas, Maria Celeste C. Dezotti (coords) Dicionário grego-português vol.4. 1. ed. São Paulo: Ateliê Editorial, 2009. v. 5. 191p .
+                    
+                    <lb></lb>
+                    MALHADAS, D. ; DEZOTTI, M. C.C. ; Neves, M. H. de M. ; DUARTE, A. S. ; FERREIRA, A. A. G. D. ; Prado, A. L. A. A. ; FERAL, C. ; Morais, C. B. ; ROSA, E. B. ; SANTOS, F. B. ; Starzynski, G. M. R. ; Onelley, G. B. ; Starling, M. A. P. A. ; Pessanha, N. M. ; Damasceno, S. ; Melo, S. T. M. ; Barbosa, T. V. R. . (da Equipe de autores) In Daisi Malhadas, Maria Celeste C. Dezotti (coords) Dicionário grego-português vol. 3. 1. ed. São Paulo, SP: Atelier Editorial, 2008. v. 1. 260p .
+                    
+                    <lb></lb>
+                    MALHADAS, D. ; DEZOTTI, M. C.C. ; FERREIRA, A. A. G. D. ; AUTORES-TOTAL 17 . (da Equipe de autores) In Daisi Malhadas, Maria Celeste C. Dezotti e Neves, M.H. (coords) Dicionário grego-português vol. 2.. 1a. ed. São Paulo: Ateliê, 2007. v. vol.2. 272p .
+                    
+                    <!-- bibl (bibliographic citation) contains a loosely-structured bibliographic citation of which the sub-components may or may not be explicitly tagged.
+biblFull (fully-structured bibliographic citation) contains a fully-structured bibliographic citation, in which all components of the TEI  le description are present. 
+biblStruct (structured bibliographic citation) contains a structured bibliographic citation, in which only bibliographic sub-elements appear and in a speci ed order. 
+listBibl (citation list) contains a list of bibliographic citations of any kind.
+msDesc (manuscript description) contains a description of a single identi able manuscript or other text-bearing object.  --> 
+                    <title>Dicionário Grego-Português</title>
+                    <author>MALHADAS, D. ; DEZOTTI, M. C.C. ; Neves, M. H. de M. ; DUARTE, A. S. ; FERREIRA, A. A. G. D. ; Prado, A. L. A. A. ; FERAL, C. ; Morais, C. B. ; ROSA, E. B. ; SANTOS, F. B. ; Starzynski, G. M. R. ; Onelley, G. B. ; Starling, M. A. P. A. ; Pessanha, N. M. ; Damasceno, S. ; Barbosa, T. V. R. . </author>
+                    <editor role="editor">Ateliê Editorial</editor>
+                    <pubPlace>São Paulo</pubPlace>
+                    <date>volumes 1 a 5: 2006-2010</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        
+        <profileDesc>
+            <langUsage>
+                <language ident="en">English
+                </language><language ident="greek">Greek
+                </language><language ident="la">Latin
+                </language><language ident="fr">French
+                </language><language ident="pt">Portuguese</language>
+            </langUsage>
+            
+        </profileDesc>
+        <encodingDesc> 
+            <tagsDecl>
+                <rendition xml:id="FontRoman" scheme="css">font-family: serif
+                </rendition>
+                
+            </tagsDecl>
+            
+        </encodingDesc>
+        
+        <revisionDesc> 
+            <!-- ppode-se inserir tantos changes quantos necessários-->
+            <change when= "2015-10-04" who="Anise"> Conversão para txt, início da etiquetagem do header</change>
+            <change when="2016-01-15" who="Anise D'Orange Ferreira">Complementação do header</change>
+        </revisionDesc>
+        
+        
+        
+    </teiHeader>
+    <text>
+        <body>
+            
+<entryFree>Ζ, ζ (ζῆτα) (τό)<def> 1   dzeta, 6a letra do alfabeto grego ♦ num.   2   ζʹ = 7 ou 7º   3   ͵ζ = 7000 ou 7000º. </def></entryFree><p></p>
+
+<entryFree>ζά<def> eól. = διά. </def></entryFree><p></p>
+
+<entryFree>ζάγκλον, ου (τό)<def> foice. </def></entryFree><p></p>
+
+<entryFree>ζαής, ής, ές<def> que sopra com violência. 〈ζα-, ἄημι〉 </def></entryFree><p></p>
+
+<entryFree>ζάθεος, η<def> e ος ον muito divino; sagrado; venerável. 〈ζα-,  θεός〉 </def></entryFree><p></p>
+
+<entryFree>ζάκορος, ου (ὁ, ἡ)<def> sacerdote auxiliar, encarregado do serviço do templo. 〈ζα-, κορέω〉 </def></entryFree><p></p>
+
+<entryFree>ζάκοτος, ος, ον<def> 1   muito irritado; furioso (pessoa)   2   violento (coisa). 〈ζα-, κότος〉 </def></entryFree><p></p>
+
+<entryFree>ζάλη, ης (ἡ)<def> 1   agitação violenta (de ondas); agitação (de elementos)   2   tempestade; furacão   3   calamidade; infortúnio. </def></entryFree><p></p>
+
+<entryFree>ζαμία, ας<def> dór. (ἡ) = ζημία. </def></entryFree><p></p>
+
+<entryFree>ζαμενής, ής, ές<def> 1   muito violento; impetuoso   2   irado; furioso   3   hostil; inimigo. 〈ζα-, μένος〉 </def></entryFree><p></p>
+
+<entryFree>Ζάν, Ζανός<def> dór. = Ζεύς. </def></entryFree><p></p>
+
+<entryFree>ζαπληθής, ής, ές<def> muito cheio; abarrotado de, gen. 〈ζα-,  πλῆθος〉 </def></entryFree><p></p>
+
+<entryFree>ζάπλουτος, ος, ον<def> muito rico. 〈ζα-, πλοῦτος〉 </def></entryFree><p></p>
+
+<entryFree>ζάπυρος, ος, ον<def> todo em chamas; muito inflamado. 〈ζα-,  πῦρ〉 </def></entryFree><p></p>
+
+<entryFree>ζατρεφής, ής, ές<def> bem nutrido; robusto; forte. 〈ζα-, τρέφω〉 </def></entryFree><p></p>
+
+<entryFree>ζαφλεγής, ής, ές<def> cheio de fogo; cheio de calor; ardente. 〈ζα-, φλέγω〉 </def></entryFree><p></p>
+
+<entryFree>Ζαχαρίας, ου (ὁ)<def> bíbl. Zacarias, n. de homem. [hebr.] </def></entryFree><p></p>
+
+<entryFree>ζαχρειής, ής, ές<def> 1   violento ♦ ζαχρειές adv.   2   violentamente. 〈ζα-, χράω〉 </def></entryFree><p></p>
+
+<entryFree>ζάχρυσος, ος, ον<def> rico em ouro. 〈ζα-, χρυσός〉 </def></entryFree><p></p>
+
+<entryFree>ζάω<def>  ζήω. </def></entryFree><p></p>
+
+<entryFree>ζέε<def> 3ª sing. impf. poét. de ζέω. </def></entryFree><p></p>
+
+<entryFree>ζειά, ᾶς (ἡ)<def> trigo; espelta. </def></entryFree><p></p>
+
+<entryFree>ζείδωρος, ος, ον<def> 1   que produz espelta; fecundo   2   que dá a vida, epít. de Afrodite. 〈ζειά, δῶρον〉 </def></entryFree><p></p>
+
+<entryFree>ζειρά, ας (ἡ)<def> manto até os pés dos árabes, dos trácios. </def></entryFree><p></p>
+
+<entryFree>ζέσις, εως (ἡ)<def> ebulição; fervura. 〈ζέω〉 </def></entryFree><p></p>
+
+<entryFree>ζέσσε(ν)<def> 3ª sing. aor. poét. de ζέω. </def></entryFree><p></p>
+
+<entryFree>ζεστός, ή, όν<def> tard.   1   fervido   2   que fervilha; férvido; fervente   3   quente; ardente. 〈ζέω〉 </def></entryFree><p></p>
+
+<entryFree>ζευγηλατέω-ῶ<def> conduzir uma parelha de bois ou cavalos. 〈ζεῦγος, ἐλαύνω〉 </def></entryFree><p></p>
+
+<entryFree>ζευγηλάτης, ου (ὁ)<def> condutor de uma parelha de bois ou cavalos. 〈ζεῦγος, ἐλαύνω〉 </def></entryFree><p></p>
+
+<entryFree>ζευγίτης, ου<def> (masc.)   1   jungido aos pares; atrelado; colocado sob jugo (animal)   2   enfileirado (soldados)   3   justaposto: κάλαμος ζ. flauta dupla em que o sopro passa por dois caniços justapostos ♦ οἱ ζευγῖται   4   zeugitas, 3a classe de cidadãos, em Atenas. 〈ζεῦγος〉 </def></entryFree><p></p>
+
+<entryFree>ζεύγλη, ης (ἡ)<def> 1   canga; jugo   2   correia para controlar o timão da charrua. 〈ζεύγνυμι〉 </def></entryFree><p></p>
+
+<entryFree>ζεῦγμα, ατος (τό)<def> 1   canga; jugo   2   laço; liame   3   ligação   4   ponte de barcas   5   barragem; quebra-mar. 〈ζεύγνυμι〉 </def></entryFree><p></p>
+
+<entryFree>ζευγνύμεν, ζευγνύμεναι<def> inf. pres. ép. de ζεύγνυμι. </def></entryFree><p></p>
+
+<entryFree>ζεύγνυμι<def> (fut. ζεύξω, aor. ἔζευξα, perf. desus.; pas. aor. ἐζεύχθην, aor.2 ἐζύγην, perf. ἔζευγμαι)
+ativa
+1	colocar sob o jugo; atrelar (animais)
+2	tomar como cônjuge; desposar (mulher), ac.
+3	dar uma filha, ac., em casamento a, dat.
+4	unir com uma ponte as duas margens de, ac.
+5	juntar; ligar; ajustar
+média
+6	colocar sob o jugo para uso próprio (animais)
+7	desposar (mulher)
+8	unir com uma ponte as duas margens de um rio
+9	ligar a si
+passiva
+10	submeter-se ao jugo de; estar sujeito a; sujeitar-se à lei de, dat.
+
+1 ὑπ᾽ ἀμάξῃσιν βόας ἡμιόνους τε ζεύγνυσαν hom. atrelaram aos carros bois e mulas
+2 τίς ταύτην ἔζευξε; eur. quem a desposou?
+3 ζευγνύναι τὴν θυγατέρα τινί ap. dar a filha em casamento a alguém
+4 μηχαναῖς ἔζευξεν    Ἕλλης πόντον ésql. com engenhosidade ligou as duas margens do Helesponto, ποταμὸν ζεῦξαι her. lançar uma ponte
+5  ζεύξαντες τὰς παλαιὰς (ναῦς) ὥστε πλωΐμους εἶναι tuc. tendo ajustado as pranchas dos antigos navios de modo que pudessem navegar, ἀσκοὺς δεσμοῖς ζευγνύναι xen. ligar os odres com as cordas
+6 ἵππους ζεύγνυντο hom. atrelavam os cavalos, ζεύξομαι ἄρα πώλους eur. pois bem! atrelarei os cavalos
+7 ἄκοιτιν ζεύξαθαι eur. tomar uma esposa
+8 ζεύγνυσθαι τὸν Βόσπορον her. lançar uma ponte sobre o Bósforo
+9 τόνδ᾽ ἐν ὅρκοις ζεύξομαι eur. eu o manterei preso aos juramentos (feitos por mim)
+10 πότμῳ ζυγείς pínd. submissão ao destino, ἀνάγκῃ ζυγείς sóf. sujeito à necessidade, ὁρκίοισιν ζυγείς eur. unido por juramentos. </def></entryFree><p></p>
+
+<entryFree>ζεύγνυντο<def> 3ª pl. impf. pas. aor. méd. poét. de ζεύγνυμι. </def></entryFree><p></p>
+
+<entryFree>ζεύγνυσαν<def> 3ª pl. impf. ép., ζεύγνυσθαι inf. pres. pas., ζευγνύσθην 3ª dual impf. poét., de ζεύγνυμι. </def></entryFree><p></p>
+
+<entryFree>ζευγνύω<def> (só pres. e impf.) = ζεύγνυμι. </def></entryFree><p></p>
+
+<entryFree>ζεῦγος, εος-ους (τό)<def> 1   junta (de dois animais de tração)   2   carro puxado por uma junta: ζεύγεϊ, ἐπὶ ζεύγους sobre um carro   3   casal (de amantes, de esposos)   4   parelha (de animais)   5   par (de coisas), dupla (de pessoas): κατὰ ζεῦγος, κατὰ ζεύγη, ἐς ζεύγεα em dupla, aos pares   6   grupo; conjunto de mais de dois: ζ. τέθριππον ésql. quadriga. 〈ζεύγνυμι〉 </def></entryFree><p></p>
+
+<entryFree>ζευγοτρόφος, ος, ον<def> que mantém uma junta. 〈ζεῦγος, τρέφω〉 </def></entryFree><p></p>
+
+<entryFree>ζευκτήριος, α, ον<def> 1   que serve para ligar, juntar, unir a, gen. ♦ ἡ ζευκτηρία   2   bíbl. corda; amarra do leme ♦ τὸ ζευκτήριον   3   jugo. 〈ζεύγνυμι〉 </def></entryFree><p></p>
+
+<entryFree>ζευκτός, ή, όν<def> 1   colocado sob jugo; atrelado   2   ligado; unido. 〈ζεύγνυμι〉 </def></entryFree><p></p>
+
+<entryFree>ζεύξατε<def> 2ª pl. imper. aor., ζεῦξαν 3ª pl. ind. aor. poét., ζεύξειεν 3a pl. opt. aor. poét., ζεῦξε(ν) 3ª sing. ind. aor. poét., de ζεύγνυμι. </def></entryFree><p></p>
+
+<entryFree>ζεῦξις, εως (ἡ)<def> 1   ação de colocar sob o jugo; atrelagem   2   ligação por meio de uma ponte. 〈ζεύγνυμι〉 </def></entryFree><p></p>
+
+<entryFree>Ζεῦξις, ιδος,<def> ac. -ιν (ὁ) Zêuxis, pintor. </def></entryFree><p></p>
+
+<entryFree>Ζεύς,<def> voc. Ζεῦ, gen. Διός e Ζηνός, dat. Διί e Ζηνί, ac. Δία e Ζῆνα (ὁ) Zeus, filho de Cronos e de Réia, esposo de Hera, deus do céu, deus supremo, pai dos deuses e dos homens. </def></entryFree><p></p>
+
+<entryFree>ζεφυρίη, ης (ἡ)<def> ép. o sopro de zéfiro. 〈ζεφύριος〉 </def></entryFree><p></p>
+
+<entryFree>ζεφύριος, ος<def> e α, ον   1   de zéfiro; do vento oeste   2   do oeste: Ζεφύριοι Λοκροί pínd. os Lócrios do oeste ♦ οἱ ζεφύριοι   3   os ventos do oeste ♦ τὸ Ζεφύριον   4   Zefirião, n. de promontório na Magna Grécia e em Chipre. 〈ζέφυρος〉 </def></entryFree><p></p>
+
+<entryFree>ζέφυρος, ου (ὁ)<def> 1   zéfiro, vento do oeste   2   vento violento; borrasca   3   brisa; aragem   4   Zéfiro, person. </def></entryFree><p></p>
+
+<entryFree>ζέω<def> (impf. ἔζεον, fut. ζέσω, aor. ἔζεσα, perf. desus.; pas. aor. ἐζέσθην)   1   (líquido) levantar fervura; ferver   2   (sólido) queimar como água fervente; escaldar   3   (líquido) fermentar   4   (mar) borbulhar; agitar-se   5   arder moralmente   6   fervilhar; formigar de, gen. ou dat.: ζ. σκωλήκων luc. fervilhar de vermes, ζ. φθειρσί luc. fervilhar de pulgas   7   causat. fazer ferver. </def></entryFree><p></p>
+
+<entryFree>ζῆ, ζῇ<def> cf. ζάω. </def></entryFree><p></p>
+
+<entryFree>ζηλεύω<def> tard. = ζηλόω. </def></entryFree><p></p>
+
+<entryFree>ζηλήμων, ων, ον<def> gen. ονος   1   ciumento, gen.   2   invejoso. 〈ζῆλος〉 </def></entryFree><p></p>
+
+<entryFree>ζῆλος, ου (ὁ)<def> 1   ardor; ciúme; zelo por algo ou alguém, gen. ou πρός e ac.   2   emulação; rivalidade em algo, gen., com alguém, πρός e ac.   3   ódio; ciúme   4   objeto de inveja ou de ciúme   5   tard. exuberância de estilo   6   bíbl. ardor do fogo ♦ ὁ Ζῆλος   7   Zelo, person. 〈ζέω〉 </def></entryFree><p></p>
+
+<entryFree>ζηλοτυπέω-ῶ<def> 1   ter ciúme de, ac.: ζ. δούλην ἐπὶ ἀνδρί plut. sentir ciúme de uma escrava por causa do marido, i.e., dos sentimentos do marido por uma escrava   2   ter inveja de, ac.   3   rivalizar com, dat.   4   simular; imitar: κάθαρμα ζηλοτυποῦν ἀρετήν ésqn. escória que simula virtude. 〈ζηλότυπος〉 </def></entryFree><p></p>
+
+<entryFree>ζηλοτυπία, ας (ἡ)<def> 1   rivalidade   2   inveja   3   ciúme nocivo de alguém, πρός e ac., por causa de alguém ou algo, διά e ac. ou ὑπέρ e gen. 〈ζηλότυπος〉 </def></entryFree><p></p>
+
+<entryFree>ζηλότυπος, ος, ον<def> 1   ciumento   2   invejoso. 〈ζῆλος, τύπτω〉 </def></entryFree><p></p>
+
+<entryFree>ζηλόω-ῶ<def> 1   arder por; procurar com ardor; desejar ardentemente algo, ac.   2   procurar imitar alguém, ac.: παῖς τὸ μὲν πρῶτον ζηλοῖ τὸν πατέρα plat. o filho imita em primeiro lugar o pai   3   desejar, aspirar a; aplicar-se a algo, ac.   3   ter como invejável; invejar; louvar; elogiar algo ou alguém, ac., por algo, ac., gen., ἐπί e dat., com part. ou or. conj. (ὅτι): ἠζήλουν τήνδε τὴν πόλιν xen. eu considerava invejável esta cidade, σὲ νῦν τοῦτο ζηλοῦν ἔχω; sóf. agora devo invejar-te por isso?, ζηλῶ σε τῆς εὐβουλίας ar. invejo a tua sabedoria, σὲ ζηλῶ θανόντα ésql. invejo-te por teres morrido   4   sentir inveja de, ac.: ζηλοῖ δέ τε γείτονα γείτων hes. o vizinho inveja o vizinho. 〈ζῆλος〉 </def></entryFree><p></p>
+
+<entryFree>ζήλωμα, ατος (τό)<def> 1   emulação; rivalidade   2   esforço para igualar-se a algo, gen.   3   objeto de emulação; alta posição; glória; felicidade. 〈ζηλόω〉 </def></entryFree><p></p>
+
+<entryFree>ζήλωσις, εως (ἡ)<def> 1   emulação; esforço para imitar   2   ciúme   3   inveja. 〈ζηλόω〉 </def></entryFree><p></p>
+
+<entryFree>ζηλωτέος, α, ον<def> adj. verb. de ζηλόω. </def></entryFree><p></p>
+
+<entryFree>ζηλωτής, οῦ (ὁ)<def> 1   êmulo; imitador   2   que tem gosto por; admirador de algo, gen.   3   crist. prosélito zeloso; fanático   4   bíbl. ciumento. 〈ζηλόω〉 </def></entryFree><p></p>
+
+<entryFree>ζηλωτικός, ή, όν<def> capaz de zelo, de emulação, de entusiasmo por algo, περί e ac. 〈ζηλωτός〉 </def></entryFree><p></p>
+
+<entryFree>ζηλωτός, ή, όν<def> 1   invejado ou invejável (pessoa), por ou para alguém, dat., ὑπό e gen., quanto a algo, gen.   2   digno de inveja; invejado. 〈ζηλόω〉 </def></entryFree><p></p>
+
+<entryFree>ζημία,<def> dór. ζαμία, ας (ἡ)   1   prejuízo; dano; perda: ζημίαν ποιεῖν ou φέρειν ou ἐργάζεσθαί τινι causar prejuízo a alguém, ζημίαν λαβεῖν xen. sofrer um prejuízo, ζημίαν εἶναι νομίζειν ou ἡγεῖσθαι considerar como prejuízo   2   pena; castigo; punição: θάνατον ζημίαν ἐπιτίθεσθαι ou προθεῖναι ou ποιεῖν τινι fixar ou infligir a alguém a pena de morte   3   multa: ζημίαν ἐκτίνειν ou καταβάλλειν ou ἀποτίνειν pagar uma multa   4   causa de prejuízo; flagelo; peste: φανερὰν ζαμίαν ar. prejuízo evidente. </def></entryFree><p></p>
+
+<entryFree>ζημιόω-ῶ<def> (fut. ζημιώσω, aor. ἐζημίωσα)   1   fazer mal a; causar prejuízo a; lesar, ac.: οὐδὲν ζημιοῦν τὸ κοινόν isócr. não causar nenhum mal à comunidade, μηδὲν μηδένα ζημιοῦν plat. não causar nenhum prejuízo a ninguém   2   punir: τοὺς μὲν φύγῃ ἐζημίωσαν tuc. puniram alguns com o exílio   3   impor multa; multar: ζημιοῦν τινα μναῖς τρισί plat. impor a alguém multa de três minas. 〈ζημία〉 </def></entryFree><p></p>
+
+<entryFree>ζημιώδης, ης, ες<def> danoso; nocivo; prejudicial. 〈ζημία〉 </def></entryFree><p></p>
+
+<entryFree>ζημίωμα, ατος (τό)<def> 1   direito de punir   2   castigo; pena; multa. 〈ζημιόω〉 </def></entryFree><p></p>
+
+<entryFree>ζῆν<def> inf. pres. de ζάω. </def></entryFree><p></p>
+
+<entryFree>Ζῆνα, Ζηνί, Ζηνός<def> cf. Ζεύς. </def></entryFree><p></p>
+
+<entryFree>Ζήνων, ωνος (ὁ)<def> Zenão, filósofo da Escola de Eléia e do fundador do Estoicismo. </def></entryFree><p></p>
+
+<entryFree>ζῆτα (τό)<def> indecl. dzeta, letra do alfabeto grego. </def></entryFree><p></p>
+
+<entryFree>ζητεῖ<def> 3ª sing. pres., ζήτει 3ª sing. impf. poét. ou imper. pres., de ζητέω. </def></entryFree><p></p>
+
+<entryFree>ζητέω-ῶ<def> (impf. ἐζήτουν, fut. ζητήσω, aor. ἐζήτεσα, perf. ἐζήτηκα)   1   procurar; buscar; esforçar-se por encontrar: ἐζήτουν τοὺς ἄρχοντας xen. procuravam os chefes   2   procurar obter; esforçar-se por alcançar: ζητεῖν πημάτων ἀπαλλαγάς ésql. buscar alcançar o fim dos tormentos, ζητεῖν τἀμήχανα eur. procurar o impossível   3   buscar para obter, inf.: ζητεῖς ἀναπείθειν ar. tu tentas persuadir   4   desejar; lamentar a falta de: ἵνα μὴ ζητέοιεν σιτία her. a fim de não buscarem comida, ζητεῖν Νέρωνα plut. sentir a falta de Nero ♦ at. e méd.   5   buscar conhecer; informar-se; investigar, ac., περί e gen. ou inter. indir.: τοὺς δράσαντας ἐζητοῦντο tuc. procuravam os autores, ζητεῖν τὸν φόνον plut. investigar o homicídio, ζητεῖν περὶ ἀδικημάτων din. inquirir sobre os crimes ♦ pas. τὸ ζητούμενον, τὰ ζητούμενα   6   objeto de discussão, de investigação, de exame. </def></entryFree><p></p>
+
+<entryFree>ζήτημα, ατος (τό)<def> 1   objeto de pesquisa, de investigação   2   pesquisa; procura; busca   3   exame; indagação científica. 〈ζητέω〉 </def></entryFree><p></p>
+
+<entryFree>ζήτησις, εως (ἡ)<def> 1   procura; busca: κατ᾽ Εὐρώπης ζήτησιν ἐκπλῶσαι her. embarcar em busca da Europa   2   exame; inspeção; revista, gen.: ζήτησιν ἐποιέετο τῶν νεῶν her. fazia a inspeção dos navios   3   pesquisa; investigação; estudo, a respeito de, περί e gen. ou ac.: ζήτησις περὶ τοῦ παντὸς φύσεως plat. pesquisa sobre a natureza do universo   4   interrogatório judicial. 〈ζητέω〉 </def></entryFree><p></p>
+
+<entryFree>ζητητέος, ος, ον<def> adj. verb. de ζητέω. </def></entryFree><p></p>
+
+<entryFree>ζητητής, οῦ (ὁ)<def> 1   aquele que busca; aquele que examina   2   inquisidor, em Atenas, magistrado incumbido da investigação de devedores e das somas devidas ao Estado. 〈ζητέω〉 </def></entryFree><p></p>
+
+<entryFree>ζητητικός, ή, όν<def> 1   disposto a buscar; capaz de buscar; apto para investigar, gen. ou περί e gen.   2   de caráter investigativo ♦ ἡ ζητητική [ἀγωγή]   3   a filosofia cética; ceticismo ♦ τὸ ζητητικόν   4   o que caracteriza a investigação. 〈ζητέω〉 </def></entryFree><p></p>
+
+<entryFree>ζητητός, ή, όν<def> investigado; procurado. 〈ζητέω〉 </def></entryFree><p></p>
+
+<entryFree>ζήω-ζῶ<def> (pres. ζῶ, ζῇς, ζῇ, imper. ζῆ, opt. ζῴην, inf. ζῆν, impf. ἔζων, ἔζης, ἔζη, ἐζῶμεν, ἐζῆτε, ἔζων, fut. ζήσω e ζήσομαι, aor. ἔζησα, perf. ἔζηκα, m.-q.-perf. ἐζήκειν; o át. emprega, no aor., perf. e m.-q.-perf., formas de βιόω)   1   viver; estar vivo; ter vida: ζῆν ὀλίγα ἔτεα her. viver poucos anos, τὸ ζῆν κοινὸν εἶναι φαίνεται καὶ τοῖς φυτοῖς artt. parece que a vida é um atributo comum às plantas também   2   subsistir com; viver de, dat. ou ἐπί e dat., ἀπό ou ἐκ e gen., ou part.: ζῆν ἐργαζόμενος artt. viver de seu trabalho, ζῆν συκοφαντῶν and. viver de delações   3   viver; passar a vida de determinado modo (físico ou moral), ac., dat., adv.: εὖ ζῆν viver bem, ζῆν αἰσχρῶς viver em desonra, ζῆν βίον μοχθερόν sóf. levar uma vida penosa, ζῆν ἀβλαβεῖ βίῳ sóf. viver vida tranqüila   4   (não-animado) viver; ter vida; vigorar: ἄτη θύελλαι ζῶσι ésql. os turbilhões da desgraça estão vivos, ἀεὶ ζῇ ταῦτα sóf. essas [leis] estão em vigor, ὕδωρ ζῶν sept. água corrente   5   bíbl., rar., causat. no aor., fazer viver: ἐν τῇ ὁδῷ σου ζῆσόν με sept. faze-me viver em teu caminho. </def></entryFree><p></p>
+
+<entryFree>ζιζάνιον, ου (τό)<def> tard. joio; cizânia, erva daninha. </def></entryFree><p></p>
+
+<entryFree>ζμάραγδος, ου (ὁ)<def> tard. = σμάραγδος. </def></entryFree><p></p>
+
+<entryFree>ζμύρνα, ης (ἡ)<def> bíbl.= σμύρνα. </def></entryFree><p></p>
+
+<entryFree>ζόη<def> jôn. = ζωή. </def></entryFree><p></p>
+
+<entryFree>ζορκάς, άδος (ἡ)<def> jôn. = δορκάς. </def></entryFree><p></p>
+
+<entryFree>ζοφερός, ά, όν<def> 1   sombrio; escuro   2   lúgubre; sinistro. 〈ζόφος〉 </def></entryFree><p></p>
+
+<entryFree>ζοφόδορπις<def> (só ac. pl. masc. ζοφοδόρπιδας) que se esconde para ter um magro jantar; que come no escuro, escondido. 〈ζόφος, δόρπον〉 </def></entryFree><p></p>
+
+<entryFree>ζόφος, ου (ὁ)<def> 1   obscuridade; trevas; escuridão   2   trevas subterrâneas; inferno   3   região da terra situada na escuridão; ocidente: πρὸς ζόφον ao ocidente   4   obscuridade (do estilo, da alma). </def></entryFree><p></p>
+
+<entryFree>ζοφόω-ῶ<def> 1   obscurecer-se; cobrir-se de trevas ♦ pas.   2   ἐζο­φωμένος part. perf.: tornado sombrio; tornado cego. 〈ζόφος〉 </def></entryFree><p></p>
+
+<entryFree>ζοφώδης, ης, ες<def> 1   escuro; obscuro; turvo   2   opaco. 〈ζόφος〉 </def></entryFree><p></p>
+
+<entryFree>ζύγαστρον, ου (τό)<def> caixinha; cofre de madeira. 〈ζυγόν〉 </def></entryFree><p></p>
+
+<entryFree>ζυγείς<def> part. aor.2 pas. de ζεύγνυμι. </def></entryFree><p></p>
+
+<entryFree>ζύγιος, α, ον<def> 1   apropriado para o jugo; que é posto sob jugo: ζύγιοι ἵπποι sóf. cavalos que, colocados sob jugo, servem numa quadriga como animais de tiro, enquanto os dois outros que os ladeiam (σειραῖοι) são governados pelas rédeas   2   com κῶπαι, remos do banco do meio do navio   3   que conjunge; que preside as uniões, epít. de certas divindades femininas. 〈ζυγόν〉 </def></entryFree><p></p>
+
+<entryFree>ζυγίτης, ου (ὁ)<def>  ζευγίτης. </def></entryFree><p></p>
+
+<entryFree>ζυγόδεσμον, ου (τό)<def> correia que prende o jugo ao timão. 〈ζυγόν, δεσμός〉 </def></entryFree><p></p>
+
+<entryFree>ζυγομαχέω-ῶ<def> 1   lutar com um companheiro   2   combater com os companheiros; lutar contra alguém, πρός e ac., por algo, περί ou ὑπέρ e gen. 〈ζυγόν, μάχομαι〉 </def></entryFree><p></p>
+
+<entryFree>ζυγόν, οῦ (τό)<def> 1   o que serve para juntar dois objetos; jugo; canga: ἐπὶ ζυγὸν αὐχένι θεῖναι βουσί hes. colocar o jugo na nuca dos bois; colocar os bois sob o jugo   2   em Roma, jugo, peça de madeira sob a qual se faziam passar os prisioneiros de guerra   3   jugo; opressão: δουλείας ζ. sóf. jugo da servidão, ἀνάγκης ζ. eur. jugo da necessidade   4   Náut., em ger. no pl. viga transversal que une os dois lados do navio; vau   5   Náut. banco de remeiro que se estende de um lado ao outro do navio, partic. o banco do meio: ὑπὸ ζυγά hom. sob os bancos   6   junção   7   barra da cítara   8   correia da sandália   9   braço da balança; balança: ζυγῷ ou ἐν τῷ ζυγῷ ἱστάναι pôr na balança   10   Astron. Balança, constelação   11   casal; par: κατὰ ζυγά artt. aos pares   12   fila de soldados; linha; fileira: ἐν τῷ πρώτῳ ζυγῷ tuc. na primeira linha, κατὰ ζυγόν pol. linha por linha. </def></entryFree><p></p>
+
+<entryFree>ζυγός, οῦ (ὁ)<def>  ζυγόν. </def></entryFree><p></p>
+
+<entryFree>ζυγόσταθμος, ου (ὁ)<def> balança. 〈ζυγόν, σταθμός〉 </def></entryFree><p></p>
+
+<entryFree>ζυγοστατέω-ῶ<def> 1   pôr na balança; pesar ♦ méd. pas.   2   estar na balança; estar em equilíbrio; equilibrar-se. 〈ζυγόν, ἵστημι〉 </def></entryFree><p></p>
+
+<entryFree>ζυγόφι(ν)<def> gen. sing. ép. de ζυγόν. </def></entryFree><p></p>
+
+<entryFree>ζυγοφόρος, ος, ον<def> que leva o jugo. 〈ζυγόν, φέρω〉 </def></entryFree><p></p>
+
+<entryFree>ζυγόω-ῶ<def> 1   colocar sob jugo; ligar   2   subjugar   3   pesar na balança   4   fixar a barra transversal em uma cítara. 〈ζυγόν〉 </def></entryFree><p></p>
+
+<entryFree>ζυγωτός, ή, όν<def> atrelado. 〈ζυγόν〉 </def></entryFree><p></p>
+
+<entryFree>ζύμη, ης (ἡ)<def> fermento; levedura. 〈ζέω〉 </def></entryFree><p></p>
+
+<entryFree>ζυμίτης ἄρτος (ὁ)<def> pão feito de massa fermentada. 〈ζύμη〉 </def></entryFree><p></p>
+
+<entryFree>ζυμόω-ῶ<def> 1   fazer fermentar   2   pôr em efervescência ♦ méd. pas.   3   fermentar; levedar. 〈ζύμη〉 </def></entryFree><p></p>
+
+<entryFree>ζύμωσις, εως (ἡ)<def> fermentação. 〈ζυμόω〉 </def></entryFree><p></p>
+
+<entryFree>ζῶ<def> contr. de ζάω. </def></entryFree><p></p>
+
+<entryFree>ζωαγρία, ας (ἡ)<def>  ζωγρεῖον. </def></entryFree><p></p>
+
+<entryFree>ζωάγριος, ος, ον<def> 1   pago por ter salvo a vida ♦ τὸ ζωάγριον, τὰ ζωάγρια   2   resgate da vida; resgate: ζ. τίνειν pagar resgate, ζ. ὀφέλλειν ser devedor de resgate, ζ. ἀποθύειν oferecer em sacrifício para obter a vida ou por ter conseguido salvá-la. 〈ζωός, ἀγρεύω〉 </def></entryFree><p></p>
+
+<entryFree>ζωγραφεῖον, ου (τό)<def> ateliê de pintor. 〈ζωγράφος〉 </def></entryFree><p></p>
+
+<entryFree>ζωγραφέω-ῶ<def> 1   pintar   2   ornar com pinturas. 〈ζωγράφος〉 </def></entryFree><p></p>
+
+<entryFree>ζωγραφία, ας (ἡ)<def> 1   pintura; arte de pintar   2   pintura; quadro. 〈ζωγράφος〉 </def></entryFree><p></p>
+
+<entryFree>ζωγράφος, ου (ὁ)<def> pintor. 〈ζωός, γράφω〉 </def></entryFree><p></p>
+
+<entryFree>ζωγρεῖον, ου (τό)<def> 1   viveiro   2   jaula   3   zoológico. 〈ζωγρεύς〉 </def></entryFree><p></p>
+
+<entryFree>ζωγρεύς, έως (ὁ)<def> pescador. 〈ζωγρέω〉 </def></entryFree><p></p>
+
+<entryFree>ζωγρέω-ῶ<def> 1   prender vivo; aprisionar; capturar   2   prender; pôr na cadeia   3   reanimar. 〈ζωός, ἀγρέω〉 </def></entryFree><p></p>
+
+<entryFree>ζωγρία, ας (ἡ)<def> captura de um prisioneiro vivo: ζωγρίῃ λαβεῖν ou αἱρέειν τινά her. prender alguém vivo. </def></entryFree><p></p>
+
+<entryFree>ζώγριον, ου (τό)<def>  ζωγρεῖον. </def></entryFree><p></p>
+
+<entryFree>ζῳδιακός, ή, όν<def> que diz respeito a figuras de animais: ζῳδ. κύκλος plut. o zodíaco. 〈ζῴδιον〉 </def></entryFree><p></p>
+
+<entryFree>ζῴδιον, ου (τό)<def> 1   pequena representação de animal ou de humano, desenhada ou esculpida; imagem; estatueta   2   pl. signos do zodíaco. </def></entryFree><p></p>
+
+<entryFree>ζωέμεν<def> e ζωέμεναι inf. pres. ép., ζώεσκον impf. iter., de ζώω. </def></entryFree><p></p>
+
+<entryFree>ζωή, ῆς,<def> jôn. ζόη (ἡ)   1   vida   2   curso da vida; tempo da vida; existência   3   modo de vida   4   meios de vida; recursos; sustento: τὴν ζόην ποιεῖσθαι ἔκ τινος her. obter de algo o sustento. 〈ζήω〉 </def></entryFree><p></p>
+
+<entryFree>ζῴην<def> opt. pres. de ζήω. </def></entryFree><p></p>
+
+<entryFree>ζώϊον, ου (τό)<def>  ζῷον. </def></entryFree><p></p>
+
+<entryFree>ζῶμα, ατος (τό)<def> 1   cinto; cinturão   2   calção de atleta   3   cinto de mulher. 〈ζώννυμι〉 </def></entryFree><p></p>
+
+<entryFree>ζωμοποιός, οῦ (ὁ)<def> aquele que prepara molhos ou sucos. 〈ζωμός, ποιέω〉 </def></entryFree><p></p>
+
+<entryFree>ζωμός, οῦ (ὁ)<def> 1   suco; molho   2   caldo; sopa   3   homem gordo   4   derramamento de sangue; matança; carnificina. 〈ζέω〉 </def></entryFree><p></p>
+
+<entryFree>ζώνη, ης (ἡ)<def> 1   cinto de mulher: ζώνην λύειν desatar o cinto da esposa, no dia do casamento, λῦσε δὲ παρθενίην ζώνην hom. desatou o cinto da virgem, ζώναν καταθέσθαι ou λύσασθαι ou ἀπολύσασθαι desatar o cinto para entregar-se ao esposo ou para dar à luz, ὑπὸ ζώνην ou ὑπὸ ζώνης ou ἐντὸς ζώνης τινὰ φέρειν carregar um filho no seio (= sob o cinto)   2   cinta de homem: ζώνην λύειν soltar a cinta para pôr-se à vontade, para descansar   3   cinto onde se coloca dinheiro; bolsa: κῶμοι εἰς ζώνην δεδομέναι xen. aldeias oferecidas [a Parisátis, mãe de Ciro] para sua bolsa, i.e., para seus pequenos gastos   4   cinturão de soldado, cinto que mantém o corpo ajustado e mais ágil, insígnia da carreira militar   5   Geogr. zona terrestre ou celeste: ζ. εὔκρατος zona temperada   6   Arquit. friso; cornija   7   Medic. cobreiro; zona; herpes-zóster, inflamação cutânea. 〈ζώννυμι〉 </def></entryFree><p></p>
+
+<entryFree>ζώνιον, ου (τό)<def> pequeno cinto de mulher. 〈ζώνη〉 </def></entryFree><p></p>
+
+<entryFree>ζώννυμι<def> (fut ζώσω, aor. ἔζωσα, perf. ἔζωκα; pas. aor. ἐζώσθην, perf. ἔζωμαι e ἔζωσμαι, m.-q.-perf. ἐζώσμην)   1   cingir; circundar com um cinto um homem ♦ méd. pas.   2   cingir-se com algo, ac. ou dat.   3   armar-se. </def></entryFree><p></p>
+
+<entryFree>ζωννύω<def> (só pres. e impf.) = ζώννυμι. </def></entryFree><p></p>
+
+<entryFree>ζωννύσκετο<def> 3ª sing. impf. iter. pas. de ζώννυμι. </def></entryFree><p></p>
+
+<entryFree>ζωογονέω-ῶ<def> tard.   1   produzir a vida; engendrar seres vivos   2   fazer nascer vivo; fazer viver   3   conservar vivo   4   fazer reviver ♦ méd.   5   pulular de vermes. 〈ζωογόνος〉 </def></entryFree><p></p>
+
+<entryFree>ζωογόνος, ος, ον<def> tard. que dá a vida; fecundo. 〈ζωός, γίγνομαι〉 </def></entryFree><p></p>
+
+<entryFree>ζῳόμορφος, ος, ον<def> zoomorfo. 〈ζῷον, μορφή〉 </def></entryFree><p></p>
+
+<entryFree>ζῷον,<def> contr. de ζώϊον, ου (τό)   1   ser vivo; animal   2   representação de ser vivo; figura; imagem; pintura   3   figura do zodíaco. </def></entryFree><p></p>
+
+<entryFree>ζωοποιητικός, ή, όν<def> 1   capaz de dar vida a, gen.   2   capaz de dar vida; vivificador. 〈ζωός, ποιέω〉 </def></entryFree><p></p>
+
+<entryFree>ζωός, ή, όν<def> vivente; vivo. 〈ζήω〉 </def></entryFree><p></p>
+
+<entryFree>ζῳότης, ητος (ἡ)<def> 1   natureza animal; animalidade   2   vitalidade. 〈ζῷον〉 </def></entryFree><p></p>
+
+<entryFree>ζωόφυτος, ος, ον<def>  ζώφυτος. </def></entryFree><p></p>
+
+<entryFree>ζωπυρέω-ῶ<def> 1   reavivar o fogo   2   acender; avivar (ardor, querela)   3   atiçar; provocar alguém   4   restituir à vida; reanimar alguém   5   intr. inflamar; pegar fogo. 〈ζώπυρον〉 </def></entryFree><p></p>
+
+<entryFree>ζώπυρον, ου (τό)<def> 1   brasa conservada para reavivar o fogo; rescaldo; chispa; centelha; tição   2   pl. últimos lampejos   3   sopro. 〈ζωός, πῦρ〉 </def></entryFree><p></p>
+
+<entryFree>ζωρός, ός, όν<def> 1   puro; sem mistura (vinho, alimentos): ζωρότερον πιέειν her. beber vinho mais forte, ou mais puro, i.e., com menos água, ζωρότερα ἐσθίειν hipócr. comer alimentos mais puros   2   puro; sem mistura: ζωροτάτη μανίη a.p. pura loucura   3   bem misturado; temperado (op. a ἄκρητος). 〈ζέω〉 </def></entryFree><p></p>
+
+<entryFree>ζώς,<def> só nom. e ac. ζών (masc.) = ζωός. </def></entryFree><p></p>
+
+<entryFree>ζῶσαι<def> inf. aor. at. e 2ª sing. imper. aor. méd., ζωσθῆναι inf. aor. pas., ζώσατο 3ª sing. aor. méd. poét., ζώσομαι fut. méd., de ζώννυμι. </def></entryFree><p></p>
+
+<entryFree>ζωστήρ, ῆρος (ὁ)<def> 1   cinturão de couro   2   cinto de homem ou de mulher   3   contorno; borda   4   zostera, alga   5   herpes-zóster ♦ adj.   6   cingido para o combate. 〈ζώννυμι〉 </def></entryFree><p></p>
+
+<entryFree>ζωστός, ή, όν<def> ajustado por um cinto ao corpo. 〈ζώννυμι〉 </def></entryFree><p></p>
+
+<entryFree>ζῶστρον, ου (τό)<def> cinto. 〈ζώννυμι〉 </def></entryFree><p></p>
+
+<entryFree>ζωτικός, ή, όν<def> 1   que dá a vida; vital; vivificante   2   cheio de vida; vivo; vivaz   3   trazido pela vida; característico da vida. 〈ζώω〉 </def></entryFree><p></p>
+
+<entryFree>ζωτικῶς<def> adv.   1   de modo vital   2   com disposição para viver: ζ. ἔχειν plut. estar cheio de amor à vida; ter disposição para viver, ζωτικώτατα ἐξεργάσασθαι plut. executar de maneira muito viva. </def></entryFree><p></p>
+
+<entryFree>ζώφυτος, ος, ον<def> 1   que dá a vida; vivificante   2   que produz seres vivos; fecundo; fértil. 〈ζωός, φύω〉 </def></entryFree><p></p>
+
+<entryFree>ζώω<def> (só pres., impf. ἔζωον e impf. iter. ζώεσκον) jôn. e ép. = ζήω. </def></entryFree><p></p>
+
+<entryFree>ζῳώδης, ης, ες<def> 1   de natureza animal; da vida animal   2   semelhante ao animal ou ao ser vivo. 〈ζῷον〉 </def></entryFree><p></p>
+        </body>
+    </text>
+</TEI>

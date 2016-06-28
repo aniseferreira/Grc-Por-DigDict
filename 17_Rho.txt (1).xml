@@ -1,0 +1,770 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="pt">
+    <teiHeader type="text" xml:lang="pt">
+        
+        
+        <fileDesc>
+            <titleStmt>
+                <title>Dicionário Grego-Português-  Letra Ῥ rho, versão 1.0 </title>
+                <author>Autores da versão impressa: <lb></lb>
+                    
+                    <name>MALHADAS, D. ; DEZOTTI, M. C.C. ; NEVES, M. H. de M. ; DUARTE, A. S. ; FERREIRA, Anise D'O. ; PRADO, Anna. Lia. A. A. ; FERAL, Claudia R. ; MORAIS, C. B. ; ROSA, Edvanda. B. ; SANTOS, Fernando. B. ; STARZYNSKI, G. M. R. ; ONELLEY, G. B. ; STARLING, M. A. P. A. ; PESSANHA, N. M. ; DAMASCENO, S. ; BARBOSA, T. V. R. </name>
+                    Responsável pela edição digital:<name> Anise D'Orange Ferreira.</name></author>
+                <author><name> Edição digital: Atribuição-NãoComercial-CompartilhaIgual 4.0 Internacional</name></author>
+                <!--CC BY-NC-SA. Edição impressa, vols 1 a 5: Editora  Ateliê:
+                        http://www.atelie.com.br/livro/especial-dicionario-grego-portugues--> 
+                
+                
+                
+                
+                <editor>Organizadores/coordenadores:  Malhadas, Daisi; Neves, M.H.M e Dezotti, Maria Celeste C. </editor>
+                <principal>
+                    <name>Responsável pela edição eletrônica: Anise D'Orange Ferreira, FCLAr, UNESP</name></principal>
+                <sponsor> Financiado por _____ </sponsor>
+                <respStmt>
+                    <resp> editado por </resp>  
+                    <name> Nome do editor </name>
+                </respStmt>   
+                <respStmt>
+                    <resp> Colaboradores</resp>  
+                    <name> Fulano </name>
+                    <!-- pode haver tantos resp quantos necessários no statement de responsabilidades, dependendo do tipo de participação)-->
+                    
+                </respStmt>
+            </titleStmt>
+            
+            <publicationStmt>
+                <publisher>Ateliê</publisher>
+                <pubPlace>São Paulo</pubPlace>
+                <distributor> Pessoa ou agência responsável pela distribuição</distributor>
+                <authority>Responsável, agência ou pessoa, para disponibilizar, sem ser o distribuidor ou editora</authority>
+                <date>  2005-2010</date>
+                <idno type="ISBN" >vol 1: 8574803278; vol 2: 9788574803845; vol 3: 9788574803845; vol 4: 9788574804323; vol 5 : 9788574804 </idno>
+                
+                <availability status="restricted">
+                    <!--<licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/"> Atribuição-NãoComercial-CompartilhaIgual 
+CC BY-NC-SA
+                    </licence>-->
+                    <p>Edição digital: Licença Creative Commons http://creativecommons.org/licenses/by-nc-sa/4.0/. Edição impressa: Ateliê Editorial: http://www.atelie.com.br</p>
+                    
+                </availability>
+                
+            </publicationStmt>
+            <sourceDesc>
+                <!-- origem da publicação - se não for 'born digital', colocar a fonte - Acho que aqui vou colocar as referências a todos os volumes usando listBbl--> 
+                <bibl default="false">
+                    <lb></lb>
+                    Dicionário Grego-Português vol.1, vol.2, vol.3, vol.4 e vol.5
+                    DEZOTTI, M. C.C. ; MALHADAS, D. ; Neves, M. H. de M. ; Prado, A. L. A. A. ; SANTOS, F. B. ; ROSA, E. B. ; DUARTE, A. S. ; FERREIRA, A. A. G. D. ; Barbosa, T. V. R. ; Pessanha, N. M. ; Damasceno, S. ; Morais, C. B. ; Onelley, G. B. ; et al. . (da equipe de autores) In Neves, Dezotti e Malhadas (coords) Dicionario grego-português. Vol. 5. 1. ed. São Paulo: Atelie, 2010. v. 1. 296p .
+                    
+                    <lb></lb>
+                    MALHADAS, D. ; DEZOTTI, M. C.C. ; Neves, M. H. de M. ; DUARTE, A. S. ; FERREIRA, A. A. G. D. ; Prado, A. L. A. A. ; FERAL, C. ; Morais, C. B. ; ROSA, E. B. ; SANTOS, F. B. ; Starzynski, G. M. R. ; Onelley, G. B. ; Starling, M. A. P. A. ; Pessanha, N. M. ; Damasceno, S. ; Barbosa, T. V. R. . (da equipe de autores) In Daisi Malhadas, Maria Celeste C. Dezotti (coords) Dicionário grego-português vol.4. 1. ed. São Paulo: Ateliê Editorial, 2009. v. 5. 191p .
+                    
+                    <lb></lb>
+                    MALHADAS, D. ; DEZOTTI, M. C.C. ; Neves, M. H. de M. ; DUARTE, A. S. ; FERREIRA, A. A. G. D. ; Prado, A. L. A. A. ; FERAL, C. ; Morais, C. B. ; ROSA, E. B. ; SANTOS, F. B. ; Starzynski, G. M. R. ; Onelley, G. B. ; Starling, M. A. P. A. ; Pessanha, N. M. ; Damasceno, S. ; Melo, S. T. M. ; Barbosa, T. V. R. . (da Equipe de autores) In Daisi Malhadas, Maria Celeste C. Dezotti (coords) Dicionário grego-português vol. 3. 1. ed. São Paulo, SP: Atelier Editorial, 2008. v. 1. 260p .
+                    
+                    <lb></lb>
+                    MALHADAS, D. ; DEZOTTI, M. C.C. ; FERREIRA, A. A. G. D. ; AUTORES-TOTAL 17 . (da Equipe de autores) In Daisi Malhadas, Maria Celeste C. Dezotti e Neves, M.H. (coords) Dicionário grego-português vol. 2.. 1a. ed. São Paulo: Ateliê, 2007. v. vol.2. 272p .
+                    
+                    <!-- bibl (bibliographic citation) contains a loosely-structured bibliographic citation of which the sub-components may or may not be explicitly tagged.
+biblFull (fully-structured bibliographic citation) contains a fully-structured bibliographic citation, in which all components of the TEI  le description are present. 
+biblStruct (structured bibliographic citation) contains a structured bibliographic citation, in which only bibliographic sub-elements appear and in a speci ed order. 
+listBibl (citation list) contains a list of bibliographic citations of any kind.
+msDesc (manuscript description) contains a description of a single identi able manuscript or other text-bearing object.  --> 
+                    <title>Dicionário Grego-Português</title>
+                    <author>MALHADAS, D. ; DEZOTTI, M. C.C. ; Neves, M. H. de M. ; DUARTE, A. S. ; FERREIRA, A. A. G. D. ; Prado, A. L. A. A. ; FERAL, C. ; Morais, C. B. ; ROSA, E. B. ; SANTOS, F. B. ; Starzynski, G. M. R. ; Onelley, G. B. ; Starling, M. A. P. A. ; Pessanha, N. M. ; Damasceno, S. ; Barbosa, T. V. R. . </author>
+                    <editor role="editor">Ateliê Editorial</editor>
+                    <pubPlace>São Paulo</pubPlace>
+                    <date>volumes 1 a 5: 2006-2010</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        
+        <profileDesc>
+            <langUsage>
+                <language ident="en">English
+                </language><language ident="greek">Greek
+                </language><language ident="la">Latin
+                </language><language ident="fr">French
+                </language><language ident="pt">Portuguese</language>
+            </langUsage>
+            
+        </profileDesc>
+        <encodingDesc> 
+            <tagsDecl>
+                <rendition xml:id="FontRoman" scheme="css">font-family: serif
+                </rendition>
+                
+            </tagsDecl>
+            
+        </encodingDesc>
+        
+        <revisionDesc> 
+            <!-- ppode-se inserir tantos changes quantos necessários-->
+            <change when= "2015-10-04" who="Anise"> Conversão para txt, início da etiquetagem do header</change>
+            <change when="2016-01-15" who="Anise D'Orange Ferreira">Complementação do header</change>
+        </revisionDesc>
+        
+        
+        
+    </teiHeader>
+    <text>
+        
+        <body> 
+<entryFree>Ρ, ῥ (ῥῶ) (τό)<def> 1   rô, 17ª letra do alfabeto grego ♦ num.   2   ρʹ = 100 ou 100°   3   ͵ρ = 100.000 ou 100.000°. </def></entryFree><p></p>
+
+<entryFree>ῥά<def> adv. encl., poét. = ἄρα.  </def></entryFree><p></p>
+
+<entryFree>ῥαβδίζω<def> 1   bater com vara (cereais, trigo, lã), ac.; varejar uma árvore   2   vergastar alguém. 〈ῥάβδος〉 </def></entryFree><p></p>
+
+<entryFree>ῥαβδίον, ου (τό)<def> 1   pequena vara; pequeno galho; pequena haste   2   pequeno bastão, partic. o caduceu de Hermes   3   pequena haste de ferro (para espalhar verniz sobre quadros)   4   pl. barbas (na boca de certos peixes). 〈ῥάβδος〉 </def></entryFree><p></p>
+
+<entryFree>ῥαβδομαχία, ας (ἡ)<def> combate travado por meio de estilete, bastão ou vara. 〈ῥάβδος, μάχομαι〉 </def></entryFree><p></p>
+
+<entryFree>ῥαβδονομέω-ῶ<def> ser juiz de combate; exercer a função de árbitro (empunhando uma vara). 〈ῥάβδος, νόμος〉 </def></entryFree><p></p>
+
+<entryFree>ῥαβδονόμος, ου (ὁ)<def> lictor, em Roma. 〈ῥάβδος, νέμω〉 </def></entryFree><p></p>
+
+<entryFree>ῥάβδος, ου (ὁ)<def> 1   vara; ramo; sarmento   2   vara (de bater)   3   caduceu de Hermes   4   vara mágica (de Circe)   5   vara de pescar   6   bastão ou vara de pastor   7   varinha untada de visco   8   bastão de comando; cetro   9   batuta dos rapsodos   10   haste de lança   11   linha; listra; veio (na pedra); estria (na pele)   12   veio de mineral   13   rebento de vegetal   14   ponto no cozimento.  </def></entryFree><p></p>
+
+<entryFree>ῥαβδουχέω-ῶ<def> 1   levar o bastão ou feixes de varas como insígnia ♦ pas.   2   ser precedido de lictores, em Roma. 〈ῥαβδοῦχος〉 </def></entryFree><p></p>
+
+<entryFree>ῥαβδουχία, ας (ἡ)<def> 1   função de levar o feixe de varas, i.e., função de lictor, em Roma   2   tropa ou escolta de lictores levando bastões. 〈ῥαβδοῦχος〉 </def></entryFree><p></p>
+
+<entryFree>ῥαβδοῦχος, ου (ὁ, ἡ)<def> 1   árbitro de concursos, em Olím­pia   2   porta-bastão; meirinho; porteiro de certos magistrados   3   lictor, em Roma   4   fem. pl., mulheres acompanhantes da mãe de Agátocles, em Siracusa. 〈ῥάβδος, ἔχω〉 </def></entryFree><p></p>
+
+<entryFree>ῥαβδωτός, ή, όν<def> 1   raiado; canelado; estriado   2   feito de varas. 〈ῥάβδος〉 </def></entryFree><p></p>
+
+<entryFree>ῥᾶγα<def> ac. sing. de ῥάξ.  </def></entryFree><p></p>
+
+<entryFree>ῥαγδαῖος, α, ον<def> 1   impetuoso; furioso; violento (fenômeno atmosférico)   2   raivoso; encolerizado (pessoa) ♦ τό ῥαγδαῖον   3   violência; furor. 〈ῥάγδην〉 </def></entryFree><p></p>
+
+<entryFree>ῥάγδην<def> adv. bruscamente; violentamente; impetuosamente. 〈ῥαγή〉 </def></entryFree><p></p>
+
+<entryFree>ῥαγείς, εῖα, έν<def> part. aor.2 pas. de ῥήγνυμι. </def></entryFree><p></p>
+
+<entryFree>ῥαγή, ῆς (ἡ)<def> fenda; rachadura. 〈ῥήγνυμι〉 </def></entryFree><p></p>
+
+<entryFree>ῥαδαλός, ή, όν<def> móvel; fácil de mover. 
+Ῥαδάμανθυς, υος (ὁ) Radamanto, herói cretense, um dos juízes do Hades. </def></entryFree><p></p>
+
+<entryFree>ῥαδινάκη, ης (ἡ)<def> petróleo. [persa]  </def></entryFree><p></p>
+
+<entryFree>ῥαδινός, ή, όν<def> 1   leve; flexível (chicote, planta)   2   tenro; delicado (membros)   3   ágil; rápido; ligeiro; veloz (partes do corpo): ῥαδιναῖς χερσί teóg. com mãos ágeis, ποσσὶν ὑπὸ ῥαδινοῖσιν hes. sob pés ligeiros, ἀπ’ ὄσσων ῥαδινῶν ésql. de olhos ágeis   4   alto, delgado (colunas). </def></entryFree><p></p>
+
+<entryFree>ῥᾴδιος, α<def> e ος, ον (comp. ῥᾴων, ép. ῥηΐτερος; superl. ῥᾷστος, ép. ῥηΐτατος)   1   fácil; cômodo; livre; desembaraçado; frouxo: ῥᾴδιον πολεμίζειν hom. fácil de combater, ῥᾴδιον δαμήναι hom. fácil de subjugar, ῥᾴδιόν ἐστι é fácil, inf.; comp. ῥᾴων γενέσθαι ou εἶναι sentir-se ou estar melhor   2   de humor fácil; acessível; complacente; obsequioso   3   leviano; sem escrúpulo   4   supérfluo; frívolo.  </def></entryFree><p></p>
+
+<entryFree>ῥᾳδιουργέω-ῶ<def> 1   executar com facilidade, com ligeireza algo, ac.   2   agir negligentemente, levianamente   3   ser descuidado, indolente, negligente   4   comportar-se mal; não ter escrúpulos; agir de modo desleal. 〈ῥᾳδιουργός〉 </def></entryFree><p></p>
+
+<entryFree>ῥᾳδιούργημα, ατος (τό)<def> 1   ação irrefletida; ação leviana; falha; erro   2   falsificação; invenção. 〈ῥᾳδιουργέω〉 </def></entryFree><p></p>
+
+<entryFree>ῥᾳδιουργία, ας (ἡ)<def> 1   facilidade de fazer algo   2   indolência; preguiça   3   negligência; falta de cuidado   4   falta de escrúpulos   5   fraude; engano. 〈ῥᾳδιουργός〉 </def></entryFree><p></p>
+
+<entryFree>ῥαδιουργός, ός, όν<def> 1   que age com ligeireza; que faz as coisas sem cuidado   2   inescrupuloso; sem consciência; perverso; mau (pessoa)   3   impostor   4   falsário; contraventor   5   impuro; mal feito (sacrifício). 〈ῥᾴδιος, ἔργον〉 </def></entryFree><p></p>
+
+<entryFree>ῥᾳδίως<def> adv. (comp. ῥᾷον; superl. ῥᾷστα)   1   facilmente; sem dificuldade   2   sem cuidado; levianamente; sem reflexão.  </def></entryFree><p></p>
+
+<entryFree>ῥαθάμιγξ, ιγγος (ἡ)<def> 1   gota d’água   2   grão de poeira; poeira. 〈ῥαίνω〉 </def></entryFree><p></p>
+
+<entryFree>ῥᾳθυμέω-ῶ<def> e ῥαθυμέω-ῶ   1   ter relaxamento de ânimo; entregar-se à preguiça; ser indolente   2   ser descuidado; ser negligente em algo, ἐπί e dat. ou περί e gen. ou ac. 〈ῥᾴθυμος〉 </def></entryFree><p></p>
+
+<entryFree>ῥᾳθυμία, ας (ἡ)<def> 1   relaxamento; repouso; recreação; divertimento   2   enfraquecimento de ânimo, de vontade, de atividade; indolência   3   fraqueza de caráter, de disposição   4   ausência de cuidados; desleixo; incúria. 〈ῥᾴθυμος〉 </def></entryFree><p></p>
+
+<entryFree>ῥᾴθυμος, ος, ον<def> 1   que toma as coisas com indiferença; indiferente; inerte   2   de ânimo fraco; indolente   3   descuidado; negligente   4   sem dificuldade; fácil; cômodo. 〈ῥᾴθυμος〉 </def></entryFree><p></p>
+
+<entryFree>ῥαθύμως<def> adv.   1   com ânimo relaxado; com calma; tranquilamente; pacientemente   2   com indolência; tibiamente   3   negligentemente.  </def></entryFree><p></p>
+
+<entryFree>ῥαΐζω<def> 1   (doença) tornar-se menos grave; perder a força; atenuar-se   2   (doente) recuperar as forças; melhorar; estar melhor   3   repousar   4   aliviar; tornar mais leve (um mal). 〈ῥᾴων〉 </def></entryFree><p></p>
+
+<entryFree>ῥαίῃσι<def> 3ª sing. subj. pres. at. de ῥαίω. </def></entryFree><p></p>
+
+<entryFree>ῥαίνω<def> (impf. ἔρραιον, fut. ῥανῶ, aor. ἔρρανα, perf. desus., m.-q.-perf. ἔρραμμαι; pas. fut. ῥανθήσομαι, aor. ἐρράνθην)   1   aspergir; regar; inundar; encharcar algo ou alguém, ac., de algo, dat.   2   aspergir; salpicar; borrifar (libação)   3   cobrir algo ou alguém, ac., com ou de algo (canto, elogio), dat.   4   espalhar ♦ pas.   5   estar inundado, banhado; cobrir-se de (coisas secas).  </def></entryFree><p></p>
+
+<entryFree>ῥαισέμεναι<def> inf. fut. at. ép. de ῥαίω. </def></entryFree><p></p>
+
+<entryFree>ῥαιστήρ, ῆρος (ὁ, ἡ)<def> 1   martelo   2   flagelo devastador. 〈ῥαίω〉 </def></entryFree><p></p>
+
+<entryFree>ῥάϊστος, η, ον<def> super. poét. de ῥᾴδιος. </def></entryFree><p></p>
+
+<entryFree>ῥαίω<def> (impf. ἔρραιον, fut. ῥαίσω, aor. ἔραισσα, perf. desus.; aor. pas. ἐρραίσθην)   1   reduzir a pedaços; quebrar; destroçar   2   fazer naufragar (navio): Ποσειδάων εὐεργέα νῆ’ ἐπὶ πόντῳ ῥαίσε hom. Posidão destroçara no mar a bem-construída nau   3   abater em naufrágio; destruir alguém: εἰ δ’ αὖ τις ῥαίῃσι θεῶν μ’ ἐνὶ οἴνοπι πόντῳ hom. se um deus me fizer naufragar no mar vinoso   4   alquebrar   5   destruir; aniquilar   6   maltratar; ultrajar ♦ pas.   7   afundar com a nau; naufragar   8   despedaçar-se; quebrar: ἀμφὶ δὲ καυλὸν φάσγανον ἐρραίσθη hom. a espada, porém, se quebrou na empunhadeira   9   ser alquebrado pelo sofrimento   10   ser maltratado, ofendido.  </def></entryFree><p></p>
+
+<entryFree>ῥακά<def> bíbl. tolo; burro, termo ofensivo. [hebr.] </def></entryFree><p></p>
+
+<entryFree>ῥάκιον, ου (τό)<def> trapo; farrapo; andrajos; vestes sujas, rasgadas. 〈ῥάκος〉 </def></entryFree><p></p>
+
+<entryFree>ῥάκος, εος-ους (τό)<def> 1   trapos; andrajos; pedaços de tecido; remendos; vestes rasgadas; frangalhos: δὸς δὲ ῥάκος ἀμφιβαλείσθαι hom. dá-me uns andrajos para cobrir-(me)   2   pedaços: δαιφονὸς αἰετός, λάβρως διαρταμήσει σώματος μέγα ῥάκος ésql. a fulva águia irá ferozmente dilacerar teu corpo em muitos farrapos   3   restos; fragmentos; ruínas (de casa, da vida)   4   rugas; franzidos: τοῦ προσώπου τὰ ῥάκη ar. as rugas do rosto   5   venda; gaze.  </def></entryFree><p></p>
+
+<entryFree>ῥακόω-ῶ<def> 1   fazer em frangalhos   2   fazer murchar; enfraquecer; debilitar ♦ pas.   3   cair aos pedaços   4   enrugar-se; franzir-se   5   dispersar-se por todos os lados. 〈ῥάκος〉 </def></entryFree><p></p>
+
+<entryFree>ῥάμφος, εος (τό)<def> bico adunco das aves de rapina; bico. </def></entryFree><p></p>
+
+<entryFree>ῥανίς, ίδος (ἡ)<def> 1   gota d’água; gota de chuva   2   gota (de sangue)   3   gota de esperma   4   pequena mancha; nódoa; pequeno ponto. 〈ῥαίνω〉 </def></entryFree><p></p>
+
+<entryFree>ῥαντήριος, α, ον<def> banhado; molhado. 〈ῥαντήρ〉 </def></entryFree><p></p>
+
+<entryFree>ῥαντίζω<def> at. e méd.   1   tard. aspergir   2   bíbl. purificar. 〈ῥαντός〉 </def></entryFree><p></p>
+
+<entryFree>ῥαντισμός, οῦ (ὁ)<def> aspersão. 〈ῥαντίζω〉 </def></entryFree><p></p>
+
+<entryFree>ῥαντός, ή, όν<def> bíbl. sujo; manchado. 〈ῥαίνω〉 </def></entryFree><p></p>
+
+<entryFree>ῥάξ, ῥαγός (ἡ)<def> 1   grão de uva; cacho de uva; baga   2   bago de outras frutas   3   pequena aranha venenosa   4   pl. pontas dos dedos. </def></entryFree><p></p>
+
+<entryFree>ῥᾷον<def> comp. n. de ῥᾴδιος e de ῥᾳδίως. </def></entryFree><p></p>
+
+<entryFree>ῥαπίζω<def> (impf. ἐρράπιζον, fut. ῥαπίσω, aor. ἐρράπισα, perf. desus.; aor. pas. ἐρραπίσθην, perf. pas. ῥεράπισμαι)   1   bater com vara, bastão, chibata, bengala em, ac.   2   bater no rosto; esbofetear ♦ pas.   3   ser ferido; ser espancado.  </def></entryFree><p></p>
+
+<entryFree>ῥάπισμα, ατος (τό)<def> tard.   1   golpe de vara   2   bofetada. 〈ῥαπίζω〉 </def></entryFree><p></p>
+
+<entryFree>ῥαπτός, ή, όν<def> 1   cosido; costurado   2   remendado (túnica)   3   feito de peles costuradas: πλοῖα ῥαπτά estr. embarcações feitas de peles cosidas juntas   4   pontilhado   5   pl. ligados; encadeados; contínuos (versos), ref. à poesia épica ♦ τὸ ῥαπτόν   6   tapete bordado. 〈ῥάπτω〉 </def></entryFree><p></p>
+
+<entryFree>ῥάπτω<def> (fut. ῥάψω, aor. ἔρραψα, perf. desus.; aor.2 pas. ἐρράσθην, perf. pas. ἔρραμμαι)   1   ligar costurando; coser junto; coser (peles)   2   tramar; urdir; maquinar algo, ac., contra alguém, dat. ou εἰς, ἐπί e ac.: οὐκ ὄφελον Τρώεσσι κοτεσσαμένη κακὰ ῥάψαι hom. não é justo que eu [Hera], irritada, trame desgraças para os troianos? </def></entryFree><p></p>
+
+<entryFree>ῥάσσατε<def> 2ª pl. imper. aor. ép. de ῥαίνω. </def></entryFree><p></p>
+
+<entryFree>ῥάσσω,<def> át. ῥάττω (fut. ῥάξω, aor. ἔρραξα, perf. pas. ἔρραγμαι)   1   bater o chão com os pés, na dança   2   bater (tamborim)   3   golpear; dar pancadas em; derrubar alguém, ac.  </def></entryFree><p></p>
+
+<entryFree>ῥᾷστα<def> cf. ῥᾳδίως. </def></entryFree><p></p>
+
+<entryFree>ῥᾴστος, η, ον<def> superl. de ῥᾴδιος. </def></entryFree><p></p>
+
+<entryFree>ῥᾳστωνεύω<def> at. e méd. entregar-se à falta de ânimo; levar uma vida indolente, descuidada; viver na inércia. 〈ῥᾳστώνη〉 </def></entryFree><p></p>
+
+<entryFree>ῥᾳστώνη,<def> jôn. ῥῃστώνη, ης (ἡ)   1   facilidade (de trajeto, de fuga): μετὰ ῥᾳστώνης plat. com facilidade, πολλὴ ῥ. γίγνεται plat. há grande facilidade para, é muito fácil, inf.   2   facilidade de humor; boa vontade; complacência; gentileza: ἐκ ῥῃστώνης τῆς Δημοκήδεος her. por complacência a Democedes   3   comedimento; sobriedade   4   tempo de repouso, de calma; descanso   5   comodidade; bem-estar; conforto; facilidade: ὀλίγοις πόνοις πολλὰς ῥᾳστώνας κτώμενος isócr. com pouco esforço obtendo para si muitas facilidades, παρασκευάσασθαι ῥᾳστώνην τινά τῆς πόσεως plat. arranjar um meio de facilitar a bebida   6   despreocupação; indolência; moleza. 〈ῥᾴστος〉 </def></entryFree><p></p>
+
+<entryFree>ῥαφανίς, ίδος (ἡ)<def> rábano; rabanete.  </def></entryFree><p></p>
+
+<entryFree>ῥάφανος, ου (ἡ)<def> 1   couve   2   rábano.  </def></entryFree><p></p>
+
+<entryFree>ῥαφεύς, έως (ὁ)<def> maquinador; conspirador. 〈ῥάπτω〉 </def></entryFree><p></p>
+
+<entryFree>ῥαφή, ῆς (ἡ)<def> 1   costura   2   Anat. sutura (do crânio ou de um osso). 〈ῥάπτω〉 </def></entryFree><p></p>
+
+<entryFree>ῥαφίς, ίδος (ἡ)<def> 1   agulha   2   Zool. agulha, peixe. </def></entryFree><p></p>
+
+<entryFree>ῥαχία, ας,<def> jôn. ῥηχίη, ης (ἡ)   1   rochedo contra o qual se quebram as ondas do mar   2   litoral formado por rochedos, penhascos   3   fluxo marinho que se quebra contra as rochas   4   transbordamento (de gente, de discurso). 〈ῥήγνυμι〉 </def></entryFree><p></p>
+
+<entryFree>ῥαχίζω<def> (só pres. e impf. ἐρράχιζον) quebrar a espinha dorsal para fazer morrer; matar a pancadas, a pauladas (espec. animais). 〈ῥάχις〉 </def></entryFree><p></p>
+
+<entryFree>ῥάχις, ιος<def> át. εως (ἡ)   1   parte inferior do espinhaço; espinha dorsal   2   dorso; lombo   2   Medic. saliência da escápula   3   Bot. nervura medial (da folha)   4   cimo; cume (de montanha)   5   Zool. parte externa dos tentáculos do polvo. 〈ῥάχος〉 </def></entryFree><p></p>
+
+<entryFree>ῥαχός,<def> jôn. ῥηχός, οῦ (ἡ)   1   sebe de espinhos; urzes; sarças   2   paliçada ou renque de árvores   3   oliveira selvagem. </def></entryFree><p></p>
+
+<entryFree>ῥαψῳδέω-ῶ<def> 1   coser ou ajustar cantos; ser rapsodo   2   recitar em público fragmentos de poemas épicos   3   recitar; declamar como um rapsodo   4   cantar; celebrar à maneira épica. 〈ῥαψῳδός〉 </def></entryFree><p></p>
+
+<entryFree>ῥαψῳδία, ας (ἡ)<def> 1   recitação de poema, partic. de poema épico   2   poema épico   3   poema   4   trecho de um dos poemas de Homero   5   tirada longa; lenga-lenga. 〈ῥαψῳδός〉 </def></entryFree><p></p>
+
+<entryFree>ῥαψῳδός, οῦ (ὁ)<def> 1   rapsodo; cantor de poemas, partic. de poemas épicos ♦ adj. masc. e fem.   2   que atua como rapsodo: ἡ ῥαψῳδὸς κύων sóf. a cadela rapsodo, ref. à Esfinge que propunha enigmas em versos. 〈ῥάπτω, ᾠδή〉 </def></entryFree><p></p>
+
+<entryFree>ῥᾴων, ων, ον<def> cf. ῥᾴδιος. </def></entryFree><p></p>
+
+<entryFree>ῥέα<def> adv.   1   facilmente; sem esforço   2   comodamente; agradavelmente. 
+Ῥέα, ας, ép. Ῥέη e Ῥείη (ἡ) Réia, esposa de Cronos.
+Ῥαχήλ indecl. (ἡ) Raquel, n. de m. [hebr.]
+Ῥεβέκκα indecl. (ἡ) Rebeca, n. de m. [hebr.] </def></entryFree><p></p>
+
+<entryFree>ῥέγκω<def> e ῥέγχω (fut. ῥέγξω, aor. ἔρρεγξα, perf. desus.) at. e méd.   1   roncar   2   (animal) soprar com força; bufar. </def></entryFree><p></p>
+
+<entryFree>ῥέδη, ης (ἡ)<def> bíbl. reda, carruagem de quatro rodas. </def></entryFree><p></p>
+
+<entryFree>ῥέεθρον<def> ép. = ῥεῖθρον. </def></entryFree><p></p>
+
+<entryFree>ῥέζεσκον<def> impf. iter. de ῥέζω. </def></entryFree><p></p>
+
+<entryFree>ῥέζω1<def> (fut. ῥέξω, aor. ἔρρεξα e ἔρεξα, perf.2 ἔοργα, pas. só part. aor. ῥεχθείς)   1   agir: οὐ κατὰ μοῖραν ἔρεξας hom. não agiste como é justo,    Ἕκτορ, σοὶ δὲ μάλιστ’ ἐπιτέλλομαι, ὧδε δὲ ῥέξαι hom. Heitor, a ti sobretudo recomendo agir deste modo   2   fazer; realizar; executar algo, ac.: τόσα εἶπας ὅσ’ ἂν πεπνυμένοις ἀνὴρ εἴποι καὶ ῥέξειε hom. dizes coisas tais que um homem sensato diria e também faria, τί ῥέξω; ésql. o que farei?   3   fazer algo (bom ou mau), ac., a alguém, dat. ou ac.: ξεινοδόχον κακὰ ῥέξαι hom. fazer mal a um anfitrião, ὅσα βροτοῖς ἔρεξας ἤδη κακά eur. quantos males já causaste aos mortais   4   agir; comportar-se (mal ou bem), adv., em rel. a alguém, ac.: κακῶς δ’ οἳ πέρ μιν ἔρεζον μνηστῆρες hom. aqueles pretendentes que agiam mal em relação a ele, i.e., que o ofendiam   5   realizar algo (sacrifício, festa), ac., à divindade, dat.; oferecer: θεοῖσιν ἱερά τε ῥέζουσι καὶ ἐξαίτους ἑκατομβάς hom. aos deuses oferecem sacrifícios e notáveis hecatombes   6   oferecer em sacrifício; sacrificar; imolar uma vítima, ac., a um deus, dat.: σοὶ δ’ αὖ ἐγὼ ῥέξω βοῦν ἦνιν hom. te oferecerei em sacrifício uma novilha de um ano. </def></entryFree><p></p>
+
+<entryFree>ῥέζω2<def> (só pres.) tingir.
+Ῥέη ép. = Ῥέα. </def></entryFree><p></p>
+
+<entryFree>ῥέθος, εος-ους (τό)<def> 1   pl. membros: ψυχή δ’ ἐκ ῥεθέων πταμένη Ἄιδος δὲ βεβήκει hom. sua alma escapando-lhe dos membros, encaminha-se para o Hades   2   o corpo inteiro   3   rosto; fisionomia; aspecto: νεφέλη δ’ ὀφρύων ὕπερ αἱματόεν ῥέθος αἰσχύνει sóf. sobre seus olhos uma nuvem desfigura seu rosto ensaguentado. </def></entryFree><p></p>
+
+<entryFree>ῥεῖα<def> e, em elisão, ῥεῖ’, adv. ép. = ῥέα. 
+Ῥείη jôn. = Ῥέα. </def></entryFree><p></p>
+
+<entryFree>ῥεῖθρον,<def> jôn. ῥέεθρον, ου (τό) poét. e jôn.   1   corrente; curso (de água): ποταμοῖο ῥέεθρα hom. correntes ou águas do rio, ῥέεθρον ἀγνοῦ Στρυμόνος ésql. o curso do sagrado Estrimon, ἐκτρέψασα τοῦ ποταμοῦ τό ῥέεθρον πᾶν her. tendo desviado todo o curso do rio   2   leito de rio: λέγουσι καὶ τὸ ἀρχαιὸν ῥέεθρον ἀποξηρανθῆναι her. dizem também que o antigo leito do rio secou   3   ondas de sangue; fluxo sangrento: μιαίνων παρθενοσφάγοισιν ῥείθροις πατρῴους χέρας ésql. poluindo minhas mãos de pai com fluxo de sangue de virgem degolada. 〈ῥέω〉 </def></entryFree><p></p>
+
+<entryFree>ῥέκτης, ου<def> (masc.) que age; ativo; operoso. 〈ῥέζω〉 </def></entryFree><p></p>
+
+<entryFree>ῥέμβος, ου (ὁ)<def> o vaguear; o andar errante. 〈ῥέμβω〉 </def></entryFree><p></p>
+
+<entryFree>ῥεμβός, ός, όν<def> inquieto; agitado. 〈ῥέμβω〉 </def></entryFree><p></p>
+
+<entryFree>ῥέμβω<def> (só pres.)   1   fazer vaguear ♦ at. e méd.   2   vaguear; andar errante   3   ter o espírito inquieto; agir ao acaso; estar indeciso   4   (estilo) ser vago. </def></entryFree><p></p>
+
+<entryFree>ῥεμβώδης, ης, ες<def> 1   que gira em todos os sentidos; agitado; incerto (olhar)   2   Medic. descontínuo; intermitente (febre)   3   irresoluto; negligente   4   ocioso (passatempo). 〈ῥέμβος, -ώδης〉 </def></entryFree><p></p>
+
+<entryFree>ῥέξα<def> aor. poét. de ῥέζω. </def></entryFree><p></p>
+
+<entryFree>ῥέος<def> só nom. e ac. sing. (τό) corrente; curso de água: πηγαίον ῥέος ésql. água da fonte, καδρυσίστακτον ῥέος ésql. rio de lágrimas. 〈ῥέω〉 </def></entryFree><p></p>
+
+<entryFree>ῥέπω<def> (impf. ἔρρεπον, fut. ῥέψω, aor. ἔρρεψα, perf. desus.)   1   (um dos pratos da balança) tender para baixo ou para cima; ger. inclinar-se para baixo; abaixar; descer: ῥέπε δ’ αἴσιμον ἦμαρ Ἀχαιῶν hom. descia [no prato da balança] o dia fatal dos aqueus, ὕπνος ἐπὶ γλεφάροις ῥέπων pínd. sono descendo sobre as pálpebras   2   ser preponderante; prevalecer: ἐπὶ ὁκότερα ἔτραποντο, ταῦτα ῥέψειν ἔμελλε her. aquele dos dois partidos para o qual [os atenienses] se dirigissem, devia prevalecer   3   inclinar-se a; estar propenso a; sentir inclinação para algo, ἐπί ou πρός e ac., ou alguém, ἐπί ou εἰς e ac.: ῥέπειν ἐπὶ τὸ πειθεσθαι isócr. estar inclinado a deixar-se persuadir   4   pender para; inclinar-se a favor: εὖ ῥέπει θεός ésql. a divindade é favorável, νομίζων τούτους ῥέπειν ἐπὶ τὸ ἀγαθὸν τῇ πόλει xen. pensando que esses pendiam para o bem da cidade   5   estar voltado para; dizer respeito a alguém, εἰς e ac.: τοῦτο ἔστιν ἤδη τοὔργον εἰς ἐμὲ ῥέπον sóf. agora é a mim que este ato concerne   6   (fato) finalizar; acabar ♦ pas.   7   estar equilibrado: τῶνδ’ ἐξ ἴσου ῥεπομένων ésql. estando as coisas igualmente equilibradas.  </def></entryFree><p></p>
+
+<entryFree>ῥέραμμαι<def> perf. ind. pas. de ῥαίνω. </def></entryFree><p></p>
+
+<entryFree>ῥεραντισμένος<def> part. perf. pas. de ῥαντίζω. </def></entryFree><p></p>
+
+<entryFree>ῥεράπισμαι<def> perf. pas. de ῥαπίζω. </def></entryFree><p></p>
+
+<entryFree>ῥεριμμένος<def> part. perf. méd. pas. de ῥίπτω. </def></entryFree><p></p>
+
+<entryFree>ῥερυπωμένος<def> perf. pas. de ῥυπόω. </def></entryFree><p></p>
+
+<entryFree>ῥεῦμα, ατος (τό)<def> 1   o escoar (de um líquido); escoamento: ἐλαίου ῥεῦμα plat. o escoar do óleo   2   curso; correnteza (de rio): τὸ τοῦ Νείλου ῥεῦμα plat. a corrente do Nilo   3   fluxo de lava   4   erupção   5   Medic. fluxo (de humores): resfriado; reumatismo; evacuação   6   afluência (de pessoas)   7   vicissitudes. 〈ῥέω〉 </def></entryFree><p></p>
+
+<entryFree>ῥευματίζω<def> ger. na pas. ῥευματίζομαι   1   sofrer de defluxão, partic. sofrer de reumatismo   2   escorrer; escoar. 〈ῥεῦμα〉 </def></entryFree><p></p>
+
+<entryFree>ῥευματικός, ή, όν<def> 1   que sofre de defluxão   2   que escorre; que supura. 〈ῥεῦμα〉 </def></entryFree><p></p>
+
+<entryFree>ῥευμάτιον, ου (τό)<def> 1   fluxo de humores; defluxão   2   pequeno curso de água; riacho. 〈ῥεῦμα〉 </def></entryFree><p></p>
+
+<entryFree>ῥευστικός, ή, όν,<def> corrente; fluido; líquido. 〈ῥευστός〉 </def></entryFree><p></p>
+
+<entryFree>ῥευστικῶς<def> adv. com fluxo; com abundância.  </def></entryFree><p></p>
+
+<entryFree>ῥευστός, ή, όν<def> 1   que escorre; fluido   2   fugidio; inconstante. 〈ῥέω〉 </def></entryFree><p></p>
+
+<entryFree>ῥεχθείς, εῖσα, έν<def> part. aor. pas. de ῥέζω. </def></entryFree><p></p>
+
+<entryFree>ῥέω<def> (formas em -εη, -εο, -εω não se contraem; fut. ῥεύ­σομαι, át. ρυήσομαι, aor. ἔρρευσα, aor.2 ἐρρύην, perf. ἐρρύηκα) at. e, rar., méd.   1   (rio) correr; fluir: φαμένη τὸν Νείλου ῥέειν ἀπὸ τηκομένης χιόνος her. dizendo que o Nilo flui da neve que se dissolve   2   (líquido) escoar; escorrer; derramar-se; jorrar: τῆς δ’ ἄρ’ ἀκούσης ῥέε δάκρυα hom. dela [Penélope], que ouvia, corriam lágrimas   3   (vento, chama, som) derramar-se; escoar; espalhar-se; fluir: τὸ δὲ πῦρ διατελεῖ ἀεὶ ῥέον ὥσπερ ποταμός artt. o fogo se espalha continuamente, como um rio, τοῦ καὶ ἀπὸ γλώσσης μέλιτος γλυκίων ῥέεν αὐδή hom. da sua [de Nestor] língua uma fala fluía mais doce que o mel   4   (multidão, exército) avançar em ondas como vagas; espalhar-se: Θρῄκιος ῥέων στρατός eur. o exército trácio avançando como uma torrente   5   (dardos, pêlos, frutos) cair sem cessar; cair: ὡς τῶν ἐκ χειρῶν βέλεα ῥέον, ἢ μὲν Ἀχαιῶν ἠδὲ καὶ ἐκ Τρώων hom. assim os dardos caíam sem cessar das mãos dos aqueus e também dos troianos, τῶν δ’ ἐκ μὲν μελέων τρίχες ἔρρεον hom. de seus membros as cerdas caíam   6   Fil. fluir; passar; transmudar-se: ἰόντων ἁπάντων ἀεὶ καὶ ῥέοντων plat. visto que todas as coisas passam e estão em fluxo perpétuo, δόξαις ὡς ἁπάντων τῶν ἀἰσθητῶν ἀεὶ ῥεόντων artt. doutrinas segundo as quais todas as coisas sensíveis transmudam continuamente, οἱ ῥέοντες plat. os filósofos da escola de Heráclito, para quem o mundo está em contínuo fluir   7   (corpo) diluir-se; dissolver-se; desgastar-se; corromper-se: εἰ ῥέοι τὸ σῶμα καὶ ἀπολλύοιτο ἔτι ζῶντος τοῦ ἀνθρώπου plat. se o corpo que se corrompesse e perecesse, estando o homem ainda vivo   8   (pessoa) pender; inclinar-se para algo, dat. ou ἐπί, πρός e ac.: οἳ ἂν ταύτῃ τύχωσι ῥυέντες plat. caso eles se inclinem nessa direção   9   Medic. ter fluxo menstrual; menstruar   10   Medic. ter disenteria; estar com diarréia: χρῶνται πρὸς τὰς κοιλίας τὰς ῥεούσας φαρμάκῳ d.s. usam [o fruto do junco] como remédio para intestino com diarréia   11   tr. fazer fluir; verter algo líquido, ac., dat. ou gen.: ἐφιστάμεθα ποταμῷ οἶνον ῥέοντι luc. postamo-nos junto a um rio que flui vinho, ἔνθα δὲ πηγαὶ δοιαὶ ἀναΐσσουσι Σκαμάνδρου… ἡ μὲν γάρ θ’ ὕδατι λιαρῷ ῥέει hom. dali saem duas fontes do Escamandro… uma [fonte] verte água morna. 
+Ῥηγῖνος, η, ον   1   de Régio ♦ οἱ Ῥηγῖνοι   2   os habitantes de Régio. 〈   Ῥήγιον〉
+Ῥήγιον, ου (τό) Régio, cidade e promontório ao sul da Itália. [lat.] </def></entryFree><p></p>
+
+<entryFree>ῥῆγμα, ατος (τό)<def> 1   laceração   2   rasgão, partic. de veste   3   brecha; rachadura; fenda   4   voragem (da terra)   5   bíbl. ruína   6   crist. cisma; divisão   7   Medic. lesão   8   Medic. fratura   9   farrapo; trapo; andrajo. 〈ῥήγνυμι〉 </def></entryFree><p></p>
+
+<entryFree>ῥηγμίν<def> e ῥηγμίς, ῖνος (ἡ)   1   ponto em que as ondas se quebram e se chocam umas com as outras; lugar onde o mar rebenta; rebentação; orla, ger. com gen. θαλάσσης ou ἁλός: κοιμήθημεν ἐπὶ ῥηγμῖνι θαλάσσης hom. deitamo-nos à beira-mar, ἄκρον ἐπὶ ῥηγμῖνος ἁλός hom. sobre a ponta da fímbria da rebentação do mar   2   pl. vagas que rebentam   3   limite; extremidade: ῥ. βιοίο emp. fim da vida. 〈ῥήγνυμι〉 </def></entryFree><p></p>
+
+<entryFree>ῥήγνυμι<def> (fut. ῥήξω, aor. ἔρρηξα, ép. ῥῆξα, perf. ἔρρηχα, perf.2 intr. ἔρρωγα; pas. aor.2 ἐρράγην, perf. desus.)   1   intr., espec. no perf.2, irromper; jorrar; estourar: ἔρρωγεν παγὰ δακρύων sóf. uma torrente de lágrimas irrompe, ἔρρωγεν κακά sóf. irromperam males   2   lacerar; fender; romper algo, ac.: ἀντικρὺ χρόα τε ῥήξω σὺν τ’ ὀστέ’ ἀράξω hom. romperei inteiramente a pele e ao mesmo tempo esmagarei os ossos, γῆς ἀρότροις ῥήξας δάπεδον ar. tendo fendido o solo da terra com o arado, δᾴοισιν ἐν θερμῷ χροῒ ἕλκεα ῥῆξαν pínd. abriram feridas na carne quente dos inimigos ♦ at. e méd.   3   quebrar; romper; arrebentar algo, ac.: μέμασαν δὲ μάλιστα τεῖχος τε ῥήξειν hom. desejavam ardentemente romper o muro, ῥήγνυσθε δὲ τεῖχος Ἀργείων hom. rompei o muro dos argivos   4   romper (frente de batalha), ac.: Τρώων ῥῆξε φάλαγγα hom. rompeu o batalhão dos troianos, Δαναοὶ ῥήξαντο φάλαγγας hom. os dânaos romperam as frentes de batalha   5   emitir; soltar (a voz), ac., para dirigir-se a alguém, dat.: ὁ δὲ παῖς οὗτος ὁ ἄφωνος, ὡς εἶδε ἐπίοντα τὸν Πέρσην, ὑπὸ δέους τε καὶ κακοῦ ἔρρηζε φωνήν her. esse jovem mudo, quando viu o persa avançar, de temor e de dor soltou a voz, οὐρανομήκη ῥήξατε κἀμοὶ φωνήν ar. soltai a mim também essa voz que cobre os céus   6   fazer brotar; fazer eclodir algo, ac.: ἐν δ’ αὐτοῖς ἔριδα ῥήγνυντο βαρεῖαν hom. e no meio deles [os deuses] faziam eclodir insuportável discórdia ♦ pas.   7   partir-se; despedaçar-se; quebrar-se; fender-se: ἔρρηγνυτο τὸ τεῖχος xen. o muro começava a fender, χέρσῳ ῥηγνύμενον μεγάλα βρέμει hom. [a onda] quebrando-se em terra firme com grande estrondo   8   eclodir; brotar: δύο ῥήγνυνται πηγαί plut. duas fontes brotam. </def></entryFree><p></p>
+
+<entryFree>ῥήγνυσκε<def> 3ª sing. impf. iter. de ῥήγνυμι. </def></entryFree><p></p>
+
+<entryFree>ῥῆγος, εος-ους (τό)<def> tapete ou coberta. 〈ῥέζω2〉 </def></entryFree><p></p>
+
+<entryFree>ῥῄδιος<def> jôn.= ῥᾴδιος. </def></entryFree><p></p>
+
+<entryFree>ῥηθείς, εῖσα, έν<def> part. aor. pas. de εἴρω2. </def></entryFree><p></p>
+
+<entryFree>ῥηθήσομαι<def> fut. pas. de εἴρω2. </def></entryFree><p></p>
+
+<entryFree>ῥηΐδιος, ῥηϊδίως<def> jôn.= ῥᾳδίος, ῥᾳδίως. </def></entryFree><p></p>
+
+<entryFree>ῥήϊστος, ῥηΐστατος<def> superl. jôn. de ῥᾴδιος. </def></entryFree><p></p>
+
+<entryFree>ῥήϊστα<def> superl. jôn. de ῥᾳδίως. </def></entryFree><p></p>
+
+<entryFree>ῥηΐστερος<def> comp. jôn. de ῥᾴδιος. </def></entryFree><p></p>
+
+<entryFree>ῥηκτός, ή, όν<def> adj. verb. de ῥήγνυμι. </def></entryFree><p></p>
+
+<entryFree>ῥῆμα, ατος (τό)<def> 1   palavra; vocábulo: ὁ νόος τοῦ ῥήμα­τος her. o sentido da palavra, κατὰ ῥῆμα ésqn. palavra por palavra   2   palavra; discurso; dito: δειλῶν ἀνθρώπων ῥή­μασι πειθόμενος teóg. dando ouvido às palavras de homens vis, πιστὰ δὴ τὰ λεγόμενα ἦν τῶν Τηνίων ῥήματα her. o que os tênios diziam eram discursos dignos de fé   3   frase; expressão: τοῦτο ἵνα ἀντὶ ῥήματος ὄνομα γένηται plat. para que isso de uma expressão passe a ser um nome   4   verso: τὸ ῥῆμ’ ἑκάτερος εἴπατον ar. cada um [de vocês] recite um verso   5   objeto de discurso; assunto; tema   6   fato prodigioso: ἐν ὅλῃ δὲ ὀρεινῇ τῆς  Ἰουδαίας διελαβεῖτο πάντα τὰ ῥήματα ταῦτα n.t. por toda a montanha da Judéia, se divulgavam todos esses fatos   6   Gram. verbo: ῥημάτων χωρὶς ὀνομάτων λεχθέντων plat. verbos enunciados sem os nomes.  </def></entryFree><p></p>
+
+<entryFree>ῥημάτιον, ου (τό)<def> pequena palavra; pequena frase. 〈ῥῆμα〉  </def></entryFree><p></p>
+
+<entryFree>ῥηματίσκον, ου (τό)<def>  ῥημάτιον.  </def></entryFree><p></p>
+
+<entryFree>ῥήμων, ονος (ὁ)<def>  ῥήτωρ.
+Ῥηναίη jôn. = Ῥήνεια.
+Ῥήνεια, ας (ἡ) Renéia, ilhota do mar Egeu. </def></entryFree><p></p>
+
+<entryFree>ῥηξηνορίη, ης (ἡ)<def> jôn. coragem (do guerreiro para romper as fileiras inimigas); valor; bravura. 〈ῥηξήνωρ〉 </def></entryFree><p></p>
+
+<entryFree>ῥηξήνωρ, ορος<def> (masc.) que rompe as fileiras inimigas; destruidor, epít. de Aquiles e de Apolo. 〈ῥήγνυμι, ἀνήρ〉 </def></entryFree><p></p>
+
+<entryFree>ῥῆξις, εως (ἡ)<def> 1   Medic. ação de fender, de romper (veia, osso)   2   ruptura; fratura (de osso)   3   rasgão de uma coisa que se fende   4   rachadura; fenda; greta   5   Medic. o jorrar; erupção; golfada (de sangue). 〈ῥήγνυμι〉 </def></entryFree><p></p>
+
+<entryFree>ῥήξω<def> fut. de ῥήγνυμι. </def></entryFree><p></p>
+
+<entryFree>ῥησιμετρέω-ῶ<def> medir as palavras. 〈ῥῆσις, μετρέω〉 </def></entryFree><p></p>
+
+<entryFree>ῥῆσις, εως,<def> jôn. ιος (ἡ)   1   palavra; discurso; fala: κατα­πλέξας τὴν ῥῆσιν her. tendo terminado o discurso, περὶ σμικροῦ πράγματος ῥήσεις παμμήκεις ποιεῖν plat. fazer longos discursos sobre uma coisa pequena   2   narração; lenda; tradição: παλαιαί ῥήσεις pínd. antigas tradições, velhas narrativas   3   passagem; trecho; citação: ὁ δ’ εὐθὺς ᾖσ’  Ἐὐριπίδου ῥῆσιν τιν’ ar. e ele logo canta uma passagem de Eurípides   4   decreto; decisão: Κύρῳ Λακεδαιμονίων ῥῆσιν, γῆς τῆς  Ἑλλάδος μηδεμίαν πόλιν σιναμωρέειν her. [comunicar] a Ciro, da parte dos lacedemônios, uma decisão: não [lhe permitiriam] devastar qualquer cidade da Grécia. 〈εἴρω2〉 </def></entryFree><p></p>
+
+<entryFree>ῥήσσω,<def> át. ῥήττω (só pres.) = ῥήγνυμι. </def></entryFree><p></p>
+
+<entryFree>ῥῃστώνη<def> jôn. = ῥᾳστώνη. </def></entryFree><p></p>
+
+<entryFree>ῥητέος, α, ον<def> adj. verb. de εἴρω2. </def></entryFree><p></p>
+
+<entryFree>ῥητήρ, ῆρος (ὁ)<def> quem fala; falante; orador. 〈εἴρω2〉 </def></entryFree><p></p>
+
+<entryFree>ῥητόν, οῦ (τό)<def> cf. ῥητός. </def></entryFree><p></p>
+
+<entryFree>ῥητόρεια, ας (ἡ)<def> 1   eloquência; arte oratória   2   discurso de orador, de rétor; discurso elaborado com arte. 〈ῥητορεύω〉 </def></entryFree><p></p>
+
+<entryFree>ῥητορεύω<def> 1   pronunciar um discurso feito com arte; praticar a arte oratória; ser orador ou rétor   2   ensinar a arte da palavra, a arte oratória. 〈ῥῆτωρ〉 </def></entryFree><p></p>
+
+<entryFree>ῥητορικός, ή, όν<def> 1   que diz respeito aos oradores ou à oratória; do orador; oratório; retórico   2   hábil em falar; apto a ser orador ♦ ὁ ρητορικός   3   orador ♦ ἡ ῥη­τορική e τὸ ῥητορικόν, τὰ ῥητορικά   4   a arte retórica; a oratória. 〈ῥήτωρ〉 </def></entryFree><p></p>
+
+<entryFree>ῥητορικῶς<def> adv. como orador; como rétor; segundo as regras da arte oratória ou os procedimentos retóricos.  </def></entryFree><p></p>
+
+<entryFree>ῥητός, ή, όν<def> 1   dito; expresso; designado; convencionado: μισθῷ ἐπὶ ῥητῷ hom. por um salário convencionado, παρεῖναι ἐς χρόνον ῥητόν her. apresentar-se na data combinada   2   de que se fala muito; conhecido; célebre: βροτοὶ ἄνδρες ὅμως ἄφατοί τε φατοί τε, ῥητοί τε ἀρρητοί τε Διὸς μεγάλοιο ἕκητι hes. os mortais são igualmente obscuros ou célebres, conhecidos ou desconhecidos, segundo a vontade do poderoso Zeus   3   que se pode dizer; pronunciável: τὰς δὲ συλλαβὰς γνωστάς τε καὶ ῥητὰς plat. as sílabas [são] identificáveis e pronunciáveis   4   que se pode divulgar: ἦ ῥητὸν ἢ οὐχι θεμιτὸν ἄλλον εἰδέναι; sóf. pode-se revelar? ou não é permitido a outro conhecê-lo?   5   Filos. e Matem. razoável; racional   6   Métr. racional (pé) ♦ τὸ ῥητόν   6   convenção; condição: ἐπὶ ῥητοῖς e ἐπὶ ῥητοῖσι sob certas condições   7   excerto; passagem de um autor   8   crist. excerto da Bíblia   9   pl., Matem., quantidades racionais. 〈εἴρω2〉 </def></entryFree><p></p>
+
+<entryFree>ῥήτρα, ας (ἡ)<def> 1   acordo; convenção   2   pacto   3   ordem   4   pl. preceito; norma; regulamento   5   decreto   6   lei   7   turno de fala; direito de falar   8   discurso   9   palavra. 〈εἴρω2〉 </def></entryFree><p></p>
+
+<entryFree>ῥήτρη, ης (ἡ)<def> jôn. = ῥήτρα. </def></entryFree><p></p>
+
+<entryFree>ῥήτωρ, ορος (ὁ, ἡ)<def> 1   orador   2   orador público que fala nas assembléias, em Atenas   3   mestre de eloquência   4   aquele que pronuncia uma sentença; juiz. 〈εἴρω2〉 </def></entryFree><p></p>
+
+<entryFree>ῥητῶς<def> adv. expressamente; explicitamente; formalmente. </def></entryFree><p></p>
+
+<entryFree>ῥηχίη, ης (ἡ)<def> jôn. = ῥαχία. </def></entryFree><p></p>
+
+<entryFree>ῥηχός, οῦ (ὁ)<def> jôn. = ῥάχος. </def></entryFree><p></p>
+
+<entryFree>ῥιγεδανός, ή, όν<def> 1   que faz estremecer   2   que faz estremecer de medo; que inspira horror; detestável; horrível 〈ῥῖγος〉 </def></entryFree><p></p>
+
+<entryFree>ῥιγέω-ῶ<def> (fut. ῥιγήσω, aor. ἐρρίγησα, perf.2 com sent. de pres. ἔρριγα)   1   estremecer; arrepiar-se de horror ou de medo: τὸν δὲ ἰδὼν ῥίγησε βοῆν ἀγαθὸς Διομήδης hom. ao vê-lo, Diomedes bom no grito de guerra estremeceu   2   sentir horror de algo, ac.; aborrecer-se de fazer algo, inf.: σ’ὄφρά τις ἐρρίγῃσι καὶ ὀψιγόνων ἀνθρώπων ξεινο­δόκων κακὰ ῥέξαι hom. a fim de que os homens vindouros tenham horror de fazer mal ao anfitrião   3   manter-se imóvel; ser frio, indiferente. 〈ῥῖγος〉 </def></entryFree><p></p>
+
+<entryFree>ῥιγηλός, ή, όν<def> (comp. só n. ῥίγιον; superl. ῥίγιστος)   1   que dá calafrio; arrepiante; horrível: ῥιγηλὸν ὄνειδος a.p. censura horrível, ῥίγιον ἔσσεται ἄλγος a.p. a dor será mais horrível, τό οἱ ῥίγιον ἔσται hom. isso lhe será mais terrível ♦ ῥίγιον comp., adv.   2   mais friamente; com mais frio: τάχα τοι ποτὶ ἑσπέρα ῥίγιον ἔσται hom. a noite que logo virá será com mais frio ♦ ῥίγιστα superl., adv.   3   da maneira mais terrível 〈ῥιγηλός〉 </def></entryFree><p></p>
+
+<entryFree>ῥίγιον<def> e ῥίγιστος cf. ῥιγηλός.  </def></entryFree><p></p>
+
+<entryFree>ῥῖγος, εος-ους (τό)<def> 1   frio   2   Medic. calafrio de febre.  </def></entryFree><p></p>
+
+<entryFree>ῥιγόω-ῶ<def> (contr. át. às vezes em ω; fut. ῥιγώσω, aor. ἐρρίγωσα, perf. ἐρρίγωκα)   1   estar transido de frio; ter frio   2   ter arrepios de frio; arrepiar-se. 〈ῥῖγος〉 </def></entryFree><p></p>
+
+<entryFree>ῥιγῶν<def> inf. pres. át. de ῥιγόω. </def></entryFree><p></p>
+
+<entryFree>ῥιγωσέμεν<def> inf. fut. ép. de ῥιγόω. </def></entryFree><p></p>
+
+<entryFree>ῥίζα, ης (ἡ)<def> 1   Bot. raiz   2   pl., Bot. raízes, raiz medicinal   3   Anat. raiz de um órgão (dente, olho)   4   raiz de monte; sopé   5   raiz; base; fundamento da terra   6   fundação; causa primeira; cepo   7   origem; tronco de uma família   8   raça; estirpe   9   raiz; fonte (da virtude). </def></entryFree><p></p>
+
+<entryFree>ῥιζόθεν<def> adv. desde a raiz. 〈ῥίζα, -θεν〉 </def></entryFree><p></p>
+
+<entryFree>ῥιζοτόμος, ος, ον<def> 1   que colhe raízes medicinais   2   propício para a colheita de raízes (estação). 〈ῥίζα, τέμνω〉 </def></entryFree><p></p>
+
+<entryFree>ῥιζοφάγος, ος, ον<def> que se nutre de raízes; que come raízes. 〈ῥίζα, φαγεῖν〉 </def></entryFree><p></p>
+
+<entryFree>ῥιζόω-ῶ<def> (aor. ἐρρίζωσα, perf. pas. ἐρρίζωμαι)   1   enraizar; fixar solidamente algo: ὅς μιν λᾶαν ἔθηκε καὶ ἐρρίζω­σεν ἔνερθε hom. ele [Posidão] fez dela uma rocha e enraizou-a nas profundezas, ἐρρίζωσε τὴν τυραννίδα her. estabeleceu solidamente a tirania ♦ méd.   2   (planta) deitar raízes; enraizar ♦ pas.   3   estar enraizado; estar plantado: ἔνθα δέ οἱ πολύκαρπος ἀλωὴ ἐρρίζωται hom. lá está plantada sua vinha fecunda   4   brotar raízes: οὐκ ἐρρίξωται δὲ κατὰ τῆς θαλάσσης a.tác. não há raízes no mar   5   estar estabelecido solidamente: τὴν τυραννίδα οὔκω κάρτα ἐρριζωμένην her. a tirania ainda não bem estabelecida. 〈ῥίζα〉 </def></entryFree><p></p>
+
+<entryFree>ῥιζώδης, ης, ες<def> semelhante a uma raiz. 〈ῥίζα, -ωδης〉 </def></entryFree><p></p>
+
+<entryFree>ῥίζωμα, ατος (τό)<def> 1   enraizamento   2   tufo de raízes; raízes   3   fundamento; princípio   4   tronco; estirpe; família; raça. 〈ῥιζόω〉 </def></entryFree><p></p>
+
+<entryFree>ῥιζωρυχέω-ῶ<def> arrancar ou revolver raízes. 〈ῥιζα, ὀρύσσω〉 </def></entryFree><p></p>
+
+<entryFree>ῥίζωσις, εως (ἡ)<def> 1   ação de deitar raízes; enraizamento   2   Medic. o que constitui a raiz; princípio; origem. 〈ῥιζόω〉 </def></entryFree><p></p>
+
+<entryFree>ῥικνός, ή, όν<def> 1   contraído; entanguido   2   contraído; adelgaçado; magro   3   Medic. contorcido; deformado (membro).  </def></entryFree><p></p>
+
+<entryFree>ῥικνόω-ῶ<def> 1   fazer enrugar-se; fazer envelhecer ♦ méd.   2   contrair-se; encarquilhar-se; comprimir-se   3   dançar contorcendo-se. 〈ῥικνός〉 </def></entryFree><p></p>
+
+<entryFree>ῥῖμμα, ατος (τό)<def> lançamento; arremesso: ῥ. ποδῶν el. passo dos pés, na dança. 〈ῥίπτω〉 </def></entryFree><p></p>
+
+<entryFree>ῥίμφα<def> adv. rapidamente; agilmente; prontamente. 〈ῥίπτω〉 </def></entryFree><p></p>
+
+<entryFree>ῥιμφάρματος, ος, ον<def> de carro veloz: ῥιμφαρμάτοις ἁμίλλαις sóf. em competições de carros velozes. 〈ῥίμφα, ἅρμα〉 </def></entryFree><p></p>
+
+<entryFree>ῥιναυλέω-ῶ<def> soprar pelo nariz com barulho; respirar forte; resfolegar. 〈ῥίς, αὐλέω〉 </def></entryFree><p></p>
+
+<entryFree>ῥινάω-ῶ<def> 1   limar   2   limar; depurar (estilo). 〈ῥίνη〉 </def></entryFree><p></p>
+
+<entryFree>ῥίνη, ης<def> e ῥινῆ, ῆς (ἡ) lima. </def></entryFree><p></p>
+
+<entryFree>ῥινηλατέω-ῶ<def> seguir a pista farejando; farejar. 〈ῥίς, ἐλαύνω〉 </def></entryFree><p></p>
+
+<entryFree>ῥινόκερως, ωτος (ὁ)<def> rinoceronte. 〈ῥίς, κέρας〉 </def></entryFree><p></p>
+
+<entryFree>ῥινόν, οῦ (τό)<def> 1   pele; couro   2   escudo (de couro, de pele). </def></entryFree><p></p>
+
+<entryFree>ῥινός1, οῦ (ἡ<def> e ὁ)   1   pele de homem ou de animal, vivo ou morto   2   escudo de pele ou de couro   3   pl. correias das luvas de pugilista. </def></entryFree><p></p>
+
+<entryFree>ῥινός2<def> gen. de ῥίς. </def></entryFree><p></p>
+
+<entryFree>ῥινόσιμος, ος, ον<def> de nariz chato. 〈ῥίς, σιμός〉 </def></entryFree><p></p>
+
+<entryFree>ῥινοτόρος, ος, ον,<def> que traspassa os escudos, o couro do escudos, epít. de Ares. 〈ῥινός, τείρω〉 </def></entryFree><p></p>
+
+<entryFree>ῥίον, ου (τό)<def> 1   cume; cimo; pico   2   ponta; promontório   3   golfo; baía formado por um promontório. </def></entryFree><p></p>
+
+<entryFree>ῥιπή, ῆς (ἡ)<def> 1   arremesso; lançamento; lance (de dardos, do olhar)   2   movimento dos pés, ao andar   3   o bater de asas   4   o piscar de olhos   5   força de um corpo lançado; impulso; ímpeto: ῥ. πυρός hom. ímpeto do fogo   6   emanação: ῥ. οἴνου pínd. odor do vinho, παμφεγγεῖς ἄστρων ῥιπαί sóf. raios luminosos dos astros. 〈ῥίπτω〉 </def></entryFree><p></p>
+
+<entryFree>ῥιπίζω<def> 1   abanar   2   agitar; sacudir   3   soprar para atiçar (fogo)   4   excitar; alimentar (discórdia). 〈ῥιπίς〉 </def></entryFree><p></p>
+
+<entryFree>ῥιπίς, ίδος (ἡ)<def> 1   fole (para atiçar o fogo)   2   leque; abanador. 〈ῥίπτω〉 </def></entryFree><p></p>
+
+<entryFree>ῥῖπος, εος-ους (τό)<def>  ῥίψ. </def></entryFree><p></p>
+
+<entryFree>ῥιπτάζεσκεν<def> 3ª sing. impf. iter. de ῥιπτάζω. </def></entryFree><p></p>
+
+<entryFree>ῥιπτάζω<def> 1   agitar em todos os sentidos ou sem cessar; pôr em movimento; sacudir; agitar; mover algo, dat.: ὀφρύσι ῥιπτάζειν hin. mover sem cessar as sobrancelhas   2   com ou sem ἑαυτόν, sacudir-se, agitar-se sem cessar; estar inquieto, agitado. 〈ῥίπτω〉 </def></entryFree><p></p>
+
+<entryFree>ῥίπτασκον<def> impf. iter. de ῥίπτω. </def></entryFree><p></p>
+
+<entryFree>ῥιπτασμός, οῦ (ὁ)<def> 1   agitação contínua; agitação; perturbação   2   Medic. convulsão   3   inquietude. 〈ῥιπτάζω〉 </def></entryFree><p></p>
+
+<entryFree>ῥιπταστικός, ή, όν<def> que se agita ou se inquieta facilmente. 〈ῥιπτάζω〉 </def></entryFree><p></p>
+
+<entryFree>ῥιπτεῦσι<def> 3ª pl. pres. at. jôn. de ῥιπτέω. </def></entryFree><p></p>
+
+<entryFree>ῥιπτέω-ῶ<def> (só pres. e impf.) cf. ῥίπτω. </def></entryFree><p></p>
+
+<entryFree>ῥιπτός, ή, όν<def> jogado; lançado; precipitado. 〈ῥίπτω〉 </def></entryFree><p></p>
+
+<entryFree>ῥίπτω<def> (impf. ἔρριπτον, fut. ῥίψω, aor. ἔρριψα, perf. ἔρριφα; pas. fut.2 ῥιφήσομαι, aor. ἐρρίφθην, aor.2 ἐρ­ρίφην, perf. ἐρρίμμαι, m.-q.-perf. ἐρρίμην, fut. ant. ἐρρίψομαι)   1   lançar; jogar uma coisa ou pessoa, ac., contra ou sobre outra, πρός e ac., sobre alguém, ἐπί e dat. ou ac., ou gen.: ῥ. νεανίας λόγους ἐς ἡμᾶς eur. lançar palavras insensatas contra nós, ῥ. ἀρὰς Ἀχαιοῖς eur. lançar imprecações contra os aqueus   2   lançar; atirar; precipitar alguém, ac., do alto de, ἀπό, κατά e gen.: ῥ. δέμας κύνεσσιν a.p. jogar um cadáver aos cães, ῥ. τινὰ ἐς τὸ δυστυχές ésql. lançar alguém na infelicidade   3   arrojar; deixar cair; lançar: ῥ. κλῆρον plat. lançar a sorte, ῥ. κίνδυνον eur. correr um risco, expor-se ao perigo   4   repelir; expulsar: ῥῖψίν με γῆς ἐκ τῆσδε sóf. expulsa-me desta terra   5   rejeitar; abandonar (criança, escudo); desfazer-se de, ac. ♦ com ou sem ἑαυτόν   6   lançar-se; jogar-se; precipitar-se: ῥ. ἑαυτὸν ἀπὸ πέτρας ésql. lançar-se de um rochedo, ῥ. ἑαυτὸν χθονί sóf. jogar-se no chão, ῥ. εἰς τὴν θάλασσαν her. lançar-se ao mar   7   lançar-se para morrer; matar-se lançando-se de uma altura   8   Medic. (doente) debater-se; estar agitado   9   entregar-se a, εἰς e ac. ou ἐν e dat.: ῥ. ἑαυτὸν εἰς ἐλπίδας ἀπόρους plut. entregar-se a vãs esperanças, ῥ. ἐν πένθει eur. entregar-se ao sofrimento.  </def></entryFree><p></p>
+
+<entryFree>ῥίς, ῥινός (ἡ)<def> 1   nariz   2   pl. narinas   3   tromba; focinho; bico. </def></entryFree><p></p>
+
+<entryFree>ῥιφέσομαι<def> fut.2 pas. de ῥίπτω.  </def></entryFree><p></p>
+
+<entryFree>ῥίψ, ῥιπός (ἡ)<def> 1   caniço   2   treliça de caniço   3   vime   4   grade de vime   5   esteira (de palha, de vime). </def></entryFree><p></p>
+
+<entryFree>ῥίψαι, ῥίψω<def> cf. ῥίπτω. </def></entryFree><p></p>
+
+<entryFree>ῥίψασπις, ιδος<def> (masc., fem.) que joga o escudo para fugir; desertor; covarde. 〈ῥίπτω, ἀσπίς〉 </def></entryFree><p></p>
+
+<entryFree>ῥῖψις, εως (ἡ)<def> 1   ação de lançar; lançamento: ῥίψεις ὀμμάτων plut. golpes de vista   2   emissão: ῥ. τοῦ σπέρ­ματος artt. ejaculação de sêmen   3   o processo de ser lançado:  Ἡφαίστου ῥίψεις ὑπὸ πατρός plat. a queda de Hefesto, lançado pelo pai. 〈ῥίπτω〉 </def></entryFree><p></p>
+
+<entryFree>ῥιψοκίνδυνος, ος, ον<def> 1   que se lança ao perigo; temerário (pessoa)   2   arriscado; perigoso (ação) ♦ τὸ ῥιψοκίνδυνον   3   audácia; temeridade. 〈ῥίπτω, κίνδυνος〉 </def></entryFree><p></p>
+
+<entryFree>ῥίψοπλος, ος, ον<def> que joga suas armas; que deserta; covarde. 〈ῥίπτω, ὅπλον〉 </def></entryFree><p></p>
+
+<entryFree>ῥοά, ᾶς (ἡ)<def> dór. = ῥοή. </def></entryFree><p></p>
+
+<entryFree>ῥοδανός, ή, όν<def> leve; flexível. </def></entryFree><p></p>
+
+<entryFree>ῥόδεος, α, ον<def> 1   de rosa   2   feito de rosa   3   semelhante à rosa; róseo   4   de cor de rosa. 〈ῥόδον〉
+Ῥόδη, ης (ἡ) Rode, n. de m. 〈ῥόδον〉
+Ῥόδιος, α, ον   1   de Rodes; ródio ♦ οἱ Ῥόδιοι   2   os ródios. 〈 Ῥόδος〉 </def></entryFree><p></p>
+
+<entryFree>ῥοδοδάκτυλος, ος, ον<def> de dedos róseos, epít. de Aurora e de Afrodite. 〈ῥόδον, δάκτυλος〉 </def></entryFree><p></p>
+
+<entryFree>ῥοδοδάφνη, ης (ἡ)<def> loureiro rosa. 〈ῥόδον, δάφνη〉 </def></entryFree><p></p>
+
+<entryFree>ῥοδόεις, όεσσα, όεν<def> 1   de rosa; róseo   2   de cor rosa   3   coberto de rosas. 〈ῥόδον〉 </def></entryFree><p></p>
+
+<entryFree>ῥόδον, ου (τό)<def> 1   rosa   2   jardim de rosas. </def></entryFree><p></p>
+
+<entryFree>ῥοδόπαχυς<def> dór. = ῥοδόπηχυς. </def></entryFree><p></p>
+
+<entryFree>ῥοδόπηχυς, υς, υ<def> gen. εος de braços róseos, ger. epít. de divindade. 〈ῥόδον, πῆχυς〉
+Ῥόδος, ου (ἡ)   1   Rodes, ilha grega   2   Rodo, ninfa. </def></entryFree><p></p>
+
+<entryFree>ῥοδωνιά, ᾶς (ἡ)<def> 1   jardim de rosas   2   canteiro de rosas; roseiral. 〈ῥόδον〉 </def></entryFree><p></p>
+
+<entryFree>ῥοή, ῆς (ἡ)<def> 1   curso d’água: ῥ.  Ὠκεανοῖο hom. curso do Oceano   2   escoamento (de líquido); fluxo   3   sumo; suco: ἀμπέλου ῥ. eur. suco da vinha, vinho   4   curso dos acontecimentos ou do destino; vicissitude   5   fluxo do tempo   6   fluxo; sequência: ἐπέων ῥοαί pínd. o fluir dos versos. </def></entryFree><p></p>
+
+<entryFree>ῥοθέω-ῶ<def> 1   zumbar como ondas que se chocam: λόγοι δ’ἐν ἀλλήλοισιν ἐρρόθουν κακοί sóf. os palavrões troavam entre uns e outros   2   murmurar: ἄνδρες ἐρρόθουν ἐμοί sóf. homens murmuravam contra mim   3   tr. lançar ruidosamente. 〈ῥόθος〉 </def></entryFree><p></p>
+
+<entryFree>ῥοθίας, άδος<def> (fem.) = ῥόθιος. </def></entryFree><p></p>
+
+<entryFree>ῥόθιος, ος<def> e α, ον   1   que se bate ruidosamente; que fere ruidosamente as ondas (navio)   2   que come fazendo ruído (porco); ruidoso   3   impetuoso (cavalo)   4   fragoroso; rumorejante ♦ τὸ ῥόθιον   5   choque ruidoso das vagas; ruído das vagas   6   pl. ondas que se quebram   7   batida dos remos; barulho do remos   8   ruído da cavalaria; estrépito   9   ruído dos aplausos; aplauso; aclamação   10   tumulto   11   movimento impetuoso; ímpeto. 〈ῥόθος〉 </def></entryFree><p></p>
+
+<entryFree>ῥόθος, ου (ὁ)<def> 1   barulho do bater das ondas; barulho das vagas; rumor; fragor   2   barulho dos remos que ferem as ondas; batida dos remos   3   ruído de asas   4   barulho de pancada   5   barulho tumultuoso; rumor confuso; clamor   6   movimento rápido; batida   7   rastro; pegada. </def></entryFree><p></p>
+
+<entryFree>ῥοιά, ᾶς (ἡ)<def> 1   romãzeira   2   romã.  </def></entryFree><p></p>
+
+<entryFree>ῥοιβδέω-ῶ<def> (só pres. e aor. ἐρροίβδησα)   1   intr. tragar como sorvedouro; sorver em redemoinho   2   intr. (vento) assobiar; sibilar   3   tr. agitar com barulho estridente, fazer vibrar terrivelmente. 〈ῥοῖβδος〉 </def></entryFree><p></p>
+
+<entryFree>ῥοίβδησις, εως (ἡ)<def> ruído estridente; sibilo; silvo. 〈ῥοιβδέω〉 </def></entryFree><p></p>
+
+<entryFree>ῥοίβδος, ου (ὁ)<def> barulho estridente; barulho que retine. </def></entryFree><p></p>
+
+<entryFree>ῥοιζέω-ῶ<def> (fut. desus., aor. ἐρροίζησα, perf. desus., m.-q.-perf. pas. ἐρροιζήμην)   1   assobiar para alguém, dat.   2   fazer silvar; atirar (dardo)   3   romper (o ar), ac., com um barulho estridente ♦ méd. pas.   4   voar silvando. 〈ῥοῖζος〉 </def></entryFree><p></p>
+
+<entryFree>ῥοιζηδόν<def> adv. com um estrondo; rumorosamente; sibilando, silvando com ímpeto. </def></entryFree><p></p>
+
+<entryFree>ῥοίζημα, ατος (τό)<def> 1   barulho estridente; fragor   2   movimento impetuoso; impetuosidade. 〈ῥοιζέω〉 </def></entryFree><p></p>
+
+<entryFree>ῥοῖζος, ου (ὁ)<def> 1   som estridente; som agudo; assobio; sibilo (de flecha, vento, flauta)   2   marulho de água corrente   3   ruído de asas que batem   4   estrépito; estrondo; zumbido   5   movimento impetuoso; arremesso; ímpeto. </def></entryFree><p></p>
+
+<entryFree>ῥοιζώδης, ης, ες<def> ruidoso; impetuoso. 〈ῥοῖζος, ωδης〉 </def></entryFree><p></p>
+
+<entryFree>ῥοιή<def> jôn. = ῥοιά. </def></entryFree><p></p>
+
+<entryFree>ῥοικός1, ή, όν<def> 1   curvo; recurvado; torto; arqueado (perna) ♦ τὸ ῥοικόν   2   curvatura da perna. </def></entryFree><p></p>
+
+<entryFree>ῥοικός2, ή, όν<def> 1   flácido; mole   2   crist. transitório; perecível   3   Medic. que sofre de fluxo (diarréia ou menstruação). 〈ῥόος〉 </def></entryFree><p></p>
+
+<entryFree>ῥομβέω-ῶ<def> fazer girar o ῥόμβος.  </def></entryFree><p></p>
+
+<entryFree>ῥομβοειδής, ής, ές<def> 1   com forma de losango; romboidal ♦ τὸ Ῥομβοιδές   2   monumento em forma de losango, em Mégara. 〈ῥόμβος, εἶδος〉 </def></entryFree><p></p>
+
+<entryFree>ῥόμβος,<def> át. ῥύμβος, ου (ὁ)   1   rombo, disco que se faz ressoar fazendo-o girar à volta de uma corda durante os Mistérios   2   roda mágica; disco para encantamento   3   tamborim; tímpano usado no culto de Dioniso   4   pião, brinquedo   5   Medic. atadura em forma de rombo   6   Geom. rombo; losango   7   movimento vibratório ou rotatório; arremesso. 〈ῥέμβω〉 </def></entryFree><p></p>
+
+<entryFree>ῥομβώδης, ης, ες<def>  ῥομβοειδής. 〈ῥόμβος, ωδης〉  </def></entryFree><p></p>
+
+<entryFree>ῥομφαία, ας (ἡ)<def> 1   sabre longo de dois gumes usado pelos trácios   2   bíbl. sabre; espada.  </def></entryFree><p></p>
+
+<entryFree>ῥόος-ῥοῦς, ῥόου-ῥοῦ (ὁ)<def> 1   correnteza (de rio, de mar): κατὰ ῥόον hom., át. κατὰ ῥοῦν a favor da correnteza, ao sabor da corrente, κατὰ ῥοῦν ἡ ναῦς ἐφέρετο long. a nau ia à deriva   2   corrente de ar: ῥ. καπνοῦ pínd. coluna de fumaça   3   Medic. fluxo dos humores (intestinal, menstrual)   4   curso, fluxo das coisas: κατὰ ῥοῦν plat. sem obstáculo, de modo feliz. 〈ῥέω〉 </def></entryFree><p></p>
+
+<entryFree>ῥόπαλον, ου (τό)<def> 1   bastão grosso; bordão   2   maça; clava usada como arma de guerra   3   martelo   4   aldrava   5   verga; vara   6   membro viril. 〈ῥέπω〉 </def></entryFree><p></p>
+
+<entryFree>ῥοπή, ῆς (ἡ)<def> 1   movimento de cima para baixo; inclinação   2   inclinação de uma balança: διαστρέφειν τὴν ῥοπήν plut. alterar a inclinação da balança   3   o que determina a inclinação; peso: ὡς τοῖσδε καὶ δὶς ἀντισηκῶσαι ῥοπῇ ésql. de maneira a igualar duas vezes seu peso   4   momento crítico, decisivo: ἐν ῥοπῇ τοιᾷδε κείμενος sóf. achando-se nessa situação crítica, ἐπὶ μιᾶς ῥοπῆς εἶναι tuc. só ter uma chance a correr, ῥοπή μοι βίου sóf. o momento supremo de minha vida   5   causa ou circunstância determinante; influência: ἐπὶ σμικρᾶς ῥοπῆς eur. sob uma pequena influência, i.e., por um nada   6   peso; importância: ῥοπὴν ποιεῖν teofr. produzir peso, ῥοπὴν ἔχειν dem. ter peso, não ser sem importância, οὐ μικράν τινα αὐτῶν ῥοπὴν εἶναι καὶ παρόντων καὶ ἀνόντων xen. seu peso não pequeno (era muito importante), estivessem eles presentes ou ausentes, μεγάλη ἔσται ῥοπὴ εἰ isócr. importava muito que, μικραὶ δυνάμεις μεγάλας τὰς πορὰς ἐποίησαν isócr. pequenas influências constituem grande peso   7   alternativa: βλέπω δύο ῥοπάς· ἢ θανεῖν ἢ πατρίδα τ’ἐλθεῖν eur. vejo duas alternativas: ou morrer ou voltar para a pátria   8   reviravolta; mudança: ῥοπὴν ποιεῖν causar reviravolta. 〈ῥέπω〉 </def></entryFree><p></p>
+
+<entryFree>ῥόπτρον, ου (τό)<def> 1   aldrava   2   gatilho de armadilha; armadilha   3   martelo   4   clava   5   tamborim dos Coribantes e dos sacerdotes de Cibele   6   tambor. 〈ῥέπω〉  </def></entryFree><p></p>
+
+<entryFree>ῥοῦς<def>  ρόος.
+Ῥοῦφος, ου (ὁ) Rufo, n. de h. [lat.] </def></entryFree><p></p>
+
+<entryFree>ῥοφέω-ῶ<def> (impf. ὀρρόφουν, fut. ῥοφήσω e ῥοφήσομαι, aor. ἐρρόφησα, perf. desus., aor. pas. ἐρροφήθην)   1   engolir vorazmente; engolir de um só gole; sorver algo, ac. ou gen. partit.   2   devorar   3   consumir; esvaziar (uma taça); exaurir ♦ méd.   4   Medic. alimentar-se com papa ou líquido.  </def></entryFree><p></p>
+
+<entryFree>ῥόφημα, ατος (τό)<def> mingau; papa; sopa. 〈ῥοφέω〉 </def></entryFree><p></p>
+
+<entryFree>ῥοχθέω<def> (só pres. e impf. ép. 3ª sing. ῥόχθεν)   1   (ondas) bater com fragor; bramir ao quebrar-se   2   ressoar; ribombar sob o choque das ondas. </def></entryFree><p></p>
+
+<entryFree>ῥοώδης, ης, ες<def> 1   que tem correnteza forte; que corre impetuosamente   2   exposto a forte correnteza (promontório)   3   irrigado por água corrente (lugar)   4   Medic. que apresenta fluxo de humores ou supuração (doença)   5   Medic. que sofre de algum fluxo (pessoa)   6   que tende a cair; que está para cair (fruto)   7   crist. transitório ♦ τὸ ῥοῶδες   8   corrente impetuosa; altura de onde escorrem as águas   9   umidade; humor. 〈ῥόος, -ωδης〉  </def></entryFree><p></p>
+
+<entryFree>ῥύαξ, ακος (ὁ)<def> 1   curso de água impetuoso; corrente   2   torrente de água da chuva; enxurrada   3   torrente de lava   4   torrente; enxurrada; grande quantidade (de dinheiro)   5   conduto; canal. 〈ρέω〉 </def></entryFree><p></p>
+
+<entryFree>ῥυάς, άδος<def> (masc., fem., n.)   1   que corre; que escorre; que flui   2   que cai (cabelo, fruto)   3   que é flácido; mole ♦ ἡ ῥυάς   4   Medic. lacrimejamento, doença ♦ οἱ ῥυάδες   5   Zool. peixes que emigram em cardumes. 〈ῥέω〉 </def></entryFree><p></p>
+
+<entryFree>ῥύατο<def> cf. ῥύομαι. </def></entryFree><p></p>
+
+<entryFree>ῥυάχετος, ου (ὁ)<def> com. populacho; povaréu. 〈ῥύαξ〉 </def></entryFree><p></p>
+
+<entryFree>ῥύγχος, εος-ους (τό)<def> 1   focinho de porco, de cão   2   bico de ave. </def></entryFree><p></p>
+
+<entryFree>ῥυγχίον, ου (τό)<def> dim. de ῥύγχος. </def></entryFree><p></p>
+
+<entryFree>ῥύδην<def> adv. = ῥυδόν.  </def></entryFree><p></p>
+
+<entryFree>ῥυδόν<def> adv. abundantemente; em grande número; prodigamente. 〈ῥέω, -δον〉 </def></entryFree><p></p>
+
+<entryFree>ῥυείς, εῖσα, έν<def> part. aor. de ῥέω. </def></entryFree><p></p>
+
+<entryFree>ῥύη, ῥυῆναι<def> cf. ῥέω. </def></entryFree><p></p>
+
+<entryFree>ῥυθμίζω<def> 1   dispor em intervalos regulares algo, ac.   2   dispor, regular segundo uma ordem; regrar (a vida); compor (a fisionomia)   3   determinar; estabelecer   4   disciplinar; dirigir; orientar; educar (crianças)   5   tratar; dispensar tratamento (bom ou mal) a alguém, ac.   6   regular segundo um ritmo; ritmar; cadenciar   7   Métr. escandir   8   cuidar da aparência; cultivar cuidados ao corpo: ὑποχρίουσι τε καὶ ἐντρίβουσιν αὐτοὺς καὶ τἆλλα ῥυθμίζουσι xen. [criados de quarto] pintam os olhos, maquiam-se e cultivam os demais cuidados à aparência ♦ méd.   9   ajeitar (os cabelos). 〈ῥυθμός〉 </def></entryFree><p></p>
+
+<entryFree>ῥυθμικός, ή, όν<def> 1   relativo ao ritmo; do ritmo   2   em conformidade com o ritmo; rítmico   3   hábil em ritmar (pessoa). 〈ῥυθμός〉 </def></entryFree><p></p>
+
+<entryFree>ῥυθμοποιΐα, ας (ἡ)<def> ordenamento rítmico. 〈ῥυθμοποιός〉 </def></entryFree><p></p>
+
+<entryFree>ῥυθμοποιός, ός, όν<def> que ordena de acordo com o ritmo; que regula a medida rítmica. 〈ῥυθμός, ποιέω〉 </def></entryFree><p></p>
+
+<entryFree>ῥυθμός, οῦ (ὁ)<def> 1   movimento regrado e medido; ritmo; tempo; cadência: τῇ τῆς κινήσεως τάξει ῥ. ὄνομα plat. o nome para a regularidade do movimento é ritmo, μετὰ μουσικῆς καὶ ῥυθμῶν isócr. com música e ritmo, ἀποδιδόναι τῇ λέξει ἁρμονίαν καὶ ῥυθμόν plat. conferir à elocução harmonia e ritmo   2   disposição regular das partes ou dos elementos; justa proporção; harmonia; regularidade; simetria: κατὰ αὐτὸν ῥυθμόν plat. segundo a mesma regra   3   maneira de ser; condição (de homem); natureza; temperamento   4   figura; disposição; forma: μετέβαλον τὸν ῥυθμὸν τῶν γραμμάτων her. mudaram a forma das letras. 〈ῥέω〉 </def></entryFree><p></p>
+
+<entryFree>ῥῦμα1, ατος (τό)<def> 1   arremesso   2   alcance de um arremesso: ἐκ τόξου ῥύματος xen. no alcance de um arremesso de flecha   3   cordame; cabo (para reboque). 〈ἐρύω〉 </def></entryFree><p></p>
+
+<entryFree>ῥῦμα2, ατος (τό)<def> abrigo; refúgio. 〈ῥύομαι〉 </def></entryFree><p></p>
+
+<entryFree>ῥῦμα3, ατος (τό)<def> tard. curso de água; corrente. 〈ῥέω〉 </def></entryFree><p></p>
+
+<entryFree>ῥύμη, ης (ἡ)<def> 1   força; ímpeto; curso rápido; impulso; veemência (de algo em movimento, de das paixões): ῥ. τοῦ αἵματος hipócr. fluxo do sangue, ῥ. τῆς ὀργῆς dem. ímpeto de cólera   2   impulso (da sorte); favor da sorte   3   Mil. quartel de um regimento romano   4   Mil. batalhão de um quartel   5   tard. rua; viela.  </def></entryFree><p></p>
+
+<entryFree>ῥύμμα, ατος (τό)<def> 1   sabão; lixívia; barrela   2   imundície; sujeira; nódoa. 〈ῥύπτω〉 </def></entryFree><p></p>
+
+<entryFree>ῥυμός, οῦ (ὁ)<def> 1   timão de carro   2   tirante; rédea de parelha de carro   3   cauda de cometa.  </def></entryFree><p></p>
+
+<entryFree>ῥυντάκης, ου (ὁ)<def> pássaro das Índias do tamanho de uma pomba. </def></entryFree><p></p>
+
+<entryFree>ῥυοίατο<def> 3ª pl. opt. jôn. de ῥυόμαι. </def></entryFree><p></p>
+
+<entryFree>ῥύομαι<def> (impf. ἐρρυόμην, fut. ῥύσομαι, aor. ἐρρυσάμην, perf. desus.)   1   reter; segurar:  Ἠῶ δ’ αὖτε ῥύσατ’ ἐπ’   Ὠκεανῷ hom. [Atena] reteve Aurora junto ao Oceano   2   afastar de um perigo; preservar; proteger; salvar algo ou alguém, ac., de algo ou alguém, gen. ou ἐκ, ἀπό e gen., ou inf. com ou sem μή: ἀθανάτων ὅς τίς σε φυλάσσει τε ῥύεταί τε hom. aquele dos imortais que te guarda e protege, οἵ τε πτολίεθρα ῥύονται hom. os que defendem a cidade, κακῶν μυρίων ἐρρύετο eur. de uma infinidade de males [Alceste nos] preservava, ἀλλὰ σὺ ῥῦσαι ὑπ’ ἠέρος υἷας Ἀχαιῶν hom. vamos, salva da bruma os filhos dos aqueus, ὃν θανεῖν ἐρρυσάμην eur. a quem salvei de morrer   3   isolar; esconder; encobrir; ocultar: ὡς ῥύσαιτο περὶ χροῒ μήδεα φωτός hom. a fim de que ocultasse da luz o membro viril   4   afastar; repelir: ῥ. κῆρα μέλαινα hom. afastar o negro destino. </def></entryFree><p></p>
+
+<entryFree>ῥυπαίνω<def> (só pres. at. e pas. e aor. pas. ἐρρυπάνθην)   1   manchar; macular; desfigurar   2   ofender; ultrajar   3   ofuscar (a felicidade) ♦ pas.   3   sujar-se; emporcalhar-se. 〈ῥύπος〉 </def></entryFree><p></p>
+
+<entryFree>ῥυπαρεύομαι<def> bíbl. ser sórdido; ser imundo, impuro. 〈ῥυπαρός〉 </def></entryFree><p></p>
+
+<entryFree>ῥυπαρία, ας (ἡ)<def> 1   sujeira   2   avareza sórdida. 〈ῥυπαρός〉 </def></entryFree><p></p>
+
+<entryFree>ῥυπαρός, ά, όν<def> 1   sujo; imundo   2   sórdido; mesquinho   3   grosseiro; rude; inculto. 〈ῥύπος〉 </def></entryFree><p></p>
+
+<entryFree>ῥυπάω-ῶ<def> (só pres. ép. ῥυπόω e impf. ἐρρύπων)   1   ser sujo, imundo   2   ser sórdido. 〈ῥύπος〉  </def></entryFree><p></p>
+
+<entryFree>ῥύπον, ου (τό)<def>  ῥύπος. </def></entryFree><p></p>
+
+<entryFree>ῥύπος1, ου (ὁ)<def> 1   sujeira; imundície   2   nódoa   3   cera para lacrar; lacre. </def></entryFree><p></p>
+
+<entryFree>ῥύπος2, ου (ὁ)<def> Medic. soro de leite; almece. </def></entryFree><p></p>
+
+<entryFree>ῥυπόω1-ῶ<def> (só part. perf. pas. ῥερυπωμένος) sujar; enodoar; manchar (a veste). </def></entryFree><p></p>
+
+<entryFree>ῥυπόω2<def> ép. = ῥυπάω. </def></entryFree><p></p>
+
+<entryFree>ῥυπτικός, ή, όν<def> próprio para lavar; eficaz para lavar. 〈ῥύπτω〉 </def></entryFree><p></p>
+
+<entryFree>ῥύπτω<def> 1   lavar; limpar ♦ méd. pas. ῥύπτομαι (impf. ἐρρυπ­τόμην, aor. ἐρρυψάμην)   2   lavar-se; limpar-se. 〈ῥύπος〉  </def></entryFree><p></p>
+
+<entryFree>ῥυσάμην<def> 1ª sing. aor., ῥυσάσθην 3ª dual aor., ῥύσατο 3ª sing. aor., ῥύσθαι inf. pres., de ῥύομαι.  </def></entryFree><p></p>
+
+<entryFree>ῥυσιάζω<def> (aor. pas. ἐρρυσιάσθην)   1   tirar à força; arrancar; arrebatar   2   pilhar; saquear   3   tomar como garantia, como penhor   4   tomar em represália. 〈ῥύσιον〉 </def></entryFree><p></p>
+
+<entryFree>ῥυσίβωμος, ος, ον<def> protetor dos altares. 〈ῥύομαι, βωμός〉 </def></entryFree><p></p>
+
+<entryFree>ῥύσιον, ου (τό)<def> cf. ῥύσιος. </def></entryFree><p></p>
+
+<entryFree>ῥύσιος, ος, ον<def> 1   que libera; que salva; que protege; defensor ♦ τὸ ῥύσιον   2   despojo; presa; butim   3   presa tomada em represália; compensação   4   garantia   5   represália; multa; castigo contra alguém, dat.   6   satisfação; direito de represália contra, κατά e gen.   7   pl. liberação   8   pl. oferendas para a salvação. 〈ῥύομαι〉 </def></entryFree><p></p>
+
+<entryFree>ῥυσίπολις, εως<def> (masc., fem.) protetor ou defensor da cidade. 〈ῥύομαι, πόλις〉 </def></entryFree><p></p>
+
+<entryFree>ῥύσις, εως (ἡ)<def> 1   escoamento (de líquido); escorrimento (de sangue); corrente; curso (de rio)   2   Medic. fluxo menstrual   3   bíbl. gonorréia   4   queda (de frutos, de cabelos)   5   transitoriedade; instabilidade   6   produto; produção (da oliveira). 〈ῥέω〉 </def></entryFree><p></p>
+
+<entryFree>ῥυσμός, οῦ (ὁ)<def> jôn. = ῥυθμός. </def></entryFree><p></p>
+
+<entryFree>ῥυσός, ή, όν<def> 1   enrugado; rugoso   2   de cenho franzido (expr. de aborrecimento); aborrecido   3   encarquilhado; decrépito.  </def></entryFree><p></p>
+
+<entryFree>ῥυσότης, ητος (ἡ)<def> testa enrugada; rugosidade. 〈ῥυσός〉 </def></entryFree><p></p>
+
+<entryFree>ῥυστάζω<def> 1   puxar; arrastar   2   violentar; ultrajar; maltratar. 〈ῥύομαι〉 </def></entryFree><p></p>
+
+<entryFree>ῥυστακτύς, ύος (ἡ)<def> safanão; maus tratos; violência. 〈ῥυστάζω〉 </def></entryFree><p></p>
+
+<entryFree>ῥύστης, ου (ὁ)<def> libertador. 〈ῥύομαι〉 </def></entryFree><p></p>
+
+<entryFree>ῥυτήρ1, ῆρος (ὁ)<def> 1   quem lança flechas; flecheiro; seteiro   2   pl. rédeas de cavalo; tirante de carro   3   correia; corda   4   chicote. 〈ῥυτός〉 </def></entryFree><p></p>
+
+<entryFree>ῥυτήρ2, ῆρος (ὁ)<def> protetor; liberador; salvador. 〈ῥύομαι〉 </def></entryFree><p></p>
+
+<entryFree>ῥυτιδόω-ῶ<def> (fut. ῥυτιδώσω, part. perf. pas. ἐρρυτιδωμέ­νος)   1   fazer enrugar; tornar rugoso   2   intr. ser enrugado; enrugar; contrair-se ♦ pas.   3   enrugar-se. 〈ῥυτίς〉 </def></entryFree><p></p>
+
+<entryFree>ῥυτίς, ίδος (ἡ)<def> prega da pele; ruga. 〈ῥύομαι〉 </def></entryFree><p></p>
+
+<entryFree>ῥυτός1, ή, όν<def> 1   que corre; corrente; fluente; fluido; líquido ♦ τὸ ῥυτόν   2   copo em forma de chifre. 〈ῥέω〉 </def></entryFree><p></p>
+
+<entryFree>ῥυτός2, ή, όν<def> 1   puxado; arrastado ♦ τὰ ῥυτά   2   rédeas. 〈ῥύομαι〉 </def></entryFree><p></p>
+
+<entryFree>ῥύτωρ, ορος (ὁ)<def> 1   lançador; atirador de flechas (Apolo)   2   protetor; defensor   3   defesa; proteção.  </def></entryFree><p></p>
+
+<entryFree>ῥυῶ, ῆς, ῆ<def> subj. aor.2 de ῥέω. </def></entryFree><p></p>
+
+<entryFree>ῥῶ<def> indecl. (τό) rô, letra do alfabeto grego.  </def></entryFree><p></p>
+
+<entryFree>ῥωγαλέος, α, ον<def> 1   despedaçado; dilacerado; estraçalhado   2   lacerado; sulcado (terra). 〈ῥήγνυμι〉 </def></entryFree><p></p>
+
+<entryFree>ῥωγάς, άδος<def> (fem.)   1   despedaçado; lacerado   2   fendido; cortado verticalmente; despenhado (pedra)   3   triturado; quebrado. 〈ῥώξ〉 </def></entryFree><p></p>
+
+<entryFree>ῥωγμή, ῆς (ἡ)<def> 1   rachadura; fenda; fissura   2   Medic. fratura. 〈ῥήγνυμι〉 </def></entryFree><p></p>
+
+<entryFree>ῥώθων, ωνος (ὁ)<def> 1   nariz; narina   2   pl. narinas. 
+Ῥώμα, ας (ἡ) dór. = Ῥώμη2. 
+Ῥωμαϊκός, ή, όν   1   que concerne aos romanos; dos romanos; romano; latino. 〈 Ῥώμη〉 </def></entryFree><p></p>
+
+<entryFree>ῥωμαικῶς<def> adv.   1   à moda romana   2   em latim. 
+Ῥωμαῖος, α, ον   1   de Roma; romano ♦ ὁ Ῥωμαῖος   2   o mês romano; novembro   3   pl. os romanos ♦ τὰ Ῥωμαῖα   4   os jogos romanos. 〈 Ῥώμη〉  </def></entryFree><p></p>
+
+<entryFree>ῥωμαϊστί<def> adv. em língua romana; em latim. 〈 Ῥωμαῖος〉 </def></entryFree><p></p>
+
+<entryFree>ῥωμαλέος, η, ον<def> 1   forte; robusto; sólido (coisa)   2   forte; robusto (pessoa). 〈ῥώμη〉 </def></entryFree><p></p>
+
+<entryFree>ῥώμη1, ης (ἡ)<def> 1   força física; vigor; robustez   2   força; potência; poder financeiro (de uma cidade)   3   Mil. força militar; exército; marinha   4   força; poder (de arma, da palavra); intensidade (dos prazeres)   5   força; firmeza de alma, de espírito ♦ Ῥώμη   5   Rome, n. de cadela. 
+Ῥώμη2, ης (ἡ)   1   Roma, cidade   2   Roma, n. de m. [lat.]
+Ῥωμινάλιος ἐρινεός (ὁ) a figueira do Ruminal, em Roma. </def></entryFree><p></p>
+
+<entryFree>ῥώννυμι<def> (impf. ἐρρώννυν, aor. ἔρρωνα, fut. e perf. desus.; pas. ῥώννυμαι, fut. ῥωσθήσομαι, aor. ἐρρώσθην, perf. ἔρρωμαι com sent. de pres., m.-q.-perf. ἐρρώμην com sent. de impf.)   1   tornar forte; fortificar; reforçar ♦ méd. pas.   2   estar em plena força; ser forte, vigoroso, poderoso   3   estar pronto, em condições de; estar impaciente ou desejoso de, εἰς, πρός e ac. ou inf.   4   estar em boas condições de saúde; estar bem   5   reunir todas as suas forças para um empreendimento; fortificar-se; endurecer-se; fórm. de despedida nas cartas, ἔρρωσο passe bem! ἐρρῶσθαί τινι φράζειν ou εἰπεῖν plat. saudar alguém, às vezes iron., mandar passear.  </def></entryFree><p></p>
+
+<entryFree>ῥώξ1, ῥωγός (ἡ)<def> 1   fenda; passagem estreita; abertura   2   fragmento   3   teia de aranha. 〈ῥήγνυμι〉 </def></entryFree><p></p>
+
+<entryFree>ῥώξ2, ῥωγός (ἡ)<def> grão ou semente de uva; uva. 〈ῥάξ〉 </def></entryFree><p></p>
+
+<entryFree>ῥώομαι<def> (impf. ἐρρωόμην, fut. ρώσομαι, aor. ἐρρωσάμην, perf. desus.)   1   (cabelo, perna) agitar-se com força; sacudir-se   2   (guerreiro, dançarina) mover-se vigorosamente; mexer-se   3   ser pressuroso; apressar-se em benefício de alguém, dat.  </def></entryFree><p></p>
+
+<entryFree>ῥωπήιον, ου (τό)<def> pl. matagal; arbustos; sarças. 〈ῥώψ〉  </def></entryFree><p></p>
+
+<entryFree>ῥωπικός, ή, όν<def> 1   miúdo; de pouco valor; insignificante ♦ τὰ ῥωπικά   2   mercadorias ou objetos de pouco valor. 〈ῥῶπος〉 </def></entryFree><p></p>
+
+<entryFree>ῥωπογραφία, ας (ἡ)<def> pintura de pequenos objetos; natureza morta. 〈ῥῶπος, γράφω〉 </def></entryFree><p></p>
+
+<entryFree>ῥωποπερπερήθρα, ας (ἡ)<def> tagarelice; fanfarronice. 〈ῥῶ­πος, πέρπερος〉  </def></entryFree><p></p>
+
+<entryFree>ῥῶπος, ου (ὁ)<def> 1   mercadoria miúda; mercadoria de pouco valor; ninharia   2   pintura de pequenas coisas, de mau gosto. 〈ῥώψ〉 </def></entryFree><p></p>
+
+<entryFree>ῥωχμός1, οῦ (ὁ)<def> fenda; greta; rachadura. 〈ῥήγνυμι〉 </def></entryFree><p></p>
+
+<entryFree>ῥωχμός2, οῦ (ὁ)<def> tard.   1   arroto   2   ronco. 〈ῥώχω〉 </def></entryFree><p></p>
+
+<entryFree>ῥώχω<def> (só pres.) tard. roncar. </def></entryFree><p></p>
+
+<entryFree>ῥώψ, ῥωπός (ἡ)<def> pl. silvado; matagal; urze.  </def></entryFree><p></p>
+        </body>
+    </text>
+</TEI>
