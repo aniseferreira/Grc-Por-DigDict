@@ -1,0 +1,1811 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="pt">
+    <teiHeader type="text" xml:lang="pt">
+        
+        
+        <fileDesc>
+            <titleStmt>
+                <title>Dicionário Grego-Português- Letra Θ, versão 1.0 </title>
+                <author>Autores da versão impressa: <lb></lb>
+                    
+                    <name>MALHADAS, D. ; DEZOTTI, M. C.C. ; NEVES, M. H. de M. ; DUARTE, A. S. ; FERREIRA, Anise D'O. ; PRADO, Anna. Lia. A. A. ; FERAL, Claudia R. ; MORAIS, C. B. ; ROSA, Edvanda. B. ; SANTOS, Fernando. B. ; STARZYNSKI, G. M. R. ; ONELLEY, G. B. ; STARLING, M. A. P. A. ; PESSANHA, N. M. ; DAMASCENO, S. ; BARBOSA, T. V. R. </name>
+                    Responsável pela edição digital:<name> Anise D'Orange Ferreira.</name></author>
+                <author><name> Edição digital: Atribuição-NãoComercial-CompartilhaIgual 4.0 Internacional</name></author>
+                <!--CC BY-NC-SA. Edição impressa, vols 1 a 5: Editora  Ateliê:
+                        http://www.atelie.com.br/livro/especial-dicionario-grego-portugues--> 
+                
+                
+                
+                
+                <editor>Organizadores/coordenadores:  Malhadas, Daisi; Neves, M.H.M e Dezotti, Maria Celeste C. </editor>
+                <principal>
+                    <name>Responsável pela edição eletrônica: Anise D'Orange Ferreira, FCLAr, UNESP</name></principal>
+                <sponsor> Financiado por _____ </sponsor>
+                <respStmt>
+                    <resp> editado por </resp>  
+                    <name> Nome do editor </name>
+                </respStmt>   
+                <respStmt>
+                    <resp> Colaboradores</resp>  
+                    <name> Fulano </name>
+                    <!-- pode haver tantos resp quantos necessários no statement de responsabilidades, dependendo do tipo de participação)-->
+                    
+                </respStmt>
+            </titleStmt>
+            
+            <publicationStmt>
+                <publisher>Ateliê</publisher>
+                <pubPlace>São Paulo</pubPlace>
+                <distributor> Pessoa ou agência responsável pela distribuição</distributor>
+                <authority>Responsável, agência ou pessoa, para disponibilizar, sem ser o distribuidor ou editora</authority>
+                <date>  2005-2010</date>
+                <idno type="ISBN" >vol 1: 8574803278; vol 2: 9788574803845; vol 3: 9788574803845; vol 4: 9788574804323; vol 5 : 9788574804 </idno>
+                
+                <availability status="restricted">
+                    <!--<licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/"> Atribuição-NãoComercial-CompartilhaIgual 
+CC BY-NC-SA
+                    </licence>-->
+                    <p>Edição digital: Licença Creative Commons http://creativecommons.org/licenses/by-nc-sa/4.0/. Edição impressa: Ateliê Editorial: http://www.atelie.com.br</p>
+                    
+                </availability>
+                
+            </publicationStmt>
+            <sourceDesc>
+                <!-- origem da publicação - se não for 'born digital', colocar a fonte - Acho que aqui vou colocar as referências a todos os volumes usando listBbl--> 
+                <bibl default="false">
+                    <lb></lb>
+                    Dicionário Grego-Português vol.1, vol.2, vol.3, vol.4 e vol.5
+                    DEZOTTI, M. C.C. ; MALHADAS, D. ; Neves, M. H. de M. ; Prado, A. L. A. A. ; SANTOS, F. B. ; ROSA, E. B. ; DUARTE, A. S. ; FERREIRA, A. A. G. D. ; Barbosa, T. V. R. ; Pessanha, N. M. ; Damasceno, S. ; Morais, C. B. ; Onelley, G. B. ; et al. . (da equipe de autores) In Neves, Dezotti e Malhadas (coords) Dicionario grego-português. Vol. 5. 1. ed. São Paulo: Atelie, 2010. v. 1. 296p .
+                    
+                    <lb></lb>
+                    MALHADAS, D. ; DEZOTTI, M. C.C. ; Neves, M. H. de M. ; DUARTE, A. S. ; FERREIRA, A. A. G. D. ; Prado, A. L. A. A. ; FERAL, C. ; Morais, C. B. ; ROSA, E. B. ; SANTOS, F. B. ; Starzynski, G. M. R. ; Onelley, G. B. ; Starling, M. A. P. A. ; Pessanha, N. M. ; Damasceno, S. ; Barbosa, T. V. R. . (da equipe de autores) In Daisi Malhadas, Maria Celeste C. Dezotti (coords) Dicionário grego-português vol.4. 1. ed. São Paulo: Ateliê Editorial, 2009. v. 5. 191p .
+                    
+                    <lb></lb>
+                    MALHADAS, D. ; DEZOTTI, M. C.C. ; Neves, M. H. de M. ; DUARTE, A. S. ; FERREIRA, A. A. G. D. ; Prado, A. L. A. A. ; FERAL, C. ; Morais, C. B. ; ROSA, E. B. ; SANTOS, F. B. ; Starzynski, G. M. R. ; Onelley, G. B. ; Starling, M. A. P. A. ; Pessanha, N. M. ; Damasceno, S. ; Melo, S. T. M. ; Barbosa, T. V. R. . (da Equipe de autores) In Daisi Malhadas, Maria Celeste C. Dezotti (coords) Dicionário grego-português vol. 3. 1. ed. São Paulo, SP: Atelier Editorial, 2008. v. 1. 260p .
+                    
+                    <lb></lb>
+                    MALHADAS, D. ; DEZOTTI, M. C.C. ; FERREIRA, A. A. G. D. ; AUTORES-TOTAL 17 . (da Equipe de autores) In Daisi Malhadas, Maria Celeste C. Dezotti e Neves, M.H. (coords) Dicionário grego-português vol. 2.. 1a. ed. São Paulo: Ateliê, 2007. v. vol.2. 272p .
+                    
+                    <!-- bibl (bibliographic citation) contains a loosely-structured bibliographic citation of which the sub-components may or may not be explicitly tagged.
+biblFull (fully-structured bibliographic citation) contains a fully-structured bibliographic citation, in which all components of the TEI  le description are present. 
+biblStruct (structured bibliographic citation) contains a structured bibliographic citation, in which only bibliographic sub-elements appear and in a speci ed order. 
+listBibl (citation list) contains a list of bibliographic citations of any kind.
+msDesc (manuscript description) contains a description of a single identi able manuscript or other text-bearing object.  --> 
+                    <title>Dicionário Grego-Português</title>
+                    <author>MALHADAS, D. ; DEZOTTI, M. C.C. ; Neves, M. H. de M. ; DUARTE, A. S. ; FERREIRA, A. A. G. D. ; Prado, A. L. A. A. ; FERAL, C. ; Morais, C. B. ; ROSA, E. B. ; SANTOS, F. B. ; Starzynski, G. M. R. ; Onelley, G. B. ; Starling, M. A. P. A. ; Pessanha, N. M. ; Damasceno, S. ; Barbosa, T. V. R. . </author>
+                    <editor role="editor">Ateliê Editorial</editor>
+                    <pubPlace>São Paulo</pubPlace>
+                    <date>volumes 1 a 5: 2006-2010</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        
+        <profileDesc>
+            <langUsage>
+                <language ident="en">English
+                </language><language ident="greek">Greek
+                </language><language ident="la">Latin
+                </language><language ident="fr">French
+                </language><language ident="pt">Portuguese</language>
+            </langUsage>
+            
+        </profileDesc>
+        <encodingDesc> 
+            <tagsDecl>
+                <rendition xml:id="FontRoman" scheme="css">font-family: serif
+                </rendition>
+                
+            </tagsDecl>
+            
+        </encodingDesc>
+        
+        <revisionDesc> 
+            <!-- ppode-se inserir tantos changes quantos necessários-->
+            <change when= "2015-10-04" who="Anise"> Conversão para txt, início da etiquetagem do header</change>
+            <change when="2016-01-15" who="Anise D'Orange Ferreira">Complementação do header</change>
+        </revisionDesc>
+        
+        
+        
+    </teiHeader>
+    <text>
+        
+        <body> 
+<entryFree>Θ, θ (θῆτα) (τό)<def> 1   teta, 8ª letra do alfabeto grego ♦ num.   2   θʹ = 9 ou 9º   3   ͵θ = 9000 ou 9000º. </def></entryFree><p></p>
+
+<entryFree>θ᾽<def>  τε em elisão com vog. aspirada. </def></entryFree><p></p>
+
+<entryFree>θαάσσω<def> (só pres. e impf.) ép.   1   estar sentado   2   sentar. </def></entryFree><p></p>
+
+<entryFree>θαιρός, οῦ (ὁ)<def> 1   dobradiça (de porta)   2   eixo (de carro). </def></entryFree><p></p>
+
+<entryFree>θακεύω<def> tard. ir ao banheiro, à latrina. 〈θᾶκος〉 </def></entryFree><p></p>
+
+<entryFree>θακέω-ῶ<def> (só pres. e impf.) sentar-se; tomar assento em, adv. ou ac.: ἀνωτέρω θακὼν Ζεύς ésql. Zeus sentado mais acima, θ. παγκρατεῖς ἕδρας ésql. sentar-se em trono todo-poderoso. 〈θᾶκος〉 </def></entryFree><p></p>
+
+<entryFree>θάκημα, ατος (τό)<def> 1   o estar sentado, postura de suplicante   2   lugar em que se está sentado; assento   3   lugar em que se está sediado; sede: ὦ Πανὸς θακήματα eur. ó morada de Pã. 〈θακέω〉 </def></entryFree><p></p>
+
+<entryFree>θάκησις, εως (ἡ)<def> 1   lugar para sentar-se   2   assento. 〈θακέω〉 </def></entryFree><p></p>
+
+<entryFree>θᾶκος, ου (ὁ)<def> 1   assento; trono   2   sessão   3   latrina. </def></entryFree><p></p>
+
+<entryFree>θαλάμη, ης (ἡ)<def> 1   morada (de animais); abrigo; antro; covil   2   cavidade; cavidade do corpo   3   ventrículo   4   poro (de esponja)   5   porão de navio. 〈θάλαμος〉 </def></entryFree><p></p>
+
+<entryFree>θαλαμήϊος, η<def> e ος, ον do tálamo; do leito nupcial; nupcial. 〈θάλαμος〉 </def></entryFree><p></p>
+
+<entryFree>θαλαμηπόλος, ος, ον<def> 1   que serve no quarto nupcial; nupcial   2   propício ao tálamo ♦ ὁ θαλαμηπόλος   3   eunuco   4   esposo ♦ ἡ θαλαμηπόλος   5   camareira. 〈θαλάμη, πέλω〉 </def></entryFree><p></p>
+
+<entryFree>θαλαμία, ας (ἡ)<def> cf. θαλάμιος. </def></entryFree><p></p>
+
+<entryFree>θαλάμιος, α, ον<def> 1   da fileira inferior de remos ♦ ὁ θαλάμιος   2   remador da fileira inferior ♦ ἡ θαλαμία   3   [ὀπή] abertura no casco do navio, para a saída do remo da fileira inferior   4   remo da fileira inferior. 〈θάλαμος〉 </def></entryFree><p></p>
+
+<entryFree>θάλαμόνδε<def> adv. em direção ao quarto. 〈θάλαμος, -δε〉 </def></entryFree><p></p>
+
+<entryFree>θάλαμος, ου (ὁ)<def> 1   cômodo interno da casa; aposento; quarto (em geral para as mulheres)   2   quarto de dormir   3   tálamo nupcial onde se celebra o casamento   4   quarto dos armários; despensa   5   casa; morada; habitação: θ. ὑπὸ γῆς ésql. a morada subterrânea, i.e., o Hades, θ. Ἀμφιτρίτας sóf. a morada de Anfitrite, i.e., o mar   6   porão de navio. </def></entryFree><p></p>
+
+<entryFree>θάλασσα,<def> át. θάλαττα, ης (ἡ)   1   mar: κατὰ θάλασσαν por mar, Αἰγύπτου τὸ παρὰ θάλασσαν her. o litoral do Egito, ἥδε ἡ θ. ou ἡ παρ᾽ ἡμῖν θ. plat. este mar aqui, o nosso mar, i.e., o Mediterrâneo, ἡ μεγάλη θ. plut. o grande mar, i.e., o oceano   2   água do mar   3   lago salgado   4   fonte de água salgada   5   bíbl. canal; estreito. </def></entryFree><p></p>
+
+<entryFree>θαλασσεύω<def> 1   (navio) estar no mar; manter-se no mar   2   usar expressões náuticas. 〈θάλασσα〉 </def></entryFree><p></p>
+
+<entryFree>θαλασσίδιος, α, ον<def>  θαλάσσιος. </def></entryFree><p></p>
+
+<entryFree>θαλάσσιος,<def> át. θαλάττιος, α e ος, ον   1   do mar; marítimo: θαλάσσια ἔργα trabalhos realizados no mar (navegação ou pesca)   2   semelhante ao mar (pela cor); purpúreo ♦ οἱ θαλάσσιοι   3   navegadores experientes. 〈θάλασσα〉 </def></entryFree><p></p>
+
+<entryFree>θαλασσοκρατέω,<def> át. θαλαττοκρατέω-ῶ ter o domínio no mar. 〈θάλασσα, κρατέω〉 </def></entryFree><p></p>
+
+<entryFree>θαλασσοκράτωρ,<def> át. θαλαττοκράτωρ, ορος (masc.) que manda no mar; senhor do mar. 〈θάλασσα, κρατέω〉 </def></entryFree><p></p>
+
+<entryFree>θαλασσόπλαγκτος, ον<def> que erra no mar. 〈θάλασσα, πλά­ζομαι〉 </def></entryFree><p></p>
+
+<entryFree>θαλασσόπληγκτος, ον<def> golpeado pelo mar. 〈θάλασσα, πλήσσω〉 </def></entryFree><p></p>
+
+<entryFree>θαλασσοπότης, ου (ὁ)<def> que bebe o mar. 〈θάλασσα, πίνω〉 </def></entryFree><p></p>
+
+<entryFree>θαλασσουργός,<def> át. θαλαττουργός, οῦ (ὁ) pessoa que trabalha no mar (marinheiro ou pescador). 〈θάλασσα, ἔργον〉 </def></entryFree><p></p>
+
+<entryFree>θαλασσόω,<def> át. θαλαττόω-ῶ   1   transformar em mar; inundar com água do mar   2   misturar com água do mar (vinho) ♦ méd.   3   navegar; ser marinheiro ♦ pas.   4   Náut. fazer água: ναῦς θαλαττοῦται pol. a nau está fazendo água. 〈θάλασσα〉 </def></entryFree><p></p>
+
+<entryFree>θάλαττα<def> cf. θάλασσα. </def></entryFree><p></p>
+
+<entryFree>θαλαττοκρατέω<def> cf. θαλασσοκρατέω. </def></entryFree><p></p>
+
+<entryFree>θαλαττουργός<def> cf. θαλασσουργός. </def></entryFree><p></p>
+
+<entryFree>θάλεα, ων (τά)<def> coisas boas; alegria; prazer. 〈θάλλω〉 </def></entryFree><p></p>
+
+<entryFree>θαλέθω<def> (só pres. e aor. iter.) poét.   1   florescer   2   prosperar; desenvolver-se. 〈θάλλω〉 </def></entryFree><p></p>
+
+<entryFree>θάλεια, ας<def> (fem.)   1   florescente   2   abundante; rico ♦ ἡ Θάλεια   3   Tália, n. de uma das Graças e da Musa da comédia ♦ αἱ θάλειαι   4   festins. 〈θάλλω〉 </def></entryFree><p></p>
+
+<entryFree>θαλειάζω<def>  θαλιάζω. </def></entryFree><p></p>
+
+<entryFree>θαλερός, ά, όν<def> 1   que chegou ao auge do crescimento; pleno de seiva, de vida; florescente (vegetal)   2   forte, vigoroso (esposo)   3   abundante: θαλ. δάκρυ hom. lágrimas abundantes, θαλ. φωνή hom. voz plena, θαλ. πνεῦμα ésql. vento permanente. 〈θάλλω〉 </def></entryFree><p></p>
+
+<entryFree>Θαλῆς<def> e Θάλης, ητος (ὁ) Tales de Mileto, filósofo, um dos sete sábios. </def></entryFree><p></p>
+
+<entryFree>θαλία, ας (ἡ)<def> 1   abundância; opulência   2   ger. pl. festim, banquete ♦ ἡ Θαλία   3   Tália, n. de uma das Graças e da musa da comédia. 〈θάλλω〉 </def></entryFree><p></p>
+
+<entryFree>θαλίαζω<def> 1   dar uma festa com banquete   2   festejar: θαλ. ἑορτήν celebrar uma festa. 〈θαλία〉 </def></entryFree><p></p>
+
+<entryFree>θαλλός, οῦ (ὁ)<def> 1   talo; broto   2   ramo novo   3   ramo de oliveira, que os suplicantes seguravam, também usado na cremação dos mortos. 〈θάλλω〉 </def></entryFree><p></p>
+
+<entryFree>θαλλοφόρος, ου (ὁ, ἡ)<def> portador de brotos de oliveira, nas Panatenéias, função desempenhada por velhos ou por mulheres. 〈θαλλός, φέρω〉 </def></entryFree><p></p>
+
+<entryFree>θάλλω<def> (impf. ἔθαλλον, fut. desus., aor.2 poét. θάλον, perf. c. sent. de pres. τέθηλα, m.-q.-perf. c. sent. de impf. ἐτεθήλειν)   1   (planta) florescer; verdejar: φύλλοισι τεθηλώς hom. carregado de folhas, τεθήλει δὲ σταφυλῇσιν hom. [a vinha] estava carregada de cachos, τεθαλυῖά τ᾽ ὀπώρα hom. outono luxuriante   2   ser suntuoso, faustoso: εἰλαπίνῃ τεθαλυίῃ hom. em suntuoso banquete   3   estar pleno de vida, de saúde; ser próspero: σφ᾽ ἔλειπον ἰσχύοντά τε καὶ ζῶντα καὶ θάλλοντα κοὐ νόσῳ βαρύν sóf. deixei-o [Héracles] vivo e forte e cheio de saúde, e não abatido por doença, ἡ πᾶσα θάλλει χώρα plat. toda a região é próspera   4   (coisa) florescer; crescer; abundar: ἔρις θάλλει eur. a discórdia floresce   5   fazer crescer: οὐ καλὰ δένδρε᾽ ἔθαλλεν χῶρος pínd. a terra não se cobria de belas árvores. </def></entryFree><p></p>
+
+<entryFree>θάλος<def> só nom. e ac. (τό)   1   rebento; broto   2   filho; descendente. 〈θάλλω〉 </def></entryFree><p></p>
+
+<entryFree>θαλπιάω<def> (part. pres. jôn. e ép. θαλπιόων) aquecer-se. 〈θάλπος〉 </def></entryFree><p></p>
+
+<entryFree>θάλπος, εος-ους (τό)<def> 1   calor do sol ♦ τὰ θάλπη   2   ardor (palavra, sentimento). 〈θάλπω〉 </def></entryFree><p></p>
+
+<entryFree>θάλπω<def> (fut. θάλψω, aor. ἔθαλψα, perf. desus., part. aor. pas. θαλφθείς)   1   aquecer; esquentar   2   chocar (ovos)   3   aquecer ao sol; fazer secar   4   excitar; inflamar; abrasar (de paixão, de desejo)   5   reaquecer com afeição; cuidar; mimar   6   confortar   7   intr. manter-se quente; ficar vigoroso, forte   8   deixar-se mimar, deixar-se enganar. </def></entryFree><p></p>
+
+<entryFree>θαλπωρή, ῆς (ἡ)<def> 1   calor suave   2   tudo o que aquece o coração; conforto; consolo. 〈θάλπω〉 </def></entryFree><p></p>
+
+<entryFree>θαλύσια, ων (τά)<def> 1   oferta das primícias ♦ τὰ Θαλύσια   2   Talísias, festa da colheita. 〈θάλλω〉 </def></entryFree><p></p>
+
+<entryFree>θαμά<def> adv.   1   muitas vezes; frequentemente   2   em grande quantidade. </def></entryFree><p></p>
+
+<entryFree>θάμβευς<def> gen. ép. de θάμβος. </def></entryFree><p></p>
+
+<entryFree>θαμβέω-ῶ<def> (impf. ἐθάμβουν, fut. desus., aor. ἐθάμβησα, perf. τεθάμβηκα; pas. aor. ἐθαμβήθην, perf. τεθάμβημαι)   1   estar pasmado, atônito   2   olhar algo com espanto, com surpresa   3   causar espanto ♦ méd. pas.   4   espantar-se; assombrar-se; ficar atônito. 〈θάμβος〉 </def></entryFree><p></p>
+
+<entryFree>θάμβος, εος-ους (τό)<def> surpresa extrema; espanto; estupor. </def></entryFree><p></p>
+
+<entryFree>θαμβόω-ῶ<def>  θαμβέω-ῶ. </def></entryFree><p></p>
+
+<entryFree>θαμέες<def> (só pl. nom., dat. θάμεσι e ac. θαμέας) = θαμειαί. </def></entryFree><p></p>
+
+<entryFree>θαμειαί<def> (fem.) só pl. nom. e ac. θαμειάς   1   numerosas   2   freqüentes; ininterruptas. 〈θαμά〉 </def></entryFree><p></p>
+
+<entryFree>θαμέσι<def> cf. θαμέες. </def></entryFree><p></p>
+
+<entryFree>θαμίζω<def> (só pres.)   1   vir freqüentemente a, dat. ou εἰς e ac.   2   ser assíduo em, ἐν ou ἐπί e dat.   3   ter por hábito, part.: οὐ δὲ θαμίζεις ἡμῖν καταβαίνων εἰς τὸν Πειραιᾶ plat. a nosso ver não tens por hábito vir até o Pireu   4   freqüentar, dat. 〈θαμά〉 </def></entryFree><p></p>
+
+<entryFree>θαμινός, ή, όν<def> 1   freqüente   2   apertado em fileiras ♦ θα­μινά adv.   3   freqüentemente. 〈θαμά〉 </def></entryFree><p></p>
+
+<entryFree>θάμνος, ου (ὁ<def> e ἡ)   1   arbusto; arvoredo   2   galho com ramos. 〈θαμά〉 </def></entryFree><p></p>
+
+<entryFree>θανάσιμος, ος, ον<def> 1   mortal; mortífero; letal   2   de morte   3   próximo da morte; moribundo   4   morto ♦ τὰ θανάσιμα   5   venenos. 〈θάνατος〉 </def></entryFree><p></p>
+
+<entryFree>θανατάω-ῶ<def>  θανατιάω. </def></entryFree><p></p>
+
+<entryFree>θανατηφόρος, ος, ον<def> 1   mortífero; mortal ♦ τὸ θανατη­φόρον   2   canto que prenuncia a morte. 〈θάνατος, φέρω〉 </def></entryFree><p></p>
+
+<entryFree>θανατιάω-ῶ<def> 1   desejar morrer   2   estar para morrer. 〈θάνατος〉 </def></entryFree><p></p>
+
+<entryFree>θανατικός, ή, όν<def> 1   de morte; mortal   2   capital (pena, processo, lei). 〈θάνατος〉 </def></entryFree><p></p>
+
+<entryFree>θανατόεις, όεσσα, όεν<def> mortífero; mortal. 〈θάνατος〉 </def></entryFree><p></p>
+
+<entryFree>θάνατόνδε<def> adv. para a morte. 〈θάνατος〉 </def></entryFree><p></p>
+
+<entryFree>θάνατος, ου (ὁ)<def> 1   morte   2   pena de morte; execução capital   3   cadáver ♦ ὁ Θάνατος   4   Morte, person. ♦ οἱ θάνατοι   5   tipos de mortes   6   assassínio de muitos ou de um só. 〈θνῄσκω〉 </def></entryFree><p></p>
+
+<entryFree>θανατούσια, ων (τά)<def> festa dos mortos. 〈θάνατος〉 </def></entryFree><p></p>
+
+<entryFree>θανατοφόρος, ος, ον<def>  θανατηφόρος. </def></entryFree><p></p>
+
+<entryFree>θανατόω-ῶ<def> 1   matar   2   levar à morte; condenar à morte   3   (doença) causar a morte; ser letal   4   bíbl. estar morto. 〈θάνατος〉 </def></entryFree><p></p>
+
+<entryFree>θανατώδης, ης, ες<def> que provoca a morte; mortal. 〈θάνατος〉 </def></entryFree><p></p>
+
+<entryFree>θανάτωσις, εως (ἡ)<def> 1   condenação à morte   2   execução capital. 〈θανατόω〉 </def></entryFree><p></p>
+
+<entryFree>θανέειν<def> ép. = θανεῖν. </def></entryFree><p></p>
+
+<entryFree>θανέεσθαι<def> inf. fut. ép. de θνῄσκω. </def></entryFree><p></p>
+
+<entryFree>θανεῖν,<def> ép. θανέειν, inf. aor. de θνῄσκω. </def></entryFree><p></p>
+
+<entryFree>θάνῃσι<def> 3ª sing. subj. aor.2 ép. de θνῄσκω. </def></entryFree><p></p>
+
+<entryFree>θάομαι1<def> (inf. θῆσθαι, aor. poét. θησάμην)   1   sugar; chupar   2   amamentar   3   ordenhar. </def></entryFree><p></p>
+
+<entryFree>θάομαι2<def> dór. olhar; contemplar. </def></entryFree><p></p>
+
+<entryFree>θαπτέον<def> adj. verb. de θάπτω. </def></entryFree><p></p>
+
+<entryFree>θάπτω<def> (fut. θάψω, aor. ἔθαψα, perf. desus.; pas. fut.2 ταφήσομαι, aor. ἐθάφθην, aor.2 ἐτάφην, perf. τέθαμμαι, fut. ant. τεθάψομαι)   1   sepultar   2   prestar honras fúnebres a alguém, ac.   3   celebrar o rito funerário (enterrar ou cremar). </def></entryFree><p></p>
+
+<entryFree>Θαργήλια, ων (τά)<def> Targélias, festas em honra de Apolo e Ártemis. </def></entryFree><p></p>
+
+<entryFree>Θαργηλιών, ῶνος (ὁ)<def> Targelião, no calendário ateniense, mês das Targélias (metade de maio a metade de junho). </def></entryFree><p></p>
+
+<entryFree>θαρραλέος,<def> jôn. e át. ant. θαρσαλέος, α, ον   1   cheio de confiança; resoluto; ousado   2   confiante em algo, περί e ac., para fazer algo, inf.   3   atrevido; insolente   4   que se pode ousar; seguro; sem perigo: ἀσφαλὲς καὶ θαρραλέον ἐστί plut. é seguro e sem risco, inf.   5   que inspira confiança ♦ τὸ θαρραλέον   6   confiança; ousadia; resolução: ἐν τῷ θαρσαλέῳ εἶναι estar tranqüilo, em segurança, quanto a algo, περί e ac. ♦ τὰ θαρραλέα   7   situações sem risco. 〈θάρρος〉 </def></entryFree><p></p>
+
+<entryFree>θαρραλεότης,<def> jôn. e át. ant. θαρσαλεότης, ητος (ἡ) confiança; ousadia. 〈θαρραλέος〉 </def></entryFree><p></p>
+
+<entryFree>θαρραλέως,<def> jôn. e át. ant. θαρσαλέως adv. com ousadia; com confiança; com resolução. </def></entryFree><p></p>
+
+<entryFree>θαρρέω,<def> jôn. e át. ant. θαρσέω-ῶ   1   estar cheio de confiança; ser confiante; ser destemido: θάρσει coragem! tenha confiança!, θάρρει plat. ânimo! coragem! i.e., não há nada a temer   2   enfrentar com confiança; não temer, ac.: τὰς μὲν μάχας θαρρεῖτε xen. afrontai com coragem as batalhas, θάνατον θ. plat. não temer a morte, θάρρος θ. plat. alimentar confiança, τὸ τεθαρρηκός ou τὸ θαρροῦν plut. a confiança   3   ter confiança em alguém ou algo, dat., ἐπί e dat. ou διά ou πρός e ac., ou or. inf. ou conj. (ὅτι)   4   ter coragem de, περί, ὑπέρ e gen., ἐπί e dat., πρός e ac.   5   tard. inspirar confiança em, ac. 〈θάρρος〉 </def></entryFree><p></p>
+
+<entryFree>θάρρος,<def> jôn. e át. ant. θάρσος, εος-ους (τό)   1   confiança; resolução; coragem   2   ousadia; audácia; ardor   3   atrevimento; insolência   4   fonte ou motivo de confiança. </def></entryFree><p></p>
+
+<entryFree>θαρρούντως,<def> jôn. e át. ant. θαρσούντως adv. com confiança, com ousadia. 〈θαρρέω〉 </def></entryFree><p></p>
+
+<entryFree>θαρρύνω,<def> jôn. e át. ant. θαρσύνω (impf. ἐθάρρυνον, fut. θαρρυνῶ, aor. ἐθάρρυνα, perf. desus.)   1   encorajar; animar; inspirar coragem ou ousadia   2   ter coragem; ter confiança. 〈θάρρος〉 </def></entryFree><p></p>
+
+<entryFree>θαρσαλέος<def> cf. θαρραλέος. </def></entryFree><p></p>
+
+<entryFree>θαρσαλεότης<def> cf. θαρραλεότης. </def></entryFree><p></p>
+
+<entryFree>θαρσαλέως<def> cf. θαρραλέως. </def></entryFree><p></p>
+
+<entryFree>θάρσευς<def> gen. ép. de θάρσος. </def></entryFree><p></p>
+
+<entryFree>θαρσέω<def> cf. θαρρέω. </def></entryFree><p></p>
+
+<entryFree>θάρσησις, εως (ἡ)<def> confiança; coragem. 〈θαρσέω〉 </def></entryFree><p></p>
+
+<entryFree>θάρσος<def> cf. θάρρος. </def></entryFree><p></p>
+
+<entryFree>θαρσούντως<def> cf. θαρρούντως. </def></entryFree><p></p>
+
+<entryFree>θαρσύνεσκε<def> 3ª sing. impf. iter. de θαρσύνω. </def></entryFree><p></p>
+
+<entryFree>θάρσυνος, ος, ον<def> 1   cheio de ousadia   2   cheio de confiança em, dat. 〈θάρσος〉 </def></entryFree><p></p>
+
+<entryFree>θαρσύνω<def> cf. θαρρύνω. </def></entryFree><p></p>
+
+<entryFree>Θάσιος, α, ον<def> 1   de Taso: Θ. λίθος plut. a pedra de Taso, i.e., o mármore ♦ ἡ Θασία [ἅλμη]   2   molho de Taso. 〈θάσος〉 </def></entryFree><p></p>
+
+<entryFree>Θάσος, ου (ἡ)<def> Taso, ilha e cidade do mar da Trácia. </def></entryFree><p></p>
+
+<entryFree>θάσσω<def> (só pres. e impf.) estar sentado: θ. θρόνον sóf. estar sentado em um trono, θ. ἐπὶ θύραις ar. estar sentado junto às portas. 〈θᾶκος〉 </def></entryFree><p></p>
+
+<entryFree>θᾶσσων,<def> át. θάττων, ων, ον gen. ονος comp. de ταχύς. </def></entryFree><p></p>
+
+<entryFree>θάτερα, θάτερον, θατέρω, θατέρῳ<def> cf. ἕτερον. </def></entryFree><p></p>
+
+<entryFree>θαῦμα,<def> jôn. θῶμα ou θωῦμα, ατος (τό)   1   objeto de admiração; coisa estranha; maravilha: τοῖσι δ᾽ ἰφθίμην Περὼ τέκε, θαῦμα βροτοῖσι hom. depois deles gerou a vigorosa Pero, uma maravilha para os mortais, θαῦμά γ᾽ οὐδέν ou οὐδέν γε θαῦμα sóf. não há nada de estranho   2   espanto; admiração: θαῦμα μ᾽ ἔχει ou ὑποδύεται o espanto toma conta de mim, θαῦμα ἔχω sóf. estou surpreso, pasmo, ἐν θαύματι εἶναι ou γενέσθαι her. ser tomado de espanto, θῶυμα ποιεῖσθαι her. ou ἐν θαύματι ποιεῖσθαι plut. espantar-se ou maravilhar-se de algo, ac., gen. ou περί e gen.   3   espetáculo extraordinário (prestidigitação, acrobacia)   4   pl. coisa muito difícil de fazer; movimento de destreza; piruetas   5   crist. milagre. </def></entryFree><p></p>
+
+<entryFree>θαυμάζεσκον<def> impf. iter. de θαυμάζω. </def></entryFree><p></p>
+
+<entryFree>θαυμάζω<def> (fut. θαυμάσομαι, rar. θαυμάσω, aor. ἐθαύ­μασα, perf. τεθαύμακα; pas. aor. ἐθαυμάσθην, perf. τε­θαύμασμαι)
+ativa e média
+1	ficar maravilhado; pasmar
+2	olhar com admiração, com respeito; admirar; maravilhar-se com alguém ou algo, ac., por algo, gen., ἀπό e gen., ou ἐπί e dat.
+3	ficar admirado; espantar-se; estranhar; surpreender-se com algo ou alguém, gen. ou ac. ou dat., ou part., ou or. conj. (ὅτι, ὡς, εἰ)
+4	admirar-se; perguntar-se com admiração; ver com admiração, or. inf. ou inter.
+5	prestar honras; venerar
+passiva
+6	ser objeto de espanto
+
+1 ἡμεῖς δ᾽ ἑσταότες θαυμάζομεν hom. e nós, imóveis, estávamos maravilhados
+2 Πρίαμος θαύμαζεν (ép.) Ἀχιλλέα hom. Príamo olhava Aquiles com admiração, θαυμάζων ἦστο πτόλεμόν τε μάχην τε hom. permanecia sentado, admirando a guerra e o combate, τοὺς ἀγγέλλοντας τὰ τοιαῦτα τῆς τόλμης οὐ θαυμάζω tuc. não admiro por sua audácia os que anunciam tais coisas, αὐτὸν ὥσπερ θεὸν ἐθαυμάζομεν ἐπὶ σοφίᾳ plat. como a um deus o admirávamos pela sabedoria, θ. ἀπὸ τοῦ σώματος τὸν νεανίσκον plut. admirar o rapazinho por seu belo físico
+3 θαυμάζω τῶν ταύτην τὴν γνώμην ἐχόντων isócr. espanto-me com os que são dessa opinião, θαυμάζω δὲ μάλιστα τούτου τῆς διανοίας lís. espanto-me sobretudo com a mentalidade dele, θαυμάζω τῇ ἀποκλῄσει μου τῶν πυλῶν tuc. espanta-me que as portas estejam fechadas para mim, ὃ δ᾽ ἐθαύμασά σου λέγοντος plat. estranhei que tivesses dito isso, θαυμάζω τῶν προθέντων αὖθις περὶ Μυτιληναίων λέγειν tuc. fico admirado com os que propuseram tratar novamente dos habitantes de Mitilene, θαυμάζειν ὡς οὔπω πάρεισιν tuc. estranhar que eles ainda não estivessem presentes, θ. ὅτι οἱ φιλόσοφοι οὐ τιμῶνται ἐν ταῖς πόλεσι plat. surpreender-se com o fato de que os filósofos não são honrados em nossas cidades, ὑμῶν θαυμάζω εἰ μὴ βοηθήσετε ὑμῖν αὐτοῖς xen. quanto a vós, o que me surpreende é que não prestareis socorro a vós próprios, τὸ μηδὲν θαυμάζειν plut. não espantar-se com nada
+4 θαυμάζω ὅστις ἔσται ὁ ἀντερῶν tuc. pergunto-me admirado quem será o contestador, πενθεῖν οὔ σε θαυμάζω τύχας eur. não me admira que chores tua sorte
+5 ἐθαύμασ᾽ ἄθλιον τύμβον πατρός eur. venerou o túmulo do pai, μηδὲ τὸν πλοῦτον μηδὲ τὴν δόξαν τὴν τούτων θαυμάζετε dem. não venereis nem a riqueza deles nem o renome
+6 θαυμάζεται μὴ παρών sóf. é espantoso que ele não esteja presente. 〈θαῦμα〉 </def></entryFree><p></p>
+
+<entryFree>θαυμαίνω<def> admirar, ac. ou or. conj. (εἰ). 〈θαῦμα〉 </def></entryFree><p></p>
+
+<entryFree>θαυμάσιος, α<def> e ος, ον   1   espantoso; maravilhoso; admirável: θ. τοῦ κάλλους xen. admirável pela beleza, θ. προσιδέσθαι pínd. maravilhoso de ver   2   estranho: θαυμάσιον καὶ ἄλογον plat. estranho e absurdo ♦ θαυμάσιον ὅσον ou θαυμάσι᾽ ἡλίκα adv.   3   maravilhosamente ♦ ὦ θαυμάσιε fam.   4   ó homem admirável ♦ τὰ θαυμάσια   5   coisas espantosas; maravilhas. 〈θαῦμα〉 </def></entryFree><p></p>
+
+<entryFree>θαυμασίως<def> adv. maravilhosamente; admiravelmente; espantosamente: θ. ἔχειν estar disposto para admirar, θ. ὡς ἄθλιος plat. espantosamente infeliz. </def></entryFree><p></p>
+
+<entryFree>θαυμασμός, οῦ (ὁ)<def> admiração; espanto. 〈θαυμάζω〉 </def></entryFree><p></p>
+
+<entryFree>θαυμάσσομαι<def> fut. ép. de θαυμάζω. </def></entryFree><p></p>
+
+<entryFree>θαυμαστέος, α, ον<def> adj. verb. de θαυμάζω. </def></entryFree><p></p>
+
+<entryFree>θαυμαστῆς, οῦ (ὁ)<def> admirador. 〈θαυμάζω〉 </def></entryFree><p></p>
+
+<entryFree>θαυμαστικός, ή, όν<def> 1   disposto, inclinado a admirar   2   que exprime admiração (adv. ou interj.). 〈θαυμαστός〉 </def></entryFree><p></p>
+
+<entryFree>θαυμαστός, ή, όν<def> jôn.   1   assombroso; extraordinário; maravilhoso por algo, gen., dat. ou πρός e ac.   2   admirável; excelente: ὦ θαυμαστέ plat. admirável amigo!, ὦ θαυμαστότατοι xen. homens muito admiráveis   3   admirável; digno de honra e veneração (deus)   4   iron. estranho ♦ θαυμαστὸν ὅσον ou ἡλίκον, θαυμαστὸν ou θαυμαστὰ ὡς, θαυμαστὰ ὅσα adv.   5   admiravelmente; maravilhosamente. 〈θαυμάζω〉 </def></entryFree><p></p>
+
+<entryFree>θαυμαστόω-ῶ<def> 1   tornar espantoso ou admirável   2   bíbl. magnificar; enaltecer ♦ pas.   3   ser visto como um prodígio, uma maravilha. 〈θαυμαστός〉 </def></entryFree><p></p>
+
+<entryFree>θαυμαστῶς<def> adv. espantosamente; admiravelmente; extraordinariamente. </def></entryFree><p></p>
+
+<entryFree>θαυματοποιέω<def> 1   fazer maravilhas (ilusionismo, prestidigitação)   2   crist. fazer milagres. 〈θαυματοποιός〉 </def></entryFree><p></p>
+
+<entryFree>θαυματοποιΐα, ας (ἡ)<def> tard.   1   ilusionismo; prestidigitação; mágica   2   Ret. estilo que peca por excesso de artifícios de estilo   3   crist. milagre. 〈θαυματοποιός〉 </def></entryFree><p></p>
+
+<entryFree>θαυματοποιός, ός, όν<def> 1   que realiza maravilhas; que cria coisas espantosas ♦ ὁ θαυματοποιός   2   prestidigitador; ilusionista   3   crist. milagreiro. 〈θαῦμα, ποιέω〉 </def></entryFree><p></p>
+
+<entryFree>θαυματουργέω-ῶ<def> 1   realizar maravilhas: τὰ τεθαυμα­τουργημένα fenômenos misteriosos   2   crist. fazer milagres. 〈θαυματουργός〉 </def></entryFree><p></p>
+
+<entryFree>θαυματουργός, ός, όν<def> que faz maravilhas. 〈θαῦμα, ἔργον〉 </def></entryFree><p></p>
+
+<entryFree>θάψινος, η, ον<def> amarelado; amarelo. 〈θάψος〉 </def></entryFree><p></p>
+
+<entryFree>Θάψος, ου (ἡ)<def> 1   Tapso, península da Sicília ou cidade da Líbia ♦ ἡ θάψος   2   tapso, planta oriunda de Tapso (Sicília), usada como tintura amarela. </def></entryFree><p></p>
+
+<entryFree>θεά, ᾶς (ἡ)<def> 1   deusa: αἱ σεμναὶ θεαί as deusas augustas, ou αἱ ἀνώνυμοι θεαί as deusas não nomeadas, i.e., as Erínias, μεγάλαι θεαί sóf. as grandes deusas, ou δύο τὼ θεώ plat. as duas deusas, i.e., Deméter e Perséfone ♦ adj.   2   divina. 〈θεός〉 </def></entryFree><p></p>
+
+<entryFree>θέα, ας,<def> jôn. θέη (ἡ)   1   ação de olhar; contemplação: θέαν λαβόντα sóf. tendo visto o espetáculo, θέαν λαβεῖν dar uma olhada, θέης ἄξιος her. digno de ser visto, ἐπὶ τῇ θέᾳ αὑτοῦ xen. à vista dele   2   aspecto; aparência   3   o que se observa; espetáculo; cenário; panorama   4   espetáculo; performance; representação   5   pl. jogos; festivais; espetáculos   6   lugar de onde se contempla; lugar no teatro. </def></entryFree><p></p>
+
+<entryFree>θέαινα, ης (ἡ)<def> deusa. 〈θεός〉 </def></entryFree><p></p>
+
+<entryFree>θέαμα, ατος (τό)<def> 1   panorama; vista   2   espetáculo; espetáculo de qualidade: τὰ ἑπτὰ θεάματα plut. as sete maravilhas   3   contemplação. 〈θεάομαι〉 </def></entryFree><p></p>
+
+<entryFree>θεᾶν<def> gen. pl. dór. de θεά. </def></entryFree><p></p>
+
+<entryFree>θεάομαι-ῶμαι<def> (fut. θεάσομαι, aor. ἐθεασάμην, perf. τεθέαμαι, m.-q.-perf. ἐτεθεάμην; aor. pas. ἐθεάθην)   1   olhar; observar; olhar com admiração; contemplar   2   ver; constatar   3   considerar; examinar   4   Mil. passar em revista   5   assistir a; ser espectador de, ac.: θ. πόλεμον her. ser espectador de uma guerra, οἱ θεώμενοι os espectadores. 〈θέα〉 </def></entryFree><p></p>
+
+<entryFree>θεατέος, α, ον<def> adj. verb. de θεάομαι. </def></entryFree><p></p>
+
+<entryFree>θεατής, οῦ (ὁ)<def> espectador; observador. 〈θεάομαι〉 </def></entryFree><p></p>
+
+<entryFree>θεατός, ή, όν<def> 1   visível   2   digno de ser contemplado ou observado. 〈θεάομαι〉 </def></entryFree><p></p>
+
+<entryFree>θεατρίζω<def> tard.   1   representar em cena   2   tratar como objeto de comédia; expor ao ridículo. </def></entryFree><p></p>
+
+<entryFree>θεατρικός, ή, όν<def> 1   de teatro; teatral   2   teatral; pomposo. 〈θέατρον〉 </def></entryFree><p></p>
+
+<entryFree>θεατρικῶς<def> adv. de maneira teatral. </def></entryFree><p></p>
+
+<entryFree>θέατρον, ου (τό)<def> 1   teatro, lugar dos espectadores; auditório; platéia   2   teatro, lugar do espetáculo   3   espetáculo   4   pl. os espectadores; platéia; público   5   lugar de reunião, de assembléia. 〈θεάομαι〉 </def></entryFree><p></p>
+
+<entryFree>θέε<def> 3ª sing. impf. ép. de θέω. </def></entryFree><p></p>
+
+<entryFree>θέειον<def> ép. = θεῖον2. </def></entryFree><p></p>
+
+<entryFree>θέειος<def> ép.= θεῖος2. </def></entryFree><p></p>
+
+<entryFree>θεειόω<def> ép. = θειόω1. </def></entryFree><p></p>
+
+<entryFree>θέεσκον<def> impf. iter. de θέω1. </def></entryFree><p></p>
+
+<entryFree>θεήλατος, ος, ον<def> 1   provocado, enviado ou inspirado pela divindade   2   divino   3   construído para os deuses. 〈θεός, ἐλαύνω〉 </def></entryFree><p></p>
+
+<entryFree>θέῃσι<def> 3ª sing. pres. subj. poét. de θέω1. </def></entryFree><p></p>
+
+<entryFree>θεήσομαι<def> fut. jôn. de θεάομαι. </def></entryFree><p></p>
+
+<entryFree>θεητής<def> jôn. = θεατής. </def></entryFree><p></p>
+
+<entryFree>θέητρον<def> jôn. = θέατρον. </def></entryFree><p></p>
+
+<entryFree>θειάζω<def> 1   profetizar   2   considerar como um deus; honrar como um deus. 〈θεῖος2〉 </def></entryFree><p></p>
+
+<entryFree>θειασμός, οῦ (ὁ)<def> 1   inspiração divina   2   adivinhação   3   superstição. 〈θειάζω〉 </def></entryFree><p></p>
+
+<entryFree>θείατο<def> 3ª pl. opt. aor.2 méd. poét. de τίθημι. </def></entryFree><p></p>
+
+<entryFree>θείη<def> 3ª sing. subj. pres. ép. de θέω1. </def></entryFree><p></p>
+
+<entryFree>θείην<def> opt. aor.2 de τίθημι. </def></entryFree><p></p>
+
+<entryFree>θειλόπεδον, ου (τό)<def> lugar ensolarado para secagem (de uvas); terreiro. </def></entryFree><p></p>
+
+<entryFree>θεῖμεν<def> opt. aor.2 de τίθημι. </def></entryFree><p></p>
+
+<entryFree>θεῖναι<def> inf. aor.2 de τίθημι ou inf. aor. de θείνω. </def></entryFree><p></p>
+
+<entryFree>θεινέμεναι<def> inf. pres. ép. de θείνω. </def></entryFree><p></p>
+
+<entryFree>θείνω<def> (fut. θενῶ, aor.1 ἔθεινα, aor.2 imper. θένε, subj. θένω, inf. θενεῖν, part. θενών) poét.   1   golpear; ferir; bater em algo ou alguém, ac.: θ. πέδας ésql. bater (para fixar) traves   2   golpear; ferir: θ. φασγάνῳ αὐχένα hom. golpear o pescoço com uma espada, θ. ὀνείδει τινά ésql. ferir com insulto, ofender alguém   3   rar. colidir-se com, ἐπί e gen. </def></entryFree><p></p>
+
+<entryFree>θείομεν<def> 1ª pl. subj. aor.2 ép. de τίθημι. </def></entryFree><p></p>
+
+<entryFree>θεῖον, ου1<def> n. ou ac. masc. de θεῖος2. </def></entryFree><p></p>
+
+<entryFree>θεῖον2, ου (τό)<def> enxofre. </def></entryFree><p></p>
+
+<entryFree>θεῖος1, ου (ὁ)<def> tio paterno ou materno. </def></entryFree><p></p>
+
+<entryFree>θεῖος2, α<def> e ος, ον   1   que pertence a um deus ou aos deuses; divino   2   de origem divina; enviado pelos deuses; instituído pelos deuses: θ. ὄνειρος hom. sonho enviado pelos deuses, θ. μοῖρα xen. intervenção divina, θεῖον πρῆγμα her. fato marcado por intervenção divina, θ. τύχη her. sorte divina   3   consagrado aos deuses: θ. χορός hom. dança em honra dos deuses   4   protegido pelos deuses   5   superior aos homens comuns; divino; excelso (pessoa): θεῖοι βασιλῆες hom. reis semelhantes aos deuses; t. respeitoso, θ. κεφαλή plat. homem excelente, θ. ἀνήρ plat. homem de respeito, em Esparta   6   digno dos deuses; divino (coisas) ♦ τὸ θεῖον   7   a divindade   8   a natureza divina; o poder divino ♦ τὰ θεῖα   9   providência divina   10   ações divinas   11   culto divino; religião. 〈θεός〉 </def></entryFree><p></p>
+
+<entryFree>θειότης, ητος (ἡ)<def> 1   natureza ou essência divina; divindade   2   piedade religiosa; religiosidade. 〈θεῖος2〉 </def></entryFree><p></p>
+
+<entryFree>θειόω1,<def> ép. θεειόω-ῶ   1   purificar com enxofre; desinfetar ♦ méd.   2   purificar com enxofre para uso pessoal. 〈θεῖον2〉 </def></entryFree><p></p>
+
+<entryFree>θειόω-ῶ2<def> 1   consagrar aos deuses   2   considerar sagrado. 〈θεῖος2〉 </def></entryFree><p></p>
+
+<entryFree>θείς<def> part. aor.2 de τίθημι. </def></entryFree><p></p>
+
+<entryFree>θείω1<def> ép. = θέω1. </def></entryFree><p></p>
+
+<entryFree>θείω2<def> subj. aor.2 ép. de τίθημι. </def></entryFree><p></p>
+
+<entryFree>θειώδης1, ης, ες<def> 1   de enxofre, sulfuroso   2   bíbl. amarelo. 〈θεῖον2〉 </def></entryFree><p></p>
+
+<entryFree>θειώδης2, ης, ες<def> divino. 〈θεῖος2〉 </def></entryFree><p></p>
+
+<entryFree>θείως<def> adv. (comp. θειωτέρως e θειώτερον)   1   por obra ou intervenção divina: θειωτέρως her. por especial providência   2   maravilhosamente. </def></entryFree><p></p>
+
+<entryFree>θείωσις, εως (ἡ)<def> natureza divina; divindade. 〈θειόω2〉 </def></entryFree><p></p>
+
+<entryFree>θέλγητρον, ου (τό)<def> 1   encanto; fascínio   2   alívio. 〈θέλγω〉 </def></entryFree><p></p>
+
+<entryFree>θέλγω<def> (impf. ἔθελγον, fut. θέλξω, aor. ἔθελξα, perf. desus.; pas. fut. θελχθήσομαι, aor. ἐθέλχθην, perf. desus.)   1   encantar; fascinar; enfeitiçar (com magia)   2   acalmar; suavizar; pacificar (com cantos)   3   enganar; seduzir; fascinar; enfeitiçar (com astúcia ou engano)   4   impelir alguém, ac., por meio de sedução a algo, ac. e inf.: μίαν δὲ παίδων ἵμερος θέλξει τὸ μὴ κτεῖναι σύνευνον ésql. o desejo de filhos seduzirá uma [das Danaides] a não matar o companheiro ♦ pas.   5   deixar-se vencer (pelo sono, amor). </def></entryFree><p></p>
+
+<entryFree>θελεμός, ός, όν<def> tranqüilo; pacífico (rio). </def></entryFree><p></p>
+
+<entryFree>θέλεος, ος, ον<def> de bom grado. 〈θέλω〉 </def></entryFree><p></p>
+
+<entryFree>θέλημα, ατος (τό)<def> disposição; vontade; desejo. 〈θέλω〉 </def></entryFree><p></p>
+
+<entryFree>θέλησις, εως (ἡ)<def> tard.   1   vontade; o querer   2   bíbl. benevolência; disposição favorável. 〈θέλω〉 </def></entryFree><p></p>
+
+<entryFree>θελκτήριον, ου (τό)<def> cf. θελκτήριος. </def></entryFree><p></p>
+
+<entryFree>θελκτήριος, ος, ον<def> 1   que fascina, acalma, suaviza ♦ τὸ θελκτήριον   2   encanto; poder mágico   3   recurso para seduzir, para acalmar: βροτῶν θελκτήρια hom. cantos que encantam os mortais, θεῶν θελκ. hom. oferenda propiciatória para os deuses, νεκροῖς θελκ. eur. oferenda para aplacar os mortos, πόνων θελκτέρια ésql. bálsamos para fadigas. 〈θέλγω〉 </def></entryFree><p></p>
+
+<entryFree>θέλκτρον, ου (τό)<def>  θελκτήριον. </def></entryFree><p></p>
+
+<entryFree>θέλξις, εως (ἡ)<def> encanto; alívio; fascínio. 〈θέλγω〉 </def></entryFree><p></p>
+
+<entryFree>θέλω<def>  ἐθέλω. </def></entryFree><p></p>
+
+<entryFree>θέμα, ατος (τό)<def> 1   o que se deposita; depósito   2   dinheiro depositado; prêmio; tesouro   3   monte; acúmulo   4   o que se propõe; questão proposta; tema; argumento   5   proposição; premissa   6   suposição; determinação arbitrária   7   posição dos astros   8   lugar de depósito (cadáveres)   9   redução de um silogismo. 〈τίθημι〉 </def></entryFree><p></p>
+
+<entryFree>θεματικός, ή, όν<def> 1   para o qual há um prêmio depositado (concurso): ἀγὼν θεμ. pol. competição com prêmio, op. a στεφανίτης e φυλλίτης   2   Ret. fixado arbitrariamente (assunto)   3   Gram. que não tem derivados; primitivo. 〈θέμα〉 </def></entryFree><p></p>
+
+<entryFree>θέμεθλον, ου (τό)<def> poét., ger. pl.   1   fundamento; base: θέμ. δίκης sól. fundamento da justiça   2   a parte mais profunda: θέμ. ὀφθαλμοῖο hom. o fundo do olho, θέμ. στομάχοιο hom. o fundo da garganta, ἐκ θεμέθλων a.p. inteiramente; completamente. 〈τίθημι〉 </def></entryFree><p></p>
+
+<entryFree>θεμείλια, ων (τά)<def>  θέμεθλα, cf. θέμεθλον. </def></entryFree><p></p>
+
+<entryFree>θεμέλιος, ος, ον<def> 1   que serve de fundamento, de fundação ♦ ὁ θεμέλιος   2   pedra de fundação; pedra fundamental ♦ οἱ θεμέλιοι   3   fundamentos: ἐκ τῶν θεμελίων desde os fundamentos; completamente ♦ τὸ θεμέλιον   4   fundamento. </def></entryFree><p></p>
+
+<entryFree>θεμελιόω-ῶ<def> 1   estabelecer sobre os fundamentos; fundar; fundamentar ♦ pas.   2   ter fundações, fundamentos; estar solidamente estabelecido, seguro, firme. 〈θεμέλιος〉 </def></entryFree><p></p>
+
+<entryFree>θέμεν, θέμεναι<def> inf. aor.2 ép. de τίθημι. </def></entryFree><p></p>
+
+<entryFree>θέμενος<def> part. aor.2 de τίθημι. </def></entryFree><p></p>
+
+<entryFree>θέμερος, α, ον<def> 1   bem estabelecido; bem posto   2   grave; sério; circunspecto. </def></entryFree><p></p>
+
+<entryFree>θεμερῶπις, ιδος<def> (fem.) de aspecto grave; reservado; tímido. 〈θέμερος, ὤψ〉 </def></entryFree><p></p>
+
+<entryFree>θεμίζω<def> 1   julgar; punir ♦ méd.   2   regrar conforme a justiça. 〈θέμις〉 </def></entryFree><p></p>
+
+<entryFree>θέμις, ιστος,<def> ac. θέμιν, ac. ép. θέμιστα, dat. pl. θέμισσι, ac. pl. θέμιστας (ἡ) sing., ger. na expr. θέμις ἐστί   1   lei ou decreto divino; regra geral; regra estabelecida; permissão: θέμις ἐστί é permitido, φασὶ θέμις εἶναι plat. dizem que é permitido   2   norma; costume; hábito: οὐδέ φασι θέμις εἶναι plat. dizem que não é hábito, θέμις ἐστί é norma, é costume, ἣ θ. ἐστιν ἀγορῇ hom. como é norma na assembléia, ἣ θ. ἐστὶ γυναικός hom. como é normal para uma mulher, οὔ μοι θ. ἐστὶ ξεῖνον ἀτιμῆσαι hom. não é meu costume faltar com a hospitalidade   3   lei estabelecida; direito; justiça   4   penalidade; castigo: ἐκτίνειν ὁμοίαν θέμιν ésql. pagar a punição correspondente ♦ pl.   5   decretos dos deuses; oráculos   6   normas (de justiça); leis; direitos   7   tributos; impostos   8   vereditos; decisões; decretos. 〈τίθημι〉 </def></entryFree><p></p>
+
+<entryFree>Θέμις, ιτος,<def> voc. Θέμι, gen. ép. Θέμιστος, gen. poét. Θέ­μιδος (ἡ) Têmis, deusa da justiça que preside à ordem universal. </def></entryFree><p></p>
+
+<entryFree>θεμιστεύω<def> 1   aplicar a justiça; julgar, dat.   2   governar, gen.   3   expressar a vontade dos deuses; anunciar por meio de oráculo algo, ac., a alguém, dat. 〈θέμις〉 </def></entryFree><p></p>
+
+<entryFree>θεμίστιος, ου<def> (masc.) que preside à justiça; patrono do direito, epít. de Zeus. 〈θεμίζω〉 </def></entryFree><p></p>
+
+<entryFree>Θεμιστοκλέης<def> jôn. = Θεμιστοκλῆς. </def></entryFree><p></p>
+
+<entryFree>Θεμιστόκλειος, ος, ον<def> 1   de Temístocles ♦ τὸ Θεμιστόκλειον   2   túmulo de Temístocles. 〈Θεμιστοκλῆς〉 </def></entryFree><p></p>
+
+<entryFree>Θεμιστοκλῆς, έους (ὁ)<def> Temístocles, general ateniense. 〈θέμις, κλέος〉 </def></entryFree><p></p>
+
+<entryFree>θεμιστῶς<def> adv. conforme a lei; legalmente. </def></entryFree><p></p>
+
+<entryFree>θεμιτός, ή, όν<def> regulamentado pelas leis divinas ou humanas; lícito; justo; conveniente: οὐ θεμιτόν (ἐστιν) não é permitido, inf. 〈θέμις〉 </def></entryFree><p></p>
+
+<entryFree>θεμόω-ῶ<def> (3ª sing. aor. poét. θέμωσε) colocar em estado de, inf. </def></entryFree><p></p>
+
+<entryFree>θέναρ, αρος (τό)<def> 1   palma da mão; cavidade da palma da mão   2   planta do pé   3   pl. os dois músculos que envolvem a palma da mão   4   cavidade em rocha (usada como altar de oferendas)   5   fundo do mar. </def></entryFree><p></p>
+
+<entryFree>θενεῖν<def> inf. aor.2 de θείνω. </def></entryFree><p></p>
+
+<entryFree>θέο<def> imper. aor.2 méd. ép. de τίθημι. </def></entryFree><p></p>
+
+<entryFree>θεοβλάβεια, ας (ἡ)<def> 1   mal enviado pela divindade   2   demência; loucura. 〈θεοβλαβής〉 </def></entryFree><p></p>
+
+<entryFree>θεοβλαβέω-ῶ<def> 1   ofender os deuses; revoltar-se contra os deuses ♦ pas.   2   ser atingido pelos deuses; ser atingido de demência. 〈θεός, βλάπτω〉 </def></entryFree><p></p>
+
+<entryFree>θεοβλαβής, ής, ές<def> atingido pelos deuses; demente; louco. 〈θεός, βλάπτω〉 </def></entryFree><p></p>
+
+<entryFree>θεογεννής, ής, ές<def> nascido de um deus. 〈θεός, γεννάω〉 </def></entryFree><p></p>
+
+<entryFree>Θέογνις, ιδος (ὁ)<def> Teógnis, poeta gnômico. 〈θεός, γίγνομαι〉 </def></entryFree><p></p>
+
+<entryFree>θεογονία, ας (ἡ)<def> 1   nascimento ou origem dos deuses   2   genealogia dos deuses   3   Teogonia, poema de Hesíodo. 〈θεόγονος〉 </def></entryFree><p></p>
+
+<entryFree>θεόγονος, ον<def> de nascimento divino; divino. 〈θεός, γίγνομαι〉 </def></entryFree><p></p>
+
+<entryFree>θεοδίδακτος, ος, ον<def> crist. instruído por Deus. </def></entryFree><p></p>
+
+<entryFree>θεόδμητος, ος, ον<def> 1   construído pelos deuses   2   erguido em honra dos deuses. 〈θεός, δέμω〉 </def></entryFree><p></p>
+
+<entryFree>θεόδοτος, ος, ον<def> 1   dado pelos deuses ♦ ὁ Θεόδοτος   2   Teodoto, n. de h. ♦ τὸ θεόδοτον   3   remédio contra tosse. 〈θεός, δοτός〉 </def></entryFree><p></p>
+
+<entryFree>θεοειδής, ής, ές<def> 1   semelhante aos deuses; divino   2   belo como um deus. 〈θεός, εἶδος〉 </def></entryFree><p></p>
+
+<entryFree>θεοείκελος, ος, ον<def> semelhante aos deuses. 〈θεός, εἴκελος〉 </def></entryFree><p></p>
+
+<entryFree>θεοεχθία<def> e θεοεχθρία, ας (ἡ) inimizade dos deuses. 〈θεός, ἐχθρός〉 </def></entryFree><p></p>
+
+<entryFree>θεόθεν<def> adv.   1   vindo da divindade   2   por obra ou vontade dos deuses. 〈θεός〉 </def></entryFree><p></p>
+
+<entryFree>θεοκλυτέω-ῶ<def> 1   invocar os deuses   2   pedir aos deuses   3   proferir por inspiração divina ♦ méd.   4   ouvir a voz de um deus; ser inspirado pela divindade; profetizar. 〈θεόκλυτος〉 </def></entryFree><p></p>
+
+<entryFree>θεόκλυτος, ος, ον<def> 1   que invoca os deuses   2   ouvido, atendido pelos deuses. 〈θεός, κλύω〉 </def></entryFree><p></p>
+
+<entryFree>θεόκραντος, ος, ον<def> realizado pelos deuses. 〈θεός, κραίνω〉 </def></entryFree><p></p>
+
+<entryFree>θεόκριτος, ου<def> (masc.)   1   juiz de divindades, epít. de Páris ♦ ὁ Θεόκριτος   2   Teócrito, poeta bucólico. 〈θεός, κρίνω〉 </def></entryFree><p></p>
+
+<entryFree>θεόληπτος, ος, ον<def> 1   possuído pela divindade; inspirado pela divindade   2   supersticioso   3   atingido pela divindade; louco. 〈θεός, ληπτός〉 </def></entryFree><p></p>
+
+<entryFree>θεοληψία, ας (ἡ)<def> 1   inspiração   2   superstição   3   possessão; doença divina; loucura; delírio. 〈θεόληπτος〉 </def></entryFree><p></p>
+
+<entryFree>θεολογέω-ῶ<def> 1   discutir sobre os deuses   2   tratar de teologia ♦ méd. pas.   3   ser discutido do ponto de vista da teologia: τὰ θεολογούμενα discussões teológicas. 〈θεολόγος〉 </def></entryFree><p></p>
+
+<entryFree>θεολογία, ας (ἡ)<def> 1   ciência da natureza divina, dos poderes divinos; teologia   2   crist. explicação ou reconhecimento da divindade de Jesus Cristo. 〈θεολόγος〉 </def></entryFree><p></p>
+
+<entryFree>θεολογικός, ή, όν<def> 1   do conhecimento de deus; teológico   2   relativo aos poderes divinos   3   proveniente de uma força divina. 〈θεολόγος〉 </def></entryFree><p></p>
+
+<entryFree>θεολογικῶς<def> adv.   1   à maneira dos teólogos   2   de modo teológico. </def></entryFree><p></p>
+
+<entryFree>θεολόγος, ος, ον<def> 1   que fala dos deuses; que trata da divindade; teólogo   2   que trata das coisas (poeta, filósofo)   3   que transmite a palavra divina (profeta)   4   crist. que admite a divindade do Verbo, do Logos. 〈θεός, λέγω〉 </def></entryFree><p></p>
+
+<entryFree>θεομανής, ής, ές<def> 1   enlouquecido pela divindade; tomado de delírio divino   2   causado pelos deuses. 〈θεός, μαίνομαι〉 </def></entryFree><p></p>
+
+<entryFree>θεόμαντις, εως (ὁ)<def> 1   possuído, inspirado pelos deuses   2   dotado de espírito profético. 〈θεός, μάντις〉 </def></entryFree><p></p>
+
+<entryFree>θεομαχέω-ῶ<def> combater contra os deuses ou contra a divindade. 〈θεομάχος〉 </def></entryFree><p></p>
+
+<entryFree>θεομαχία, ας (ἡ)<def> combate de deuses. 〈θεομάχος〉 </def></entryFree><p></p>
+
+<entryFree>θεομάχος, ος, ον<def> que luta contra os deuses. 〈θεός, μάχομαι〉 </def></entryFree><p></p>
+
+<entryFree>θέομεν<def> 1ª pl. pres. ind. de θέω1 ou 1ª pl. subj. aor.2 poét. de τίθημι. </def></entryFree><p></p>
+
+<entryFree>θεομήστωρ, ορος<def> (masc.)   1   que dá conselhos divinos   2   criado pela sabedoria divina ♦ ὁ Θεομήστωρ   3   Teomestor, tirano de Samos. 〈θεός, μέδομαι〉 </def></entryFree><p></p>
+
+<entryFree>θεομισής, ής, ές<def> 1   que odeia os deuses   2   odiado pelos deuses. 〈θεός, μισέω〉 </def></entryFree><p></p>
+
+<entryFree>θεομυσής, ής, ές<def> odiado pelos deuses. 〈θεός, μύσος〉 </def></entryFree><p></p>
+
+<entryFree>θεοξένια, ων (τά)<def> Teoxênias, festas em louvor de Apolo hospitaleiro, ou dos Dióscuros. 〈θεός, ξένος〉 </def></entryFree><p></p>
+
+<entryFree>θεοξένιος, ου<def> (masc.) protetor dos hóspedes; divinamente hospitaleiro, epít. de Apolo. 〈θεός, ξένος〉 </def></entryFree><p></p>
+
+<entryFree>θεόπεμπτος, ος, ον<def> 1   enviado pelos deuses   2   sobre-humano; extraordinário. 〈θεός, πέμπω〉 </def></entryFree><p></p>
+
+<entryFree>θεόπνευστος, ος, ον<def> inspirado pela divindade. 〈θεός, πνέω〉 </def></entryFree><p></p>
+
+<entryFree>θεοποιέω-ῶ<def> divinizar. 〈θεοποιός〉 </def></entryFree><p></p>
+
+<entryFree>θεοποίητος, ος, ον<def> feito pelos deuses. 〈θεοποιέω〉 </def></entryFree><p></p>
+
+<entryFree>θεοποιΐα, ας (ἡ)<def> 1   deificação   2   fabricação de estátuas divinas; fabricação de deuses. 〈θεοποιός〉 </def></entryFree><p></p>
+
+<entryFree>θεοποιός, ός, όν<def> 1   que diviniza, deifica   2   que cria deuses; que faz estátuas de deuses. 〈θεός, ποιέω〉 </def></entryFree><p></p>
+
+<entryFree>θεοπρεπής, ής, ές<def> digno de um deus; divino; majestoso. 〈θεός, πρέπω〉 </def></entryFree><p></p>
+
+<entryFree>θεοπρεπῶς<def> adv. como convém à divindade; magnificamente. </def></entryFree><p></p>
+
+<entryFree>θεοπροπέω-ῶ<def> (só part. pres. θεοπροπέων) anunciar a vontade dos deuses; proferir oráculos; vaticinar. 〈θεοπρόπος〉 </def></entryFree><p></p>
+
+<entryFree>θεοπροπία, ας (ἡ)<def> predição; oráculo; vaticínio. 〈θεοπρόπος〉 </def></entryFree><p></p>
+
+<entryFree>θεοπρόπιον, ου (τό)<def>  θεοπροπία. </def></entryFree><p></p>
+
+<entryFree>θεοπρόπος, ος, ον<def> 1   que consulta o oráculo   2   que expressa a vontade dos deuses; profético ♦ ὁ θεοπρόπος   3   adivinho; profeta ♦ ἡ θεοπρόπος   4   profetiza ♦ τὸ θεοπρόπον   5   oráculo   6   mensageiro enviado para consultar o oráculo. 〈θεός, πρέπω〉 </def></entryFree><p></p>
+
+<entryFree>θεόπτυστος, ος, ον<def> rejeitado pela divindade. 〈θεός, πτύω〉 </def></entryFree><p></p>
+
+<entryFree>θέορτος, ος, ον<def> 1   suscitado pelos deuses   2   enviado pela divindade. 〈θεός, ὄρνυμι〉 </def></entryFree><p></p>
+
+<entryFree>θεός, οῦ<def> voc. θεός e θεέ, gen. e dat. pl. ép. θέοφιν (ὁ, ἡ)   1   deus; deusa; divindade: σὺν θεῷ, σὺν τῷ θεῷ sóf., σύν γε θεοῖσιν hom. conforme os deuses, segundo a vontade dos deuses, com o auxílio dos deuses, οὔτοι ἄνευ θεοῦ, οὐκ ἄνευθε θεοῦ hom. não sem a intervenção dos deuses, ἐκ θέοφιν πολεμίζει hom. combate por vontade dos deuses, ὑπὲρ θεόν hom. contra a vontade dos deuses, πρὸς θεῶν em nome dos deuses, pelos deuses, θεῶν συνεθελόντων ou βουλομένων com o favor ou aprovação dos deuses, ὑπὸ θεοῦ γίγνεσθαι ser obra de um deus, τὰ παρὰ τῶν θεῶν xen. os sinais (presságios, oráculos) que revelam a vontade dos deuses, ou o culto dos deuses, a religião, τὰ περὶ τοὺς θεούς, τὰ πρὸς τοὺς θεούς xen. o culto dos deuses, κατὰ θεόν τινα eur. segundo a inspiração de um deus, ἔσεισεν ὁ θεός xen. o deus fez tremer a terra, i.e., ocorreu um terremoto   2   santuário ou templo do deus ♦ ἡ θεός   3   a deusa: ἡ νερτέρα θ. a deusa dos infernos (Perséfone), τὼ θεώ as duas deusas (Deméter e Perséfone)   4   tard. deus por apoteose ♦ adj.   5   próprio de deuses. </def></entryFree><p></p>
+
+<entryFree>θεόσδοτος, ος, ον<def>  θεόδοτος. </def></entryFree><p></p>
+
+<entryFree>θεοσέβεια, ας (ἡ)<def> 1   respeito pelos deuses   2   temor da divindade   3   piedade religiosa; religiosidade. 〈θεοσεβής〉 </def></entryFree><p></p>
+
+<entryFree>θεοσεβής, ής, ές<def> 1   que venera os deuses   2   que teme a divindade ♦ τὸ θεοσεβές   3   piedade religiosa. 〈θεός, σέβω〉 </def></entryFree><p></p>
+
+<entryFree>θεοσεβῶς<def> adv. com piedade religiosa, piamente. </def></entryFree><p></p>
+
+<entryFree>θεοσέπτωρ, ορος (ὁ)<def> pessoa piedosa, religiosa. 〈θεός, σέβω〉 </def></entryFree><p></p>
+
+<entryFree>θεόσσυτος<def>  θεόσυτος. </def></entryFree><p></p>
+
+<entryFree>θεοστυγής, ής, ές<def> 1   odiado pelos deuses   2   bíbl. que odeia a Deus. 〈θεός, στυγέω〉 </def></entryFree><p></p>
+
+<entryFree>θεοστύγητος, ος, ον<def> odiado pelos deuses. 〈θεός, στυγέω〉 </def></entryFree><p></p>
+
+<entryFree>θεοσύλης, ου (ὁ)<def> ladrão de templos; sacrílego. 〈θεός, συλάω〉 </def></entryFree><p></p>
+
+<entryFree>θεοσυλία, ας (ἡ)<def> pilhagem de templo; roubo sacrílego. 〈θεόσυλος〉 </def></entryFree><p></p>
+
+<entryFree>θεόσυλος, ου (ὁ, ἡ)<def>  θεοσύλης. </def></entryFree><p></p>
+
+<entryFree>θεόσυτος<def> e θεόσσυτος, ος, ον enviado pelos deuses. 〈θεός, σεύομαι〉 </def></entryFree><p></p>
+
+<entryFree>θεότης, ητος (ἡ)<def> divindade; natureza ou essência divina. 〈θεός〉 </def></entryFree><p></p>
+
+<entryFree>θεοτίμητος, ος, ον<def> honrado pelos deuses. 〈θεός, τιμάω〉 </def></entryFree><p></p>
+
+<entryFree>θεότρεπτος, ος, ον<def> mudado pelos deuses. 〈θεός, τρέπω〉 </def></entryFree><p></p>
+
+<entryFree>θεουδής, ής, ές<def> 1   que teme os deuses; piedoso; religioso   2   semelhante a um deus; divino; belo como um deus. 〈θεός, δέος〉 </def></entryFree><p></p>
+
+<entryFree>θεοφάνια, ων (τά)<def> 1   Teofânias, festa onde se expunham todas as estátuas dos deuses, em Delfos   2   crist. manifestações de Deus; Epifania. 〈θεός, φαίνω〉 </def></entryFree><p></p>
+
+<entryFree>θεόφαντος, ος, ον<def> revelado por Deus. 〈θεός, φαίνω〉 </def></entryFree><p></p>
+
+<entryFree>θεοφιλής, ής, ές<def> 1   amado pelos deuses   2   favorecido, ajudado pela divindade   3   próspero; feliz. 〈θεός, φιλέω〉 </def></entryFree><p></p>
+
+<entryFree>θεοφιλῶς<def> adv.   1   de maneira cara aos deuses: θεοφ. πράττειν comportar-se de modo agradável aos deuses   2   com o favor dos deuses. </def></entryFree><p></p>
+
+<entryFree>θεόφιν<def> gen. e dat. sing. e pl. ép. de θεός. </def></entryFree><p></p>
+
+<entryFree>θεοφορέω-ῶ<def> 1   honrar como um deus   2   divinizar   3   tornar inspirado ♦ pas.   4   ter inspiração divina; ser inspirado por um deus. 〈θεοφόρος〉 </def></entryFree><p></p>
+
+<entryFree>θεοφόρησις, εως (ἡ)<def> inspiração divina. 〈θεοφορέω〉 </def></entryFree><p></p>
+
+<entryFree>θεοφόρητος, ος, ον<def> 1   inspirado por uma divindade   2   que leva uma divindade. 〈θεοφορέω〉 </def></entryFree><p></p>
+
+<entryFree>θεοφορήτως<def> adv. com entusiasmo divino. </def></entryFree><p></p>
+
+<entryFree>θεοφόρος, ος, ον<def> possuído, inspirado por um deus. 〈θεός, φέρω〉 </def></entryFree><p></p>
+
+<entryFree>θεράπαινα, ης (ἡ)<def> criada; mulher escrava. 〈θεράπων〉 </def></entryFree><p></p>
+
+<entryFree>θεραπαινίδιον, ου (τό)<def> criadinha. 〈θεράπαινα〉 </def></entryFree><p></p>
+
+<entryFree>θεραπεία, ας (ἡ)<def> 1   cuidado religioso; culto; homenagem (a deuses): θερ. θεῶν ou περὶ τοὺς θεούς culto dos deuses   2   cuidado; respeito aos pais   3   cuidados preventivos; cortesia; atenção; solicitude: θεραπείᾳ θεραπεύειν τινά xen. envolver alguém de cuidados   4   cuidado físico; cuidado médico; tratamento (de animais, plantas)   5   adorno; embelezamento feminino   6   escolta: ἱππικὴ θερ. xen. escolta a cavalo   7   preparação de remédio. 〈θεραπεύω〉 </def></entryFree><p></p>
+
+<entryFree>θεράπευμα, ατος (τό)<def> 1   ação de cercar de cuidados; serviço; solicitude   2   culto a um deus   3   consideração a um hóspede   4   cuidado   5   tratamento de um mal   6   preparado; remédio   7   criadagem. 〈θεραπεύω〉 </def></entryFree><p></p>
+
+<entryFree>θεράπευον<def> impf. poét. de θεραπεύω. </def></entryFree><p></p>
+
+<entryFree>θεραπευτέος, α, ον<def> adj. verb. de θεραπεύω. </def></entryFree><p></p>
+
+<entryFree>θεραπευτήρ, ῆρος (ὁ)<def>  θεραπευτής. </def></entryFree><p></p>
+
+<entryFree>θεραπευτής, οῦ (ὁ)<def> 1   servidor, partic. servidor ou adorador de um deus   2   aquele que cerca de cuidados; serviçal   3   cortesão   4   aquele que cura, que trata; médico. 〈θεραπεύω〉 </def></entryFree><p></p>
+
+<entryFree>θεραπευτικός, ή, όν<def> 1   inclinado a cercar de cuidados; propenso ao serviço, ao favor; inclinado a servir, a honrar (poderosos, multidão); inclinado a lisonjear (pessoas); inclinado a seguir (razão)   2   curativo; terapêutico ♦ ἡ θεραπευτική   3   arte de curar; terapêutica ♦ τὸ θεραπευτικόν   4   meio terapêutico. 〈θεραπεύω〉 </def></entryFree><p></p>
+
+<entryFree>θεραπευτικῶς<def> adv. com solicitude: θερ. ἔχειν ter cuidado com, ser atencioso com, gen. </def></entryFree><p></p>
+
+<entryFree>θεραπεύω<def> 1   prestar serviços a; respeitar; honrar; venerar: ἀθανάτους θερ. hes. venerar os imortais, ναοὺς θερ. eur. servir, venerar os templos, θερ. πατέρας τε καὶ μητέρας plat. honrar pai e mãe, θερ. τὸ σῶμα plat. ter cuidado com o corpo   2   cuidar; tratar de (cavalos, árvores); cultivar, ac.   3   cuidar de; tratar de; curar (doença, doente), ac.   4   ser adepto de; seguir: θερ. τὸν Στωικόν plut. seguir a doutrina estóica   5   reparar; restaurar: θερ. τὴν δυστυχίαν luc. remediar a desgraça, ἑαυτοὺς ἐκ τοῦ καμάτου θεραπεῦσαι xen. ef. refazer-se da fadiga   6   dispensar atenção; cuidar de algo, ac., para que, inf. ou ὅπως ou ὡς e inf.: τὸ παρὸν θεραπεύειν sóf. cuidar do presente, ταύτην τὴν ἡμέρην θεραπεύουσιν her. cuidam desse dia, festejam esse dia, θεραπεύοντες τὸ μὴ θορυβεῖν tuc. cuidando para que não houvesse tumulto. </def></entryFree><p></p>
+
+<entryFree>θεραπηΐη, ης (ἡ)<def> jôn. = θεραπεία. </def></entryFree><p></p>
+
+<entryFree>θεράπνη, ης (ἡ)<def> escrava; serva. 〈θεράπων〉 </def></entryFree><p></p>
+
+<entryFree>θεραποντίς, ίδος<def> (fem.) de servo ou serva; servil. 〈θεράπων〉 </def></entryFree><p></p>
+
+<entryFree>θεράπων, οντος (ὁ)<def> 1   servidor; ajudante d’armas: εἰμὶ δ᾽ ἐγὼ θεράπων μὲν  Ἐνυαλίοιο ἄνακτος arquíl. sou servidor do soberano Eniálio ♦ adj.   2   devotado; dedicado; cheio de cuidado por, dat. 〈θέραψ〉 </def></entryFree><p></p>
+
+<entryFree>θέραψ, απος (ὁ)<def>  θεράπων. </def></entryFree><p></p>
+
+<entryFree>θερεία, ας (ἡ)<def> cf. θέρειος. </def></entryFree><p></p>
+
+<entryFree>θέρειος, α<def> e ος, ον   1   próprio do verão; do verão ♦ ἡ θερεία [ὥρα]   2   verão. 〈θέρος〉 </def></entryFree><p></p>
+
+<entryFree>θερέω<def> cf. θέρω. </def></entryFree><p></p>
+
+<entryFree>θερίζω<def> (fut. θεριῶ, aor. ἐθέρισα, perf. desus.; pas. aor. ἐθερίσθην, perf. τεθέρισμαι)   1   fazer a colheita de verão; ceifar; colher (grãos, frutos): ὁ θερίζων [λόγος] sofisma do ceifador   2   ceifar; cortar; pilhar; destruir; deitar abaixo: θερ. βροτούς ésql. [Ares] ceifar vidas, θερ. Ἀσίαν plut. pilhar a Ásia   3   intr. passar o verão ♦ méd.   4   fazer a colheita. 〈θέρος〉 </def></entryFree><p></p>
+
+<entryFree>θερίνεος, α, ον<def> jôn. = θερινός. </def></entryFree><p></p>
+
+<entryFree>θερινός, ή, όν<def> 1   do verão: θερ. τροπικός [κύκλος] o trópico de Câncer ♦ τὰ θερινά   2   a estação de verão. 〈θέρος〉 </def></entryFree><p></p>
+
+<entryFree>θερισμός, οῦ (ὁ)<def> 1   colheita   2   bíbl. época da colheita   3   colheita; safra   4   bíbl. campo de trigo. 〈θερίζω〉 </def></entryFree><p></p>
+
+<entryFree>θεριστής, οῦ (ὁ)<def> ceifador; colhedor. 〈θερίζω〉 </def></entryFree><p></p>
+
+<entryFree>θερμαίνω<def> (fut. θερμανῶ, aor. ἐθέρμηνα e ἐθέρμανα, perf. desus.; pas. aor. ἐθερμάνθην, perf. τεθέρμασμαι)   1   aquecer; esquentar   2   fazer secar   3   animar; excitar; inflamar (pessoa). 〈θερμός〉 </def></entryFree><p></p>
+
+<entryFree>θερμασία, ας (ἡ)<def> calor. 〈θερμαίνω〉 </def></entryFree><p></p>
+
+<entryFree>θερμαστρίς, ίδος (ἡ)<def> 1   tipo de pinças ou de tenazes   2   caldeira; caldeirão   3   tipo de martelo   4   dança de pulos. </def></entryFree><p></p>
+
+<entryFree>θερμαϋστρίζω<def> dançar a dança de pulos. 〈θερμαστρίς〉 </def></entryFree><p></p>
+
+<entryFree>θέρμη, ης (ἡ)<def> 1   calor   2   calor febril   3   suor. 〈θερμός〉 </def></entryFree><p></p>
+
+<entryFree>θερμηγορέω-ῶ<def> falar com calor, com veemência. 〈θερμός, ἀγορεύω〉 </def></entryFree><p></p>
+
+<entryFree>θερμόβουλος, ος, ον<def> de índole ardente; de decisões inflamadas; fogoso. 〈θερμός, βουλή〉 </def></entryFree><p></p>
+
+<entryFree>θερμολουτέω-ῶ<def> tomar um banho quente. 〈θερμός, λούω〉 </def></entryFree><p></p>
+
+<entryFree>θερμομιγής, ής, ές<def> moderadamente quente; tépido; morno. 〈θερμός, μίγνυμι〉 </def></entryFree><p></p>
+
+<entryFree>θερμόνοος-ους, οος-ουν, οον-ουν<def> de pensamento caloroso; de mente quente, delirante. 〈θερμός, νόος〉 </def></entryFree><p></p>
+
+<entryFree>Θερμοπύλαι, ῶν (αἱ)<def> Termópilas (lit. portas quentes, i.e., de águas termais), desfiladeiro do Eta entre a Tessália e a Lócrida. 〈θερμός, πύλαι〉 </def></entryFree><p></p>
+
+<entryFree>θερμός, ή<def> e ός, όν   1   quente   2   ardente; abrasador (queimadura, doença)   3   caloroso; ardente; apaixonado; veemente (pessoa)   4   ainda quente; totalmente recente (vestígio, pegada, infelicidade) ♦ θερμά adv., poét.   5   com ardor ♦ τὸ θερμόν   6   calor   7   água quente ♦ τὰ θερμά   8   lugares quentes   9   banhos termais; termas. 〈θέρω〉 </def></entryFree><p></p>
+
+<entryFree>θέρμος, ου (ἡ)<def> tremoço, legume. </def></entryFree><p></p>
+
+<entryFree>θερμότης, ητος (ἡ)<def> calor. 〈θερμός〉 </def></entryFree><p></p>
+
+<entryFree>θερμοτραγέω-ῶ<def> comer tremoços. 〈θερμός, τρώγω〉 </def></entryFree><p></p>
+
+<entryFree>θερμουργός, ός, όν<def> que age com ardor; impetuoso; veemente. 〈θερμός, ἔργον〉 </def></entryFree><p></p>
+
+<entryFree>θέρμω<def> esquentar; aquecer; ferver. 〈θερμός〉 </def></entryFree><p></p>
+
+<entryFree>θέρος, εος-ους,<def> gen. dór. e ép. θέρευς (τό)   1   período quente do ano; estação de calor; verão: τοῦ θέρεος her., θέρους plat., θέρευς hom., θέρει hom., ἐν θέρει no verão, durante o verão, τοῦ θέρους εὐθὺς ἀρχομένου tuc. desde o início do verão, θέρους μεσοῦντος luc. em pleno verão, κατὰ θέρους ἀκμήν xen. no pico do verão   2   colheita: πάγκλαυτον θ. ésql. colheita de lágrimas   3   produção da bela estação; frutos maduros   4   época boa, propícia (para operações militares)   5   rar. um ano da vida. </def></entryFree><p></p>
+
+<entryFree>θέρσομαι<def> fut. de θέρω. </def></entryFree><p></p>
+
+<entryFree>θέρω<def> (fut. θέρσομαι, aor.2 ἐθέρην, aor. subj. θερέω)   1   aquecer; esquentar ♦ méd. pas.   2   aquecer-se; esquentar-se: θ. πυρός hom. aquecer-se ao fogo, θ. πρὸς τὴν εἵλην luc. aquecer-se ao sol   3   tornar-se quente; inflamar-se; abrasar-se (coisas). </def></entryFree><p></p>
+
+<entryFree>θές, θέσθαι<def> imper. e inf. aor.2 de τίθημι. </def></entryFree><p></p>
+
+<entryFree>θέσις, εως (ἡ)<def> 1   disposição; colocação; arranjo; ordem   2   estabelecimento; instituição   3   imposição (de nome); denominação   4   pagamento   5   afirmação   6   deposição; destituição (de armas)   7   Mús. posição (da nota na escala)   8   Métr. batida no chão com o pé ou bastão para marcar os tempos fortes no verso   9   Mús. posição: θ. δακτύλων luc. posição dos dedos nos orifícios da flauta   10   posição geográfica   11   convenção; costume   12   Jur. soma depositada; consignação; garantia; penhor   13   adoção (de criança, de cidadão)   14   Filos. proposição; tese; questão geral para debate   15   determinação arbitrária   16   Gram. posição (de vogal diante de duas consoantes)   17   base (da pata do cavalo)   18   pontuação. </def></entryFree><p></p>
+
+<entryFree>θέσκελος, ος, ον<def> ép.   1   prodigioso; maravilhoso   2   inspirado pela divindade ♦ θέσκελον adv.   3   prodigiosamente; maravilhosamente. 〈θεός, ἐΐσκω〉 </def></entryFree><p></p>
+
+<entryFree>θέσμιος, ος, ον<def> 1   conforme as leis divinas; conforme a norma; legítimo; legal   2   legislador, epít. de divindade ♦ τὸ θέσμιον e τὰ θέσμια   3   leis; costumes   4   ritos. 〈θεσμός〉 </def></entryFree><p></p>
+
+<entryFree>θεσμοθεσία, ας (ἡ)<def> promulgação de norma, de decreto; legislação. 〈θεσμοθέτης〉 </def></entryFree><p></p>
+
+<entryFree>θεσμοθέσιον<def> e θεσμοθετεῖον, ου (τό) lugar de reunião dos legisladores. 〈θεσμοθέτης〉 </def></entryFree><p></p>
+
+<entryFree>θεσμοθετέω-ῶ<def> ser legislador. 〈θεσμοθέτης〉 </def></entryFree><p></p>
+
+<entryFree>θεσμοθέτης, ου (ὁ)<def> 1   tesmoteta, i.e., legislador, em Atenas, arconte encarregado da revisão anual das leis   2   tard. legislador. 〈θεσμός, τίθημι〉 </def></entryFree><p></p>
+
+<entryFree>θεσμός, οῦ (ὁ)<def> 1   lei; qualquer lei ou instituição estabelecida pelos deuses; instituição sagrada; rito; costume antigo   2   lei divina   3   lei escrita   4   rar. tesouro; depósito de dinheiro. </def></entryFree><p></p>
+
+<entryFree>θεσμοφόρια, ων (αἱ)<def> Tesmofórias, festas em honra de Deméter, celebradas pelas mulheres. 〈θεσμοφόρος〉 </def></entryFree><p></p>
+
+<entryFree>θεσμοφοριάζω<def> celebrar as Tesmofórias. 〈θεσμοφόρια〉 </def></entryFree><p></p>
+
+<entryFree>θεσμοφόρος, ου<def> (masc., fem.)   1   legislador, epít. de divindades ♦ τὼ θεσμοφόρω e αἱ θεσμοφόροι   2   as duas legisladoras (Deméter e Perséfone). 〈θεσμός, φέρω〉 </def></entryFree><p></p>
+
+<entryFree>θεσμοφύλαξ, ακος<def> (masc.) guardião das instituições. 〈θεσμός, φύλαξ〉 </def></entryFree><p></p>
+
+<entryFree>θεσπεσίη, ης (ἡ)<def> jôn. expressão da vontade divina. 〈θεσ­πέσιος〉 </def></entryFree><p></p>
+
+<entryFree>θεσπέσιος, α<def> e ος, ον   1   de voz ou som divino   2   de origem divina; profético   3   que vem dos deuses; divino: θεσπεσίῃ [βουλῇ] hom. por vontade divina   4   sagrado   5   tard. inspirado por Deus; divino; santo   6   enviado por Deus (anjo)   7   maravilhoso; prodigioso; surpreendente ♦ ὁ θεσπέσιος [ἄγγελος]   8   mensageiro de deus ♦ θεσπέσιον ὡς ou οἷον adv.   9   maravilhosamente. 〈θέσπις〉 </def></entryFree><p></p>
+
+<entryFree>θεσπεσίως<def> adv.   1   divinamente   2   maravilhosamente; extraordinariamente   3   de maneira indizível. </def></entryFree><p></p>
+
+<entryFree>Θεσπιαί, ῶν (αἱ)<def> Téspias, cidade da Beócia. </def></entryFree><p></p>
+
+<entryFree>Θεσπιᾶσιν<def> adv. em Téspias. </def></entryFree><p></p>
+
+<entryFree>θεσπιδαής, ής, ές<def> 1   aceso pelos deuses   2   que queima com uma violência extraordinária   3   prodigioso; extraordinário. 〈θέσπις, δαίω〉 </def></entryFree><p></p>
+
+<entryFree>θεσπιέπεια, ας<def> (fem.) profético. 〈θέσπις, ἔπος〉 </def></entryFree><p></p>
+
+<entryFree>Θεσπιεύς, έως<def> (masc.)   1   de Téspias ♦ οἱ Θεσπιεῖς   2   os téspios. 〈Θεσπιαί〉 </def></entryFree><p></p>
+
+<entryFree>θεσπίζω<def> (fut. θεσπίσω e át. θεσπιῶ)   1   profetizar; proferir oráculos   2   anunciar algo, ac., a alguém, dat.   3   tard. (imperador) prescrever; determinar. 〈θέσπις〉 </def></entryFree><p></p>
+
+<entryFree>θέσπις, ιος<def> e ιδος, ac. θέσπιν e θέσπιδα (masc., fem.)   1   que fala com os deuses; inspirado pela divindade; divino   2   prodigioso; extraordinário. </def></entryFree><p></p>
+
+<entryFree>θέσπισμα, ατος (τό)<def> 1   ordem divina   2   oráculo; vaticínio. 〈θεσπίζω〉 </def></entryFree><p></p>
+
+<entryFree>θεσπιῳδέω-ῶ<def> 1   ser profeta; pronunciar um oráculo; profetizar   2   cantar por inspiração divina; cantar divinamente. 〈θεσπιῳδός〉 </def></entryFree><p></p>
+
+<entryFree>θεσπιῳδός, ός, όν<def> 1   que canta uma profecia sob inspiração divina; profético ♦ ὁ, ἡ θεσπιῳδός   2   profeta, profetisa. 〈θέσπις, ᾠδή〉 </def></entryFree><p></p>
+
+<entryFree>Θεσπρωτία, ας (ἡ)<def> Tesprócia, região do Épiro. </def></entryFree><p></p>
+
+<entryFree>Θεσπρωτίς, ίδος<def> (fem.) natural de Tesprócia. </def></entryFree><p></p>
+
+<entryFree>Θεσπρωτός, ός, όν<def> da Tesprócia, região a sudoeste do Épiro. </def></entryFree><p></p>
+
+<entryFree>Θεσσαλία,<def> át. Θετταλία, ας (ἡ) Tessália, região do norte da Grécia. </def></entryFree><p></p>
+
+<entryFree>θεσσαλίζω,<def> át. θετταλίζω agir ou falar como um tessálio. 〈Θεσσαλός〉 </def></entryFree><p></p>
+
+<entryFree>Θεσσαλιῆτις, ιδος<def> (fem.) = Θεσσαλιῶτις. </def></entryFree><p></p>
+
+<entryFree>Θεσσαλικός,<def> át. Θετταλικός, ή, όν da Tessália, tessálio. 〈Θεσσαλία〉 </def></entryFree><p></p>
+
+<entryFree>Θεσσαλίς,<def> át. Θετταλίς, ίδος (fem.) da Tessália, tessálio. 〈Θεσσαλία〉 </def></entryFree><p></p>
+
+<entryFree>Θεσσαλιῶτις,<def> át. Θετταλιῶτις, ιδος (ἡ) Tessaliótida, parte da Tessália. 〈Θεσσαλία〉 </def></entryFree><p></p>
+
+<entryFree>Θεσσαλονικεύς, έως (ὁ)<def> bíbl. habitante de Tessalônica; tessalonicense. 〈Θεσσαλονίκη〉 </def></entryFree><p></p>
+
+<entryFree>Θεσσαλονίκη, ης (ἡ)<def> Tessalônica, filha de Filipe rei da Macedônia; cidade da Macedônia. 〈Θεσσαλός, νίκη〉 </def></entryFree><p></p>
+
+<entryFree>Θεσσαλός,<def> át. Θετταλός, ή, όν da Tessália, Tessálio. </def></entryFree><p></p>
+
+<entryFree>Θεστιάς, άδος (ἡ)<def> filha de Téstio, epít. de Altéia, de Leda. </def></entryFree><p></p>
+
+<entryFree>Θέστιος, ου (ὁ)<def> Téstios, rei mítico. </def></entryFree><p></p>
+
+<entryFree>Θεστόρειος, ου<def> (masc.) filho de Testor, epít. de Calcas. </def></entryFree><p></p>
+
+<entryFree>Θεστορίδης, ου (ὁ)<def> ép. filho de Testor, Calcas ou Alcmeon. </def></entryFree><p></p>
+
+<entryFree>θεσφατηλόγος, ος, ον<def> que profere oráculos; profético. 〈θέσφατος, λόγος〉 </def></entryFree><p></p>
+
+<entryFree>θέσφατος, ος, ον<def> 1   anunciado, predito ou ordenado pelos deuses; pressagiado: θέσφατόν ἐστι hom. é vontade dos deuses, or. inf.   2   de origem divina; divino: ἀὴρ θ. hom. ar divino   3   prodigioso; divino ♦ τὸ θέσφατον   4   predição; oráculo. 〈θεός, φατός〉 </def></entryFree><p></p>
+
+<entryFree>θετέος, α, ον<def> adj. verb. de τίθημι. </def></entryFree><p></p>
+
+<entryFree>θετικός, ή, όν<def> 1   Jur. relativo à adoção (leis)   2   capaz de atribuir nomes   3   suscetível de afirmar   4   suscetível de ser posto em discussão   5   suscetível de ser posto como regra. 〈τίθημι〉 </def></entryFree><p></p>
+
+<entryFree>θετικῶς<def> adv.   1   em aposição   2   positivamente; afirmativamente. </def></entryFree><p></p>
+
+<entryFree>Θέτις, ιδος<def> e ιος, voc. Θέτι, ac. Θέτιν (ἡ) Tétis, deusa marinha, casada com Peleu, mãe de Aquiles. </def></entryFree><p></p>
+
+<entryFree>θετός, ή, όν<def> 1   estabelecido; posto   2   adotado; adotivo (filho). 〈τίθημι〉 </def></entryFree><p></p>
+
+<entryFree>Θετταλία<def> át. = Θεσσαλία. </def></entryFree><p></p>
+
+<entryFree>θετταλίζω<def> át. = θεσσαλίζω. </def></entryFree><p></p>
+
+<entryFree>Θετταλικός<def> át. = Θεσσαλικός. </def></entryFree><p></p>
+
+<entryFree>Θετταλίς<def> át. = Θεσσαλίς. </def></entryFree><p></p>
+
+<entryFree>θεύσομαι, θεύσεαι<def> 1ª e 2ª sing. fut. poét. de θέω1. </def></entryFree><p></p>
+
+<entryFree>θέω1<def> (fut. θεύσομαι e θεύσω, aor. e perf. desus.)   1   correr: θ. πεδίοιο hom. correr pela planície, ἐπ᾽ ἄκρον ἁλός hom. correr sobre a superfície do mar   2   percorrer   3   disputar o prêmio da corrida: θ. περὶ τρίποδος hom. disputar a corrida por um tripé, τὸν περὶ τοῦ παντὸς δρόμον θέειν her. correr uma corrida decisiva (em que se arrisca tudo)   4   correr um risco; arriscar-se   5   (coisa) estender-se; propagar-se: φλὲψ ἀνὰ νῶτα θέουσα hom. veia que corre dorso acima. </def></entryFree><p></p>
+
+<entryFree>θέω2<def> brilhar. </def></entryFree><p></p>
+
+<entryFree>θέω3<def> subj. aor.2 poét. e jôn. de τίθημι. </def></entryFree><p></p>
+
+<entryFree>θεωρέω-ῶ<def> (fut. θεωρήσω, aor. ἐθεώρησα, perf. τεθε­ώρηκα)   1   contemplar; olhar; observar: θ. γῆν πολλήν her. contemplar uma grande extensão de terra   2   ser espectador; assistir a, ac.: θ. τὰ  Ὀλύμπια her. assistir aos jogos olímpicos, θ. ἀγῶνα her. ser espectador de uma disputa   3   ir como espectador a, εἰς e ac.: θ. ἐς  Ὀλυμπίαν luc. ir como espectador a Olímpia   4   ser observador oficial; ser enviado como deputado (θεωρός) a festas ou para consultar oráculo   5   ver; considerar; examinar, ac., or. inter.   6   julgar por comparação; comparar, uma coisa, ac., com outra, dat. ou πρός e ac.   7   refletir; meditar sobre algo, περί e gen.   8   especular; interpretar   9   contemplar misticamente   10   Mil. passar em revista. 〈θεωρός〉 </def></entryFree><p></p>
+
+<entryFree>θεώρημα, ατος (τό)<def> 1   vista; espetáculo; objeto de contemplação, de observação   2   especulação; teoria; objeto de especulação   3   contemplação; pesquisa; meditação   4   norma; princípio; regra   5   preceito moral   6   esquema   7   Matem. teorema ♦ τὰ θεωρήματα   8   artes e ciências. 〈θεωρέω〉 </def></entryFree><p></p>
+
+<entryFree>θεωρητήριον, ου (τό)<def> lugar no teatro. 〈θεωρέω〉 </def></entryFree><p></p>
+
+<entryFree>θεωρητικός, ή, όν<def> 1   capaz de perceber   2   levado a contemplar; próprio, conveniente à contemplação; contemplativo; especulativo. 〈θεωρητός〉 </def></entryFree><p></p>
+
+<entryFree>θεωρητός, ή, όν<def> 1   que se pode contemplar; visível; perceptível   2   que pode ser contemplado ou atingido pelo pensamento; inteligível. 〈θεωρέω〉 </def></entryFree><p></p>
+
+<entryFree>θεωρία, ας,<def> jôn. θεωρίη (ἡ)   1   ação de ver, de observar: θεωρίης εἵνεκεν ἐκδημεῖν her. viajar para ver o mundo   2   ação de ver uma festa, um espetáculo: ἀντὶ τῆς θεωρίας sóf. ao invés de ficar para ver as festas   3   festa solene; procissão   4   espetáculo   5   teoria, missão enviada por uma cidade às grandes festas de uma outra cidade   6   função de teoro, de deputado   7   contemplação pelo pensamento; consideração; meditação   8   teoria; especulação. 〈θεωρός〉 </def></entryFree><p></p>
+
+<entryFree>θεωρικός, ή, όν<def> 1   que concerne aos teoros; próprio da embaixada   2   que concerne aos lugares do teatro   3   de espetáculo; festivo ♦ τὸ θεωρικόν e τὰ θεωρικά   4   teóricon, dinheiro que se dava aos pobres para pagar o lugar no teatro. 〈θεωρία〉 </def></entryFree><p></p>
+
+<entryFree>θεωρίς, ίδος<def> (fem.)   1   que diz respeito às teorias, às embaixadas♦ ἡ θεωρίς   2   [ναῦς] nau da teoria, navio sagrado que transportava os teoros   3   [ὁδός] caminho da teoria, percorrido pelos teoros ♦ αἱ θεωρίδες   4   sacerdotisas de Apolo Teoro. </def></entryFree><p></p>
+
+<entryFree>θεωρός, οῦ (ὁ)<def> 1   observador; contemplador que viaja para ver o mundo   2   espectador de jogos, de espetáculos públicos   3   teoro; embaixador enviado em missão a uma cidade para assistir a festas, consultar oráculo, recolher ofertas   4   magistrado. </def></entryFree><p></p>
+
+<entryFree>θεώτερος<def> comp. de θεός. </def></entryFree><p></p>
+
+<entryFree>Θῆβαι, ῶν (αἱ)<def> Tebas, n. de cidade da Beócia e de cidade egípcia. 〈Θήβη〉 </def></entryFree><p></p>
+
+<entryFree>Θηβαιεύς, έως<def> (masc.) tebano. 〈Θῆβαι〉 </def></entryFree><p></p>
+
+<entryFree>Θηβαϊκός, ή, όν<def> 1   tebano; de Tebas ♦ οἱ Θηβαῖοι   2   os tebanos. 〈Θῆβαι〉 </def></entryFree><p></p>
+
+<entryFree>Θηβαῖος, α, ον<def>  Θηβαϊκός. 〈Θῆβαι〉 </def></entryFree><p></p>
+
+<entryFree>Θηβαΐς, ΐδος<def> (fem.)   1   de Tebas ♦ ἡ Θηβαΐς   2   região de Tebas, na Beócia   3   Tebaida, no Egito   4   Tebaida, poema épico sobre a guerra de Tebas após a morte de Édipo. 〈Θῆβαι〉 </def></entryFree><p></p>
+
+<entryFree>Θήβασδε<def> adv. para Tebas; em direção a Tebas. 〈Θῆβαι, -δε〉 </def></entryFree><p></p>
+
+<entryFree>Θήβη, ης (ἡ)<def> Tebe, n. de cidade da Beócia e da Tróade. </def></entryFree><p></p>
+
+<entryFree>Θήβηθεν<def> adv. de Tebas, na Beócia. 〈Θήβη, -θεν〉 </def></entryFree><p></p>
+
+<entryFree>Θήβῃσι(ν)<def> adv. em Tebas, na Beócia. 〈Θῆβαι〉 </def></entryFree><p></p>
+
+<entryFree>θηγάνη, ης (ἡ)<def> 1   pedra de amolar   2   aguilhão; ferrão. 〈θήγω〉 </def></entryFree><p></p>
+
+<entryFree>θηγάνω<def>  θήγω. </def></entryFree><p></p>
+
+<entryFree>θήγω<def> (fut. θήξω, aor. ἔθηξα, perf. desus.; perf. pas. τέθη­γμαι)   1   afiar; amolar: θ. ὀδόντα hom. [o javali] afiar as presas, θ. φάσγανον ésql. afiar a espada, λόγοι τεθηγμένοι ésql. palavras afiadas, mordazes   2   tornar agudo; excitar: θ. τὰς ψυχὰς εἰς τὰ πολεμικά xen. excitar as almas à guerra   3   intr. excitar-se ♦ méd.   4   afiar para si. </def></entryFree><p></p>
+
+<entryFree>θηέομαι-οῦμαι<def> (só pres. opt. 2ª sing. θηοῖο, part. jôn. θηεύμενος, impf. 1ª pl. ép. ἐθηεύμεσθα, 3ª pl. jôn. ἐθηεῦντο e θηεῦντο) ép. e jôn. = θεάομαι. </def></entryFree><p></p>
+
+<entryFree>θηεύμενος, θηεῦντο<def> cf. θηέομαι. </def></entryFree><p></p>
+
+<entryFree>θήῃς<def> 2ª sing. subj. aor.2 de τίθημι. </def></entryFree><p></p>
+
+<entryFree>θηητήρ, ῆρος (ὁ)<def> que olha com admiração; contemplador; admirador. 〈θηέομαι〉 </def></entryFree><p></p>
+
+<entryFree>θηΐον<def> ép. cf. θεῖος2. </def></entryFree><p></p>
+
+<entryFree>θηκαῖος, α, ον<def> em forma de túmulo; sepulcral; funerário. 〈θήκη〉 </def></entryFree><p></p>
+
+<entryFree>θήκη, ης (ἡ)<def> 1   caixa; cofre; arca   2   bainha de espada   3   urna   4   túmulo. 〈τίθημι〉 </def></entryFree><p></p>
+
+<entryFree>θηκτός, ή, όν<def> afiado; amolado. 〈θήγω〉 </def></entryFree><p></p>
+
+<entryFree>θηλάζω<def> 1   amamentar; dar o seio   2   mamar   3   acalmar ♦ méd.   4   dar de mamar; aleitar: αἱ θηλαζόμεναι as amas de leite. 〈θηλή〉 </def></entryFree><p></p>
+
+<entryFree>θηλασμός, οῦ (ὁ)<def> amamentação. 〈θηλάζω〉 </def></entryFree><p></p>
+
+<entryFree>θήλεα<def> n. pl. e fem. jôn. de θῆλυς. </def></entryFree><p></p>
+
+<entryFree>θήλεας<def> ac. pl. masc. de θῆλυς. </def></entryFree><p></p>
+
+<entryFree>θηλέη<def> fem. jôn. de θῆλυς. </def></entryFree><p></p>
+
+<entryFree>θηλέω-ῶ<def> 1   ser abundante em algo, gen. ou dat.   2   florescer; estar florescente. </def></entryFree><p></p>
+
+<entryFree>θηλή, ῆς (ἡ)<def> 1   mamilo   2   extremidade do seio   3   seio. </def></entryFree><p></p>
+
+<entryFree>θηλονή, ῆς (ἡ)<def> ama de leite. 〈θηλή〉 </def></entryFree><p></p>
+
+<entryFree>θηλυγενής, ής, ές<def> de mulher; do sexo feminino. 〈θῆλυς, γίγνομαι〉 </def></entryFree><p></p>
+
+<entryFree>θηλυδρίας, ου<def> (masc.) efeminado. 〈θῆλυς, ὕδωρ〉 </def></entryFree><p></p>
+
+<entryFree>θηλυκρατής, ής, ές<def> que domina as mulheres. 〈θῆλυς, κρατέω〉 </def></entryFree><p></p>
+
+<entryFree>θηλυκτόνος, ος, ον<def> que mata pela mão de uma mulher. 〈θῆλυς, κτείνω〉 </def></entryFree><p></p>
+
+<entryFree>θηλυμίτρης, ου<def> (masc.) que ata nos cabelos fitas de mulher, ref. a Dioniso. 〈θῆλυς, μίτρα〉 </def></entryFree><p></p>
+
+<entryFree>θηλύμιτρις, ιδος<def> (masc., fem.) = θηλυμίτρης. </def></entryFree><p></p>
+
+<entryFree>θηλύνοος-ους, οος-ους, οον-ουν<def> que tem espírito ou pensamentos de mulher. 〈θῆλυς, νόος〉 </def></entryFree><p></p>
+
+<entryFree>θηλύνω<def> (fut. desus., aor. ἐθήλυνα, perf. τεθήλυγκα; pas. aor. ἐθηλύνθην, perf. τεθήλυσμαι)   1   efeminar; tornar menos forte; tornar menos rude   2   enfraquecer; abrandar: θ. στόμα sóf. abrandar a rudeza da boca, da palavra ♦ méd.   3   vangloriar-se como uma mulher, de algo, dat. 〈θῆλυς〉 </def></entryFree><p></p>
+
+<entryFree>θηλύπους, ους, ουν<def> gen. ποδος de um pé feminino. 〈θῆλυς, ποῦς〉 </def></entryFree><p></p>
+
+<entryFree>θῆλυς, θήλεια<def> e poét. θῆλυς, θῆλυ, gen. εος, είας, εος (comp. θηλύτερος, superl. θηλύτατος)   1   feminino: θή­λεια θεός hom. uma deusa, ἄπαις θήλεος γόνου her. sem descendência feminina, θήλεια ἵππος hom. égua   2   de mulher; que concerne à mulher: θήλεια φύσις plat. natureza feminina   3   terno; delicado; suave: θήλειαι παρειαί cal. faces delicadas   4   afeminado; mole: θ. δίαιτα plut. regime de vida feminino, θ. νοῦσος her. doença feminina, i.e., comportamento de homem devasso   5   fresco; refrescante: θῆλυς ἐέρση hom. sereno refrescante   6   produtivo: θῆλυ πεδίον cal. planície fértil, produtiva   7   comp. θηλύτερος feminino ♦ τὸ θῆλυ   8   número feminino, i.e., o número par, para os pitagóricos ♦ ἡ θήλεια   9   a mulher. </def></entryFree><p></p>
+
+<entryFree>θηλύσπορος, ος, ον<def> produzido ou gerado por uma mulher. 〈θῆλυς, σπείρω〉 </def></entryFree><p></p>
+
+<entryFree>θηλύτατος, θηλύτερος<def> cf. θῆλυς. </def></entryFree><p></p>
+
+<entryFree>θηλύτης, ητος (ἡ)<def> 1   caráter feminino; natureza feminina   2   sensualidade feminina   3   natureza efeminada. 〈θῆλυς〉 </def></entryFree><p></p>
+
+<entryFree>θηλυφανής, ής, ές<def> que tem a aparência de mulher; de mulher; feminino. 〈θῆλυς, φαίνω〉 </def></entryFree><p></p>
+
+<entryFree>θηλύφωνος, ος, ον<def> de voz feminina. 〈θῆλυς, φωνή〉 </def></entryFree><p></p>
+
+<entryFree>θηλυχίτων, ωνος<def> (masc., fem.) vestido com túnica de mulher; vestido de mulher. 〈θῆλυς, χιτών〉 </def></entryFree><p></p>
+
+<entryFree>θηλώ, οῦς (ἡ)<def> ama de leite; nutriz. 〈θηλή〉 </def></entryFree><p></p>
+
+<entryFree>θἤμισυ<def> crase át. de τὸ ἥμισυ. </def></entryFree><p></p>
+
+<entryFree>θημών, ῶνος (ὁ)<def> pilha; monte (de coisas, de cereais). 〈τίθημι〉 </def></entryFree><p></p>
+
+<entryFree>θήν<def> partíc. encl. poét.   1   pois então! ἦ θην hom. sim, por certo, οὔ θην δή hom. não, seguramente não   2   iron. sem dúvida; eu penso. </def></entryFree><p></p>
+
+<entryFree>θηοῖο<def> cf. θηέομαι. </def></entryFree><p></p>
+
+<entryFree>θήρ, θηρός (ὁ,<def> post. ἡ)   1   animal selvagem; fera   2   animal terrestre, op. a aves e peixes   3   animal em geral   4   animal doméstico ou engaiolado   5   animal monstruoso; ser monstruoso (Centauro, Esfinge). </def></entryFree><p></p>
+
+<entryFree>θήρα, ας (ἡ)<def> 1   caça   2   pesca   3   busca ardente; cobiça   4   despojo de caça; presa   5   tard. pl. reserva de caça ♦ ἡ Θήρα   6   Tera, uma das ilhas Espórades. 〈θήρ〉 </def></entryFree><p></p>
+
+<entryFree>θήραμα, ατος (τό)<def> 1   objeto da caça ou da pesca; presa   2   isca   3   engodo; incentivo. 〈θηράω〉 </def></entryFree><p></p>
+
+<entryFree>Θηραμένης, ους (ὁ)<def> Terâmenes, n. de h. </def></entryFree><p></p>
+
+<entryFree>θηράσιμος, ος, ον<def> que se pode caçar. 〈θηράω〉 </def></entryFree><p></p>
+
+<entryFree>θηρατέος, α, ον<def> adj. verb. de θηράω. </def></entryFree><p></p>
+
+<entryFree>θηρατήρ, ῆρος (ὁ)<def> caçador. 〈θηράω〉 </def></entryFree><p></p>
+
+<entryFree>θηρατής, οῦ (ὁ)<def> 1   caçador   2   aquele que procura; aquele que persegue (discursos, glória). 〈θηράω〉 </def></entryFree><p></p>
+
+<entryFree>θηρατικός, ή, όν<def> 1   da caça; para caça   2   amigo da caça ♦ τὰ θηρατικά   3   a arte da conquista de algo, gen. 〈θηρατός〉 </def></entryFree><p></p>
+
+<entryFree>θηρατός, ή, όν<def> que se pode perseguir; que se pode caçar. 〈θηράω〉 </def></entryFree><p></p>
+
+<entryFree>θήρατρον, ου (τό)<def> instrumento de caça ou pesca; rede. 〈θηράω〉 </def></entryFree><p></p>
+
+<entryFree>θηράτωρ, ορος (ὁ)<def> caçador. 〈θηράω〉 </def></entryFree><p></p>
+
+<entryFree>θηράω-ῶ<def> (impf. ἐθήρων, fut. θηράσω, aor. ἐθήρασα, perf. τεθήρακα; pas. fut. θηραθήσομαι, aor. ἐθηράθην, perf. desus.)   1   caçar ou pescar   2   capturar (pessoa)   3   apanhar; alcançar a presa   4   conquistar (cidade)   5   cativar; atrair; seduzir (pelas maneiras, pela linguagem)   6   arder de paixão por; perseguir; cobiçar   7   procurar; desejar, inf. ♦ méd.   8   caçar ou pescar   9   capturar   10   perseguir; procurar alcançar, ac. ou inf.: θ. πυρὸς πηγήν ésql. procurar chegar à fonte do fogo, θ. ἁρπάσαι sóf. procurar arrebatar. 〈θήρα〉 </def></entryFree><p></p>
+
+<entryFree>θήρειος, ος<def> e α, ον de animal selvagem; de fera. 〈θήρ〉 </def></entryFree><p></p>
+
+<entryFree>θήρευμα, ατος (τό)<def> 1   despojo de caça; presa   2   caça; perseguição. 〈θηρεύω〉 </def></entryFree><p></p>
+
+<entryFree>θηρευτής, οῦ (ὁ)<def> 1   caçador   2   pescador ♦ adj.   3   de caça: κύων θ. hom. cão de caça   4   caçador; perseguidor obstinado. 〈θηρεύω〉 </def></entryFree><p></p>
+
+<entryFree>θηρευτικός, ή, όν<def> 1   de caça; próprio da caça   2   do caçador   3   que persegue; que busca ♦ ἡ θηρευτική [τέχνη] e τὸ θηρευτικόν   4   a arte de caçar. 〈θηρευτός〉 </def></entryFree><p></p>
+
+<entryFree>θηρευτός, ή, όν<def>  θηρατός. </def></entryFree><p></p>
+
+<entryFree>θηρεύω<def> 1   caçar ou pescar   2   capturar (pessoas)   3   esforçar-se por conseguir; cobiçar ♦ méd.   4   caçar   5   capturar   6   perseguir; procurar alcançar. 〈θήρα〉 </def></entryFree><p></p>
+
+<entryFree>θήρη, θηρητήρ, θηρήτωρ<def> jôn. = θήρα, θηρατήρ, θηράτωρ. </def></entryFree><p></p>
+
+<entryFree>θηριακός, ή, όν<def> 1   relativo a animais selvagens venenosos   2   eficaz contra mordida de animal selvagem; antídoto ♦ ἡ θηριακή   3   teriaga ♦ τὰ Θηριακά   4   Teríacas, poema de Nicandro. 〈θηρίον〉 </def></entryFree><p></p>
+
+<entryFree>θηριομαχέω-ῶ<def> tard. combater feras. 〈θηριομάχος〉 </def></entryFree><p></p>
+
+<entryFree>θηριομάχος, ος, ον<def> tard. que luta contra as feras. 〈θηρίον, μάχομαι〉 </def></entryFree><p></p>
+
+<entryFree>θηρίον, ου (τό)<def> 1   animal selvagem, feroz, peçonhento   2   bicho de qualquer espécie, em op. a homem   3   fera; monstro (pessoa, doença). 〈θήρ〉 </def></entryFree><p></p>
+
+<entryFree>θηριόω-ῶ<def> 1   rar. transformar-se em animal selvagem ♦ pas.   2   tornar-se animal selvagem   3   assemelhar-se a animal selvagem; tornar-se brutal, irascível   4   (doença) tornar-se maligno   5   infestar-se de bichos. 〈θηρίον〉 </def></entryFree><p></p>
+
+<entryFree>θηριώδης, ης, ες<def> 1   da natureza de animal selvagem; de natureza semelhante à dos animais selvagens   2   selvagem; feroz   3   brutal; bestial   4   maligno   5   infestado de animais selvagens ♦ τὸ θηριῶδες   6   caráter selvagem; brutalidade. 〈θηρίον〉 </def></entryFree><p></p>
+
+<entryFree>θηριωδία, ας (ἡ)<def> bestialidade; brutalidade; ferocidade. 〈θηριώδης〉 </def></entryFree><p></p>
+
+<entryFree>θηριωδῶς<def> adv. de modo bestial ou selvagem; ferozmente. 〈θηριώδης〉 </def></entryFree><p></p>
+
+<entryFree>θηρίωσις, εως (ἡ)<def> tard. metamorfose em animal selvagem   2   brutalidade; bestialiadade. 〈θηριόω〉 </def></entryFree><p></p>
+
+<entryFree>θηροβολέω-ῶ<def> traspassar animais selvagens com flechas; ferir animais selvagens. 〈θήρ, βάλλω〉 </def></entryFree><p></p>
+
+<entryFree>θηρομιγής, ής, ές<def> 1   semi-selvagem (Centauro)   2   semelhante ao de um animal selvagem. 〈θηρίον, μείγνυμι〉 </def></entryFree><p></p>
+
+<entryFree>θηροφόνος, ος<def> e η, ον   1   que mata animais selvagens ♦ τὸ θηροφόνον   2   acônito, planta. 〈θηρίον, φόνος〉 </def></entryFree><p></p>
+
+<entryFree>θής, θητός (ὁ)<def> 1   trabalhador assalariado; mercenário   2   pl. os tetas, os lavradores, em Atenas, membros da quarta e última classe censitária da Constituição de Sólon. </def></entryFree><p></p>
+
+<entryFree>θήσατο<def> 3ª sing. aor. méd. ép. de θάομαι1. </def></entryFree><p></p>
+
+<entryFree>θησαυρίζω<def> 1   guardar; depositar; entesourar (riquezas, bens)   2   acumular; amontoar   3   reservar à parte   4   conservar com cuidado; preservar: οὕτω θησαυρίζουσι τὸν νεκρὸν ἐν οἰκήματι θηκαίῳ her. assim guardam o cadáver como um tesouro, num aposento funerário ♦ méd.   5   separar para uso próprio. 〈θησαυρός〉 </def></entryFree><p></p>
+
+<entryFree>θησαύρισμα, ατος (τό)<def> tesouro; reserva; acúmulo. 〈θη­σαυρίζω〉 </def></entryFree><p></p>
+
+<entryFree>θησαυροποιός, ός, όν<def> que acumula, entesoura; acumulador de tesouros. 〈θησαυρός, ποιέω〉 </def></entryFree><p></p>
+
+<entryFree>θησαυρός, οῦ (ὁ)<def> 1   depósito de dinheiro   2   depósito de coisas preciosas   3   local de depósito de objetos de valor ou de dinheiro; cofre   4   tesouro de um templo   5   poét. carcás; aljava   6   prisão subterrânea, em Messina ♦ ὁ Θησαυρός   7   Tesouro, person. </def></entryFree><p></p>
+
+<entryFree>Θήσεια, ων (τά)<def> cf. Θήσειος. </def></entryFree><p></p>
+
+<entryFree>Θησεῖδης, ου<def> (masc.)   1   filho de Teseu ♦ οἱ Θησεῖδαι   2   os Teseidas, descendentes de Teseu, freq. os Atenienses ♦ τὼ Θησείδα   3   os dois filhos de Teseu. 〈Θησεύς〉 </def></entryFree><p></p>
+
+<entryFree>Θήσειος, α, ον<def> 1   de Teseu ♦ τὸ Θήσειον ou Θησεῖον   2   templo de Teseu ♦ τὰ Θήσεια ou Θησεῖα   3   festas de Teseu, em Atenas. 〈Θησεύς〉 </def></entryFree><p></p>
+
+<entryFree>θησέμεναι<def> inf. fut. at. poét. de τίθημι. </def></entryFree><p></p>
+
+<entryFree>Θησεύς, έως (ὁ)<def> Teseu, herói ateniense, filho de Egeu. </def></entryFree><p></p>
+
+<entryFree>Θησηΐς, ίδος<def> (fem.)   1   de Teseu ♦ ἡ Θησηΐς   2   corte de cabelo à moda de Teseu, i.e., com a frente da testa tosada   3   Teseida, poema sobre Teseu. 〈Θησεύς〉 </def></entryFree><p></p>
+
+<entryFree>θῆσθαι<def> inf. pres. méd. jôn. de θάομαι. </def></entryFree><p></p>
+
+<entryFree>θήσομαι<def> 1ª sing. fut. méd. de τίθημι. </def></entryFree><p></p>
+
+<entryFree>θῆσσα1, ης,<def> át. θῆττα, ας (ἡ)   1   serva assalariada ♦ adj.   2   de serva assalariada; de pobre. 〈θής〉 </def></entryFree><p></p>
+
+<entryFree>θῆσσα2, ης (ἡ)<def> carro sagrado para o transporte de estátuas de deuses. </def></entryFree><p></p>
+
+<entryFree>θήσω<def> fut. at. de τίθημι. </def></entryFree><p></p>
+
+<entryFree>θῆτα (τό)<def> indecl. teta, oitava letra do alfabeto grego. </def></entryFree><p></p>
+
+<entryFree>θητεία, ας (ἡ)<def> 1   trabalho de mercenário; serviço assalariado   2   tard. servilismo. 〈θητεύω〉 </def></entryFree><p></p>
+
+<entryFree>θἠτέρᾳ<def> crase de τῇ ἑτέρᾳ. </def></entryFree><p></p>
+
+<entryFree>θητεύω<def> 1   trabalhar por salário   2   estar assalariado; trabalhar para alguém, dat., junto de alguém, παρά e dat., por algo, εἰς e ac. 〈θής〉 </def></entryFree><p></p>
+
+<entryFree>θητικός, ή, όν<def> 1   de assalariado   2   que se comporta como servo; servil ♦ τὸ θητικόν   3   classe dos tetas, dos cidadãos pobres em Atenas   4   taxa devida pelos cidadãos pobres. 〈θής〉 </def></entryFree><p></p>
+
+<entryFree>θῆττα<def> át. = θῆσσα1. </def></entryFree><p></p>
+
+<entryFree>θιασάρχης, ου (ὁ)<def> chefe de um tíaso; líder de um tíaso. 〈θίασος, ἄρχω〉 </def></entryFree><p></p>
+
+<entryFree>θίασος, ου (ὁ)<def> 1   tíaso, grupo que se reunia para imolar a um deus, sobretudo a Dioniso, e que percorria caminhos cantando, dançando e gritando   2   grupo barulhento; turba; multidão   3   festa; banquete. </def></entryFree><p></p>
+
+<entryFree>θιασώτης, ου (ὁ)<def> 1   membro de um tíaso   2   adorador de uma divindade   3   companheiro de tíaso   4   adepto; discípulo (de filósofo)   5   que preside aos tíasos, epít. de Baco. 〈θίασος〉 </def></entryFree><p></p>
+
+<entryFree>θιγγάνω<def> (impf. ἐθίγγανον, fut. θίξω, aor.2 ἔθιγον, poét. θίγον, perf. desus.; pas. aor. ἐθίχθην, perf. desus.)   1   tocar em algo ou alguém, gen. ou dat.: θιγ. χερί ou χερσί tocar com a mão ou as mãos, πατρὸς φιλότητι θιγών sóf. tocando com amor o pai, θιγεῖν ὠλέναισιν τέχνου eur. tocar com os braços, i.e., envolver, abraçar o filho   2   ter relações sexuais com, gen.: γυναικὸς ἐμῆς θιγεῖν eur. ter relações sexuais com minha mulher   3   tocar em; atacar; agredir, gen.: τίς δ᾽ ἂν ἔτλη τοῦ σώματος τοῦ σοῦ θιγεῖν; eur. quem ousaria tocar em teu corpo?, παντὸς λόγου κακοῦ γλώσσῃ θιγ. sóf. expressar toda espécie de velhacaria   4   tocar (sentimentos); comover; sensibilizar, gen. ou πρός e ac.: οὗτος ἔθιγέ πως ὁ λόγος τῆς γυναικός plut. esta palavra de algum modo tocou a mulher, πολλὰ θιγγάνει πρὸς ἧπαρ ésql. muitas [dores] tocam o coração   5   conseguir tocar; atingir; vencer, gen.: ἐν ἀέθλοισι θίγον πλείστων ἀγώνων pínd. nos jogos venceram muitos concursos   6   alcançar; conseguir, dat.: θιγ. ἡσυχίᾳ pínd. alcançar a tranqüilidade   7   tocar em (assunto), gen. </def></entryFree><p></p>
+
+<entryFree>θινώδης, ης, ες<def> 1   coberto de areia; arenoso; saibroso   2   de aspecto semelhante a duna. 〈θίς〉 </def></entryFree><p></p>
+
+<entryFree>θίς, θινός (ὁ<def> e ἡ)   1   monte; pilha; acúmulo: θῖνες νεκρῶν ésql. pilhas de cadáveres   2   banco de areia   3   areia à beira-mar; praia   4   areia do fundo do mar; lama; lodo   5   areia do deserto   6   duna. </def></entryFree><p></p>
+
+<entryFree>θλάσσε<def> 3ª sing. aor. ép. de θλάω. </def></entryFree><p></p>
+
+<entryFree>θλάω<def> (fut. θλάσω, aor. ἔθλασα, perf. τέθλακα; pas. fut. θλασθήσομαι, aor. ἐθλάσθην, perf. τέθλασμαι)   1   causar uma contusão em, ac.   2   amassar; moer. </def></entryFree><p></p>
+
+<entryFree>θλίβω<def> (fut. θλίψω, aor. ἔθλιψα, perf. τέθλιφα; pas. aor. ἐθλίφθην, perf. τέθλιμμαι)   1   apertar; comprimir; pressionar   2   oprimir; maltratar; afligir   3   sobrecarregar. </def></entryFree><p></p>
+
+<entryFree>θλῖψις, εως (ἡ)<def> 1   pressão; compressão   2   opressão; aflição. 〈θλίβω〉 </def></entryFree><p></p>
+
+<entryFree>θνᾴσκω<def> dór. = θνῄσκω. </def></entryFree><p></p>
+
+<entryFree>θνήξω<def> subj. aor. rec. de θνῄσκω. </def></entryFree><p></p>
+
+<entryFree>θνησείδιος, ος, ον<def> 1   morto por doença ♦ τὸ θνησείδιον   2   animal morto   3   corpo de animal morto; carcaça. 〈θνητός〉 </def></entryFree><p></p>
+
+<entryFree>θνῄσκω<def> (fut. θανοῦμαι, aor.2 ἔθανον, perf. τέθνηκα)   1   morrer; perecer; no aor. e perf. estar morto; rar. pres. com sent. de perf., ou perf. com sent. de pres.: θνῄσκουσι sóf. estão mortos, τὸ πλοῖον οὗ δεῖ ἀφικομένου τεθνάναι με plat. o navio a cuja chegada eu devo morrer   2   ser morto; perecer pelas mãos de, dat. ou ὑπό, ἐκ ou πρός e gen.: θεοῖς τέθνηκεν οὗτος sóf. ele foi morto pelos deuses, χερσὶν ὕπ᾽ Αἴαντος θανέειν hom. perecer sob as mãos de Ájax   3   morrer (de medo, de rir): ὁ δῆμος τῶν Φωκέων οὕτως διακεῖται ὥστε τεθνάναι τῷ φόβῳ τοὺς Φιλίππου ξένους dem. o demo dos foceus estava em situação tal que eles estavam mortos de medo dos mercenários de Felipe   4   (coisa) desaparecer; acabar; morrer: τέθνηκε τὸ τοὺς ἀδικοῦντας μισεῖν dem. o ódio pelos injustos acabou. </def></entryFree><p></p>
+
+<entryFree>θνητογενής, ής, ές<def> nascido de um mortal. 〈θνητός, γίγνομαι〉 </def></entryFree><p></p>
+
+<entryFree>θνητοειδής, ής, ές<def> 1   conveniente a um mortal   2   semelhante a mortal   3   de natureza mortal   4   mortal. 〈θνητός, εἶδος〉 </def></entryFree><p></p>
+
+<entryFree>θνητός, ός<def> e ή, ον   1   mortal; sujeito à morte   2   que convém a mortais; de mortais; humano ♦ οἱ θνητοί   3   os mortais ♦ τὰ θνητά   4   os seres mortais. 〈θνῄσκω〉 </def></entryFree><p></p>
+
+<entryFree>θοάζω1<def> (só pres. e impf.)   1   mover com rapidez ♦ at. intr. e méd.   2   mover-se com rapidez ou impetuosidade; precipitar-se com ímpeto. 〈θοός〉 </def></entryFree><p></p>
+
+<entryFree>θοάζω2<def>  θαάσσω. </def></entryFree><p></p>
+
+<entryFree>θοιματίδιον, θοἰμάτιον<def> crase át. de τὸ ἱματίδιον, τὸ ἱμάτιον. </def></entryFree><p></p>
+
+<entryFree>θοινάζω<def>  θοινάω. </def></entryFree><p></p>
+
+<entryFree>θοινατήρ, ῆρος<def> (masc.) que oferece um banquete. 〈θοινάω〉 </def></entryFree><p></p>
+
+<entryFree>θοινατικός, ή, όν<def> de banquete. 〈θοινάω〉 </def></entryFree><p></p>
+
+<entryFree>θοινάω<def> (at. só pres., impf., aor. ἐθοίνησα; pas. aor. ἐθοινήθην, perf. τεθοίναμαι)   1   receber em banquete; oferecer refeição a, ac. ♦ méd. (fut. θοινάσομαι, aor. ἐθοινήθην e ἐθοινησάμην)   2   banquetear-se; regalar-se; devorar, ac. ou gen. 〈θοίνη〉 </def></entryFree><p></p>
+
+<entryFree>θοίνη, ης (ἡ)<def> 1   banquete; refeição: ἐν θοίνῃ λέγειν τινά plat. considerar alguém como hóspede, e daí, ter consideração por alguém   2   alegria; prazer   3   alimento; nutrição. </def></entryFree><p></p>
+
+<entryFree>θοινίζω<def> dar um festim. 〈θοίνη〉 </def></entryFree><p></p>
+
+<entryFree>θολερός, ά, όν<def> 1   lodoso; lamacento; impuro; turvo   2   sombrio; escuro (nuvem)   3   obscuro   4   manchado; impuro   5   perturbado; alucinado (pela paixão ou loucura). 〈θολός〉 </def></entryFree><p></p>
+
+<entryFree>θόλος, ου (ἡ<def> e ὁ)   1   abóbada; cúpula construída no pátio para armazenagem de provisões e de utensilhos de cozinha   2   em Atenas, Rotunda, edifício de abóbada arredondada, local de refeição dos prítanes e dos escrivãos   3   estufa abobadada dos banhos públicos ♦ ὁ θόλος tard.   4   Medic. atadura para a cabeça. </def></entryFree><p></p>
+
+<entryFree>θολός, οῦ (ὁ)<def> 1   pântano; lama; lodo; impureza   2   sangue impuro (de menstruação)   3   sépia, líquido escuro encontrado no corpo de alguns moluscos   4   vaso que contém esse líquido. </def></entryFree><p></p>
+
+<entryFree>θολόω-ῶ<def> (perf. τεθόλωκα, part. perf. pas. τεθολωμένος)   1   sujar; turvar (água)   2   perturbar (coração). 〈θολός〉 </def></entryFree><p></p>
+
+<entryFree>θοός, ή, όν<def> 1   rápido; ágil: θ. μάχεσθαι hom. ágil no combate, νὺξ θ. hom. noite que cai rápido   2   agudo; pontudo; afiado. 〈θέω1〉 </def></entryFree><p></p>
+
+<entryFree>θοόω-θοῶ<def> aguçar; afiar. 〈θοός〉 </def></entryFree><p></p>
+
+<entryFree>θορεῖν<def> inf. aor.2 de θρῴσκω. </def></entryFree><p></p>
+
+<entryFree>θορέομαι<def> fut. ép. de θρῴσκω. </def></entryFree><p></p>
+
+<entryFree>θορή, ῆς (ἡ)<def>  θορός. </def></entryFree><p></p>
+
+<entryFree>Θορίκιος, α, ον<def> de Tórico. </def></entryFree><p></p>
+
+<entryFree>Θορικός, οῦ (ἡ)<def> Tórico, uma das doze antigas cidades da Ática. </def></entryFree><p></p>
+
+<entryFree>θορνύομαι<def> (3ª pl. subj. pres. θορνύωνται) acasalar-se. </def></entryFree><p></p>
+
+<entryFree>θόρνυμαι<def> (só pres.) montar (a mulher); engravidar. </def></entryFree><p></p>
+
+<entryFree>θορός, οῦ (ὁ)<def> sêmen; semente genital. </def></entryFree><p></p>
+
+<entryFree>θορυβάζω<def> bíbl.   1   causar problemas a; atormentar; importunar alguém, ac. ♦ pas.   2   estar angustiado, atormentado. 〈θόρυβος〉 </def></entryFree><p></p>
+
+<entryFree>θορυβέω-ῶ<def> 1   intr. fazer barulho, tumulto   2   em assembléias, manifestar desaprovação ou aprovação por meio de demonstrações ruidosas, contra alguém, dat. ou πρός e ac., a respeito de algo, ἐπί e dat.; vaiar   3   perturbar; desconcertar; transtornar alguém. 〈θόρυβος〉 </def></entryFree><p></p>
+
+<entryFree>θορυβοποιός, ός, όν<def> barulhento; turbulento. 〈θόρυβος, ποιός〉 </def></entryFree><p></p>
+
+<entryFree>θόρυβος, ου (ὁ)<def> 1   rumor; burburinho   2   clamor (de aprovação); aplauso   3   murmúrio; clamor hostil (de de­saprovação); vaia   4   barulho; tumulto. </def></entryFree><p></p>
+
+<entryFree>θορυβώδης, ης, ες<def> 1   barulhento; tumultuoso   2   perturbador; assustador. 〈θόρυβος〉 </def></entryFree><p></p>
+
+<entryFree>θορυβωδῶς<def> adv. tumultuosamente. </def></entryFree><p></p>
+
+<entryFree>θορών<def> part. aor.2 de θρῴσκω. </def></entryFree><p></p>
+
+<entryFree>θοῦ<def> 2ª sing. imper. aor.2 méd. de τίθημι. </def></entryFree><p></p>
+
+<entryFree>Θουκυδίδης, ου (ὁ)<def> Tucídides, historiador. 〈θεός, κῦδος〉 </def></entryFree><p></p>
+
+<entryFree>Θουρία, ας (ἡ)<def> Túria, cidade da Messênia. </def></entryFree><p></p>
+
+<entryFree>Θουριάς, άδος<def> (fem.) de Túrio. 〈Θούριον〉 </def></entryFree><p></p>
+
+<entryFree>Θουριάτης, ου<def> (masc.)   1   de Túria, cidade da Messênia ♦ οἱ Θουριᾶται   2   habitante de Túria. </def></entryFree><p></p>
+
+<entryFree>Θούριοι, ων (οἱ)<def> Túrios ou Túrio, cidade da Lucânia e colônia de Atenas. </def></entryFree><p></p>
+
+<entryFree>Θούριον, ου (τό)<def>  Θούριοι. </def></entryFree><p></p>
+
+<entryFree>Θούριος, α, ον<def> 1   de Túrio ♦ ἡ Θουρία [χώρα]   2   território de Túrio. </def></entryFree><p></p>
+
+<entryFree>θούριος, α, ον<def>  θοῦρος. </def></entryFree><p></p>
+
+<entryFree>θοῦρις, ιδος,<def> ac. -ιν (fem.)   1   impetuoso   2   terrível; ousado. </def></entryFree><p></p>
+
+<entryFree>θοὔρμαιον<def> crase de τὸ ἕρμαιον. </def></entryFree><p></p>
+
+<entryFree>θοῦρος, ος, ον<def> 1   impetuoso; fogoso; ousado, epít. de Ares, de Tífon   2   veemente. </def></entryFree><p></p>
+
+<entryFree>θόωκος, ου (ὁ)<def> ép.   1   assento   2   sessão de uma assembléia. </def></entryFree><p></p>
+
+<entryFree>θοῶς<def> adv.   1   rapidamente; prontamente   2   logo. </def></entryFree><p></p>
+
+<entryFree>θραγμός, οῦ (ὁ)<def> estalo; crepitação. 〈θράσσω〉 </def></entryFree><p></p>
+
+<entryFree>Θρᾷκες<def> cf. Θρᾴξ. </def></entryFree><p></p>
+
+<entryFree>Θρᾷκη, ης (ἡ)<def> Trácia, região da Europa e da Ásia, entre a Propôntida e o mar Egeu. 〈Θρᾷξ〉 </def></entryFree><p></p>
+
+<entryFree>Θρακικός, ή, όν<def> da Trácia. 〈Θρᾴξ〉 </def></entryFree><p></p>
+
+<entryFree>Θρᾴκιος, α, ον<def> da Trácia. 〈Θρᾷξ〉 </def></entryFree><p></p>
+
+<entryFree>θρανίον, ου (τό)<def> banco; escabelo. 〈θρᾶνος〉 </def></entryFree><p></p>
+
+<entryFree>θρανίτης, ου (ὁ)<def> 1   remador do banco superior ♦ adj.   2   do banco superior. 〈θρᾶνος〉 </def></entryFree><p></p>
+
+<entryFree>Θρᾶνος, ου (ὁ)<def> assento; banco; escabelo. </def></entryFree><p></p>
+
+<entryFree>Θρᾷξ, Θρᾳκός<def> (masc.) da Trácia, trácio. </def></entryFree><p></p>
+
+<entryFree>θρασέως<def> adv. (comp. θρασύτερον, superl. θρασύτατα) ousadamente; audaciosamente. 〈θρασύς〉 </def></entryFree><p></p>
+
+<entryFree>θράσος, εος-ους (τό)<def> 1   resolução; ousadia; coragem   2   confiança em, gen.   3   audácia; temeridade: εἰς τοῦτο θράσους ἀνήκει her. ele chegou a esse grau de audácia, προβᾶσ᾽ ἐπ᾽ ἔσχατον θράσους sóf. tendo chegado ao último grau de audácia   4   impudência. </def></entryFree><p></p>
+
+<entryFree>Θρᾷσσα,<def> át. Θρᾷττα, ης (fem.)   1   da Trácia; trácia ♦ ἡ Θρᾷσσα   2   mulher trácia. 〈Θρᾷξ〉 </def></entryFree><p></p>
+
+<entryFree>θράσσω,<def> át. θράττω (fut. desus., aor. ἔθραξα, perf. jôn. intr. τέτρηχα, aor. pas. ἐθράχθην) perturbar; agitar; transtornar. </def></entryFree><p></p>
+
+<entryFree>θρασυκάρδιος, ος, ον<def> de coração ousado. 〈θρασύς, καρδία〉 </def></entryFree><p></p>
+
+<entryFree>θρασύμαχος, ος, ον<def> ousado em combate. 〈θρασύς, μάχη〉 </def></entryFree><p></p>
+
+<entryFree>θρασυμέμνων, ων, ον<def> gen. ονος resoluto; ousado; intrépido. 〈θρασύς, μέμνων〉 </def></entryFree><p></p>
+
+<entryFree>Θρασυνία λίμνη (ἡ)<def> lago Trasimeno, na Etrúria. </def></entryFree><p></p>
+
+<entryFree>θρασύνω<def> (só pres. at. e inf. aor. pas. θρασυθῆναι)   1   animar; tornar ousado; inspirar coragem   2   vangloriar-se de, ac. ♦ méd. pas.   3   animar-se; tornar-se corajoso, confiante   4   ter confiança excessiva   5   ser muito ousado; ser insolente. 〈θρασύς〉 </def></entryFree><p></p>
+
+<entryFree>θρασύς, εῖα, ύ<def> 1   destemido; ousado; corajoso: ἐν τῷ ἔργῳ θρασύς her. ousado em sua empresa   2   confiante: ἐλπὶς θρασεῖα τοῦ μέλλοντος tuc. esperança confiante no futuro   3   que tranqüiliza, que dá segurança; seguro   4   atrevido; arrogante   5   temerário: θρασύ [ἐστι] pínd. é arriscado, inf. 〈θάρσος〉 </def></entryFree><p></p>
+
+<entryFree>θρασύσπλαγχνος, ος, ον<def> de coração ousado; intrépido. 〈θρασύς, σπλάγχνον〉 </def></entryFree><p></p>
+
+<entryFree>θρασυσπλαγχνῶς<def> adv. com um coração intrépido; corajosamente. </def></entryFree><p></p>
+
+<entryFree>θρασυστομέω-ῶ<def> falar com ousadia, com insolência. 〈θρα­σύστομος〉 </def></entryFree><p></p>
+
+<entryFree>θρασύστομος, ος, ον<def> ousado em suas palavras; arrogante; insolente. 〈θρασύς, στόμα〉 </def></entryFree><p></p>
+
+<entryFree>θρασύτατα, θρασύτερον<def> cf. θρασέως. </def></entryFree><p></p>
+
+<entryFree>θρασύτης, ητος (ἡ)<def> ousadia; audácia. 〈θρασύς〉 </def></entryFree><p></p>
+
+<entryFree>Θρᾷττα, ης<def> át. = Θρᾷσσα. </def></entryFree><p></p>
+
+<entryFree>θράττω<def> át. = θράσσω. </def></entryFree><p></p>
+
+<entryFree>θραῦμα, ατος (τό)<def> 1   fragmento   2   fratura   3   destruição. 〈θραύω〉 </def></entryFree><p></p>
+
+<entryFree>θραῦσις, εως (ἡ)<def> 1   ruptura; rompimento   2   fratura. 〈θραύω〉 </def></entryFree><p></p>
+
+<entryFree>θραῦσμα, ατος (τό)<def> 1   fragmento; pedaço   2   fratura. 〈θραύω〉 </def></entryFree><p></p>
+
+<entryFree>θραύω<def> (fut. θραύσω, aor. ἔθραυσα; pas. aor. ἐθραύσθην, perf. τέθραυσμαι)   1   fazer em pedaços; quebrar; despedaçar   2   destruir   3   quebrantar (ânimo). </def></entryFree><p></p>
+
+<entryFree>θρέμμα, ατος (τό)<def> 1   recém-nascido; rebento; filhote   2   cria; criatura (pessoa, animal doméstico ou selvagem): ὦ θρέμμ᾽ ἀναιδές sóf. ó criatura impudente, δύσκολον τὸ θρ. ἄνθρωπος plat. criatura difícil o homem! 〈τρέφω〉 </def></entryFree><p></p>
+
+<entryFree>θρέξασκον<def> aor. iter. de τρέχω. </def></entryFree><p></p>
+
+<entryFree>θρέξω<def> fut. de τρέχω. </def></entryFree><p></p>
+
+<entryFree>θρέομαι<def> e, poét., θρεῦμαι   1   dar grandes gritos   2   bradar (infortúnios), ac.   3   lamentar, ac. </def></entryFree><p></p>
+
+<entryFree>θρεπτέος, α, ον<def> adj. verb. de τρέφω. </def></entryFree><p></p>
+
+<entryFree>θρεπτήριος, α, ον<def> 1   que alimenta; capaz de alimentar   2   que é pagamento da alimentação ♦ τὰ θρεπτήρια   3   pagamento pela alimentação; compensação (dada à ama pelos pais, ou aos pais idosos pelos filhos)   4   alimentação; sustento. 〈τρέφω〉 </def></entryFree><p></p>
+
+<entryFree>θρεπτικός, ή, όν<def> 1   próprio para criar, alimentar   2   que faz crescer, desenvolver, gen. ♦ τὸ θρεπτικόν   3   princípio de crescimento. 〈θρεπτός〉 </def></entryFree><p></p>
+
+<entryFree>θρεπτός, ή, όν<def> nutrido. 〈τρέφω〉 </def></entryFree><p></p>
+
+<entryFree>θρέπτρα, ων (τά)<def>  θρεπτήρια. </def></entryFree><p></p>
+
+<entryFree>θρεττανελό<def> invar. tretaneló; tintiririm, onomatopéia que imita o som da cítara. </def></entryFree><p></p>
+
+<entryFree>θρεῦμαι<def> poét. = θρέομαι. </def></entryFree><p></p>
+
+<entryFree>θρεψάμενος<def> part. aor. méd. de τρέφω. </def></entryFree><p></p>
+
+<entryFree>θρέψω<def> fut. de τρέφω. </def></entryFree><p></p>
+
+<entryFree>Θρηΐκη, Θρηΐκιος, Θρῆϊξ<def> jôn. = Θρᾴκη, Θρᾴκιος, Θρᾷξ. </def></entryFree><p></p>
+
+<entryFree>Θρῄκη, ης (ἡ)<def> contr. de Θρᾴκη. </def></entryFree><p></p>
+
+<entryFree>Θρῄκηθεν<def> adv. da Trácia. 〈Θρῄκη〉 </def></entryFree><p></p>
+
+<entryFree>Θρῄκηνδε<def> adv. em direção à Trácia. 〈Θρῄκη〉 </def></entryFree><p></p>
+
+<entryFree>Θρῄκιος, η, ον<def> contr. de Θρηΐκιος. </def></entryFree><p></p>
+
+<entryFree>θρηνέω-ῶ<def> (impf. ép. θρήνεον)1 intr. lamentar-se; chorar; gemer   2   entoar canto de dor   3   emitir com voz lastimosa, ac.: θρ. ᾠδάς sóf. entoar cantos plangentes   4   lamentar-se por; chorar por, ac. ♦ méd.   5   lamentar. 〈θρῆνος〉 </def></entryFree><p></p>
+
+<entryFree>θρηνητήρ, ῆρος (ὁ)<def>  θρηνητής. </def></entryFree><p></p>
+
+<entryFree>θρηνητής, οῦ (ὁ)<def> aquele que se lamenta por, gen. 〈θρηνέω〉 </def></entryFree><p></p>
+
+<entryFree>θρηνητικός, ή, όν<def> 1   inclinado a lamentar-se; lamurioso   2   próprio para lamentações ♦ τὸ θρηνητικόν   3   canto lamentoso. 〈θρηνέω〉 </def></entryFree><p></p>
+
+<entryFree>θρῆνος, ου (ὁ)<def> 1   pranto; lamento   2   treno; canto fúnebre   3   canto de dor, de lamentação; queixume. 〈θρέομαι〉 </def></entryFree><p></p>
+
+<entryFree>θρῆνυς, υος (ὁ)<def> 1   escabelo   2   banco de remadores. </def></entryFree><p></p>
+
+<entryFree>θρηνῳδέω-ῶ<def> cantar um lamento por, ac. 〈θρηνῳδός〉 </def></entryFree><p></p>
+
+<entryFree>θρηνώδης, ης, ες<def> 1   inclinado à tristeza, à lamúria   2   conveniente às lamentações; lamentável; deplorável (coisas). 〈θρῆνος〉 </def></entryFree><p></p>
+
+<entryFree>θρηνῳδία, ας (ἡ)<def> canto de dor, de lamento. 〈θρηνῳδός〉 </def></entryFree><p></p>
+
+<entryFree>θρηνῳδός, οῦ (ὁ)<def> mercenário que pranteava o morto nos funerais; carpidor. 〈θρῆνος, ᾠδή〉 </def></entryFree><p></p>
+
+<entryFree>Θρῇξ<def> e Θρῄξ contr. de Θρῆϊξ. </def></entryFree><p></p>
+
+<entryFree>θρησκεία, ας (ἡ)<def> 1   serviço da divindade; culto da divindade; culto de Deus   2   pl. cerimônias religiosas   3   superstição. 〈θρησκεύω〉 </def></entryFree><p></p>
+
+<entryFree>θρησκεύω<def> 1   intr. observar normas religiosas   2   celebrar com culto; honrar com cerimônias religiosas (os deuses). 〈θρῆσκος〉 </def></entryFree><p></p>
+
+<entryFree>θρησκηΐη<def> jôn. = θρησκεία. </def></entryFree><p></p>
+
+<entryFree>θρῆσκος, ος, ον<def> que observa as práticas de um culto religioso; religioso. </def></entryFree><p></p>
+
+<entryFree>Θρῖα, ας (ἡ)<def> Tria, demo da Ática. </def></entryFree><p></p>
+
+<entryFree>θριαμβευτικός, ή, όν<def> relativo ao triunfo. 〈θριαμβεύω〉 </def></entryFree><p></p>
+
+<entryFree>θριαμβεύω<def> 1   triunfar; triunfar sobre alguém, ac., ἀπό ou κατά e gen., ἐπί e dat.: θρ. θρίαμβον plut. celebrar o triunfo, θρ. νίκην plut. celebrar a vitória   2   conduzir em cortejo triunfal (prisioneiro)   3   expor à zombaria (um inimigo vencido)   4   crist. fazer triunfar, ac.: Θεῷ θριαμβεύοντι ἡμᾶς ἐν τῷ Χριστῷ n.t. a Deus que nos faz triunfar em Cristo. 〈θρίαμβος〉 </def></entryFree><p></p>
+
+<entryFree>θριαμβικός, ή, όν<def> 1   que frui as honras do triunfo (pessoa)   2   triunfal; conveniente a um triunfo. 〈θρίαμβος〉 </def></entryFree><p></p>
+
+<entryFree>θρίαμβος, ου (ὁ)<def> 1   hino cantado nas festas de Dioniso   2   triunfo, epít. de Dioniso Triambos ou Triunfo   3   triunfo, em Roma. </def></entryFree><p></p>
+
+<entryFree>Θριάσιος, α, ον<def> 1   de Tria, demo da Ática ♦ τὸ Θριάσιον [πεδίον]   2   planície de Tria, parte da planície de Elêusis. 〈Θρῖα〉 </def></entryFree><p></p>
+
+<entryFree>θριγγός, οῦ (ὁ)<def> rec. = θριγκός. </def></entryFree><p></p>
+
+<entryFree>θριγκίον, ου (τό)<def> dim. de θριγκός. </def></entryFree><p></p>
+
+<entryFree>θριγκός, οῦ (ὁ)<def> 1   fileira superior; remate (de edifício, de muro)   2   friso   3   muro que circunda; muralha   4   ápice (de infelicidades). </def></entryFree><p></p>
+
+<entryFree>θριγκόω-ῶ<def> (fut. θριγκώσω, aor. ἐθρίγκωσα)   1   pôr remate em um muro   2   rematar   3   cercar; murar; fechar   4   levar até o mais alto ponto; levar ao auge, ac. 〈θριγκός〉 </def></entryFree><p></p>
+
+<entryFree>θρίγκωμα, ατος (τό)<def> 1   revestimento da parede; friso; moldura   2   bordas de um altar   3   coroamento: θρ. τῆς τροφῆς plut. coroamento da comida, i.e., o sal. 〈θριγκόω〉 </def></entryFree><p></p>
+
+<entryFree>θριδάκινος, η, ον<def> 1   de alface   2   semelhante à alface. 〈θρῖδαξ〉 </def></entryFree><p></p>
+
+<entryFree>θριδάκιον, ου (τό)<def> dim. de θρίδαξ. </def></entryFree><p></p>
+
+<entryFree>θρῖδαξ<def> e θρίδαξ, ακος (ἡ) alface. </def></entryFree><p></p>
+
+<entryFree>θρίζω<def> (só aor. ἔθρισα) poét., sinc. de θερίζω. </def></entryFree><p></p>
+
+<entryFree>θρῖναξ<def> e θρίναξ, ακος (ὁ) tridente. 〈τρίς〉 </def></entryFree><p></p>
+
+<entryFree>θρίξ, τριχός,<def> dat. θριξί (ἡ)   1   pêlo   2   pl. cabelos; no sing. com sent. col., cabeleira: τριχὸς πλόκαμος ésql. trança de cabelos   3   barba   4   crina ou rabo do cavalo   5   tufo de pêlo de carneiro; tosão; lã   6   cerdas de porco   7   plumas. </def></entryFree><p></p>
+
+<entryFree>θριπήδεστος, ος<def> e η, ον (superl. θριπηδέστατος)   1   corroído por vermes; carunchoso   2   feito com madeira corroída ou com entalhes que lembram a madeira corroída (selo). 〈θρίψ, ἐδεστός〉 </def></entryFree><p></p>
+
+<entryFree>θρίψ, θριπός (ὁ)<def> inseto que rói a madeira; caruncho. </def></entryFree><p></p>
+
+<entryFree>Θριώ, οῦς<def>  Θρῖα. </def></entryFree><p></p>
+
+<entryFree>Θριῶζε<def> adv. em direção a Tria. 〈Θριώ〉 </def></entryFree><p></p>
+
+<entryFree>θροέω-ῶ<def> (só pres. e aor. ἐθρόησα; pas. só pres., impf. e aor. ἐθροήθην)   1   gritar; dar gritos: παρὰ νοῦν θρ. sóf. dar gritos insensatos   2   falar; dizer; expressar   3   anunciar; revelar; proclamar ♦ méd.   4   fazer ouvir; gritar ♦ pas.   5   estar agitado, perturbado. 〈θρόος〉 </def></entryFree><p></p>
+
+<entryFree>θρόμβος, ου (ὁ)<def> 1   coágulo (sangue)   2   grumo (leite coalhado)   3   grão (sal). 〈τρέφω〉 </def></entryFree><p></p>
+
+<entryFree>θρομβώδης, ης, ες<def> cheio de grumos. 〈θρόμβος〉 </def></entryFree><p></p>
+
+<entryFree>θρόνα, ων (τά)<def> 1   flores bordadas   2   ervas medicinais ou mágicas. </def></entryFree><p></p>
+
+<entryFree>Θρονιάς, άδος<def> (fem.) de Trônio. 〈Θρόνιον〉 </def></entryFree><p></p>
+
+<entryFree>Θρόνιον, ου (τό)<def> Trônio, cidade da Lócrida. </def></entryFree><p></p>
+
+<entryFree>θρόνος, ου (ὁ)<def> 1   assento com encosto; cadeira   2   trono (de rei ou deus)   3   dignidade real   4   assento da Pítia ou do deus do oráculo   5   assento de juiz   6   assento do professor, na escola   7   crist. assento do bispo; trono episcopal   8   tard., Astrol. combinação favorável das posições dos planetas. </def></entryFree><p></p>
+
+<entryFree>θρόος, ου,<def> át. contr. θροῦς, οῦ (ὁ)   1   grito; clamor   2   som; concerto (música)   3   notícia que se propaga com rumor. 〈θρέομαι〉 </def></entryFree><p></p>
+
+<entryFree>θρυαλλίδιον, ου (τό)<def> pequena mecha de lamparina. 〈θρυαλλίς〉 </def></entryFree><p></p>
+
+<entryFree>θρυαλλίς, ίδος (ἡ)<def> 1   tanchagem, planta medicinal   2   pavio de lamparina. 〈θρύον〉 </def></entryFree><p></p>
+
+<entryFree>θρυλέω<def> e θρυλλέω-ῶ   1   murmurar; cochichar   2   repetir sem cessar; falar sem parar; tagarelar ♦ pas.   3   ser repetido: τὸ θρυλούμενον πολλοῖς artt. o que todo mundo repete, i.e., lugar-comum, αἱ τεθρυλημέναι γνῶμαι as máximas frequentemente repetidas. 〈θρῦλος〉 </def></entryFree><p></p>
+
+<entryFree>θρύλιγμα, ατος (τό)<def> fragmento; pedaço quebrado. 〈θρυλίζω〉 </def></entryFree><p></p>
+
+<entryFree>θρυλίζω<def> produzir uma nota falsa (na flauta). 〈θρῦλος〉 </def></entryFree><p></p>
+
+<entryFree>θρυλίσσω<def> (só pres., part. aor. θρυλίξας e aor. pas. 3ª sing. poét. θρυλίχθη) reduzir a pedaços; quebrar. 〈θρύλιγμα〉 </def></entryFree><p></p>
+
+<entryFree>θρυλλέω<def>  θρυλέω. </def></entryFree><p></p>
+
+<entryFree>θρῦλος, ου (ὁ)<def> barulho; ruído; rumor. </def></entryFree><p></p>
+
+<entryFree>θρῦμμα, ατος (τό)<def> fragmento; pedaço. 〈θρύπτω〉 </def></entryFree><p></p>
+
+<entryFree>θρυμματίς, ίδος (ἡ)<def> espécie de doce, de compota. 〈θρῦμμα〉 </def></entryFree><p></p>
+
+<entryFree>θρύον, ου (τό)<def> 1   junco   2   espécie de tortulhos; cogumelo. </def></entryFree><p></p>
+
+<entryFree>θρυπτικός, ή, όν<def> 1   capaz de quebrar, de moer   2   quebrantado; abatido   3   frágil; delicado   4   efeminado. 〈θρύπτω〉 </def></entryFree><p></p>
+
+<entryFree>θρυπτικῶς<def> adv. molemente; brandamente; de modo relaxado. </def></entryFree><p></p>
+
+<entryFree>θρύπτω<def> (fut. θρύψω, aor. ἔθρυψα; pas. fut. θρυφθήσομαι, aor.1 ἐθρύφθην, aor.2 rec. ἐθρύβην, perf. τέθρυμμαι)   1   reduzir a fragmentos; quebrar; esmigalhar   2   enfraquecer; enervar; desfibrar ♦ méd. pas.   3   ser despedaçado, esmigalhado   4   estar disperso, espalhado   5   enfraquecer-se: θρύπτεται ἡ ὄψις plut. a vista se enfraquece   6   entregar-se à devassidão   7   desfibrar-se: ἁπαλὸς καὶ τεθρυμμένος luc. mole e desfibrado   8   ter maneiras afetadas; fazer-se rogar   9   envaidecer-se; vangloriar-se de, dat. ou inf. </def></entryFree><p></p>
+
+<entryFree>θρύψις, εως (ἡ)<def> 1   ação de quebrar   2   quebrantamento; desencorajamento   3   moleza; delicadeza; efeminização. 〈θρύπτω〉 </def></entryFree><p></p>
+
+<entryFree>θρῴσκω<def> (fut. θοροῦμαι, aor.2 ἔθορον)   1   lançar-se; saltar; pular: θρ. χαμᾶζε hom. saltar ao chão, ἐκ δίφροιο hom. saltar de um carro, κατὰ κῦμα hom. lançar-se nas ondas   2   arremessar-se em ataque; acometer com ímpeto: θρ. ἐπὶ Τρώεσσι hom. arremessar-se contra os troianos   3   adentrar atropeladamente; embarafustar-se: θρ. δόμους sóf. embarafustar-se pela casa. </def></entryFree><p></p>
+
+<entryFree>θρωσμός, οῦ (ὁ)<def> escarpamento; altura; elevação. 〈θρῴσκω〉 </def></entryFree><p></p>
+
+<entryFree>θυάς, άδος (ἡ)<def>  θυϊάς. </def></entryFree><p></p>
+
+<entryFree>Θυάτειρα, ων (τά)<def> Tiátira, cidade da Lídia. </def></entryFree><p></p>
+
+<entryFree>θυγάτηρ, θυγατρός,<def> voc. θύγατερ, dat. θυγατρί, ac. θυγατέρα; pl. nom. θυγατέρες, gen. θυγατέρων, dat. θυγατράσι e ép. θυγατέρεσσιν, ac. θυγατέρας e ép. θύγατρας (ἡ)   1   filha   2   jovem; menina   3   serva; criada. </def></entryFree><p></p>
+
+<entryFree>θυγατριδέος-οῦς, έου-οῦ (ὁ)<def> neto, filho da filha. 〈θυγάτηρ〉 </def></entryFree><p></p>
+
+<entryFree>θυγατριδέα-ῆ, έας-ῆς (ἡ)<def> 1   neta, filha da filha   2   sobrinha. 〈θυγάτηρ〉 </def></entryFree><p></p>
+
+<entryFree>θυγατριδοῦς<def> contr. de θυγατριδέος. </def></entryFree><p></p>
+
+<entryFree>θυγάτριον, ου (τό)<def> filha pequena; filhinha. 〈θυγάτηρ〉 </def></entryFree><p></p>
+
+<entryFree>θῦε<def> 3ª sing. impf. poét. de θύω1. </def></entryFree><p></p>
+
+<entryFree>θυεία<def> e θυΐα, ας (ἡ)   1   pilão   2   recipiente para amassar   3   taça do cótabo. 〈θύος〉 </def></entryFree><p></p>
+
+<entryFree>θυείδιον<def> e θυίδιον, ου (τό) dim. de θυεία. </def></entryFree><p></p>
+
+<entryFree>θύελλα, ης (ἡ)<def> borrasca; tempestade; vendaval. 〈θύω2〉 </def></entryFree><p></p>
+
+<entryFree>Θύεστα<def> eól. = Θυέστης. </def></entryFree><p></p>
+
+<entryFree>Θυέστης, ου (ὁ)<def> Tiestes, filho de Pélops e Hipodâmia, irmão de Atreu e pai de Egisto. </def></entryFree><p></p>
+
+<entryFree>Θυεστιάδης, ου<def> (masc.) filho de Tiestes, epít. de Egisto. 〈Θυέστης〉 </def></entryFree><p></p>
+
+<entryFree>θυήεις, ήεσσα, ῆεν<def> que exala odor de incenso; perfumado; fragrante. 〈θύος〉 </def></entryFree><p></p>
+
+<entryFree>θυηλή, ῆς (ἡ)<def> 1   parte da vítima atirada ao fogo; oferta de sacrifício   2   primícias   3   sacrifício. 〈θύω1〉 </def></entryFree><p></p>
+
+<entryFree>θυηπολέω-ῶ<def> 1   cumprir, realizar sacrifício aos deuses   2   ocupar-se de um sacrifício   3   oferecer em sacrifício: θυηπολεῖται δ᾽ ἄστυ μαντέων ὕπο eur. a cidade está sendo oferecida como vítima pelos adivinhos. 〈θυηπόλος〉 </def></entryFree><p></p>
+
+<entryFree>θυηπόλος, ος, ον<def> 1   que cumpre ou celebra sacrifícios   2   em Roma, que se ocupa de oferendas: αἱ θυηπόλοι παρθένοι as Virgens Vestais ♦ ὁ θυηπόλος   3   sacerdote que queima as oferendas, das quais tira presságios. 〈θύος, πολέω〉 </def></entryFree><p></p>
+
+<entryFree>θυηφάγος, ος, ον<def> 1   que devora a vítima do sacrifício (chama)   2   que consome o incenso. 〈θύος, φαγεῖν〉 </def></entryFree><p></p>
+
+<entryFree>θυία, ας (ἡ)<def> tuia; cedro. </def></entryFree><p></p>
+
+<entryFree>θυϊάς, άδος<def> (fem.)   1   transportado de delírio báquico; inspirado   2   furioso como bacante ♦ ἡ θυϊάς   3   bacante; mênade. </def></entryFree><p></p>
+
+<entryFree>θύϊνος, η, ον<def> tard.   1   de tuia; de cedro   2   feito da madeira do cedro. 〈θυία〉 </def></entryFree><p></p>
+
+<entryFree>θυλάκιον, ου (τό)<def> 1   pequeno saco   2   vagem onde estão os grãos. 〈θύλακος〉 </def></entryFree><p></p>
+
+<entryFree>θυλακίς, ίδος (ἡ)<def> vagem. 〈θύλακος〉 </def></entryFree><p></p>
+
+<entryFree>θύλακος, ου (ὁ)<def> 1   saco; odre   2   saco; sacola de grãos   3   invólucro   4   saco onde ficam armazenadas as ovas do atum   5   calça larga dos persas. </def></entryFree><p></p>
+
+<entryFree>θῦλαξ, ακος (ὁ)<def>  θύλακος. </def></entryFree><p></p>
+
+<entryFree>θυλέομαι-οῦμαι<def> tard. oferecer em sacrifício. 〈θύω1〉 </def></entryFree><p></p>
+
+<entryFree>θυλήματα, ων (τά)<def> oferendas atiradas ao fogo (incenso, bolo). 〈θυλέομαι〉 </def></entryFree><p></p>
+
+<entryFree>θῦμα, ατος (τό)<def> 1   vítima ofertada em sacrifício   2   sacrifício: θ. τοῦ Ἀπόλλωνος tuc. sacrifício oferecido a Apolo, θ. λεύσιμον ésql. sacrifício de vítima por meio de apedrejamento   3   oferenda (de doces, frutos): θύματα ἐφέστια oferendas atiradas no fogo de Héstia   4   bolo para o sacrifício. 〈θύω1〉 </def></entryFree><p></p>
+
+<entryFree>θυμαλγής, ής, ές<def> 1   que causa aflição; doloroso   2   aflito; consternado. 〈θυμός, ἀλγέω〉 </def></entryFree><p></p>
+
+<entryFree>θύμαλλος, ου (ὁ)<def> espécie de peixe. </def></entryFree><p></p>
+
+<entryFree>θυμαρής, ής, ές<def> 1   agradável; encantador   2   caro; querido. 〈θυμός, ἀραρίσκω〉 </def></entryFree><p></p>
+
+<entryFree>Θύμβρις, ίδος (ὁ)<def> 1   Tibre, rio da Itália   2   Timbris, rio ou monte da Sicília. </def></entryFree><p></p>
+
+<entryFree>θυμέλη, ης (ἡ)<def> 1   superfície do altar onde queimam as oferendas   2   altar de Dioniso, na orquestra do teatro em Atenas   3   teatro   4   cena   5   templo; monumento sagrado   6   pl. muros: θυμέλαι Κυκλώπων eur. muros dos Ciclopes, em Micenas. 〈θύω1〉 </def></entryFree><p></p>
+
+<entryFree>θυμελικός, ή, όν<def> 1   do teatro; teatral; cênico ♦ οἱ θυμελικοί   2   coreutas ♦ τὸ θυμελικόν   3   estilo teatral; vulgar. 〈θυμέλη〉 </def></entryFree><p></p>
+
+<entryFree>θυμηγερέω-ῶ<def> (part. pres. θυμηγερέων) reunir a força de seu coração; recuperar a coragem, o fôlego. 〈θυμός, ἀγείρω〉 </def></entryFree><p></p>
+
+<entryFree>θυμηδής, ής, ές<def> agradável ao coração. 〈θυμός, ἦδος〉 </def></entryFree><p></p>
+
+<entryFree>θυμηδία, ας (ἡ)<def> alegria do coração; satisfação. 〈θυμηδής〉 </def></entryFree><p></p>
+
+<entryFree>θυμήρης, ης, ες<def> 1   que alegra; agradável: θυμῆρες κεραν­νύναι hom. fazer uma mistura agradável ♦ θυμῆρες adv.   2   agradavelmente para encantar o coração. 〈θυμός, ἀρέσκω〉 </def></entryFree><p></p>
+
+<entryFree>θυμίαμα, ατος (τό)<def> 1   perfume (que queima); incenso   2   perfume para embalsamar os mortos. 〈θυμιάω〉 </def></entryFree><p></p>
+
+<entryFree>θυμιατήριον, ου (τό)<def> porta-incenso; defumador; turíbulo. 〈θυμιάω〉 </def></entryFree><p></p>
+
+<entryFree>θυμιάω-ῶ<def> 1   queimar para produzir fumaça: στύρακα θ. her. queimar resina   2   intr. queimar incenso   3   intr. fumegar: ἄνθρακες θιμιῶντες teofr. carvões fumegantes ♦ méd.   4   queimar perfumes em honra de, dat. ♦ pas.   5   converter-se em fumo. 〈θῦμα〉 </def></entryFree><p></p>
+
+<entryFree>θυμίημα, θυμιητήριον<def> jôn. = θυμίαμα, θυμιατήριον. </def></entryFree><p></p>
+
+<entryFree>θυμικός, ή, όν<def> 1   que tem muito ardor no coração; ardente   2   que se deixa dominar pelo ardor no coração; irascível. 〈θυμός〉 </def></entryFree><p></p>
+
+<entryFree>θυμικῶς<def> adv.   1   com paixão; com vivacidade   2   com irritação; com animosidade. </def></entryFree><p></p>
+
+<entryFree>θυμοβόρος, ος, ον<def> que corrói, atormenta o coração. 〈θυμός, βιβρώσκω〉 </def></entryFree><p></p>
+
+<entryFree>θυμοδακής, ής, ές<def> que morde o coração. 〈θυμός, δάκνω 〉 </def></entryFree><p></p>
+
+<entryFree>θυμοειδής, ής, ές<def> 1   cheio de ardor; resoluto; corajoso   2   irascível; litigante ♦ τὸ θυμοειδές   3   impetuosidade; ímpeto   4   ânimo irascível, passional. 〈θυμός, εἶδος〉 </def></entryFree><p></p>
+
+<entryFree>θυμολέων, οντος<def> (masc.) de coração de leão. 〈θυμός, λέων〉 </def></entryFree><p></p>
+
+<entryFree>θυμόμαντις, εως<def> (masc.) que prevê pela força de seu coração, conforme seu ânimo (e não por inspiração divina). 〈θυμός, μάντις〉 </def></entryFree><p></p>
+
+<entryFree>θυμομαχέω-ῶ<def> 1   lutar com ardor, com ímpeto, com obstinação   2   irritar-se por algo, ἐπί e dat., contra alguém, πρός e ac. 〈θυμός, μάχομαι〉 </def></entryFree><p></p>
+
+<entryFree>θύμον, ου (τό)<def> 1   tomilho, planta odorífera   2   mistura de tomilho, vinagre e mel ou, segundo alguns, cebola selvagem, comida dos pobres em Atenas   3   Medic. cisto sebáceo; lúpia. </def></entryFree><p></p>
+
+<entryFree>θυμοπληθής, ής, ές<def> cheio de ardor, de ímpeto no coração. 〈θυμός, πλῆθος〉 </def></entryFree><p></p>
+
+<entryFree>θυμοραϊστής, οῦ<def> (masc.) que dilacera o coração; cruel. 〈θυμός, ῥαΐζω〉 </def></entryFree><p></p>
+
+<entryFree>θυμός, οῦ (ὁ)
+1<def> alma como princípio da vida; sopro vital; vida
+2 alma como princípio ou sede da vontade; vontade; desejo
+3 coração como sede da inteligência; ânimo; mente
+4 coração como sede de sentimentos e paixões; íntimo
+5 ânimo; ardor; ímpeto
+6 impetuosidade; ímpeto; animosidade
+
+1 ὀλίγος δ᾽ ἔτι θυμὸς ἐνῆν hom. ainda havia dentro de mim um pouco de vida, ἀπὸ δ᾽ ἔπτατο θυμός hom. e a alma voou embora
+2 θ. ἀνώγει ou κελεύει hom. o coração me incita a, inf., θ. ἐστί ou γίγνεταί μοι her. é meu desejo, inf., σφι θυμὸς ἐγένετο θεήσασθαι τὸν πόλεμον her. foi desejo deles contemplar a guerra, ἤθελε θυμῷ hom. ele desejava em seu coração, οἱ θυμὸς ἐβούλετο hom. seu coração queria, οἱ θυμὸς ἐφορμᾶται γαμέεσθαι hom. o coração a impelia a casar-se, ὥς σοι θυμός sóf. como é teu desejo, i.e., como te apraz, πλησάμενος θυμὸν ἐδητύος ἠδὲ ποτῆτος hom. satisfeito em seu desejo de comida e de bebida
+3 ᾔδεε γὰρ κατὰ θυμόν hom. ele sabia em seu coração, τοὺς ἐμοὺς λόγους θυμῷ βάλε ésql. lança em teu coração minhas palavras
+4 ἕνα θυμὸν ἔχοντες hom. tendo um único sentimento, θυμὸν ὀρίνειν hom. excitar a alma, i.e., provocar a piedade, o temor, νεμεσιζέσθω ἐνὶ θυμῷ hom. que ele se irrite em seu coração, χαίρειν θυμῷ ou ἐν θυμῷ hom. alegrar-se em seu coração, ἄχνυτο θυμός hom. o coração se afligia, θυμὸς ἐφορμᾶται πολεμίζειν ἠδὲ μάχεσθαι hom. meu coração arde por combater e guerrear, ἄχος ou ἄλγος ἱκάνει θυμόν hom. a dor domina meu coração, ἐκ θυμοῦ ou θυμῷ φιλέειν hom. amar de coração, de todo o coração, δέος ἔμπεσε θυμῷ hom. o temor invadiu seu coração, σιδηρόφρων θυμὸς ἀνδρείᾳ φλέγων ésql. ânimo férreo, ardente de coragem
+5 θυμὸν λαμβάνειν hom. tomar ânimo, θυμὸν ἔχειν ἀγαθόν her. ter tranqüilo o ânimo, ἴωμεν ῥώμῃ καὶ θυμῷ ἐπὶ τοὺς πολεμίους xen. avancemos com vigor e coragem contra os inimigos, ἐν τοῖς δεινοῖς θυμὸν οὐκ ἀπώλεσεν sóf. não perdeu ânimo nos perigos
+6 δάμασον θυμὸν μέγαν hom. domina sua intensa animosidade, θ. ὀξύς sóf. ímpeto violento, θυμὸν ἐκχεῖν luc. extravasar sua impetuosidade. 〈θύω2〉 </def></entryFree><p></p>
+
+<entryFree>θύμος1, ου (ὁ)   1   = θύμον   2   = θύμος2.<def> </def></entryFree><p></p>
+
+<entryFree>θύμος2, εος-ους (τό)<def> Medic. cisto sebáceo; lúpia. </def></entryFree><p></p>
+
+<entryFree>θυμόσοφος, ος, ον<def> 1   de ânimo sensato; inteligente; engenhoso ♦ τὸ θυμόσοφον   2   docilidade. 〈θυμός, σοφός〉 </def></entryFree><p></p>
+
+<entryFree>θυμοφθορέω-ῶ<def> ter o espírito atormentado. 〈θυμοφ­θόρος〉 </def></entryFree><p></p>
+
+<entryFree>θυμοφθόρος, ος, ον<def> 1   que destrói o ânimo, a vida   2   que mata; mortífero   3   que oprime; molesto; lastimável   4   funesto; mau   5   que tem o espírito alterado; furioso; louco. 〈θυμός, φθείρω〉 </def></entryFree><p></p>
+
+<entryFree>θυμόω-ῶ<def> 1   irritar ♦ méd. pas. (méd. fut. θυμώσομαι, aor. ἐθυμώθην)   2   irritar-se; estar irritado; enfurecer-se contra alguém, dat., ἐς e ac., contra algo, ἐπί e dat., a respeito de, gen., dat., περί e gen.: θυμοῦσθαι εἰς κέρας eur. [touro] ameaçar com chifres furiosos ♦ τὸ θυμούμενον tuc.   3   impetuosidade. 〈θυμός〉 </def></entryFree><p></p>
+
+<entryFree>θυμώδης, ης, ες<def> 1   ardente; corajoso; impetuoso   2   irascível; insubmisso; violento. 〈θυμός〉 </def></entryFree><p></p>
+
+<entryFree>θύμωμα, ατος (τό)<def> ímpeto de cólera. 〈θυμόω〉 </def></entryFree><p></p>
+
+<entryFree>θυννευτικός, ή, όν<def> adequado à pesca do atum. 〈θύννος〉 </def></entryFree><p></p>
+
+<entryFree>θυννοκέφαλος, ος, ον<def> com cabeça de atum. 〈θύννος, κεφαλή〉 </def></entryFree><p></p>
+
+<entryFree>θύννος, ου (ὁ)<def> atum, peixe. 〈θύνω〉 </def></entryFree><p></p>
+
+<entryFree>θυννοσκόπος, ος, ον<def> que espreita os atuns. 〈θύννος, σκοπέω〉 </def></entryFree><p></p>
+
+<entryFree>θυννώδης, ης, ες<def> estúpido como um atum. 〈θύννος〉 </def></entryFree><p></p>
+
+<entryFree>θύνω<def> (impf. poét. θῦνον)1 lançar-se com impetuosidade; pular; saltar   2   mudar repentinamente de uma coisa, ac., para outra, ἐπί e ac.: ἐπ᾽ ἄλλοτ᾽ ἄλλον θύνει λόγον pínd. passar de um relato para outro. 〈θύω2〉 </def></entryFree><p></p>
+
+<entryFree>θυόεις, όεσσα, όεν<def> que exala perfume; fragrante. 〈θύος〉 </def></entryFree><p></p>
+
+<entryFree>θύον, ου (τό)<def> 1   tuia, árvore odorífera   2   incenso   3   bolo para um sacrifício. 〈θύος〉 </def></entryFree><p></p>
+
+<entryFree>θύος, εος-ους (τό)<def> 1   ger. pl. oferenda para um sacrifício   2   ger. pl. sacrifício   3   incenso. 〈θύω1〉 </def></entryFree><p></p>
+
+<entryFree>θυοσκέω-ῶ<def> oferecer um sacrifício. 〈θυοσκόος〉 </def></entryFree><p></p>
+
+<entryFree>θυοσκινέω-ῶ<def> e θυοσκοέω-ω = θυοσκέω. </def></entryFree><p></p>
+
+<entryFree>θυοσκόος, οος, οον<def> 1   que diz respeito aos sacrifícios: θυοσκόα ἱρά a.p. cumprimento, realização de um sacrifício ♦ ὁ, ἡ θυοσκόος   2   sacerdote ou sacerdotisa que celebra um sacrifício ou culto sagrado. 〈θύος, κοέω〉 </def></entryFree><p></p>
+
+<entryFree>θυόω-ῶ<def> (part. perf. pas. τεθυωμένος)   1   perfurmar ♦ pas.   2   ser perfumado, odorante. 〈θύος〉 </def></entryFree><p></p>
+
+<entryFree>θύρα, ας<def> gen. ép. θυράων, dat. ép. θύρῃσι (ἡ)   1   porta (da casa ou do quarto): τὴν θύραν ἐπιτιθέναι ou προστιθέναι her. instalar uma porta, μικρὸν ἐνέδωκε τὴν θύραν plut. entreabriu a porta, ἐν θύρῃσι στῆναι hom. pôr-se à porta, ἐν ou ἐπὶ ou παρὰ θύρῃσι ou θύραις junto à porta, na soleira, ἐπὶ οὐδοῦ ἔντοσθε θυράων hom. da porta para dentro, i.e., sobre a soleira, θυρῶν ἔνδον sóf. Dentro, no interior da casa, ἐπὶ ταῖς θύραις τινὸς βαδίζειν, ἰέναι, φοιτᾶν vir assiduamente à casa de alguém, freqüentar a casa de alguém, ἐπὶ ταῖς θύραις τῆς  Ἑλλάδος εἶναι xen. estar às portas, i.e., nas proximidades da Grécia, περὶ θύρας εἶναι plut. rondar a porta   2   porta da cidade   3   pl. batentes da porta   4   pl. portas do palácio; palácio: ἐπὶ τὰς θύρας φοιτᾶν xen. freqüentar a corte   5   entrada de gruta   6   portinhola de carruagem   7   valva (de peixe)   8   porta das sensações (sentidos)   9   alçapão   10   prancha; jangada   11   pl. paliçada. </def></entryFree><p></p>
+
+<entryFree>θύραζε<def> adv.   1   em direção à porta   2   fora da porta; fora: δόμων θ. hom. fora da casa, θ. τῶν νόμων eur. fora das normas, τά τ᾽ ἔνδον... τά τε θ. eur. tanto dentro como fora. 〈θύρα, -ζε〉 </def></entryFree><p></p>
+
+<entryFree>θύραθεν<def> adv.   1   vindo de fora; de fora da porta ♦ οἱ θύραθεν   2   as pessoas de fora; os inimigos ♦ τὰ θύραθεν   3   as coisas de fora. 〈θύρα, -θεν〉 </def></entryFree><p></p>
+
+<entryFree>θυραῖος, α<def> e ος, ον   1   que está fora da casa; exterior; que vem de fora   2   que está fora da cidade, no estrangeiro; ausente: θυραῖος ἔστω πόλεμος ésql. que a guerra aconteça no estrangeiro, fora da cidade   3   que é de fora; estrangeiro: ἄνδρες θυραῖοι eur. homens estrangeiros, θυραῖα φρονήματα ἀνδρῶν eur. pensamentos dos homens estrangeiros   4   de fora; de outrem   5   conhecido por ouvir dizer ♦ θυραῖον adv.   6   para fora: θ. οἰχνεῖν sóf. ir para fora, sair. 〈θύρα〉 </def></entryFree><p></p>
+
+<entryFree>θύρασιν<def> adv.   1   à porta; fora de casa; no exterior   2   diante da porta   3   exteriormente; fora de casa; no estrangeiro. 〈θύρα〉 </def></entryFree><p></p>
+
+<entryFree>θυραυλέω-ῶ<def> 1   esperar à porta de alguém (para ser recebido)   2   acampar fora, ao ar livre   3   viver ao ar livre   4   ficar à porta (fazendo nada de importante, sem compromisso). 〈θυραυλία〉 </def></entryFree><p></p>
+
+<entryFree>θυραυλία, ας (ἡ)<def> 1   vida ao ar livre, no campo   2   espera à porta (do ser amado). 〈θύρα, αὐλή〉 </def></entryFree><p></p>
+
+<entryFree>θυραωρός, οῦ (ὁ)<def>  θυρωρός. </def></entryFree><p></p>
+
+<entryFree>θυρεός, οῦ (ὁ)<def> 1   pedra de fechamento   2   escudo espesso, em forma de porta. 〈θύρα〉 </def></entryFree><p></p>
+
+<entryFree>θυρεοφόρος, ος, ον<def> armado de grande escudo. 〈θυρεός, φέρω〉 </def></entryFree><p></p>
+
+<entryFree>θυρεπανοίκτης, ου<def> (masc.)   1   que abre portas   2   que se introduz indiscretamente entre as pessoas. 〈θύρα, ἐπα­νοίγω〉 </def></entryFree><p></p>
+
+<entryFree>θύρετρον, ου (τό)<def> ger. pl.   1   caixilho da porta   2   porta. 〈θύρα〉 </def></entryFree><p></p>
+
+<entryFree>θύρη, ης (ἡ)<def> jôn. = θύρα. </def></entryFree><p></p>
+
+<entryFree>θύρηθε<def> adv. ép. =θύραθεν. </def></entryFree><p></p>
+
+<entryFree>θύρηφι<def> dat. adv. jôn. à porta; para fora. 〈θύρα〉 </def></entryFree><p></p>
+
+<entryFree>θύριον, ου (τό)<def> 1   portinhola   2   fechamento; conclusão: τὸ τοῦ λόγου θ. παραβάλλεσθαι plut. dar um fecho ao discurso. 〈θύρα〉 </def></entryFree><p></p>
+
+<entryFree>θυρίς, ίδος (ἡ)<def> 1   portinhola   2   porta   3   caixilho de janela   4   janela   5   tard. abertura em muralha para disparos de máquina de guerra   6   divisão de célula de abelha   7   valva de concha. 〈θύρα〉 </def></entryFree><p></p>
+
+<entryFree>θυροκοπέω-ῶ<def> 1   bater à porta   2   bater à porta de, ac.: ὁ λιμὸς τὴν γαστέρα θυροκοπεῖ alcífr. a fome bate à porta do ventre   3   dar pequenas batidas. 〈θυροκόπος〉 </def></entryFree><p></p>
+
+<entryFree>θυροκόπος, ος, ον<def> que bate à porta; mendigo. 〈θύρα, κόπτω〉 </def></entryFree><p></p>
+
+<entryFree>θυρόω-ῶ<def> 1   guarnecer de portas ou de aberturas   2   prover de portas de saída ♦ pas.   3   ser munido de portas. 〈θύρα〉 </def></entryFree><p></p>
+
+<entryFree>θυρσάριον, ου (τό)<def> pequeno tirso. 〈θύρσος〉 </def></entryFree><p></p>
+
+<entryFree>θύρσος, ου (ὁ)<def> 1   tirso, bastão, enfeitado com ramos de hera e pâmpanos e coroado por uma pinha, que as bacantes agitavam nas cerimônias e procissões ♦ ὁ Θύρσος   2   Tirso, n. de homem. </def></entryFree><p></p>
+
+<entryFree>θυρσοφορία, ας (ἡ)<def> ação de levar um tirso. 〈θυρσοφόρος〉 </def></entryFree><p></p>
+
+<entryFree>θυρσοφόρος, ος, ον<def> aquele que leva o tirso. 〈θύρσος, φέρω〉 </def></entryFree><p></p>
+
+<entryFree>θύρωμα, ατος (τό)<def> 1   quarto guarnecido de portas   2   porta com fechadura   3   janela   4   prateleira   5   tábua; prancha. 〈θυρόω〉 </def></entryFree><p></p>
+
+<entryFree>θυρών, ῶνος (ὁ)<def> vestíbulo. 〈θύρα〉 </def></entryFree><p></p>
+
+<entryFree>θυρωρέω-ῶ<def> vigiar a porta; ser porteiro. 〈θυρωρός〉 </def></entryFree><p></p>
+
+<entryFree>θυρωρός, οῦ (ὁ, ἡ)<def> guardião da porta; porteiro. 〈θύρα, ὥρα〉 </def></entryFree><p></p>
+
+<entryFree>θυρωτός, ή, όν<def> guarnecido de porta. 〈θυρόω〉. </def></entryFree><p></p>
+
+<entryFree>θυσανηδόν<def> adv. em forma de franja. 〈θύσανος〉 </def></entryFree><p></p>
+
+<entryFree>θυσανόεις,<def> ép. θυσσανόεις, όεσσα, όεν guarnecido de franjas. 〈θύσανος〉 </def></entryFree><p></p>
+
+<entryFree>θύσανος, ου (ὁ)<def> 1   franja   2   borda (do escudo)   3   debrum (de cinto)   4   tufos (do velocino de ouro)   5   longos braços da sépia. 〈θύω2〉 </def></entryFree><p></p>
+
+<entryFree>θυσανωτός, ή, όν<def> guarnecido de franjas. 〈θύσανος〉 </def></entryFree><p></p>
+
+<entryFree>θύσθλον, ου (τό)<def> 1   festa de Dioniso ♦ τὰ θύστλα   2   objetos sagrados levados aos altares de Dioniso (tirsos, tochas). 〈θύω1〉 </def></entryFree><p></p>
+
+<entryFree>θυσία, ας (ἡ)<def> 1   cerimônias de um sacrifício; rito sagrado: θυσίας ἕρδειν, ἀνάγειν, ἐπιτελέειν her. realizar um sacrifício, θυσίαν τινὶ ποιεῖσθαι, θύειν plat. oferecer um sacrifício a alguém   2   festa com oferenda   3   maneira de oferecer o sacrifício   4   vítima para o sacrifício   5   oferenda para um sacrifício. 〈θύω1〉 </def></entryFree><p></p>
+
+<entryFree>θυσιάζω<def> 1   fazer uma oferenda aos deuses   2   ter a função de fazer oferendas; ser sacerdote   3   guarnecer de oferendas (altares). 〈θυσία〉 </def></entryFree><p></p>
+
+<entryFree>θυσιαστήριον, ου (τό)<def> bíbl. altar para o sacrifício. 〈θυ­σιάζω〉 </def></entryFree><p></p>
+
+<entryFree>θύσιμος, ος, ον<def> próprio para o sacrifício. 〈θύω1〉 </def></entryFree><p></p>
+
+<entryFree>θυσσανόεις<def>  θυσανόεις. </def></entryFree><p></p>
+
+<entryFree>θυστάς, άδος<def> (fem.)   1   relativo ao sacrifício ♦ ἡ θυστάς   2   veste do sacrificante. 〈θύω1〉 </def></entryFree><p></p>
+
+<entryFree>θυτεῖον, ου (τό)<def> lugar para a oferenda. 〈θύω1〉 </def></entryFree><p></p>
+
+<entryFree>θυτέον<def> adj. verb. de θύω. </def></entryFree><p></p>
+
+<entryFree>θυτήρ, ῆρος (ὁ)<def> sacrificador. 〈θύω1〉 </def></entryFree><p></p>
+
+<entryFree>θυτήριον, ου (τό)<def> 1   oferenda; sacrifício   2   Astron. Altar, constelação. 〈θύω1〉 </def></entryFree><p></p>
+
+<entryFree>θυτικός, ή, όν<def> 1   que diz respeito à oferenda; que serve aos sacrifícios ♦ ἡ θυτική e τὸ θυτικόν   2   a ciência dos sacrifícios ou da adivinhação. 〈θύω1〉 </def></entryFree><p></p>
+
+<entryFree>θύψαι<def> aor. inf. de τύφω. </def></entryFree><p></p>
+
+<entryFree>θύω1<def> (fut. θύσω, aor. ἔθυσα, perf. τέθυκα; pas. aor. ἐτύθην, perf. τέθυμαι)
+ativa
+1	fazer oferendas sacrificiais aos deuses; realizar sacrifícios em honra dos deuses
+2	oferecer em sacrifício; imolar algo ou alguém, ac., a alguém (deus), dat.
+3	celebrar, festejar com oferta sacrificial, ac. ou duplo ac.
+4	matar; degolar
+média
+5	sacrificar em seu próprio interesse
+6	oferecer sacrifícios aos deuses para consultá-los a respeito de algo, ἐπί e dat. ou ac., περί e gen., inf., or. inter.
+7	(animal) dilacerar
+
+1 μετὰ ταύτην δὲ τὴν εὐχὴν ἔθυσαν her. após essa prece realizaram sacrifícios aos deuses
+2 ἄργματα θῦσε θεοῖς αἰειγενέτῃσι hom. ofereceu primícias aos deuses sempiternos, ἔθυσεν αὑτοῦ παῖδα ésql. imolou sua própria filha, θεοῖς θυσίας θύειν plat. oferecer sacrifícios aos deuses
+3 ταύτῃ τῇ ἡμέρᾳ βασιλέως γενέθλια πᾶσα ἡ Ἀσία θύει plat. nesse dia a Ásia inteira celebra com sacrifícios o nascimento do rei, εὐαγγέλια θύειν ἑκατὸν βοῦς τῇ θεῷ ar. festejar a boa notícia com a oferta sacrificial de cem bois à deusa
+4 τὰ βουκόλια ὁ Κῦρος ἔθυσε her. Ciro matou os rebanhos de bois
+5 αὐτοῖς τὰ διαβατήρια θυομένοις οὐ προυχώρει tuc. os sacrifícios que eles ofereciam em prol de uma boa travessia não eram favoráveis, μάντεις δ᾽ ἀτροίσας θύσομαι eur. oferecerei sacrifícios após reunir os adivinhos
+6 ἐπ᾽ ἐξόδῳ ἐθύετο Ξενοφών xen. Xenofonte consultou os deuses quanto a uma expedição, ἐμοί, ὦ ἄνδρες, θυομένῳ ἰέναι ἐπὶ βασιλέα οὐκ ἐγίγνετο τὰ ἱερά xen. quando consultava os deuses quanto a marchar contra o rei, os augúrios não eram favoráveis, ἐθυόμην περὶ αὐτοῦ τούτου, εἰ ἄμεινον εἴη ἄρχεσθαι λέγειν εἰς ὑμᾶς καὶ πράττειν περὶ τούτων ἢ παντάπασι μηδὲ ἅπτεσθαι τοῦ πράγματος xen. eu consultava os deuses para saber se seria melhor começar a falar diante de vós e tomar providências a respeito deles ou, de uma vez por todas, não tocar na questão, δύο ἱερεῖα λαβὼν ἐθύετο τῷ Διὶ τῷ βασιλεῖ πότερά οἱ λῷον καὶ ἄμεινον εἴη μένειν παρὰ Σεύθῃ ἢ ἀπιέναι σὺν τῷ στρατεύματι xen. pegou duas vítimas e sacrificou-as a Zeus soberano para saber se para ele era melhor e mais vantajoso permanecer junto de Seuta ou partir com a tropa
+7 πτανοῖσι κυσὶ μογερὰν πτάκα θυομέοισι ésql. cães alados que dilaceram mísera lebre. </def></entryFree><p></p>
+
+<entryFree>θύω2<def> (só pres., impf. ἔθυον, aor. ἔθυσα)   1   saltar; lançar-se furiosamente   2   desejar ardentemente, inf. </def></entryFree><p></p>
+
+<entryFree>θυώδης1, ης, ες<def> perfumado; odorífero. 〈θύος〉 </def></entryFree><p></p>
+
+<entryFree>θυώδης2, ης, ες<def> semelhante à tuia. 〈θύον〉 </def></entryFree><p></p>
+
+<entryFree>θύωμα, ατος (τό)<def> 1   aroma; incenso queimado; perfume   2   pl. especiarias. 〈θύω1〉 </def></entryFree><p></p>
+
+<entryFree>θῶ, θῆς<def> subj. aor.2 de τίθημι. </def></entryFree><p></p>
+
+<entryFree>θωά, ᾶς,<def> jôn. θωή, ῆς (ἡ)   1   penalidade; multa   2   dano; prejuízo. </def></entryFree><p></p>
+
+<entryFree>θωκέω-ῶ<def> (só pres.) = θακέω. </def></entryFree><p></p>
+
+<entryFree>θῶκόνδε<def> adv. em direção à assembléia. 〈θῶκος〉 </def></entryFree><p></p>
+
+<entryFree>θῶκος, ου (ὁ)<def> 1   assento; cadeira   2   assento em uma assembléia   3   assento; função (sacerdote, bispo). </def></entryFree><p></p>
+
+<entryFree>θῶμα, θωμάζω<def> jôn. = θαῦμα, θαυμάζω. </def></entryFree><p></p>
+
+<entryFree>θῶμιγξ, ιγγος (ἡ)<def> 1   corda   2   corda de um arco   3   linha de pesca   4   fio de linha da rede de pescar   5   cabo; amarra. </def></entryFree><p></p>
+
+<entryFree>θωμός, οῦ (ὁ)<def> monte; acúmulo; pilha. </def></entryFree><p></p>
+
+<entryFree>θωπεία, ας (ἡ)<def> 1   lisonja; adulação   2   carícia; afago (em animal). 〈θωπεύω〉 </def></entryFree><p></p>
+
+<entryFree>θώπευμα, ατος (τό)<def> 1   lisonja; adulação   2   pl. carícias enganosas. 〈θωπεύω〉 </def></entryFree><p></p>
+
+<entryFree>θωπεύω<def> 1   adular   2   adular para enganar; bajular   3   acariciar; afagar (animal)   4   (cão) fazer festa. 〈θώψ〉 </def></entryFree><p></p>
+
+<entryFree>θώπτω<def> 1   adular   2   acariciar; afagar. 〈θώψ〉 </def></entryFree><p></p>
+
+<entryFree>θώρ<def>  βοῦς. [fen.] </def></entryFree><p></p>
+
+<entryFree>θωρακεῖον, ου (τό)<def> 1   proteção de muralha; parapeito   2   couraça 〈θώραξ〉 </def></entryFree><p></p>
+
+<entryFree>θωρακίζω<def> (fut. θωρακίσω, aor. ἐθωράκισα; pas. aor. ἐθωρακίσθην, perf. τεθωράκισμαι)   1   cobrir, proteger com couraça   2   proteger; defender ♦ méd.   3   cobrir-se com couraça. 〈θώραξ〉 </def></entryFree><p></p>
+
+<entryFree>θωράκιον, ου (τό)<def> 1   pequena couraça   2   pequeno parapeito (de um muro)   3   torre sobre o dorso de um elefante   4   escudo sobre rodas; mantelete   5   Náut. cesto da gávea, onde se abrigavam guerreiros com dardos. 〈θώραξ〉 </def></entryFree><p></p>
+
+<entryFree>θωρακοποιός, οῦ (ὁ)<def> fabricante de couraças. 〈θώραξ, ποιός〉 </def></entryFree><p></p>
+
+<entryFree>θωρακοφόρος, ος, ον<def> que usa couraça. 〈θώραξ, φέρω〉 </def></entryFree><p></p>
+
+<entryFree>θώραξ, ακος (ὁ)<def> 1   couraça; armadura; cota de malhas (para homem)   2   atadura para peito   3   baluarte; muralha   4   tronco; tórax; busto; peito. </def></entryFree><p></p>
+
+<entryFree>θωρηκοφόρος, ος, ον<def> jôn.= θωρακοφόρος. </def></entryFree><p></p>
+
+<entryFree>θωρηκτής, οῦ (ὁ)<def> 1   guerreiro armado de couraça ♦ adj.   2   armado de couraça. 〈θωρήσσω〉 </def></entryFree><p></p>
+
+<entryFree>θώρηξ, ηκος (ὁ)<def> jôn. = θώραξ. </def></entryFree><p></p>
+
+<entryFree>θωρήσσω<def> (fut. desus., aor. ἐθώρηξα, perf. τεθώρηκα)   1   armar com couraça, ac. ♦ méd.   2   armar-se com couraça; cobrir-se com couraça   3   saciar; matar a sede; embriagar   4   embriagar-se com vinho puro. 〈θώραξ〉 </def></entryFree><p></p>
+
+<entryFree>θώς<def> gen. θωός (ὁ, ἡ) lobo-cerval; chacal. </def></entryFree><p></p>
+
+<entryFree>θωῦμα, θωυμάζω<def> jôn. = θαῦμα, θαυμάζω. </def></entryFree><p></p>
+
+<entryFree>θωΰσσω<def> (fut. θωΰξω)   1   (mosquito) zumbir; zunir   2   gritar; pronunciar em voz alta   3   chamar aos gritos   4   excitar com gritos, dat. </def></entryFree><p></p>
+
+<entryFree>θώψ, θωπός (ὁ)<def> 1   adulador; bajulador ♦ adj.   2   lisonjeiro; adulador. </def></entryFree><p></p>
+
+        </body>
+    </text>
+</TEI>

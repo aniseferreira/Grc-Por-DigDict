@@ -1,0 +1,1950 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="pt">
+ <teiHeader type="text" xml:lang="pt">
+  
+  
+  <fileDesc>
+   <titleStmt>
+    <title>Dicionário Grego-Português-  Letra Χ, versão 1.0 </title>
+    <author>Autores da versão impressa: <lb></lb>
+     
+     <name>MALHADAS, D. ; DEZOTTI, M. C.C. ; NEVES, M. H. de M. ; DUARTE, A. S. ; FERREIRA, Anise D'O. ; PRADO, Anna. Lia. A. A. ; FERAL, Claudia R. ; MORAIS, C. B. ; ROSA, Edvanda. B. ; SANTOS, Fernando. B. ; STARZYNSKI, G. M. R. ; ONELLEY, G. B. ; STARLING, M. A. P. A. ; PESSANHA, N. M. ; DAMASCENO, S. ; BARBOSA, T. V. R. </name>
+     Responsável pela edição digital:<name> Anise D'Orange Ferreira.</name></author>
+    <author><name> Edição digital: Atribuição-NãoComercial-CompartilhaIgual 4.0 Internacional</name></author>
+    <!--CC BY-NC-SA. Edição impressa, vols 1 a 5: Editora  Ateliê:
+                        http://www.atelie.com.br/livro/especial-dicionario-grego-portugues--> 
+    
+    
+    
+    
+    <editor>Organizadores/coordenadores:  Malhadas, Daisi; Neves, M.H.M e Dezotti, Maria Celeste C. </editor>
+    <principal>
+     <name>Responsável pela edição eletrônica: Anise D'Orange Ferreira, FCLAr, UNESP</name></principal>
+    <sponsor> Financiado por _____ </sponsor>
+    <respStmt>
+     <resp> editado por </resp>  
+     <name> Nome do editor </name>
+    </respStmt>   
+    <respStmt>
+     <resp> Colaboradores</resp>  
+     <name> Fulano </name>
+     <!-- pode haver tantos resp quantos necessários no statement de responsabilidades, dependendo do tipo de participação)-->
+     
+    </respStmt>
+   </titleStmt>
+   
+   <publicationStmt>
+    <publisher>Ateliê</publisher>
+    <pubPlace>São Paulo</pubPlace>
+    <distributor> Pessoa ou agência responsável pela distribuição</distributor>
+    <authority>Responsável, agência ou pessoa, para disponibilizar, sem ser o distribuidor ou editora</authority>
+    <date>  2005-2010</date>
+    <idno type="ISBN" >vol 1: 8574803278; vol 2: 9788574803845; vol 3: 9788574803845; vol 4: 9788574804323; vol 5 : 9788574804 </idno>
+    
+    <availability status="restricted">
+     <!--<licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/"> Atribuição-NãoComercial-CompartilhaIgual 
+CC BY-NC-SA
+                    </licence>-->
+     <p>Edição digital: Licença Creative Commons http://creativecommons.org/licenses/by-nc-sa/4.0/. Edição impressa: Ateliê Editorial: http://www.atelie.com.br</p>
+     
+    </availability>
+    
+   </publicationStmt>
+   <sourceDesc>
+    <!-- origem da publicação - se não for 'born digital', colocar a fonte - Acho que aqui vou colocar as referências a todos os volumes usando listBbl--> 
+    <bibl default="false">
+     <lb></lb>
+     Dicionário Grego-Português vol.1, vol.2, vol.3, vol.4 e vol.5
+     DEZOTTI, M. C.C. ; MALHADAS, D. ; Neves, M. H. de M. ; Prado, A. L. A. A. ; SANTOS, F. B. ; ROSA, E. B. ; DUARTE, A. S. ; FERREIRA, A. A. G. D. ; Barbosa, T. V. R. ; Pessanha, N. M. ; Damasceno, S. ; Morais, C. B. ; Onelley, G. B. ; et al. . (da equipe de autores) In Neves, Dezotti e Malhadas (coords) Dicionario grego-português. Vol. 5. 1. ed. São Paulo: Atelie, 2010. v. 1. 296p .
+     
+     <lb></lb>
+     MALHADAS, D. ; DEZOTTI, M. C.C. ; Neves, M. H. de M. ; DUARTE, A. S. ; FERREIRA, A. A. G. D. ; Prado, A. L. A. A. ; FERAL, C. ; Morais, C. B. ; ROSA, E. B. ; SANTOS, F. B. ; Starzynski, G. M. R. ; Onelley, G. B. ; Starling, M. A. P. A. ; Pessanha, N. M. ; Damasceno, S. ; Barbosa, T. V. R. . (da equipe de autores) In Daisi Malhadas, Maria Celeste C. Dezotti (coords) Dicionário grego-português vol.4. 1. ed. São Paulo: Ateliê Editorial, 2009. v. 5. 191p .
+     
+     <lb></lb>
+     MALHADAS, D. ; DEZOTTI, M. C.C. ; Neves, M. H. de M. ; DUARTE, A. S. ; FERREIRA, A. A. G. D. ; Prado, A. L. A. A. ; FERAL, C. ; Morais, C. B. ; ROSA, E. B. ; SANTOS, F. B. ; Starzynski, G. M. R. ; Onelley, G. B. ; Starling, M. A. P. A. ; Pessanha, N. M. ; Damasceno, S. ; Melo, S. T. M. ; Barbosa, T. V. R. . (da Equipe de autores) In Daisi Malhadas, Maria Celeste C. Dezotti (coords) Dicionário grego-português vol. 3. 1. ed. São Paulo, SP: Atelier Editorial, 2008. v. 1. 260p .
+     
+     <lb></lb>
+     MALHADAS, D. ; DEZOTTI, M. C.C. ; FERREIRA, A. A. G. D. ; AUTORES-TOTAL 17 . (da Equipe de autores) In Daisi Malhadas, Maria Celeste C. Dezotti e Neves, M.H. (coords) Dicionário grego-português vol. 2.. 1a. ed. São Paulo: Ateliê, 2007. v. vol.2. 272p .
+     
+     <!-- bibl (bibliographic citation) contains a loosely-structured bibliographic citation of which the sub-components may or may not be explicitly tagged.
+biblFull (fully-structured bibliographic citation) contains a fully-structured bibliographic citation, in which all components of the TEI  le description are present. 
+biblStruct (structured bibliographic citation) contains a structured bibliographic citation, in which only bibliographic sub-elements appear and in a speci ed order. 
+listBibl (citation list) contains a list of bibliographic citations of any kind.
+msDesc (manuscript description) contains a description of a single identi able manuscript or other text-bearing object.  --> 
+     <title>Dicionário Grego-Português</title>
+     <author>MALHADAS, D. ; DEZOTTI, M. C.C. ; Neves, M. H. de M. ; DUARTE, A. S. ; FERREIRA, A. A. G. D. ; Prado, A. L. A. A. ; FERAL, C. ; Morais, C. B. ; ROSA, E. B. ; SANTOS, F. B. ; Starzynski, G. M. R. ; Onelley, G. B. ; Starling, M. A. P. A. ; Pessanha, N. M. ; Damasceno, S. ; Barbosa, T. V. R. . </author>
+     <editor role="editor">Ateliê Editorial</editor>
+     <pubPlace>São Paulo</pubPlace>
+     <date>volumes 1 a 5: 2006-2010</date>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  
+  <profileDesc>
+   <langUsage>
+    <language ident="en">English
+    </language><language ident="greek">Greek
+    </language><language ident="la">Latin
+    </language><language ident="fr">French
+    </language><language ident="pt">Portuguese</language>
+   </langUsage>
+   
+  </profileDesc>
+  <encodingDesc> 
+   <tagsDecl>
+    <rendition xml:id="FontRoman" scheme="css">font-family: serif
+    </rendition>
+    
+   </tagsDecl>
+   
+  </encodingDesc>
+  
+  <revisionDesc> 
+   <!-- ppode-se inserir tantos changes quantos necessários-->
+   <change when= "2015-10-04" who="Anise"> Conversão para txt, início da etiquetagem do header</change>
+   <change when="2016-01-15" who="Anise D'Orange Ferreira">Complementação do header</change>
+  </revisionDesc>
+  
+  
+  
+ </teiHeader>
+ <text>
+  
+  <body> 
+<entryFree>Χ, χ (χῖ) (τό)<def> 1   khi, 22ª letra do alfabeto grego ♦ num.   2   χʹ = 600 ou 600º   3   ͵χ = 600.000 ou 600.000º. </def></entryFree><p></p>
+
+<entryFree>χ᾽<def>  κε diante de vogal aspirada. </def></entryFree><p></p>
+
+<entryFree>χἀ<def> crase dór. de καὶ ἁ. </def></entryFree><p></p>
+
+<entryFree>χάδον<def> aor.2 ind. poét., χαδέειν inf. aor.2 jôn. e poét. de χανδάνω. </def></entryFree><p></p>
+
+<entryFree>χάζεο<def> 2ª sing. imper. pres., χάζετο, χάζοντο 3ª sing. e pl. impf., formas méd. ép. de χάζω. </def></entryFree><p></p>
+
+<entryFree>χάζω<def> (pres. desus., aor.2 ép. κέκαδον, fut. ép. κεκαδήσω)   1   privar alguém, ac., de, gen.: τοὺς μὲν ∆ιομήδης θυμοῦ καὶ ψυχῆς κεκαδών hom. Diomedes tendo-os privado do ânimo e da vida ♦ méd. χάζομαι (fut. χάσομαι, ép. χάσσομαι, aor. ἐχασάμην, ép. χασσάμην, aor.2 ép. 3ª pl. κεκάδον­το)   2   afastar-se; retirar-se de, gen. ou ἐκ ἀπὸ e gen.: χ. κελεύθου hom. sair do caminho, χ. μάχης hom. retirar-se do combate, χ. ἐκ βελέων hom. retirar-se do alcance dos dardos, χ. ὑπ᾽ ἔγχεος hom. afastar-se sob a ameça de uma lança, χ. ἄψ ou ὀπίσσω hom. recuar. </def></entryFree><p></p>
+
+<entryFree>χαἰ<def> crase καὶ αἱ. </def></entryFree><p></p>
+
+<entryFree>χαίνω<def> (fut. desus., aor.2 ἔχανον, perf.2 κέχηνα)   1   abrir-se; entreabrir-se; fender-se: τότε μοι χάνοι εὐρεῖα χθών hom. nesse momento oxalá se fendesse a vasta terra, τὸ κεχηνός luc. abertura escancarada   2   abrir a boca, a goela ou o bico   3   abrir (a boca), ac., para engolir ou apanhar algo, dat. ou πρός e ac.   4   ficar boquiaberto, tomado de espanto ou de impaciência, diante de algo, πρός e ac., diante de alguém, πρός e ac., εἰς e ac., κατά e gen., ao redor de algo, περί e ac.: οἱ κεχηνότες ar. os basbaques   5   abrir a boca para falar; falar: δεινὰ ῥήματα καθ᾽ ἡμῶν χανεῖν SÓF. dirigir palavras terríveis contra nós.  </def></entryFree><p></p>
+
+<entryFree>χάϊος, α, ον<def> respeitável; honesto; bom. </def></entryFree><p></p>
+
+<entryFree>χαῖρε<def> 2a sing. imper. pres. ou 3a sing. impf. poét. de χαίρω. </def></entryFree><p></p>
+
+<entryFree>χαίρεσκον<def> impf. iter. de χαίρω. </def></entryFree><p></p>
+
+<entryFree>χαίρω<def> (fut. χαιρήσω, aor. desus., perf. κεχάρηκα, aor.2 ἐχάρην, perf. κεχάρημαι e κέχαρμαι, m.-q.-perf. ἐκεχα­ρήμην) 
+ativa
+1	alegrar-se; estar contente; comprazer-se com, dat. ou ἐπί, ἐν e dat., ou ac. n. ou com part. pred. do suj. ou do compl. 
+2	com neg., ficar impune
+3	imper. 2a sing. χαῖρε, 2a pl. χαίρετε, dual χαίρετον, saudação em encontros ou despedidas, (lit. regozija-te, regozijai-vos) salve! ou adeus!
+4	imper. 3a sing. χαιρέτω, 3a pl. χαιρόντων, fórmula de renúncia, que fique ou fiquem para lá; χαίρειν ἐᾶν ou λέγειν dar adeus a algo ou alguém, ac., i.e., renunciar a; evitar; abrir mão de </def></entryFree><p></p>
+
+<entryFree><def> 
+χαίρειν
+5	iron. como expressão de desejo de que algo ou alguém vá embora ou desapareça, χαίρειν λέγειν, φράζειν, προσαγορεύειν, προσειπεῖν, κελεύειν dizer adeus a, mandar passear, mandar às favas algo ou alguém, ac. ou dat.
+6	fórmula de desejo de boas-vindas, ser bem-vindo
+7	nas cartas, dizer “salve” a alguém, dat.; saudar
+média
+8	alegrar-se; comprazer-se 
+
+1 οἱ ἐχάρησαν Ἀχαιοί τε Τρῶές τε hom. eles, aqueus e troianos, alegraram-se, χαίρει δέ μοι ἧτορ hom. meu coração se alegra, χαῖρε δὲ θυμῷ hom. alegrava-se em seu íntimo, χαρείη δὲ φρένα μήτηρ hom. que a mãe se alegre em sua alma, χαίρειν γέλωτι xen. rir de felicidade, σύ δέ μοι χαίρων ἀφίκοιο hom. que tu venhas a mim com alegria! ἴθι χαίρων ar. prossiga na alegria, πλουσίῳ χαίρειν γένει sóf. alegrar-se com sua rica estirpe, χαῖρε δ᾽ Ἀθηναίη πεπνυμένῳ ἀνδρὶ δικαίῳ hom. Atena alegrava-se com o homem sábio e justo, ἐπὶ τοῖς αὐτοῖς χαίροντας καὶ λυπουμένους plat. alegrando-se e afligindo-se com as mesmas coisas, ἐν τούτοις δὴ πᾶσιν ἢ λυπουμένους ἢ χαίροντας plat. em todas essas situações ou sofrendo ou alegrando-se, ταὐτὰ λυπεῖσθαι καὶ ταὐτὰ χαίρειν τοῖς πολλοῖς dem. sofrer com as mesmas coisas e alegrar-se com as mesmas coisas que a maioria dos homens, χαίρω σεῦ τὸν μῦθον ακούσας hom. estou feliz por ter ouvido tua palavra, χαίρεις ὁρῶν φῶς eur. estás feliz por ver a luz, χαίρω δέ σ᾽ εὐτυχοῦντα eur. alegro-me com tua felicidade, χαίρεν χαράν plut. provar uma alegria, δέξατο χαίρων παῖδα hom. recebeu feliz a filha, ἐρπέτω χαίρουσα sóf. que ela viaje feliz, i.e., que ela faça uma feliz viagem, χαίρων ἴθι eur. parte feliz, τὸ χαῖρον plut. a alegria
+2 οὐδέ τιν᾽ οἴω Τρώων χαιρήσειν hom. suponho que nenhum troiano ficará impune, ἀλλ᾽ οὐδ᾽ ὣς Κῦρός γε χαιρήσει her. mas Ciro não ficará impune assim, χαιρήσειν νομίζεις; plut. pensas que ficarás sem castigo?, οὐκ ἔφη αὐτὸν οὐδένα ἄξειν χαίροντα Αἰγινητέων her. [Crio] disse que ele [Cleômenes] não levaria impunemente nenhum cidadão de Egina, οὐ χαίρων δεννάσεις ἐμέ sóf. não me ultrajarás impunemente 
+3 χαῖρε πόλλ᾽, ὦ ᾽δελφέ ar. salve, meu irmão, ὦ χαίρετε πολλάκι, Μοῦσα, χαίρετε salve, Musas, salve, τὸ λοιπὸν ἤδη χαίρετε sóf. a partir de agora, para sempre, adeus, καὶ σύ, ἔφη, χαῖρε plat. a ti também, disse ele, adeus, ἀλλήλους χαίρειν προσεῖπαν xen. disseram “salve!” uns aos outros, i.e., eles se saudaram, ΧΟΡΟΣ – κῆρυξ Ἀχαιῶν χαῖρε τῶν ἀπὸ στρατοῦ. ΚΗΡΥΞ – χαίρω ésql. CORO – Salve, arauto do exército aqueu! ARAUTO – Salve!
+4   Ὅμηρος μέν νυν καὶ τὰ Κύπρια ἔπεα χαιρέτω her. que fique para lá Homero e os cantos Cíprios, χαιρέτω βουλεύματα τὰ πρόσθεν eur. adeus às decisões anteriores, χαιρόντων πόνοι eur. adeus ao cansaço 
+5 τὴν Κύπριν πόλλ᾽ ἐγὼ χαίρειν λέγω eur. digo adeus a Cípris muitas vezes, πολλὰ εἰπόντα χαίρειν τῷ ἀληθεῖ plat. muitas vezes dizendo adeus à verdade
+6 χαίρειν δὲ τὸν κήρυκα προὐννέπω sóf. dou antecipadamente boas-vindas ao arauto
+7 Κῦρος Κυαξάρῃ χαίρειν xen. Ciro saúda Ciaxares
+8 ξενικῶν κρεῶν κεχαρμένος βορᾷ eur. feliz, devora as carnes dos estrangeiros. </def></entryFree><p></p>
+
+<entryFree>Χαιρώνεια, ας (ἡ)<def> Queronéia, cidade da Beócia.  </def></entryFree><p></p>
+
+<entryFree>Χαιρωνεύς, έως<def> 1   originário ou habitante de Queroneia; queronense ♦ οἱ Χαιρωνεῖς   2   os queronenses. 〈Χαιρώνεια〉 </def></entryFree><p></p>
+
+<entryFree>Χαιρωνικός, ή, όν<def> 1   de Queroneia ♦ τὰ Χαιρωνικά   2   batalha de Queroneia. 〈Χαιρώνεια〉 </def></entryFree><p></p>
+
+<entryFree>χαίτη, ης (ἡ)<def> 1   cabelos longos; cabeleira   2   crina de cavalo   3   juba de leão   4   penacho de elmo   5   copa de árvore   6   folhagem   7   cauda de cometa. </def></entryFree><p></p>
+
+<entryFree>χαίτωμα, ατος (τό)<def> penacho de capacete. 〈χαίτη〉 </def></entryFree><p></p>
+
+<entryFree>χάλαζα, ης (ἡ)<def> 1   granizo   2   pl. saraiva de granizo   3   grão duro (no marfim, no carvão, na gema do ovo)   4   nódulo na pele do porco   5   Medic. terçol. </def></entryFree><p></p>
+
+<entryFree>χαλαζάω-ῶ<def> 1   cair em forma de granizo   2   ser portador de cistos, de nódulos. 〈χάλαζα〉 </def></entryFree><p></p>
+
+<entryFree>χαλαζοβόλος, ος, ον<def> que envia granizo (nuvem). 〈χάλαζα, βάλλω〉 </def></entryFree><p></p>
+
+<entryFree>χαλαζοφύλαξ, ακος (ὁ)<def> 1   observador da chegada de nuvens de granizo   2   sacerdote que afasta o granizo com ritos. </def></entryFree><p></p>
+
+<entryFree>χαλαζώδης, ης, ες<def> 1   semelhante ao granizo; granulado   2   que traz granizo (vento)   3   que tem nódulo na pele (porco). 〈χάλαζα, -ωδης〉 </def></entryFree><p></p>
+
+<entryFree>χαλαργός, ός, όν<def> dór. de cascos ágeis (cavalo).  </def></entryFree><p></p>
+
+<entryFree>χαλαρός, ά, όν<def> 1   solto; frouxo; desapertado; mole   2   lânguido   3   macio. 〈χαλάω〉 </def></entryFree><p></p>
+
+<entryFree>χάλασμα, ατος (τό)<def> 1   afrouxamento; distensão   2   espaço entre as fileiras de uma tropa em batalha   3   Medic. luxação. 〈χαλάω〉 </def></entryFree><p></p>
+
+<entryFree>χαλαστικός, ή, όν<def> que relaxa; que distende. 〈χαλάω〉  </def></entryFree><p></p>
+
+<entryFree>Χαλαστραῖος, α, ον<def> de Calastra, cidade da Macedônia. </def></entryFree><p></p>
+
+<entryFree>χαλάω-ῶ<def> (impf. ἐχάλων; fut. χαλάσω; aor. ἐχαλασα; perf. κεχάλακα, pas. fut. desus., aor. ἐχαλάσθην, perf. κεχάλασμαι, m.-q.-perf. ἐκεχαλασμην)   1   afrouxar; soltar; desatar; distender: χ. εὐκαμπέα τόξα hom. distender o arco flexível, χ. νεῦρα plat. distender nervos, χ. δεσμά eur. soltar liames, χ. στόμα xen. abrir a boca, πύλας χ. ésql. abrir a porta, χ. ἡνίας τοῖς λόγοις plat. dar rédeas às palavras   2   atenuar; diminuir; moderar: τὶ χαλᾷ μανιῶν; ésql. qual das manias modera? τὴν ὀργὴν χαλᾶν ar. acalmar a cólera   3   intr. relaxar-se; distender-se; entreabrir-se: ζῶναί σοι χαλῶσι eur. teus cintos estão soltos, πύλαι χαλῶσαι xen. portas entreabertas   4   ser indulgente com alguém, dat.; ceder a alguém: εἰ τοῖσιν οὖν κτείνουσιν ἀλλήλους χαλᾷς  ésql. se és indulgente com aqueles que se matam uns aos outros ♦ méd.   5   abaixar (a vela). </def></entryFree><p></p>
+
+<entryFree>χαλβάνη, ης (ἡ)<def> galbano, resina. </def></entryFree><p></p>
+
+<entryFree>Χαλδαϊκός, ή, όν<def> 1   da Caldéia; caldeu ♦ ἡ Χαλδαϊκή   2   método astrológico ou astronômico dos caldeus. 〈Χαλδαῖος〉
+
+
+ </def></entryFree><p></p>
+
+<entryFree>Χαλδαῖος, α, ον<def> 1   da Caldéia; caldeu ♦ οἱ χαλδαῖοι   2   os habitantes da Caldéia; caldeus   3   sacerdote da Babilônia renomado pelos seus conhecimentos em astrologia. </def></entryFree><p></p>
+
+<entryFree>χαλεπαίνω<def> (fut. χαλεπανῶ, aor. ἐχαλέπηνα; pas. aor. ἐχαλεπάνθην)  1   (vento, tempestade) ser terrível, rude, hostil   2   ser inverno rigoroso: ὥρῃ χειμερίῃ, εἴ καὶ μάλα περ χαλεπαίνοι hom. mesmo nos momentos mais rigorosos do inverno   3   (pessoa) manifestar descontentamento com algo ou alguém, dat. ou πρός e ac., por causa de, dat., gen., ἐπί e dat. ou ὑπέρ e gen.; ter má vontade com; ser hostil a: ὅτε τις πρότερος χαλεπήνῃ hom. quando alguém é o primeiro a manifestar seu descontentamento, i.e., quando é o agressor, Ζεὺς ὅτε δή ῥ᾽ ἄνδρεσσι κοτεσσάμενος χαλεπήνῃ hom. Zeus, quando irritado, zanga-se com os homens, ὁρῶν αὐτοὺς πρὸς τὰ παρόντα χαλεπαίνοντας tuc. vendo que eles tinham má vontade com a situação, ἐπὶ ῥηθέντι δικαίῳ χ. hom. irritar-se com palavras justas,  Ἑκατωνύμῳ χαλεπαίνοντες τοῖς εἰρημένοις xen. irritar-se com Hecatônimo pelo que ele disse ♦ pas.   4   ser alvo de cólera ou de ressentimento   5   receber tratamento hostil. 〈χαλεπός〉 </def></entryFree><p></p>
+
+<entryFree>χαλεπός, ή, όν<def> 1   difícil de suportar; árduo; penoso; duro (coisa) de, εἰς e ac. ou inf.: χαλεπὸν γῆρας hom. penosa velhice, χ. μῦθος hom. palavra áspera, dura, χ. κεραυνός hom. raio terrível, χαλεπὴ νόσος xen. doença grave, πενία χαλεπή plat. pobreza insuportável, χαλεπὴ τυραννίς plut. tirania cruel, χαλεπὸν ὁ βίος Ἀθήνησιν xen. coisa difícil é a vida em Atenas, χαλεπὸν δέ τ᾽ ὀρύσσειν ἀνδράσι γε θνητοῖσι hom. para homens mortais [essa raiz] é difícil de arrancar   2   difícil de enfrentar ou de alcançar; que dá trabalho; que oferece dificuldade; difícil: θάλασσα χαλεπή tuc. mar perigoso, χαλεπὴ ὁδός tuc. caminho difícil, οὐ βουλόμενοι αὐτοὺς χαλεπωτέρους εἶναι προσπολεμεῖν tuc. não querendo que fossem mais difíceis de combater, χαλεπὸς διαγνωσθῆναι ant. difícil de reconhecer, χαλεπὰ τὰ καλά plat. as coisas belas são difíceis, χαλεπόν σε... πάντων ἀνθρώπων σβέσσαι μένος hom. é difícil que apagues o ardor de todos os homens, χαλεπόν κεν ἀνήνασθαι δόσιν εἴη hom. seria difícil não conceder esse dom   3   selvagem; feroz (animal)   4   daninha (erva)   5   que sente dificuldade (pessoa), em, inf.: χαλεπή τοι ἐγὼ μένος ἀντιφέρεσθαι hom. é difícil para mim opor minha força à tua   6   difícil de suportar; desagradável, intratável: χαλεπὸς ὢν καὶ δύσκολος ar. sendo irascível e intratável, χαλεποί τε καὶ ἄγριοι οὐδὲ δίκαιοι hom. pessoas difíceis, selvagens e injustas   7   severo (pessoa): ἦν τὸ δίκαιον φυλάσσων χαλεπός her. era severo na observação da justiça ♦ τὸ χαλεπόν   8   maneira de ser difícil   9   pl. dificuldades; males; perigos; preocupações. </def></entryFree><p></p>
+
+<entryFree>χαλεπότης, ητος (ἡ)<def> 1   dificuldade; incômodo; desconforto   2   dificuldade de acesso; aspereza (de um lugar)   3   dificuldade de compreensão   4   severidade; aspereza; dureza (de pessoa, de caráter)   5   caráter difícil; rispidez; malevolência (de pessoa)   6   comportamento arredio, arisco (de animal). 〈χαλεπός〉 </def></entryFree><p></p>
+
+<entryFree>χαλέπτω<def> (pas. aor. ἐχαλέφθην)   1   afligir; atormentar   2   fazer mal a; prejudicar; maltratar; irritar ♦ intr. e méd. pas.   3   irritar-se com alguém, dat. 〈χαλεπός〉 </def></entryFree><p></p>
+
+<entryFree>χαλεπῶς<def> adv.  1   com dificuldade; penosamente: χ. κε φύγοις κακόν hes. terias dificuldade de evitar um mal, χ. ὀργὰς μεταβάλλουσιν eur. dificilmente mudam de humor, χ. παρὰ τοῖς ἐχθροῖς εὑρεθήσεται lís. dificilmente ele será encontrado junto dos inimigos, διαγνῶναι χ. ἦν ἄνδρα ἕκαστον hom. havia dificuldade para reconhecer cada corpo, οὐ χαλεπῶς ἀπανίσταντο tuc. locomoviam-se sem dificuldade   2   de maneira penosa; de maneira inoportuna; em más condições: χαλεπῶς ἔχω ὑπὸ τοῦ ποτοῦ plat. estou indisposto por causa da bebida, χαλεπώτερον ζῆν plat. levar uma vida mais penosa, ἐν τοῖς χαλεπώτατα διῆγον tuc. levavam uma vida muito penosa   3   com malevolência: χ. φέρειν suportar mal, χ. ἔχει σωθῆναι xen. é difícil salvar-se, ἔχει πρὸς φιλοσοφίαν plat. tem má disposição contra a filosofia   4   asperamente; duramente: τιμωρεῖσθαι χ. tuc. ser punido duramente.  </def></entryFree><p></p>
+
+<entryFree>Χαλεστραῖος, α, ον<def>  Χαλαστραῖος. </def></entryFree><p></p>
+
+<entryFree>χαλιναγωγέω-ῶ<def> 1   conduzir com rédea (cavalo)   2   refrear; reprimir (língua, corpo). 〈χαλιναγωγός〉 </def></entryFree><p></p>
+
+<entryFree>χαλιναγωγός, οῦ<def> (masc.) que conduz com rédea. 〈χαλινός, ἄγω〉 </def></entryFree><p></p>
+
+<entryFree>χαλινοποιητικής, ῆς (ἡ)<def> arte de fabricar rédea. </def></entryFree><p></p>
+
+<entryFree>χαλινός, οῦ (ὁ)<def> 1   sing. e pl. rédea; barbela; brida; freio: τὸν χαλινὸν λαμβάνειν xen. receber rédea τὸν χαλινὸν διδόναι xen. soltar a rédea   2   âncora de um navio   3   amarra (de navio)   4   correia; liame; laço   5   canto da boca (do cavalo, do homem)   6   dente venenoso; presa de réptil. </def></entryFree><p></p>
+
+<entryFree>χαλινόω-ῶ<def> 1   colocar a rédea; colocar o freio em (cavalo), ac.   2   guiar; dirigir (nau)   3   refrear; regular; reprimir (cólera, impulso) ♦ pas.   4   ser submetido a rédea   5   estar de boca fechada. 〈χαλινός〉 </def></entryFree><p></p>
+
+<entryFree>χαλινωτήρια, ων (τά)<def> amarras ou cabos que prendem os navios à margem. </def></entryFree><p></p>
+
+<entryFree>χάλιξ, ικος (ὁ<def> e ἡ)   1   pedra pequena; pedrisco; calhau   2   pedra de alvenaria   3   cascalho; cimento para a construção. </def></entryFree><p></p>
+
+<entryFree>χαλιφρονέω-ῶ<def> ter a mente fraca; estar desatinado. </def></entryFree><p></p>
+
+<entryFree>χαλιφροσύνη, ης (ἡ)<def> leveza de espírito; irreflexão; desleixo. </def></entryFree><p></p>
+
+<entryFree>χαλίφρων, ων, ον<def> gen. ονος   1   irreflexivo; desatinado; estulto   2   volúvel   3   que cede facilmente; fraco; indolente. 〈χαλάω, φρήν〉 </def></entryFree><p></p>
+
+<entryFree>χάλκασπις, ιδος<def> (masc., fem.)   1   com escudo de bronze   2   que anda bem armado ♦ οἱ χαλκάσπιδες   3   calcáspides, lit. “soldados com escudos de bronze”, nome de regimento do exército macedônio. </def></entryFree><p></p>
+
+<entryFree>χαλκεῖον, ου (τό)<def> 1   oficina onde se trabalha o cobre ou o bronze; fundição   2   objeto ou instrumento de bronze (vaso, caldeirão, caldeira, marmita)   3   refletor de metal (da lamparina) ♦ τὰ Χαλκεῖα   4   Calceias, festas em honra a Atena e a Hefesto, em Atenas. </def></entryFree><p></p>
+
+<entryFree>χάλκειος, α, ον<def> de cobre, de bronze ou de arame (dardo, fulgor, oficina). 〈χαλκός〉 </def></entryFree><p></p>
+
+<entryFree>χαλκεμβολάς, άδος<def> (fem.) = χαλκέμβολος. </def></entryFree><p></p>
+
+<entryFree>χαλκέμβολος, ος, ον<def> 1   armado com espora de bronze ♦ ἡ χαλχέμβολος   2   navio armado com espora de bronze. 〈χαλκός, ἔμβολος〉 </def></entryFree><p></p>
+
+<entryFree>χαλκεοθώρηξ, ηκος<def> (masc., fem.) ép. com couraça de bronze.  </def></entryFree><p></p>
+
+<entryFree>χάλκεος, α<def> e ος, ον, contr. át. χαλκοῦς, ῆ, οῦν   1   de bronze; feito em bronze (arma, utensílio, estátua, moeda): χ. Ζεύς her. estátua de Zeus feita de bronze, ἱστάναι ou ἀνιστάναι τινὰ χαλκοῦν, lit. “erigir alguém em bronze”, i.e., erigir uma estátua de bronze de alguém   2   guarnecido de bronze (escudo)   3   armado de bronze, epít. de Ares   4   que é de bronze (brilho)   5   de bronze; forte, sólido como bronze; duro; inflexível (coração, voz) ♦ ὁ χαλκοῦς   6   em Atenas, moeda de bronze, equiv. à oitava parte de um óbolo. 〈χαλκός〉 </def></entryFree><p></p>
+
+<entryFree>χαλκεόφωνος, ος, ον<def> que tem voz de bronze; de voz retumbante. 〈χάλκεος, φωνή〉 </def></entryFree><p></p>
+
+<entryFree>χάλκευμα, ατος (τό)<def> obra feita em bronze; objeto de bronze. 〈χαλκεύω〉 </def></entryFree><p></p>
+
+<entryFree>χαλκεύς, έως (ὁ)<def> 1   forjador; ferreiro; metalúrgico   2   peixe do mar, possivelmente a dourada. 〈χαλκεύω〉 </def></entryFree><p></p>
+
+<entryFree>χαλκευτικός, ή, όν<def> 1   relativo ao cobre ou à arte de forjar   2   hábil na fundição. 〈χαλκεύω〉 </def></entryFree><p></p>
+
+<entryFree>χαλκεύω<def> (impf. 3ªpl. ép. χάλκευον, fut. χαλκεύσω, aor. ἐχάλκευσα; pas. χαλκεύομαι, perf. κεχάλκευμαι, part. κεχαλκευμένος)   1   intr. trabalhar o cobre, o bronze ou o ferro; ser ferreiro   2   fabricar com bronze ou com ferro; forjar (espada)   3   forjar; esculpir (discurso): ἀψευδεῖ δὲ πρὸς ἄκμονι χάλκευε γλῶσσαν pínd. forja tua língua sobre uma bigorna não mentirosa   4   fazer forjar ♦ méd.   5   autoforjar-se.  </def></entryFree><p></p>
+
+<entryFree>χαλκεών, ῶνος (ὁ)<def> forja; ferraria; fundição. 〈χαλκεύς〉 </def></entryFree><p></p>
+
+<entryFree>χαλκῆ<def> cf. χάλκεος. </def></entryFree><p></p>
+
+<entryFree>Χαλκηδόνιος, α, ον<def> de Calcedão; calcedônio. 〈Χαλκηδών〉 </def></entryFree><p></p>
+
+<entryFree>Χαλκηδών, όνος (ἡ)<def> 1   Calcedão, cidade de Bitínia, em frente a Bizâncio   2   calcedônia, pedra preciosa.  </def></entryFree><p></p>
+
+<entryFree>χαλκήϊον, ου (τό)<def> ép. = χαλκεῖον. </def></entryFree><p></p>
+
+<entryFree>χαλκήϊος, η, ον<def> ép. = χάλκειος. </def></entryFree><p></p>
+
+<entryFree>χαλκήλατος, ος, ον<def> forjado em cobre ou em bronze. 〈χαλκός, ἐλαύνω〉 </def></entryFree><p></p>
+
+<entryFree>χαλκήρης, ης, ες<def> munido de bronze; guarnecido de bronze. </def></entryFree><p></p>
+
+<entryFree>Χαλκιδεύς, έως (ὁ)<def> habitante ou originário da Calcídia; calcídio. </def></entryFree><p></p>
+
+<entryFree>Χαλκιδικός, ή, όν<def> 1   da Calcídia; calcídico ♦ ἡ Χαλκιδική   2   o território da Calcídia. </def></entryFree><p></p>
+
+<entryFree>χαλκίοικος, ος, ον<def> que tem morada de bronze, epít. de Atena em Esparta. </def></entryFree><p></p>
+
+<entryFree>χαλκίον, ου (τό)<def> 1   vasilha de cobre ou de bronze; caldeirão: χ. θερμαντήριον gal. caldeira   2   tanque de banho   3   címbalo   4   jetom; tento, no jogo   5   moeda de cobre: πονηρὰ χαλχία ar. moedas de baixa liga. </def></entryFree><p></p>
+
+<entryFree>χαλκίς, ίδος (ἡ)<def> 1   Zool. cálcis, n. de uma espécie de pássaro, de peixe e de lagarto ♦ Χαλκίς   2   Cálcis, n. de diversas cidades e também de um rio.  </def></entryFree><p></p>
+
+<entryFree>χαλκῖτις, εως<def> e ιδος (fem.)   1   minério de cobre: χαλκῖτις λίθος pedra de cobre ou sulfato de cobre ou pirita de cobre, χαλκῖτις στυπτηρίη pedra de vitríolo   2   Medic. alúmen. 〈χαλκός〉 </def></entryFree><p></p>
+
+<entryFree>χαλκοβάρεια, ας<def> (fem.) ép. = χαλκοβαρής. </def></entryFree><p></p>
+
+<entryFree>χαλκοβαρής, ής, ές<def> ép. carregado ou guarnecido de bronze; pesado de bronze (coroa). 〈χαλκός, βαρύς〉 </def></entryFree><p></p>
+
+<entryFree>χαλκοβατής, ής, ές<def> ép. que tem soleira de bronze (morada). 〈χαλκός, βαίνω〉 </def></entryFree><p></p>
+
+<entryFree>χαλκοβόας, ου<def> (masc.) com a voz de bronze, epít. de Ares. 〈χαλκός, βοάω〉 </def></entryFree><p></p>
+
+<entryFree>χαλκογλώχιν, ινος<def> (masc., fem.) que tem ponta de bronze. </def></entryFree><p></p>
+
+<entryFree>χαλκόδετος, ος, ον<def> com liga de bronze; de bronze; guarnecido de bronze. </def></entryFree><p></p>
+
+<entryFree>χαλκοειδής, ής, ές<def> semelhante ao cobre ou ao bronze; da cor do cobre ou do bronze; bronzeado.  </def></entryFree><p></p>
+
+<entryFree>χαλκοθώραξ, ακος<def> (masc., fem.) com couraça de bronze. </def></entryFree><p></p>
+
+<entryFree>χαλκοκνήμις, ιδος<def> (masc., fem.) com grevas de bronze. </def></entryFree><p></p>
+
+<entryFree>χαλκοκορυστής, οῦ<def> (masc.) coberto com elmo de bronze; armado de bronze. </def></entryFree><p></p>
+
+<entryFree>χαλκολίβανον, ου (τό)<def> bíbl. espécie de bronze. </def></entryFree><p></p>
+
+<entryFree>χαλκοπάρᾳος, ος, ον<def> dór. = χαλκοπάρῃος. </def></entryFree><p></p>
+
+<entryFree>χαλκοπάρῃος, ος, ον<def> ép. com laterais de bronze (capacete).  </def></entryFree><p></p>
+
+<entryFree>χαλκόπλακτος, ος, ον<def> dór. que fere com o bronze (machado). 〈χαλκός, πλήσσω〉 </def></entryFree><p></p>
+
+<entryFree>χαλκόπλευρος, ος, ον<def> com laterais de bronze (urna). 〈χαλκός, πλευρά〉 </def></entryFree><p></p>
+
+<entryFree>χαλκόπους, ους, ουν<def> gén. -ποδος   1   com pés de bronze (tripé)   2   com cascos ferrados de bronze (cavalo, touro)   3   que repousa no bronze (limiar)   4   de sandálias de bronze, epít. de Empédocles. </def></entryFree><p></p>
+
+<entryFree>χαλκόπυλος, ος, ον<def> 1   com portas de bronze (templo)   2   que jorra da boca de bronze (água). </def></entryFree><p></p>
+
+<entryFree>χαλκοπώγων, ωνος (ὁ)<def> aquele que tem barba de bronze. </def></entryFree><p></p>
+
+<entryFree>χαλκός, οῦ (ὁ)<def> 1   cobre: χ. ἐρυθρὸς καὶ λευκός hom. cobre vermelho e cobre branco, χ. κεκραμένος d.c. cobre com liga, i.e., bronze   2   bronze, liga de cobre e estanho   3   objeto feito de bronze (venábulo, espada, faca, machado, anzol; armadura; caldeirão, urna; espelho)   4   pequena moeda de cobre, oitava parte do óbolo   5   moeda; dinheiro. </def></entryFree><p></p>
+
+<entryFree>χαλκόστομος, ος, ον<def> 1   com a proa de bronze (navio)   2   bocal de bronze. 〈χαλκός, στόμα〉 </def></entryFree><p></p>
+
+<entryFree>χαλκότευκτος, ος, ον<def> feito de bronze. </def></entryFree><p></p>
+
+<entryFree>χαλκοτυπέω-ῶ<def> trabalhar, forjar ou configurar de bronze; trabalhar algo, ac., em cobre ou em bronze. </def></entryFree><p></p>
+
+<entryFree>χαλκοτυπική, ῆς (ἡ)<def> ofício de ferreiro. </def></entryFree><p></p>
+
+<entryFree>χαλκοτύπος, ος, ον<def> 1   que forja o cobre, o bronze ou o ferro; que trabalha um metal   2   que dá pancadas no bronze: χ. μανίη a.p. delírio que golpeia o bronze, que move as sacerdotisas de Cibele a golpear seus címbalos de bronze ♦ ὁ χαλκοτύπος   3   ferreiro; caldeireiro. 〈χαλκός, τύπτω〉 </def></entryFree><p></p>
+
+<entryFree>χαλκότυπος, ος, ον<def> 1   causado pelo bronze (ferimento)   2   esculpido em bronze (imagem). </def></entryFree><p></p>
+
+<entryFree>χαλκοῦν<def> n. contr. de χάλκεος. </def></entryFree><p></p>
+
+<entryFree>χαλκουργός, ός, όν<def> 1   de cobre   2   que trabalha o cobre ou o bronze ♦ ὁ χαλκουργός   3   artífice que trabalha o bronze; escultor   4   mineiro. </def></entryFree><p></p>
+
+<entryFree>χαλκοῦς, ῆ, οῦν<def> contr. = χάλκεος.  </def></entryFree><p></p>
+
+<entryFree>Χαλκοῦς (ὁ)<def> Calco, local das minas de cobre, na Ática. </def></entryFree><p></p>
+
+<entryFree>Χαλκόφι<def> gen. ép. de χαλκός.  </def></entryFree><p></p>
+
+<entryFree>χαλκοχίτων, ωνος<def> (masc., fem.) que tem couraça de bronze. </def></entryFree><p></p>
+
+<entryFree>χαλκόω-ῶ<def> 1   forjar em bronze algo   2   recobrir de bronze ♦ pas.   3   (pessoa) ser revestido, ser armado de bronze. 〈χαλκός〉  </def></entryFree><p></p>
+
+<entryFree>χάλκωμα, ατος (τό)<def> 1   objeto de cobre ou de bronze (vaso, caldeira, lâmina, placa, esporão de navio)   2   porção de bronze (do escudo). 〈χαλκόω〉 </def></entryFree><p></p>
+
+<entryFree>χαλκωρυχεῖον, ου (τό)<def>  χαλκωρύχιον.  </def></entryFree><p></p>
+
+<entryFree>χαλκωρύχιον, ου (τό)<def> mina de cobre. </def></entryFree><p></p>
+
+<entryFree>Χάλυβες, ων (οἱ)<def> cf. χάλυψ.  </def></entryFree><p></p>
+
+<entryFree>χάλυψ, υβος (ὁ)<def> 1   aço ♦ οἱ Χάλυβες   2   Cálibos, povo do Ponto Euxino, hábeis ferreiros e inventores do aço ♦ adj.   3   de aço. </def></entryFree><p></p>
+
+<entryFree>χαμάδις<def> adv. = χαμᾶζε. </def></entryFree><p></p>
+
+<entryFree>χαμᾶζε<def> adv.   1   em direção ao solo; por terra; ao chão   2   na terra; sobre o solo. </def></entryFree><p></p>
+
+<entryFree>χαμᾶθεν<def> adv. vindo da terra; da terra. </def></entryFree><p></p>
+
+<entryFree>χαμαί<def> adv.   1   na terra: ἦσθαι χ. hom. sentar-se na terra   2   em terra: χ. πεσεῖν eur. cair em terra. </def></entryFree><p></p>
+
+<entryFree>χαμαιευνάς, άδος<def> (fem.) = χαμαιεύνης. </def></entryFree><p></p>
+
+<entryFree>χαμαιεύνης, ου<def> (masc.) que se deita sobre o solo. </def></entryFree><p></p>
+
+<entryFree>χαμαίζηλος, ος, ον<def> 1   que vive sobre a terra; que rasteja sobre a terra: χαμαίζηλα φυτά artt. plantas baixas   2   que não passa do chão; pequeno; anão: οἱ χαμαίζηλοι φοίνικες diosc. palmeiras anãs   3   baixo; não muito alto   4   de baixo nível; humilde; medíocre ♦ ὁ χαμαίζηλος   5   assento baixo ♦ τὰ χαμαίζηλα   6   vulgaridades. </def></entryFree><p></p>
+
+<entryFree>χαμαῖθεν<def> adv. = χαμᾶθεν. </def></entryFree><p></p>
+
+<entryFree>χαμαικοίτης, ου<def> (masc.) que dorme na terra. </def></entryFree><p></p>
+
+<entryFree>χαμαιλέων, οντος (ὁ)<def> 1   camaleão, réptil   2   camaleão, n. de plantas cujas folhas mudam de cor   3   camaleão; pessoa dissimulada, falsa. </def></entryFree><p></p>
+
+<entryFree>χαμαιπετής, ής, ές<def> 1   que cai ou caiu por terra; estendido por terra; esparso na terra (sangue)   2   que jaz na terra; que repousa na terra   3   baixo; humilde; vil   4   vão; inútil. </def></entryFree><p></p>
+
+<entryFree>χαμαιπετῶς<def> adv. rente ao solo. </def></entryFree><p></p>
+
+<entryFree>χαμαιτυπεῖον, ου (τό)<def> prostíbulo; bordel. </def></entryFree><p></p>
+
+<entryFree>χαμαιτύπη, ης (ἡ)<def> prostituta.  </def></entryFree><p></p>
+
+<entryFree>χαμεύνη, ης (ἡ)<def> 1   cama feita no chão; leito improvisado no chão   2   pequeno leito; esteira. </def></entryFree><p></p>
+
+<entryFree>χαμεύνιον, ου (τό)<def> pequeno leito; pequena cama; esteira. </def></entryFree><p></p>
+
+<entryFree>χαμευνίς, ίδος (ἡ)<def>  χαμεύνιον. </def></entryFree><p></p>
+
+<entryFree>χαμόθεν<def> adv. = χαμᾶθεν. </def></entryFree><p></p>
+
+<entryFree>χάμψαι, ῶν (οἱ)<def> crocodilos. </def></entryFree><p></p>
+
+<entryFree>χἂν<def> crase de καὶ ἅ ἄν. </def></entryFree><p></p>
+
+<entryFree>Χανάαν<def> e Χαναάν indecl. (ἡ) Canaã. [hebr.] </def></entryFree><p></p>
+
+<entryFree>Χαναναῖος, α, ον<def> bíbl. cananeu. 〈Χαναάν〉 </def></entryFree><p></p>
+
+<entryFree>χανδάνω<def> (impf. ép. 3a sing. χάνδενε(ν), fut. χείσομαι, aor.2 ἔχαδον, ép. 3ª sing. χάδε, 3a pl. χάδον, inf. χαδέειν, perf. com sent. de pres. κέχανδα, perf. part. κεχανδώς, m.-q.-perf. 3ª sing. ép. κεχάνδει e κεχόνδει)   1   conter; comportar; suportar: ἕξ δ᾽ ἄρα μέτρα χάνδανεν hom. [a cratera] continha seis medidas, οὐδός δ᾽ ἀμφοτέρους χείσεται hom. o umbral comportará duas pessoas, ὅσον χανδάνει χείρ hipócr. tudo que a mão pode conter   2   ser capaz de: κεκραξόμεσθά γ᾽ ὁπόσον ἡ φάρυγξ ἄν χανδάνῃ ar. teremos soltado todos os gritos de que nossa garganta for capaz. </def></entryFree><p></p>
+
+<entryFree>χανδόν<def> adv.   1   com a boca aberta   2   com avidez; avidamente. </def></entryFree><p></p>
+
+<entryFree>χάννη, ης (ἡ)<def> perca do mar, peixe. </def></entryFree><p></p>
+
+<entryFree>χάνοι<def> opt. aor. 3ª sing., χανών part. aor., de χάσκω e χαίνω.  </def></entryFree><p></p>
+
+<entryFree>χάος, χάεος-χάους (τό)<def> 1   caos, espaço vazio e imenso concebido como estado primordial do universo   2   espaço vazio   3   espaço infinito   4   abismo inferior; trevas; obscuridade   5   imensa abertura; voragem; precipício   6   Fil. caos; matéria informe   7   Fil., água, para os estoicos   8   Fil., uno, para os pitagóricos ♦ Χάος   9   Caos, divindade primordial. </def></entryFree><p></p>
+
+<entryFree>χαρά, ᾶς (ἡ)<def> 1   alegria; regozijo; prazer: ἡδονὴ καὶ τέρψις καὶ χαρά plat. prazer, deleite e alegria, δάκρυ ἅμα χαρᾷ eur. lágrima de alegria, χαρᾷ, σὺν χαρᾷ, μετὰ χαρᾶς com alegria, χαρᾶς ὕπο ésql., ὑπὸ χαρᾶς xen., διὰ τὴν χαράν plat. por meio da alegria   2   bíbl. aquilo que faz a alegria de alguém, gen.: χαρά μου n.t. minha alegria, minha felicidade.  </def></entryFree><p></p>
+
+<entryFree>χάραγμα, ατος (τό)<def> 1   marca deixada por uma incisão ou por picada de serpente ou por queimadura; cicatriz   2   marca feita sobre uma pedra, sobre um metal; inscrição   3   cunho de moeda   4   dinheiro cunhado   5   marca; sinal. 〈χαράσσω〉 </def></entryFree><p></p>
+
+<entryFree>χαράδρα, ας (ἡ)<def> 1   fenda, greta por onde passam as águas torrenciais; garganta; desfiladeiro   2   canal; condutor por onde passam as águas   3   torrente   4   penhasco. </def></entryFree><p></p>
+
+<entryFree>χαραδριός, οῦ (ὁ)<def> tarambola; maçarico, ave aquática. </def></entryFree><p></p>
+
+<entryFree>χαραδρόομαι-οῦμαι<def> 1   ser cortado por córregos: χώρη κεχαραδρωμένη her. região sulcada por cursos d’água   2   Medic. alargar-se.  </def></entryFree><p></p>
+
+<entryFree>χαρακόω-ῶ<def> 1   escorar com estacas (videira)   2   rodear de estacas; fechar com paliçada; entricheirar (cidade), ac.   3   proteger; defender (a riqueza)   4   munir uma coisa, ac., de algo, dat.  </def></entryFree><p></p>
+
+<entryFree>χαρακτήρ, ῆρος<def> (ὁ)  1   aquele que grava; entalhador; cunhador  2   instrumento para gravar, marcar ou imprimir   3   sinal, traço gravado ou impresso em madeira, couro, pedra ou metal   4   marca; sinal; mostra: φανερὸς χαρακτὴρ ἀρετῆς eur. marca evidente de virtude   5   traço; desenho; sinal gráfico: οἱ τῶν γραμμάτων χαρακτῆρες plut. os desenhos das letras   6   escrito; escritura: οἱ ἀποστολικοὶ χαρακτῆρες bas. os escritos apostólicos   7   representação; imagem; figura: χ. τῆς ὑποστάσεως n.t. imagem da hipóstase   8   sinal que individualiza; traço distintivo; característica: ὁ χ. τοῦ προσώπου her. os traços do rosto, ὁ  Ἑλληνικὸς χ. d.h. o traço distintivo da língua grega   9   modo de ser, de comportar-se; tipo; caráter: ὁ χ. τοῦ ∆ιογένους arr. o caráter de Diógenes   10   Ret. estilo: ὁ ∆ημοσθένους χ. d.h. o estilo de Demóstenes.  </def></entryFree><p></p>
+
+<entryFree>χαράκωμα, ατος (τό)<def> 1   campo entrincheirado   2   paliçada; trincheira; fortificação. 〈χαρακόω〉 </def></entryFree><p></p>
+
+<entryFree>χαράκωσις, εως (ἡ)<def> 1   construção de barricadas; fortificação   2   paliçada. 〈χαρακόω〉 </def></entryFree><p></p>
+
+<entryFree>χάραξ, ακος (ἡ<def> e ὁ)   1   estaca   2   escora de videira   3   estaca de paliçada   4   paliçada; trincheira ♦ fem.   5   muda de oliveira ♦ masc.   6   campo entrincheirado   7   espécie de peixe do mar. </def></entryFree><p></p>
+
+<entryFree>χαραξίποντος, ος, ον<def> que sulca os mares. 〈χαράσσω, πόντος〉 </def></entryFree><p></p>
+
+<entryFree>χάραξις, εως (ἡ)<def> incisão; sulco. 〈χαράσσω〉 </def></entryFree><p></p>
+
+<entryFree>χαράσσω,<def> át. -άττω (fut. χαράξω, aor. ἐχάραξα; pas. aor. ἐχαράχθην, perf. κεχάραγμαι)   1   afiar; aguçar   2   aguçar; estimular; excitar: χ. τὸ φιλόνεικον plut. aguçar o gosto por querelas   3   fender; sulcar (terra, mar)   4   esfolar; dilacerar (o dorso)   5   chocar; magoar (alguém)   6   marcar (um escravo) ac., com um sinal   7   cunhar (moeda)   8   escrever; gravar (letra, palavra) ac., em, ἐν e dat. ou ἐπί e gen.   9   desenhar; pintar ♦ méd.   10   destruir; romper; dissipar (trevas). </def></entryFree><p></p>
+
+<entryFree>χαρείς<def> part. aor.2 pas. de χαίρω. </def></entryFree><p></p>
+
+<entryFree>Χάρης, ητος (ὁ)<def> Cares, n. de h. e de rio. </def></entryFree><p></p>
+
+<entryFree>χαρήσομαι<def> fut. méd. de χαίρω. </def></entryFree><p></p>
+
+<entryFree>χαριδότης, ου (ὁ)<def> aquele que dá a alegria; dispensador de alegria. </def></entryFree><p></p>
+
+<entryFree>χαριεῖ<def> fut. méd. 2ª sing. de χαρίζομαι. </def></entryFree><p></p>
+
+<entryFree>χαρίεις, ίεσσα, ίεν<def> (comp. χαριέστερος, superl. χαριέστατος)   1   gracioso; agradável; amável   2   divertido; engraçado: χαρίεν λέγειν dizer algo divertido   3   de bom gosto; de bom tom; elegante; distinto   4   que tem elegância natural para uma atividade; competente; hábil em algo, ac., περί e ac., ἐπί e gen. ou ἐν e dat.: χαρίεις γεωργός plut. hábil agricultor, χαριέστατος τὴν μουσικήν plat. exímio em música ♦ τὸ χαρίεν   5   bom gosto.  </def></entryFree><p></p>
+
+<entryFree>χαριεντίζομαι<def> ser espirituoso; ser brincalhão. 〈χαρίεις〉 </def></entryFree><p></p>
+
+<entryFree>χαριεντισμός, οῦ (ὁ)<def> gracejo; brincadeira; chiste. 〈χαριεντίζομαι〉  </def></entryFree><p></p>
+
+<entryFree>χαριεντότης, ητος (ἡ)<def> boas maneiras; amabilidade; graça. 〈χαρίεις〉 </def></entryFree><p></p>
+
+<entryFree>χαριέντως<def> adv.   1   com graça   2   com humor; com elegância; de maneira agradável   3   com boa intenção; gentilmente. 〈χαρίεις〉 </def></entryFree><p></p>
+
+<entryFree>χαριέστατος, η, ον<def> superl. de χαρίεις. </def></entryFree><p></p>
+
+<entryFree>χαριέστερος, α, ον<def> comp. de χαρίεις. </def></entryFree><p></p>
+
+<entryFree>χαριεστέρως<def> comp. de χαριέντως. </def></entryFree><p></p>
+
+<entryFree>χαρίζομαι<def> (fut. χαρίσομαι e χαρισθήσομαι, át. χαριοῦμαι, aor. ἐχαρισάμην e ἐχαρίσθην, perf. κεχάρισμαι)   1   fazer agrado; agradar a; prestar favores a alguém, dat.: χαρίζεσθαι ἀλλοτρίων hom. fazer agrados com bens alheios   2   procurar agradar; deseja ser agradável a, dat.: χαρίζεσθαι τοῖς θεοῖς xen. procurar agradar aos deuses, οἱ ὑπὲρ καιρὸν χαριζόμενοι and. os homens que procuram agradar mais do que convém   3   ceder com complacência; entregar-se aos caprichos de, dat.: χ. τῇ ἐπιθυμία plat. ceder ao desejo, χ. τῇ ἡδονῇ xen. abandonar-se ao prazer, χ. τῷ ἵππῳ xen. ceder aos caprichos do cavalo   4   (mulher) conceder favores sexuais a um homem, dat.   5   bíbl. conceder perdão: χαρισάμενος ἡμῖν πάντα τὰ παραπτώματα n.t. tendo-nos concedido o perdão de todas as transgressões   6   conceder a alguém, dat., algo, ac., como presente; fazer mercê de algo a alguém: τῷ δεσπότῃ Παφλαγὼν κεχάρισται τοῦτο ar. Paflagônio dá isso de presente ao patrão   7   poupar alguém, ac., como favor a alguém, dat.: τῇ μητρὶ δεηθείση χαρίζεσθαι  Ὀκτάβιον plut. poupar Otávio para favorecer à mãe que suplicava ♦ pas.   8   ser agradável; ser caro a alguém, dat.: κεχαρισμένα δῶρα hom. presentes agradáveis, dons bem recebidos, θεοῖς κεχαρισμένα ποιεῖν lís. fazer o que agrada aos deuses. </def></entryFree><p></p>
+
+<entryFree>Χαρίλαος, ου,<def> jôn. Χαρίλεως, ω (ὁ) Carilau, n. de h. </def></entryFree><p></p>
+
+<entryFree>χάριν<def> cf. χάρις. </def></entryFree><p></p>
+
+<entryFree>χάρις1, ιτος<def> ac. sing. χάριν e χάριτα (ἡ) 
+1	graça exterior; beleza encantadora; encanto; charme 
+2	encanto; alegria; prazer
+3	brilho; glória
+4	respeito; honra
+5	favor prestado; benefício de algo, gen., a alguém, dat. ou εἰς e ac., prestado por alguém, gen., ou recebido por alguém, gen. ou πρός, εἰς e ac.; benevolência; solicitude
+6	dom votivo; oferenda
+7	favoritismo; parcialidade
+8	gratidão; reconhecimento demonstrado a alguém, dat., por um favor recebido, gen., dat., ἐπί e dat.  </def></entryFree><p></p>
+
+<entryFree><def> 
+Χάρις
+9	Cáris; Graça, esposa de Hefesto
+10	pl. Cárites; Graças, Aglaia, Eufrosine e Tália, filhas de Zeus e Eurínome </def></entryFree><p></p>
+
+<entryFree>χάριν<def> adv.
+11	para agradar a; no interesse de; em honra de; em consideração, gen.
+12	por causa de; em razão de; em vista de, gen.
+
+1 θεσπεσίην δ᾽ ἄρα τῷ γε χάριν κατεχεύατ᾽ Ἀθήνη hom. Atena verteu sobre ele uma graça divina, ὅσσοις χάριτας Ἀφρο­δίτης ἔχων eur. tendo no olhar os encantos de Afrodite, ἡ τῶν λόγων χάρις dem. o encanto dos discursos, μετὰ χαρίτων tuc. com encanto, com agrado
+2 οὐδεμίαν ἔχω τῷ βίῳ χάριν ar. minha vida não tem nenhum encanto, συμπόσιου χάριν pínd. encanto do banquete
+3 Πίσας τε καὶ Φερενίκου χάρις pínd. a glória de Pisa e de Ferenico, συγγόνων κεδνὰν χάριν pínd. a glória ilustre da família
+4 χ. ὅρκων eur. respeito dos juramentos
+5 χάρις τῆς εὐεργεσίας d.s. favor de uma boa ação, Ἀθηναίων χάρις pínd. favor prestado pelos atenienses, τῶν Μεσσηνίων χάριτι tuc. em favor dos messênios, χ. τοῖς νοσοῦσιν hi­pócr. solicitude aos doentes, χάριν φέρειν, τίθεσθαι, θέσθαι, προθέσθαι, ὑπουργῆσαι, πράσσειν, δοῦναι, δρᾶν, νέμειν conceder favor, agradar, Μενέλεῳ χάριν φέρων eur. para agradar a Menelau, ἄλλοις χάριν φέροντες tuc. prestando serviço a outros, χάριν ἐκτίνειν, τίνειν, ἀποδιδόναι retribuir um favor, ser grato, ἀποστερεῖν τὴν χάριν plat. negar-se a retribuir um favor, χάρις ἀντὶ χάριτος ἐλθέτω eur. que venha um favor em troca de outro
+6 ἔπεμψε χαίτην κουρίμην χάριν πατρός ésql. enviou, como oferenda ao pai, a mecha que cortara
+7 μήτε ἔλεον μήτε συγγνώμην μήτε χάριν μηδεμίαν περὶ πλείονος ποιήσασθαι τῶν νόμων lís. não dar importância maior nem à piedade, nem ao perdão, nem a um favorecimento
+8 χάρις οὐδεμία ἐφαίνετο πρός Ἀθηναίων her. da parte dos atenienses não se manifestava nenhum reconhecimento, ἑτέροις τῆς σωτηρίας χάριν εἰδέναι lís. ser grato aos outros pelo salvamento, χάριν εἰδέναι, προσειδέναι, ἀποδιδόναι, γνῶναι, ἐπίστασθαι demonstrar gratidão, ser grato, θεοῖσι εἰδέναι χάριν her. demonstrar gratidão aos deuses, οὐδεὶς ἐμοὶ τούτων χάριν εἴσεται xen. ninguém me demonstrará gratidão por isso, χάριν ὀφείλειν, προσοφείλειν dever gratidão
+9 τὴν δὲ ἴδε προμολοῦσα Χάρις λιπαροκρήδεμνος καλή hom. adiantando-se, a bela Cáris de brilhantes faixas a viu [a Tétis] 
+10 τρεῖς δέ οἱ Εὐρυνόμη Χάριτας τέκε καλλιπαρῄους hes. para ele Eurínome pariu três Graças de belas faces
+11 χάριν    Ἕκτορος ὀτρύναντος hom. para obedecer às ordens de Heitor, ψεύδεσθαι γλώσσης χάριν ésql. mentir pelo prazer de falar, οὐ τὴν Ἀθηναίων χάριν ἐστρατεύοντο her. combatiam não em consideração aos atenienses, ἐμὴν χάριν ésql.  em consideração a mim, σοῦ τε τήν τ᾽ ἐμὴν χάριν eur. em consideração a ti e a mim
+12 τοῦ χάριν; ou χάριν τίνος; sept. por quê? πρὸς χάριν εὐσεβίας ἀνδρῶν pínd. em retribuição à piedade dos homens, πρὸς χάριν βορᾶς sóf. para obter alimento. </def></entryFree><p></p>
+
+<entryFree>χαρίσιος, α, ον<def> 1   oferecido em sinal de reconhecimento: χαρίσιον ἓδνον bolo de agradecimento   2   do amor: χαρισία βοτάνη planta do amor, utilizada como filtro, χαρίσιος πλακοῦς bolo do amor, espécie de bolo ♦ Χαρίσιος   3   Carísio, n. de h. ♦ τό χαρίσιον   4   planta do amor, utilizada como filtro. 〈χάρις〉 </def></entryFree><p></p>
+
+<entryFree>χάρισμα, ατος (τό)<def> 1   graça; favor   2   bíbl. misericórdia   3   bíbl. dom da graça de Deus; carisma. 〈χαρίζομαι〉 </def></entryFree><p></p>
+
+<entryFree>χαριστέος, α, ον<def> adj. verb. de χαρίζομαι.  </def></entryFree><p></p>
+
+<entryFree>χαριστήριος, ος, ον<def> 1   que testemunha reconhecimento; de agradecimento ♦ τὰ χαριστήρια   2   sacrifício de ação de graças   3   graças: χ. τροφῶν ἀποδιδόναι luc. dar graças pela educação recebida. 〈χαρίζομαι〉 </def></entryFree><p></p>
+
+<entryFree>χαριστικός, ή, όν<def> 1   generoso; prestativo; beneficente ♦ τὸ χαριστικόν   2   liberalidade. 〈χαρίζομαι〉 </def></entryFree><p></p>
+
+<entryFree>χάριτα<def> cf. χάρὶ. </def></entryFree><p></p>
+
+<entryFree>χαριτία, ας (ἡ)<def> gracejo. 〈χάρις〉 </def></entryFree><p></p>
+
+<entryFree>χαριτογλωσσέω,<def> át. -ωττέω-ῶ falar para agradar; ser agradável ou amável em palavras. 〈χάρις, γλῶσσα〉 </def></entryFree><p></p>
+
+<entryFree>χαριτοδότης, ου (ὁ)<def>  χαριδότης.  </def></entryFree><p></p>
+
+<entryFree>χαριτόω-ῶ<def> 1   bíbl. encher de graça divina   2   tornar gracioso. 〈χάρις〉 </def></entryFree><p></p>
+
+<entryFree>Χαρίτων, ωνος (ὁ)<def> Cáriton, n. de h. </def></entryFree><p></p>
+
+<entryFree>χάρμα, ατος (τό)<def> 1   fonte de alegria   2   alegria   3   objeto de riso.  </def></entryFree><p></p>
+
+<entryFree>χάρμη, ης<def> (ἡ)  1   alegria de combater; ardor belicoso   2   combate; batalha: ἐπελήθετο χάρμης hom. não pensava no combate   3   alegria da batalha; vitória. </def></entryFree><p></p>
+
+<entryFree>χαρμονή, ῆς (ἡ)<def> alegria; prazer. 〈χαίρω〉 </def></entryFree><p></p>
+
+<entryFree>χαρμοσύνη, ης (ἡ)<def>  χαρμονή. </def></entryFree><p></p>
+
+<entryFree>χαρμόσυνος, η, ον<def> 1   que se alegra; alegre   2   que exprime alegria ♦ τὰ χαρμόσυνα   3   festa de agradecimento. 〈χαίρω〉 </def></entryFree><p></p>
+
+<entryFree>χαροποιός, ός, όν<def> que traz alegria; que alegra. 〈χαρά, ποιέω〉 </def></entryFree><p></p>
+
+<entryFree>χαροπός, ή, όν<def> 1   de um azul intenso (olhos)   2   cinza azulado (mar)   3   claro; brilhante: χαροπὸν βλέπειν ter um olhar claro   4   cintilante (estrela).  </def></entryFree><p></p>
+
+<entryFree>χαροπότης, ητος (ἡ)<def> a cor azul claro.  </def></entryFree><p></p>
+
+<entryFree>χἀρπάσαι<def> crase poét. de καὶ ἁρπάσαι. </def></entryFree><p></p>
+
+<entryFree>χάρτης, ου (ὁ)<def> 1   folha ou rolo de papiro   2   folha de metal.  </def></entryFree><p></p>
+
+<entryFree>χαρτίον, ου (τό)<def> pequena folha ou rolo de papiro. </def></entryFree><p></p>
+
+<entryFree>χαρτός, ή, όν<def> 1   que proporciona prazer; agradável ♦ τὸ χαρτόν   2   motivo de alegria. 〈χαίρω〉 </def></entryFree><p></p>
+
+<entryFree>Χάρυβδις, εως (ἡ)<def> 1   Caríbdis, n. de monstro marinho e de um abismo situado próximo de Antióquia   2   turbilhão; abismo.  </def></entryFree><p></p>
+
+<entryFree>χαρῶ, ῇς, ῇ<def> subj. aor.2 de χαίρω. </def></entryFree><p></p>
+
+<entryFree>Χάρων, ονος (ὁ)<def> Caronte, barqueiro do Hades. </def></entryFree><p></p>
+
+<entryFree>Χαρώνειος, ος, ον<def> 1   de Caronte, i.e., dos infernos ♦ τὸ Χαρώνειον   2   abismo considerado a porta dos infernos. 〈Χάρων〉 </def></entryFree><p></p>
+
+<entryFree>Χαρωνίτης, ου<def> (masc.) que vem da morada de Caronte. 〈Χάρων〉  </def></entryFree><p></p>
+
+<entryFree>χασκάζω<def> (só pres.) olhar com admiração ou com inveja. 〈χάσκω〉 </def></entryFree><p></p>
+
+<entryFree>χάσκω<def> (só pres. e impf.)   1   (terra) abrir-se; escancarar-se   2   (ferida, concha) abrir-se   3   (pessoa) abrir a boca; bocejar   4   (animal) abrir a goela, o bico   5   ficar boquiaberto (de medo ou admiração), diante de, πρός e ac.; ficar pasmado   6   abrir a boca para gritar. </def></entryFree><p></p>
+
+<entryFree>χάσμα, ατος (τό)<def> 1   abertura grande   2   turbilhão; abismo   3   boca aberta; goela aberta   4   abertura de porta   5   abertura para o mar.  </def></entryFree><p></p>
+
+<entryFree>χασμάομαι-ῶμαι<def> 1   abrir a boca; bocejar   2   ficar de boca aberta; ficar pasmado. </def></entryFree><p></p>
+
+<entryFree>χάσμη, η (ἡ)<def> 1   Medic. bocejo   2   boca aberta   3   o que causa espanto, admiração. 〈χαίνω〉 </def></entryFree><p></p>
+
+<entryFree>χασμώδης, ης, ες<def> 1   que boceja; sonolento; preguiçoso ♦ τὸ χασμῶδες   2   preguiça. 〈χάσμη, -ωδης〉 </def></entryFree><p></p>
+
+<entryFree>χἄτερος<def> crase poét. de καὶ ἕτερος.  </def></entryFree><p></p>
+
+<entryFree>χατέω-ῶ<def> (só pres. e impf.)   1   desejar intensamente; ter vontade de, gen. ou ac. ou inf.   2   ter necessidade de, gen. </def></entryFree><p></p>
+
+<entryFree>χατίζω<def> (só pres.)   1   ter o desejo ou a necessidade de, gen.   2   passar privações; ser pobre; ser indigente. 〈χατέω〉  </def></entryFree><p></p>
+
+<entryFree>χαυλιόδους, -όδοντος<def> (masc., fem.)   1   de dentes salientes; de presas salientes   2   saliente (dente) ♦ οἱ χαυλιό­δοντες   3   presas (de javali, hipopótamo). </def></entryFree><p></p>
+
+<entryFree>χαῦνος, η, ον<def> 1   não compacto; poroso; esponjoso   2   flácido; mole; frouxo (trama de lã, atadura)   3   dilatado (coisa, ar rarefeito)   4   leve (vinho)   5   vão; frívolo   6   cheio de vaidade; presunçoso; pretencioso   7   pomposo (nome) ♦ τὸ χαῦνον   8   matéria esponjosa. </def></entryFree><p></p>
+
+<entryFree>χαυνότης, ητος<def> (ἡ)  1   natureza esponjosa; porosidade   2   falta de consistência; inconsistência; moleza   3   vaidade; vão orgulho; presunção   4   falta de vontade; fraqueza. </def></entryFree><p></p>
+
+<entryFree>χαυνόω-ῶ<def> (pas. aor. ἐχαυνώθην, perf. κεχαύνωμαι)   1   tornar inconsistente; tornar frouxo; tornar mole   2   inflar de orgulho, de presunção ♦ pas.   3   encher-se de coisas inconsistentes; tornar-se inconsistente, mole   4   inchar-se, envaidecer-se. 〈χαῦνος〉 </def></entryFree><p></p>
+
+<entryFree>χαύνωμα, ατος (τό)<def> terra movediça. 〈χαυνόω〉 </def></entryFree><p></p>
+
+<entryFree>χαύνωσις, εως (ἡ)<def> 1   relaxamento; distensão; alívio   2   inchaço   3   espaço vazio; intervalo. 〈χαυνόω〉 </def></entryFree><p></p>
+
+<entryFree>χαυνωτικός, ή, όν<def> próprio para relaxar; próprio para amolecer. 〈χαυνόω〉 </def></entryFree><p></p>
+
+<entryFree>χαὐτῇ, χαὐτοῦ<def> crase poét. de καὶ ἑαυτῇ, καὶ ἑαυτοῦ.  </def></entryFree><p></p>
+
+<entryFree>χέαι<def> inf. aor. de χέω. </def></entryFree><p></p>
+
+<entryFree>χέε<def> 3ª sing. impf. poét. de χέω. </def></entryFree><p></p>
+
+<entryFree>χεζητιάω-ῶ<def> ter vontade de evacuar. </def></entryFree><p></p>
+
+<entryFree>χέζω<def> (fut. χεσοῦμαι e χέσομαι, aor. ἔχεσα, aor.2 ἔχέσον, perf. desus., part. perf. pas. κεχεσμένος) at. e méd. evacuar.  </def></entryFree><p></p>
+
+<entryFree>χειά, ᾶς (ἡ)<def> toca (de animal selvagem); buraco (de serpente). 〈χάσκω〉 </def></entryFree><p></p>
+
+<entryFree>χεῖλος, εος-ους (τό)<def> 1   lábio: ἐγέλασσε χείλεσιν hom. riu com os lábios, sorriu, χείλεσιν διδοὺς ὀδόντας eur. mordendo os lábios, ἀπό χειλέων plut. da boca para fora, superficialmente (op. a ἀπὸ χαρδίας de coração)   2   lábio como órgão da fala; meio de expressão da fala; linguagem   3   palavra expressa; máxima   4   beiço (de animal)   5   bico (pássaro)   6   orla; beirada; borda; beirada (de coisa)   7   margem do mar; borda de um fosso   8   gancho; anzol. </def></entryFree><p></p>
+
+<entryFree>χεῖμα, ατος (τό)<def> 1   tempo frio; inverno   2   mau tempo; tempestade.  </def></entryFree><p></p>
+
+<entryFree>χειμάδιος, ο, ον<def> 1   de inverno; hibernal ♦ τὸ χειμάδιον   2   estação do inverno. </def></entryFree><p></p>
+
+<entryFree>χειμάζω<def> (fut. χειμάσω, aor. ἐχείμασα; pas. aor. ἐχειμάσθην, perf. κεχείμασμαι)   1   (tempestade) agitar com força; castigar   2   agitar; perturbar: τόδ᾽ αἷμα χειμάζον τὴν πόλιν sóf. esse sangue que perturba a cidade   3   causar uma tempestade; fazer estourar uma tempestade: ὅταν χειμάζῃ ὁ θεὸς ἐν τῇ θαλάττῃ xen. quando o deus causa uma tempestade sobre o mar   4   intr. formar-se uma tempestade: ἐχείμαζε ἡμέρας τρεῖς her. durou três dias a tempestade   5   Medic. ter um forte acesso de febre   6   (estilo) ser rebuscado; ser excessivo   7   passar o inverno: χειμάζω δ᾽ ἐν κοίλοις ἅντροις ar. passo o inverno em antros profundos   8   Mil. estabelecer ou manter o quartel de inverno: Μαρδόνιος δὲ περὶ τὴν Θεσσαλίνη ἐχείμαζε her. Mardônio mantinha próximo à Tessália seu quartel de inverno ♦ pas.   9   ser agitado ou sacudido pela tempestade   10   sofrer forte acesso de febre   11   ser perturbado   12   ficar exposto ao rigor do inverno   13   ser surpreendido por uma tempestade. </def></entryFree><p></p>
+
+<entryFree>χειμαίνω<def> (aor. ἐχείμηνα; perf. pas. κεχείμασμαι)   1   intr.  (mar) estar agitado por tempestade; estar revolto, tempestuoso   2   perturbar; transtornar; desnortear: χειμαί­νει ὁ χειμαζόμενος artt. o que está agitado causa agitação   3   intr., impes. fazer mau tempo: χειμαίνοντος teócr. durante o inverno. 〈χεῖμα〉 </def></entryFree><p></p>
+
+<entryFree>χειμάρροος-ους, οος-ους, οον-ουν<def> 1   formado ou engrossado pelas chuvas ou pela neve de inverno; torrencial (rio) ♦ ὁ χειμάρρους   2   torrente   3   canal de águas. 〈χεῖμα, ῥέω〉 </def></entryFree><p></p>
+
+<entryFree>χείμαρρος, ος, ον<def>  χειμάρροος. </def></entryFree><p></p>
+
+<entryFree>χειμασία, ας (ἡ)<def> 1   tempo borrascoso; tempestade   2   invernação. 〈χειμάζω〉 </def></entryFree><p></p>
+
+<entryFree>χειμερίζω<def> 1   passar o inverno; invernar   2   Mil. instalar-se em quartel de inverno   2   impes. ser tempestuoso; ser borrascoso; fazer mau tempo. 〈χειμέριος〉 </def></entryFree><p></p>
+
+<entryFree>χειμερινός, ή, όν<def> 1   que é de inverno ou que acontece no inverno: χειμερινοὶ μῆνες tuc. meses de inverno, χειμερινοὶ ὄμβροι pol. chuvas de inverno, ἀποβάλλειν τὰς χειμερινὰς τρίχας artt. perder os pelos na estação do inverno ♦ ἡ χειμερινή   2   inverno ♦ τὸ χειμερινόν sing. ou pl.   3   as brumas do inverno; mau tempo. 〈χεῖμα〉  </def></entryFree><p></p>
+
+<entryFree>χειμέριος, α<def> e ος, ον   1   poét. de inverno; invernal: χειμερίῃσι ὥραις na estação do inverno   2   de mau tempo; de tempestade; tempestuoso (noite) ♦ χειμέρια adv.   3   de maneira tempestuosa. 〈χεῖμα〉 </def></entryFree><p></p>
+
+<entryFree>χειμοθνής, ῆτος<def> (masc., fem.) morto de frio. 〈χεῖμα, θνῄσκω〉 </def></entryFree><p></p>
+
+<entryFree>χειμών, ῶνος (ὁ)<def> 1   estação de inverno   2   intempérie de inverno: χειμῶνι hom. durante o inverno, τὸν χειμῶνα, χει­μῶνος e τοῦ χειμῶνος, ou ἐν χειμῶνι, ἐν τῷ χειμῶνι, διὰ χειμῶνος, διὰ τοῦ χειμῶνος durante o inverno, χειμῶνος μέσου ar. no meio do inverno   3   mau tempo; borrasca; tempestade; temporal: θεὸς χειμῶν᾽ ὦρσε ésql. um deus fez cessar o temporal, ὑπὸ τοῦ χειμῶνος her. debaixo de tempestade   4   frio   5   tormenta de desgraça; agitação   6   tumulto (do combate)   7   perturbação (física); incômodo   8   doença   9   velhice   10   agitação moral; inquietação (da alma)   11   paixão; loucura   12   perturbações políticas   13   situação agitada; perigo. 〈χεῖμα〉 </def></entryFree><p></p>
+
+<entryFree>χείρ, χειρός (ἡ)<def> 
+1	mão; usa-se o sing. pelo pl. e o pl. pelo sing.
+2	dedo
+3	braço
+4	pata
+5	punhado de, gen.
+6	grupo; tropa
+7	mão como marco de direção
+8	mão como instrumento de ação; ação; ato; execução; o agir
+9	habilidade; trabalho; obra
+10	autoridade; poder
+11	alcance da mão; disposição
+12	controle; cuidado; responsabilidade
+13	vias de fato 
+14	assinatura
+15	arpão, espécie de gancho usado para prender embarcação inimiga
+16	mão 
+
+1 ἐμοὶ περὶ δούρατι χεῖρες ἄαπτοι μαιμῶσιν hom. minhas mãos invencíveis tremiam em torno de minha lança, χεῖρα γέροντος ἑλών hom. tendo segurado a mão do velho, χεῖρας ἀνασχών hom. levantando as mãos, χεῖρ᾽ ὀρέγων εἰς οὐ­ρανόν hom. levantando as mãos para o céu, χεῖρ᾽ ἀπέχειν hom., τὼ χεῖρε ἀπέχεσθαι plat. deter a mão, τὴν χεῖρα ou τὰς χεῖρας αἴρειν át., ἀνατείνειν τὴν χεῖρα xen. levantar a mão (para votar), ὅτῳ δοκεῖ ταῦτα, ἀράτω τὴν χεῖρα xen. quem é desta opinião que levante a mão, μάστιγα φαεινὴν χερσὶν ἑλέσθαι hom. tomar em suas mãos o chicote brilhante. χερσίν τ᾽ ἠσπάζοντο hom. saudavam com a mão, ἡ ἐκ χειρός βία pol. a força que vem da mão, ἡ ἐκ χειρὸς δίκη d.h. a justiça que vem pela mão (justiça sumária, julgamento sumário)
+2 λόγισαι φαύλως, μὴ ψήφοις, ἀλλ᾽ ἀπό χειρός ar. conte simplesmente, sem pedrinhas, mas com os dedos
+3 πῆχυν χειρὸς δεξιτερῆς hom. o cotovelo de seu braço direito, κατὰ χεῖρα μεσὴν ἀγκῶνος ἔνερθεν hom. no meio do braço, abaixo do cotovelo, τῶν ἑκατὸν χεῖρες ἀπ᾽ ὤμων ἀΐσσοντο hes. cem braços pendiam de seus ombros, περὶ ἄκραις ταῖς χερσί xen. na extremidade dos braços
+4 ὅσα χεῖρας ἔχει xen. todos os que têm patas, πορεύεσθαι ἐπὶ χειρῶν sept. andar sobre suas patas 
+5 χεὶρ κριθῶν at. punhado de cevada
+6 πολλῇ χειρὶ ἐργαζομένων τῶν Κνιδίων her. como trabalhasse [nessa tarefa] um grupo numeroso de cnídios, πολλῇ χειρὶ ἐβοήθουν πάντες tuc. vinham todos em socorro com tropas numerosas, οἰκεία χείρ eur. tropa de fâmulos
+7 ἐπ᾽ ἀριστερὰ χειρός ἔχειν τι hom. manter algo à esquerda, λαιᾶς δὲ χειρὸς οἱ σιδηροτέκτονες οἰκοῦσι Χάλυβες ésql. à esquerda habitam os Cálibes ferreiros, ἐπὶ δεξιὰ χειρός pínd., χειρὸς εἰς τὰ δεξιά sóf. à direita, ποτέρας τῆς χέρος; eur. de que lado?
+8 χερσὶν ἢ λόγῳ sóf. com atos e palavras, pela ação ou pelo discurso, βούλευμα μὲν ∆ῖον,  Ἡφαίστου δὲ χείρ ésql. a decisão pertence a Zeus, a execução a Hefestos, καί μοι ὄμοσσον ἦ μέν μοι πρόφρων ἔπεσιν καὶ χερσὶν ἀρήξειν, hom. jura-me que com a tua fala e teu braço vais socorrer-me com zelo
+9 τὰς Φειδίου χεῖρας lib. as obras de Fídias, γλαφυρᾶς χερὸς... μισθόν teócr. um salário devido para uma mão hábil
+10 ὑπὸ χεῖρα ποιεῖσθαι xen. submeter-se a sua mão (a sua autoridade), ὑπὸ τὴν χεῖρα ἐλθεῖν luc. cair nas mãos de alguém (sob o poder), ἵκεο χεῖρας ἑς ἁμάς hom. caiste em minhas mãos, οὐκ οἶσθ᾽ ὃτῳ μ᾽ ἔδωκας ἐς κέρας ποτέ; sóf. tu não sabes nas mãos de quem tu me colocaste?
+11 τὰ πὰρ χειρός baq. as coisas presentes, o que está ao alcance da mão, τὰ ἀνὰ χεῖρας πράγματα plut. negócios que se têm em mãos, i.e., os negócios do cotidiano, ὑπὸ χεῖρα διὰ τῶν ἐπιτυχόντων ὀνομάτων plut. utilizando as palavras que lhe vinham à mão
+12 τά... τῶν ξυμμάχων διὰ χειρός ἔχειν tuc. ter em mãos, i.e., sob controle, os negócios dos aliados, γεγονὼς τάδε ἐς χεῖρας ἄγεσθαι her. feito para tomar esse negócio em mãos, τὴν... πατρὶ φίλῳ ἐν χερσὶ τίθει hom. entrega-a nas mãos de seu pai, ἔχοντος δὲ ἐν χερσὶ τοῦ παιδὸς τὸν γάμον her. tendo em mãos o casamento de seu filho, ἃ μετὰ χεῖρας ἔχοι tuc. questões que tinha em mãos
+13 εἱς χεῖρας γίγνεσθαι, ἐλθεῖν, ἰέναι, συνιέναι át. chegar as vias de fato, ἐπειδὴ ἐν χερσὶν ἐγίγνοντο τοῖς ἐναντίοις tuc. logo que chegaram as vias de fato com o inimigo
+14 τὴν ἑαυτοῦ χεῖρα ἀρνήσασθαι hipér. abjurar sua assinatura
+15 χειρὶ σιδηρᾷ ἐπιβληθείσῃ μίαν ναῦν αὐτοὶ ἀπώλεσαν tuc. com o lançamento de arpão de ferro, eles próprios afundaram um único navio
+16 ταύτῃ ἐπαινοῦμεν τὸ ηὑρημένον ὅπλον τὴν χεῖρα καλουμένην xen. recomendamos a proteção já inventada para ela [para a mão esquerda] e chamada “mão”. </def></entryFree><p></p>
+
+<entryFree>χειραγωγέω-ῶ<def> conduzir pela mão; guiar; dirigir. 〈χειραγωγός〉 </def></entryFree><p></p>
+
+<entryFree>χειραγωγός, ός, όν<def> que conduz pela mão; guia; líder. 〈χείρ, ἄγω〉  </def></entryFree><p></p>
+
+<entryFree>χειραπτάζω<def> tocar com a mão; apalpar; tatear. 〈χείρ, ἅπτομαι〉 </def></entryFree><p></p>
+
+<entryFree>χειραψία, ας (ἡ)<def> 1   entrelaçamento de braços (em luta)   2   luta corpo a corpo   3   combate   4   massagem leve; fricção. 〈χείρ, ἅπτω〉  </def></entryFree><p></p>
+
+<entryFree>χείρεσι, χείρεσσι<def> dat. pl. poét. de χείρ. </def></entryFree><p></p>
+
+<entryFree>χειριδωτός, ός, όν<def> guarnecido com mangas (veste oriental). 〈χειρίς〉 </def></entryFree><p></p>
+
+<entryFree>χειρίζω<def> (fut. χειρίσω, át. χειριῶ, fut. pas. χειρισθήσομαι)   1   Medic. tratar; operar   2   manejar; governar com arte   3   dirigir; administrar. 〈χείρ〉  </def></entryFree><p></p>
+
+<entryFree>χείριος, α, ον<def> que está nas mãos, em poder de alguém; submisso. 〈χείρ〉 </def></entryFree><p></p>
+
+<entryFree>χειρίς, ῖδος (ἡ)<def> 1   luva   2   manga longa (de veste persa)   3   meia. 〈χείρ〉 </def></entryFree><p></p>
+
+<entryFree>χείριστος, η, ον<def> superl. de χείρων. </def></entryFree><p></p>
+
+<entryFree>χειροβλημάομαι-ῶμαι<def> tocar; apalpar. </def></entryFree><p></p>
+
+<entryFree>χειροβολέω-ῶ<def> lançar com a mão. 〈χείρ, βάλλω〉 </def></entryFree><p></p>
+
+<entryFree>χειρόγραφον, ου (τό)<def> 1   manuscrito   2   registro de dívida; caução. 〈χείρ, γράφω〉 </def></entryFree><p></p>
+
+<entryFree>χειροδάϊκτος, ος, ον<def> dilacerado com as mãos. 〈χείρ, δαίζω〉  </def></entryFree><p></p>
+
+<entryFree>χειρόδεικτος, ος, ον<def> que se pode apontar com a mão; visível. 〈χείρ, δείκνυμι〉 </def></entryFree><p></p>
+
+<entryFree>χειροήθης, ης, ες<def> 1   doméstico; manso (animal)   2   amável; dócil; civilizado (pessoa)   3   condescendente; submisso   4   habituado a; familiarizado com, dat.   5   manejável; adaptável; familiar (coisa). 〈χείρ, ἧθος〉 </def></entryFree><p></p>
+
+<entryFree>χειρόκμητος, ος, ον<def> 1   feito à mão; trabalhado com arte   2   artificial. 〈χείρ, κάμνω〉 </def></entryFree><p></p>
+
+<entryFree>χειρκοπέω-ῶ<def> 1   cortar as mãos de alguém, ac. ♦ pas.   2   ter as mãos cortadas. 〈χείρ, κόπτω〉 </def></entryFree><p></p>
+
+<entryFree>χειροκρασία, ας (ἡ)<def>  χειροκρατία. </def></entryFree><p></p>
+
+<entryFree>χειροκρατία, ας (ἡ)<def> dominação pela força; poder despótico. 〈χείρ, κρατέω〉 </def></entryFree><p></p>
+
+<entryFree>χειρόμακτρον, ου (τό)<def> 1   toalha de mão   2   véu. 〈χείρ, μάσσω〉 </def></entryFree><p></p>
+
+<entryFree>χειρομάχα, ας<def> (fem.) dór. que dá soco; que combate com as mãos, nome de uma facção de Mileto. 〈χειρομάχος〉 </def></entryFree><p></p>
+
+<entryFree>χειρομάχος, ος, ον<def> que combate ou luta com as mãos. 〈χείρ, μάχομαι〉 </def></entryFree><p></p>
+
+<entryFree>χειρομύλη, ης (ἡ)<def> moinho manual. </def></entryFree><p></p>
+
+<entryFree>χειρονομέω-ῶ<def> (aor. ἐχειρονόμησα)   1   na dança, mover em cadência as mãos, os braços ou as pernas   2   (pugilista) mover os braços para aparar golpes. 〈χείρ, νέμω〉 </def></entryFree><p></p>
+
+<entryFree>χειρονομία, ας (ἡ)<def> 1   movimento cadenciado dos braços; gesticulação cadenciada   2   no pugilato, quironomia. 〈χειρονομέω〉 </def></entryFree><p></p>
+
+<entryFree>χειροπέδη, ης (ἡ)<def> algemas. 〈χείρ, πέδη〉  </def></entryFree><p></p>
+
+<entryFree>χειροπληθής, ής, ές<def> grande o bastante para encher a mão. 〈χείρ, πλῆθος〉 </def></entryFree><p></p>
+
+<entryFree>χειροποιέομαι-οῦμαι<def> executar com as próprias mãos. 〈χείρ, ποιέω〉  </def></entryFree><p></p>
+
+<entryFree>χειροποίητος, ος, ον<def> 1   feito por mão humana; artificial   2   fictício. 〈χειροποιέομαι〉 </def></entryFree><p></p>
+
+<entryFree>χειρόσοφος, ος, ον<def> hábil em mover as mãos, em gesticular com cadência. 〈χείρ, σοφός〉 </def></entryFree><p></p>
+
+<entryFree>χειρότερος, α, ον<def>  χείρων. </def></entryFree><p></p>
+
+<entryFree>χειροτέχνημα, ατος (τό)<def> obra de arte; trabalho feito à mão. 〈χείρ, τέχνη〉 </def></entryFree><p></p>
+
+<entryFree>χειροτέχνης, ης, ες<def> 1   artesão; artista   2   artífice de, gen.: χ. πολέμου plut. artífice da guerra, χ. ἰατορίας sóf. perito em medicina. 〈χείρ, τέχνη〉  </def></entryFree><p></p>
+
+<entryFree>χειροτεχνία, ας (ἡ)<def> arte manual. 〈χειροτέχνης〉 </def></entryFree><p></p>
+
+<entryFree>χειροτεχνικός, ή, όν<def> 1   que concerne às artes manuais; manufatureiro   2   hábil nas artes dos artesãos ♦ ἡ χειροτεχνική   3   arte manual. 〈χειροτέχνης〉 </def></entryFree><p></p>
+
+<entryFree>χειροτονέω-ῶ<def> (fut. χειροτονήσω, aor. ἐχειροτόνησα, perf. κεχειροτόνηκα; pas. aor. ἐχειροτονήθην, perf. κεχειροτόνημαι)   1   erguer a mão para votar; votar com a mão erguida   2   eleger por voto alguém, ac., para uma função, ac., εἰς e ac. ou ἐπί e gen.: Τιμόθεον στρατηγὸν ἐχειροτόνησαν xen. elegeram Timóteo estratego, εἰς τὴν ἀγορὰν χειροτονεῖν τοὺς ταξιάρχους... οὐκ ἐπὶ πόλεμον dem. eleger os taxiarcas para a função pública e não para a guerra   3   intr. decidir por voto; votar algo, ac. ou inf.: ὁ δῆμος ἐχειροτόνησεν πρέσβεις πέμπειν ὑπὲρ εἰρήνης ésqn. o povo votou o envio de embaixadores pela paz ♦ pas.   4   ser eleito por voto para uma função: χειροτονηθεὶς ἢ λαχών plat. designado pelo voto ou por sorteio, ἐπὶ τοῦτ᾽ ἐχειροτονήθησαν lís. para isto foram eleitos. 〈χειροτόνος〉 </def></entryFree><p></p>
+
+<entryFree>χειροτονητός, ή, όν<def> 1   designado por votação com a mão erguida; eleito   2   eletivo (cargo). 〈χειροτονέω〉  </def></entryFree><p></p>
+
+<entryFree>χειροτονία, ας (ἡ)<def> 1   voto com as mãos erguidas; votação   2   sufrágio; voto; voz   3   ação de estender a mão. 〈χειροτόνος〉  </def></entryFree><p></p>
+
+<entryFree>χειροτόνος, ος, ον<def> que se faz estendendo as mãos (súplica). 〈χείρ, τείνω〉 </def></entryFree><p></p>
+
+<entryFree>χειρουργέω-ῶ<def> (aor. ἐχειρούργησα; pas. χειρουργοῦμαι, aor. ἐχειρουργήθην, m.-q.-perf. ἐκεχειρούργητο)   1   realizar com as mãos; executar manualmente   2   fazer um trabalho manual   3   exercer uma profissão   4   Medic. fazer uma operação; operar (pessoa)   5   construir   6   tocar um instrumento   7   usar de violência. 〈χειρουργός〉 </def></entryFree><p></p>
+
+<entryFree>χειρουργία, ας (ἡ)<def> 1   trabalho manual   2   exercício de uma profissão ou de uma arte   3   Medic. operação cirúrgica; cirurgia   4   execução; realização. 〈χειρουργός〉 </def></entryFree><p></p>
+
+<entryFree>χειρουργικός, ή, όν<def> 1   feito com as mãos; manual   2   de uma arte ou de uma profissão   3   técnico ♦ ἡ χειρουργική   4   arte do cirurgião; cirurgia. 〈χειρουργός〉 </def></entryFree><p></p>
+
+<entryFree>χειρουργός, ός, όν<def> 1   que trabalha com as mãos; que executa com as mãos   2   que se dedica a uma arte ou profissão, περί e ac.   3   manual (arte) ♦ ὁ χειρουργός   4   cirurgião   5   pl. artesãos; artistas. 〈χείρ, ἔργον〉 </def></entryFree><p></p>
+
+<entryFree>χείρους<def> pl. de χείρων. </def></entryFree><p></p>
+
+<entryFree>χειρόω-ῶ<def> 1   subjugar; domar: χειροῦν τὸν ἐλέφαντα el. domar o elefante, πρὸς βίαν χειροῦν ar. submeter pela força ♦ méd.   2   submeter; subjugar; dominar: τοὺς ἐναντίους χειροῦσθαι her. subjugar os inimigos, Λακεδαιμόνιους σφίσι χειρώσεσθαι tuc. submeter os lacedemônios a sua autoridade   3   persuadir; seduzir; convencer: χειροῦσθαί τινα λόγοις plat. convencer alguém com argumentos, ἡ ὄρχησις κεχείρωται τοὺς ἀνθρώπους luc. a dança seduz os homens   4   refutar; desmontar; destruir (opinião, argumento)   5   agarrar; capturar; recuperar: δάμαρτα τὴν ἐμὴν χειρώσομαι eur. vou recuperar minha esposa. 〈χείρ〉 </def></entryFree><p></p>
+
+<entryFree>χείρωμα, ατος (τό)<def> 1   ação manual; execução manual: χειρώματα τυμβοχόα ésql. libações tumulares vertidas manualmente, χ. θανάσιμον sóf. ação mortal executada com as mãos, homicídio   2   homicídio. 〈χειρόω〉 </def></entryFree><p></p>
+
+<entryFree>χείρων, ων, ον,<def> gen. ονος, pl. nom. e ac. contr. χείρους (comp. de κακός)   1   inferior; pior (pessoa): σὺ μὲν ἐσθλός, ἐγὼ δὲ πολὺ χείρων hom. tu tens valor mas eu sou inferior, χείρων τὴν διάνοιαν isócr. inferior em inteligência, χείρων εἰς τὴν ἀρετήν plat. inferior em virtude   2   de qualidade inferior (coisa): χεῖρον ἄεθλον hom. prêmio de baixo valor, ὑποδήματα τὰ μὲν χείρω, τὰ δὲ βελτίω xen. uns calçados mais ordinários, outros melhores   3   pior: χείρων νόσος eur. doença pior, mais grave, χείρων τιμωρία n.t. castigo pior, mais severo   4   χεῖρον (ἐστι não expresso) é ruim; é melhor não: οὐ γὰρ χεῖρον πολλάκις ἀκούειν plat. não é ruim ouvir muitas vezes ♦ χεῖρον adv.   5   de maneira inferior; mal: χεῖρον βουλεύσασθαι tuc. deliberar mal, χεῖρον ζῆν plat. viver mal ♦ οἱ χείρονες   6   os inferiores ♦ τὸ χεῖρον   7   inferioridade; o pior: ἐπὶ τὸ χεῖρον μεταβάλλει ἑαυτόν plat. ele se modifica para o pior, τὰ χείρω προαιρεῖσθαι isócr. escolher o pior partido. 〈χέρης〉  </def></entryFree><p></p>
+
+<entryFree>Χείρων, ωνος (ὁ)<def> Quirão, centauro. </def></entryFree><p></p>
+
+<entryFree>χειρῶναξ, ακτος (ὁ)<def> 1   operário; artesão   2   artífice; autor de, gen. 〈χείρ, ἄναξ〉 </def></entryFree><p></p>
+
+<entryFree>χειρωναξία, ας (ἡ)<def> arte manual; profissão. 〈χειρῶναξ〉 </def></entryFree><p></p>
+
+<entryFree>χεῖσθαι<def> inf. méd. pas. de χέω. </def></entryFree><p></p>
+
+<entryFree>χείσομαι<def> fut. de χανδάνω. </def></entryFree><p></p>
+
+<entryFree>χελιδοῖ<def> voc. de χελιδών. </def></entryFree><p></p>
+
+<entryFree>Χελιδόνεαι<def> e Χελιδόνιαι νῆσοι (αἱ) Ilhas das Andori­nhas, na costa da Lícia. 〈χελιδών〉 </def></entryFree><p></p>
+
+<entryFree>χελιδών, όνος (ἡ)<def> 1   andorinha   2   andorinha do mar, peixe voador   3   cavidade sob o casco dos cavalos   4   pl., com., genitais da mulher.  </def></entryFree><p></p>
+
+<entryFree>χέλυμνα, ης (ἡ)<def>  χελώνη. </def></entryFree><p></p>
+
+<entryFree>χελύνη, ης (ἡ)<def> 1   lábio   2   maxilar. </def></entryFree><p></p>
+
+<entryFree>χέλυς, υος (ἡ)<def> 1   tartaruga   2   lira feita com o casco da tartaruga   3   Astron. Lira, constelação   4   Anat. tórax. 〈χελώνη〉 </def></entryFree><p></p>
+
+<entryFree>χελώνη, ης (ἡ)<def> 1   tartaruga   2   casco de tartaruga   3   Mil. escudo que abriga sapadores e máquinas num assédio   4   Mil. cobertura feita de escudos ao sitiar uma fortificação   5   escabelo; tamborete   6   caixa acústica da lira feita com o casco da tartaruga   7   montículo de areia. </def></entryFree><p></p>
+
+<entryFree>χελώνιον, ου (τό)<def> 1   casco de tartaruga ou de caranguejo   2   quelônio, moeda de Tênedos com uma figura de tartaruga   3   parte arqueada do dorso; lombo. 〈χελώνη〉 </def></entryFree><p></p>
+
+<entryFree>χενόσιρις (ὁ)<def> hera. [egípcio] </def></entryFree><p></p>
+
+<entryFree>χέρας<def> ac. poét. e jôn. de χείρ. </def></entryFree><p></p>
+
+<entryFree>χέραδος<def> só ac. sing. (τό) monte de pedriscos e de areia trazidos pela água; cascalho.  </def></entryFree><p></p>
+
+<entryFree>χερειότερος, α, ον<def>  χείρων. </def></entryFree><p></p>
+
+<entryFree>χερείων, ων, ον<def> gen. ονος ép. = χείρων. </def></entryFree><p></p>
+
+<entryFree>χέρης<def> só dat. χέρηϊ, ac. χέρηα, nom. pl. χέρηες, ac. pl. n. χέρηα (masc., fem.)  1   de baixa condição; desprezível   2   comp. mais fraco; mais frouxo; inferior a, gen. 〈χείρων〉  </def></entryFree><p></p>
+
+<entryFree>χερμάδιον, ου (τό)<def> pedra usada em combates como projétil.  </def></entryFree><p></p>
+
+<entryFree>χερμάδιος, ος, ον<def> do tamanho de uma pedra que se lança contra o inimigo. 〈χερμάς〉 </def></entryFree><p></p>
+
+<entryFree>χερμάς, άδος (ἡ)<def> 1   pedregulho   2   pedra de funda   3   quarto de rocha   4   cascalho   5   pedra tumular. </def></entryFree><p></p>
+
+<entryFree>χερνής, ῆτος<def> (masc.) = χερνήτης.  </def></entryFree><p></p>
+
+<entryFree>χερνήτης, ου (ὁ)<def> 1   operário; proletário   2   pobre; miserável. 〈χείρ〉 </def></entryFree><p></p>
+
+<entryFree>χερνῆτις, ιδος (ἡ)<def> fem. de χερνήτὴ. </def></entryFree><p></p>
+
+<entryFree>χέρνιβα<def> ac. sing. de χέρνιψ e pl. de χέρνιβον. </def></entryFree><p></p>
+
+<entryFree>χερνίβεσσι<def> dat. pl. poét. de χέρνιψ. </def></entryFree><p></p>
+
+<entryFree>χέρνιβον, ου (τό)<def> 1   pequena bacia para lavar as mãos   2   urinol; penico. 〈χέρνιψ〉 </def></entryFree><p></p>
+
+<entryFree>χερνίπτω,<def> ger. méd. χερνίπτομαι (fut. χερνίψομαι, aor. ἐχερνιψάμην, aor. pas. χερνιφθείς)   1   lavar-se as mãos com água lustral   2   verter, derramar água lustral. 〈χέρνιψ〉 </def></entryFree><p></p>
+
+<entryFree>χέρνιψ, ιβος (ἡ)<def> 1   água para lavar as mãos antes da refeição ou antes de cerimônia religiosa: χέρνιβας νέμειν sóf. permitir a participação nas abluções, i.e., nos sacrifícios, χερνίβων κοινωνός ésql. que participa das abluções, i.e., comensal   2   pl. purificações com água lustral. 〈χείρ, νίπτω〉 </def></entryFree><p></p>
+
+<entryFree>χεροῖν<def> gen. e dat. dual de χείρ.  </def></entryFree><p></p>
+
+<entryFree>χερόπληκτος, ος, ον<def> atingido pela mão. 〈χείρ, πλήσσω〉 </def></entryFree><p></p>
+
+<entryFree>Χερρονήσιος, α, ον<def> da Quersoneso da Trácia. 〈Χερρό­νησος〉 </def></entryFree><p></p>
+
+<entryFree>Χερρόνησος<def> át. = Χερσόνησος. </def></entryFree><p></p>
+
+<entryFree>χέρρος<def>  χέρσος. </def></entryFree><p></p>
+
+<entryFree>χερσαῖος, α<def> e ος, ον   1   da terra firme; terrestre   2   estabelecido sobre terra firme (cidade)   3   que se desloca por terra (infantaria, aparato bélico) ♦ ἡ χερσαῖος   4   terra firme. 〈χέρσος〉 </def></entryFree><p></p>
+
+<entryFree>χερσεύω<def> 1   viver, habitar em terra firme   2   buscar a terra firme   3   ser terra firme   4   (terra) permanecer sem cultivo, improdutiva ♦ pas.   5   tornar-se terra firme   6   tornar-se sem cultivo, baldio. 〈χέρσος〉 </def></entryFree><p></p>
+
+<entryFree>χερσί<def> dat. pl. de χείρ. </def></entryFree><p></p>
+
+<entryFree>χέρσονδε<def> adv. para terra firme; em direção ao continente. 〈χέρσος, -δε〉 </def></entryFree><p></p>
+
+<entryFree>Χερσονήσιος<def> e Χερρονήσιος, α, ον da Quersoneso da Trácia. 〈Χερσόνησος〉 </def></entryFree><p></p>
+
+<entryFree>χερσονησοειδής, ής, ές<def> semelhante a uma península. 〈Χερσόνησος, εἶδος〉 </def></entryFree><p></p>
+
+<entryFree>χερσόνησος<def> e, át., χερρόνησος, ου (ἡ)   1   península; cabo ♦ Χερσόνησος   2   Quersoneso, n. de diversas penínsulas.  </def></entryFree><p></p>
+
+<entryFree>χέρσος<def> e χέρρος, ος, ον   1   seco; sólido; duro   2   da terra firme; continental   3   árido; sem cultivo; baldio (terra)   4   privado de filhos; estéril (mulher).  </def></entryFree><p></p>
+
+<entryFree>χερσόω-ῶ<def> tornar sem cultivo; tornar estéril.  </def></entryFree><p></p>
+
+<entryFree>χεσείω<def> ter vontade de defecar. </def></entryFree><p></p>
+
+<entryFree>χεῦα<def> aor. ép. de χέω. </def></entryFree><p></p>
+
+<entryFree>χεῦμα, ατος (τό)<def> 1   fluxo; corrente de um rio   2   escoamento   3   avalanche   4   libação   5   pl. vaso para as libações   6   filamento de metal fundido na borda da couraça. 〈χέω〉  </def></entryFree><p></p>
+
+<entryFree>χεύομεν<def> 1ª pl. aor. subj. ép. de χέω.  </def></entryFree><p></p>
+
+<entryFree>χεύω1, εις, ει<def> fut. ép. de χέω. </def></entryFree><p></p>
+
+<entryFree>χεύω2, ῂ, ῃ<def> subj. aor. ép. de χέω. </def></entryFree><p></p>
+
+<entryFree>χέω<def> (fut. χέω, ép. χεύω, aor. ἔχεα, ép. ἔχευα, perf. desus.; méd. impf. ἐχεόμην, fut. χέομαι, aor. ἐχεάμην, aor.2 ἐχύμην, perf. κέχυμαι, m.-q.-perf. ἐκεχύμην; pas. fut. χυθήσομαι, aor. ἐχύθην, perf. κέχυμαι, m.-q.-perf. ἐκεχύμην) 
+ativa
+1	fazer escorrer; espalhar; verter; derramar (líquido)
+2	derramar; espalhar; verter
+3	fazer cair; despejar; depositar 
+média
+4	despejar; derramar; espalhar (líquido)
+5	espalhar; derramar; deixar cair, fazer cair, lançar 
+6	despejar; emitir; proferir
+méd. pas.
+7	(líquido) verter-se; derramar-se; espalhar-se
+8	ser derramado; ser espalhado; ser amontoado; jogar-se
+9	(homens e animais) avançar em grupo, em bando
+10	(ar, vapor) espalhar-se; verter-se
+11	afrouxar-se; amolecer
+12	perf. estar impregnado; estar ligado a; ser empenhado; ser engajado
+
+1 ἣ τε κατ᾽ αἰγίλιπος πέτρης δνοφερὸν χέει ὕδωρ hom. [fonte] que, de uma rocha escarpada, faz verter uma água negra, τοῖσι δὲ κήρυκες μὲν ὕδωρ ἐπὶ χεῖρας ἔχευον hom. os arautos derramavam água sobre as mãos deles, δάκρυα θερμὰ χέοντες hom. vertendo lágrimas quentes, χέουσα τάσδε κηδείους χοάς ésql. derramando libações fúnebres
+2 πολλὴν ἠέρα χεῦε hom. espalhou uma brisa abundante, κὰκ κεφαλῆς χεῦεν πολὺ κάλλος hom. espalhou sobre sua cabeça uma grande beleza, πνεῦμα χέων ἐν αὐλοῖς a.p. vertendo um sopro na flauta, χέει πολυηχέα φωνήν hom. verte, i.e., faz ouvir longos trinados, ἐπὶ θρῆνόν τε πολύφαμον ἔχεαν pínd. fizeram ouvir sobre ele [o túmulo] um treno glorioso,  Ἑλλάδος φθόγγον χέουσα ésql. fazendo ouvir uma voz grega
+3 ἐν δέ μοι ἄλφιτα χεῦον ἐϋρραφέεσσι δοροίσι hom. verte para mim farinha em sacos bem costurados, φύλλα ἄνεμος χαμάδις χέει hom. o vento faz cair as folhas no chão, κατὰ δ᾽ ἥνια χεῦεν ἔραζε hom. deixou cair as rédeas no chão, χέειν σῆμα hom. amontoar terra para fazer um túmulo
+4 χοὴν ou χοὰς χεῖσθαι hom. derramar libações, κρατῆρα χεῖσθαι plut. despejar o conteúdo de uma cratera 
+5 ἀμφὶ δ᾽ ἑὸν φίλον υἱὸν ἐχεύατο πήχεε λευκώ hom. lançou os alvos braços em volta do seu amado filho, κόνιν αἰθαλόεσσαν χεύατο κὰκ κεφαλῆς hom. espalhou cinza negra sobre sua cabeça, βέλεα στονόεντα χέοντο hom. lançavam as flechas que fazem gemer
+6 κωμῳδικὰ πολλὰ χέασθαι ar. despejar muitas falas cômicas 
+7 ἀπ᾽ ὀφθαλμῶν χύτο δάκρυα hom. lágrimas escorriam dos olhos, ἐφ᾽ ἁλὸς πολιῆς χέχυται λιμέσιν τε καὶ ἀκταῖς hom. [a neve] está espalhada sobre os portos e as falésias junto ao mar cinzento, φονίας σταγόνας χυμένας ἐς πέδον ésql. gotas de sangue derramadas sobre a terra, ποτοῦ χυθέντος ἐς γῆν sóf. tendo o líquido sido despejado no chão 
+8 ἀμφὶ δὲ δεσμοὶ ἔχυντο hom. em torno deles estenderam-se os laços, ἐν τᾷδ᾽ ἄφθιτον νάσῳ κέχυται Λιβύας σπέρμα pínd. a semente imortal da Líbia está espalhada nesta ilha, πλόκαμος γένυν παρ᾽ αὐτὴν κεχυμένος eur. cachos espalhados nas faces, ἐπ᾽ ἀλλήλοισι κέχυντο hom. [cadáveres] estavam amontoados uns sobre os outros, ἐπὶ ψαμάθοισι κέχυνται hom. [peixes] amontoados sobre a areia, ἀμφ᾽ αὐτῷ χυμένη hom. lançando-se envolvendo-o, i.e., abraçando-o 
+9 ἐκ νηῶν ἐκέχυντο hom. [os mirmidões] em bandos chegavam dos navios, ἑμὲ δακρυόεντες ἔχυντο hom. afluíram em prantos ao meu encontro 
+10 ἀὴρ χεῖται plat. a bruma se espalha, circula, χῦτο πάλιν ἀήρ hom. o vapor se dissipou, κέχυτ᾽ ἀχλὺς κατὰ ὀφθαλμῶν hom. uma névoa espalhou-se sobre seus olhos, ἀμφὶ δέ οἱ θάνατος χύτο hom. a morte estendeu-se sobre ele, οὔ κέ μοι ὕπνος ἐπὶ βλεφάροισι χυθείη hom. o sono não se espalharia sobre minhas pálpebras, κέχυται νόσος sóf. uma doença abateu-se [sobre Héracles]
+11 τὰ κεχυμένα plat. as coisas frouxas, moles, sem consistência sólida, κεχυμέναι σάρκες artt. carnes moles, κεχυμένη φράσις d.h. estilo relaxado 
+12 ἐχύθη οἱ θυμός a.r. a alegria encheu-lhe o coração, ∆ᾶλος ἐν ᾇ κέχυμαι pínd. Delos, na qual me sinto absorvido, κεχυμένος εἰς τὰ ἀφροδίσια luc. entregue aos prazeres do amor, πρὸς πᾶσαν ἡδονήν κεχυμένος alcífr. entregue a todos os prazeres. </def></entryFree><p></p>
+
+<entryFree>χέω, χεῖ, χεῖ<def> fut. de χέω. </def></entryFree><p></p>
+
+<entryFree>χέω, ῂ, ῃ<def> subj. pres. ou aor. de χέω. </def></entryFree><p></p>
+
+<entryFree>χἠ<def> crase poét. de καὶ ἡ.  </def></entryFree><p></p>
+
+<entryFree>χηλευτός, ή, όν<def> tecido em malha. </def></entryFree><p></p>
+
+<entryFree>χηλεύω<def> 1   fazer um tecido de malha; entrelaçar; tecer ♦ pas.   2   ter os pés, ac., amarrados como em um tecido. 〈χηλή〉 </def></entryFree><p></p>
+
+<entryFree>χηλή, ῆς (ἡ)<def> 1   casco de cavalo, de boi, de cabra   2   pata de lobo   3   pl. garras das aves   4   pinça do caranguejo   5   pinça; tenaz   6   quebramar   7   braço de um dique   8   curva de uma margem ♦ Χηλαί   9   Escorpião, constelação. </def></entryFree><p></p>
+
+<entryFree>χηλός, οῦ (ἡ)<def> baú; arca; cofre. </def></entryFree><p></p>
+
+<entryFree>χἠμεῖς<def> crase poét. de χαὶ ἡμεῖς. </def></entryFree><p></p>
+
+<entryFree>χἠμέρα<def> crase poét. de καὶ ἡμέρα. </def></entryFree><p></p>
+
+<entryFree>χήμη, ης (ἡ)<def> espécie de caramujo. </def></entryFree><p></p>
+
+<entryFree>χήν, χηνός<def> ac. pl. χένας (ὁ, ἡ) ganso. </def></entryFree><p></p>
+
+<entryFree>χηναλωπεκιδεύς, έως (ὁ)<def> filhotes de ganso do Egito. 〈χηναλώπηξ〉 </def></entryFree><p></p>
+
+<entryFree>χηναλώπηξ, εκος (ὁ)<def> ganso do Egito. 〈χήν, ἀλώπηξ〉 </def></entryFree><p></p>
+
+<entryFree>χήνειος,<def> jôn. χήνεος, η, ον de ganso. 〈χήν〉 </def></entryFree><p></p>
+
+<entryFree>χηνιδεύς, έως (ὁ)<def> filhote de ganso. 〈χήν〉 </def></entryFree><p></p>
+
+<entryFree>χηνίσκος, ου (ὁ)<def> 1   pequeno ganso   2   popa de navio recurvada como o pescoço de um ganso. 〈χήν〉  </def></entryFree><p></p>
+
+<entryFree>χήρα, ας (ἡ)<def> fem. de χῆρος.  </def></entryFree><p></p>
+
+<entryFree>χηραμός, οῦ (ὁ<def> e ἡ)   1   buraco; cavidade; oco   2   toca; covil. </def></entryFree><p></p>
+
+<entryFree>χήρατο<def> 3ª sing. ou pl. aor. méd. poét. de χαίρω. </def></entryFree><p></p>
+
+<entryFree>χηρεία, ας (ἡ)<def> 1   viuvez   2   privação; falta de, gen. 〈χηρεύω〉 </def></entryFree><p></p>
+
+<entryFree>χηρεύω<def> 1   ficar viúvo ou viúva; enviuvar; ficar só   2   estar vazio; estar privado de, gen. 〈χῆρος〉 </def></entryFree><p></p>
+
+<entryFree>χήρη<def> fem. jôn. de χῆρος. </def></entryFree><p></p>
+
+<entryFree>χῆρος, α, ον<def> 1   privado de parente   2   privado de cônjuge; viúvo ou viúva   3   desprovido; vazio; privado; despojado de, gen. </def></entryFree><p></p>
+
+<entryFree>χηρόω-ῶ<def> (fut. χηρώσω, aor. ἐχήρωσα, poét. 3ª sing χήρωσε, aor. méd. 3ª pl. ἐχηρώσαντο; pas. fut. χηρώσομαι, aor. ἐχηρώθην) at. e méd.   1   tornar vazio; tornar deserto   2   privar alguém, ac., de algo, gen.   3   tornar alguém, ac., viúvo ou viúva   4   tornar-se privado de, gen.   5   viver na viuvez ♦ pas.   6   ser privado de, gen.   7   ser solitário.  </def></entryFree><p></p>
+
+<entryFree>χηρωσταί, ῶν (οἱ)<def> parentes distantes (herdeiros na falta de um herdeiro direto). </def></entryFree><p></p>
+
+<entryFree>χἠσεῖτε<def> crase dór. de καὶ ἥσετε, 2ª pl. fut. de ἵημι.  </def></entryFree><p></p>
+
+<entryFree>χῆτος<def> só dat. sing. χήτεϊ (τό) falta; ausência de, gen.  </def></entryFree><p></p>
+
+<entryFree>χἤφθα<def> crase dór. de καὶ ἥφθα. </def></entryFree><p></p>
+
+<entryFree>χθαμαλοπτήτης, ου<def> (masc.) que voa baixo; de voo rasante. 〈χθαμαλός, πέτομαι〉 </def></entryFree><p></p>
+
+<entryFree>χθαμαλός, ή, όν<def> 1   que está no nível da terra; que está na terra; baixo   2   baixo; vil ♦ τὰ χθαμαλά   3   regiões baixas. 〈χαμαί〉 </def></entryFree><p></p>
+
+<entryFree>χθές<def> adv. ontem. </def></entryFree><p></p>
+
+<entryFree>χθεσινός, ή, όν<def>  χθιζός.  </def></entryFree><p></p>
+
+<entryFree>χθιζά<def>  χθιζός. </def></entryFree><p></p>
+
+<entryFree>χθιζινός, ή, όν<def>  χθιζός. </def></entryFree><p></p>
+
+<entryFree>χθιζός, ή, όν<def> 1   de ontem: χθιζὸς ἔβη hom. veio ontem, ὅσσα χθιζὸς ὑπέσχετο hom. tudo o que prometeste ontem ♦ τὸ χθιζόν adv.   2   ontem. 〈χθές〉 </def></entryFree><p></p>
+
+<entryFree>χθόνιος, α<def> e ος, ον   1   do fundo da terra; ctônio; subterrâneo: χθονία πορεία plat. caminho subterrâneo, ἠχὼ χθόνιος eur. barulho subterrâneo   2   que habita ou adentra os infernos; ctônio: αἱ χθονίαι θεαί as deuses infernais, Deméter e Perséfone ou as Erínias, χθόνιος  Ἑρμῆς Hermes ctônio, que conduz os mortos para baixo da terra   3   que se mantém sob a terra: χθόνιον στόμα pínd. a entrada subterrânea do Hades   4   provindo da terra: χθόνιοι Τιτῆνες hes. os Titãs terrígenos, βροντήμασι χθονίοις ésql. com trovões vindos do fundo da terra   5   que se faz sobre a terra; terrestre   6   do país; da região: χθόνιοι θεοί eur. deuses do país, χθόνιαι ἡρῷσσαι a.r. heroínas da região ♦ ὁ χθόνιος   7   divindade ctônia: μᾶνιν χθονίων a cólera dos deuses infernais ♦ ἡ χθονία   8   a deusa dos infernos, Deméter ou Hécate. 〈χθών〉 </def></entryFree><p></p>
+
+<entryFree>χθονοστιβής, ής, ές<def> que anda sobre a terra; terreno; terrestre. 〈χθών, στείβω〉 </def></entryFree><p></p>
+
+<entryFree>χθονοτρεφής, ές<def> alimentado pela terra; nascido da terra. 〈χθών, τρέφω〉 </def></entryFree><p></p>
+
+<entryFree>χθών, χθονός (ἡ)<def> 1   superfície da terra; terra; solo; chão: ἐπὶ χθονὶ χεῖτο τανυσθείς hom. jazia estendido no chão, ἄριστον ἄνδρα τῶν ἐπὶ χθονί sóf. o melhor dos homens que vivem sobre a terra, ἐτέθαπτο ὑπὸ χθονός hom. estava enterrado sob a terra, ὦ κατὰ χθονός θεαί ésql. divindades subterrâneas   2   a terra no seu conjunto; a terra inteira: ἐπ᾽ ἔσχατα χθονός sóf. nas extremidades da terra   3   terra; região; país: χθὼν Ἀσιῆτις ésql. a terra da Ásia, χθὼν Λήμνου sóf. a terra de Lemnos, πᾶσαν τὴν Μυκηναίων χθόνα sóf. todo o país dos micênios, τῆσδε δημοῦχοι χθονός sóf. habitantes desse país ♦ Χθών   4   a Terra, person.  </def></entryFree><p></p>
+
+<entryFree>χῖ (τό)<def> indecl. a letra Χ (khi). </def></entryFree><p></p>
+
+<entryFree>χιλιαρχέω-ῶ<def> (impf. ἐχιλιάρχουν, aor. ἐκιλιάρχησα, part. perf. κεχιλιαρχηκώς)   1   Mil. ser quiliarco; comandar uma quiliarquia  2   em Roma, ser tribuno militar. 〈χι­λίαρχος〉 </def></entryFree><p></p>
+
+<entryFree>χιλιάρχης, ου (ὁ)<def> jôn. = χιλίαρχος. </def></entryFree><p></p>
+
+<entryFree>χιλιαρχία, ας (ἡ)<def> 1   Mil. função de quiliarco; quiliarquia   2   Mil. formação de 1024 soldados; quiliarquia  3   em Roma, função de tribuno militar   4   bíbl., milhar, em Israel. 〈χιλίαρχος〉 </def></entryFree><p></p>
+
+<entryFree>χιλίαρχος, ου (ὁ)<def> 1   comandante de uma guarnição de mil homens; quiliarco  2   em Roma, tribuno militar   3   na Pérsia e na Macedônia, quiliarco, o mais alto cargo abaixo do rei. 〈χίλιοι, ἄρχω〉 </def></entryFree><p></p>
+
+<entryFree>χιλιάς, άδος (ἡ)<def> 1   mil; milhar   2   grande número   3   bíbl. milênio. 〈χίλιοι〉 </def></entryFree><p></p>
+
+<entryFree>χιλιέτης, ης, ες<def> e χιλιετής, ής, ές de mil anos. 〈χίλιοι, ἔτος〉 </def></entryFree><p></p>
+
+<entryFree>χίλιοι, αι, α<def> num. card.   1   mil: χίλιοι Πελοποννησίων tuc. mil peloponésios, πεντακόσιοι καὶ χιλιοι xen. ou χίλιοι καὶ πεντακόσιοι ésqn. mil e quinhentos, χίλιοι ἐπὶ μυρίοις plat. mil e mais dez mil, i.e., onze mil, τέτταρας πρὸς τοῖς χιλίοις luc. quatro e mais mil, i.e., mil e quatro ♦ χίλιαι   2   mil dracmas: περὶ χιλίων κινδυνεύειν dem. arriscar-se a uma multa de mil dracmas. </def></entryFree><p></p>
+
+<entryFree>χιλιόναυς, εως<def> dat. χιλιόναυσι (masc., fem.) de mil navios (frota). </def></entryFree><p></p>
+
+<entryFree>χιλιοναύτας, ου<def> (masc., fem.) dór.   1   de mil marinheiros (expedição)   2   de mil navios (frota). 〈χίλιοι, ναύτης〉 </def></entryFree><p></p>
+
+<entryFree>χιλιοστός, ή, όν<def> num. ord.   1   milésimo ♦ ἡ χιλιοστή   2   taxa, tributo de um milésimo. </def></entryFree><p></p>
+
+<entryFree>χιλιοστύς, ύος (ἡ)<def> tropa de mil homens: χ. τῶν ἱππέων xen. corpo de mil cavaleiros. </def></entryFree><p></p>
+
+<entryFree>χιλιοτάλαντος, ος, ον<def> que pesa ou que vale mil talentos. 〈χίλιοι, τάλαντον〉 </def></entryFree><p></p>
+
+<entryFree>χιλός, οῦ (ὁ)<def> 1   forragem; pastagem   2   mantimento. </def></entryFree><p></p>
+
+<entryFree>χιλόω-ῶ<def> (impf. ἐχίλου) levar ao pasto; forragear.  </def></entryFree><p></p>
+
+<entryFree>χίμαιρα, ας (ἡ)<def> 1   cabra   2   cabra jovem; cabrita, partic. cabrita imolada em honra de Ártemis, antes dos combates ♦ Χίμαιρα   3   Quimera, monstro com cabeça de leão, corpo de cabra e cauda de serpente. </def></entryFree><p></p>
+
+<entryFree>χίμαρος, ου (ὁ, ἡ)<def> cabrito; cabrita.  </def></entryFree><p></p>
+
+<entryFree>χίμεθλον<def> e χίμετλον, ου (τό) frieira. </def></entryFree><p></p>
+
+<entryFree>χιονίζω<def> (impf. ἐχιόνιζον; part. perf. pas. κεχιονισμένος) cair neve; nevar em, ac. </def></entryFree><p></p>
+
+<entryFree>χιονόβλητος, ος, ον<def> recoberto de neve; congelado pela neve. 〈χιών, βάλλω〉  </def></entryFree><p></p>
+
+<entryFree>χιονοβόλος, ος, ον<def> que traz a neve. 〈χιών, βάλλω〉 </def></entryFree><p></p>
+
+<entryFree>χιονόκτυπος, ος, ον<def> batido pela neve; resfriado pela neve (monte). 〈χιών, κτυπέω〉 </def></entryFree><p></p>
+
+<entryFree>χιονώδης, ης, ες<def> 1   branco como a neve; níveo   2   coberto de neve. 〈χιών, -ωδης〉 </def></entryFree><p></p>
+
+<entryFree>Χίος, ου (ἡ)<def> Quios, cidade e ilha do mar Egeu. </def></entryFree><p></p>
+
+<entryFree>Χῖος, α, ον<def> 1   de Quios: Χῖος ἀοιδός hom. aedo de Quios, Homero, Χῖος οἶνος ar. vinho de Quios ♦ ὁ Χῖος   2   vinho de Quios   3   golpe de Quios, num jogo em que se brinca com os ossos tirados da pata do carneiro   4   pl. habitantes de Quios ♦ ἡ Χία   5   navio de Quios. </def></entryFree><p></p>
+
+<entryFree>χιτών, ῶνος (ὁ)<def> 1   túnica masculina, vestuário de baixo, sem mangas, colocado diretamente sobre a pele   2   túnica feminina, de linho, longa e com mangas   3   vestuário de luta; cota; armadura   4   envoltório de pedras; muralha   5   qualquer coisa que recobre; revestimento   6   Bot. película de sementes, frutos e bulbos   7   casca de árvore; cortiça   8   rede de pesca   9   teia de aranha   10   Anat. membrana (do cérebro, dos intestinos)   11   em Roma, bandeira de cor chamativa, plantada diante da barraca do general, para dar sinal de marcha ou de combate. </def></entryFree><p></p>
+
+<entryFree>χιτώνιον, ου (τό)<def> pequena túnica feminina. </def></entryFree><p></p>
+
+<entryFree>χιτωνίσκος, ου (ὁ)<def> túnica curta masculina.  </def></entryFree><p></p>
+
+<entryFree>χιών, όνος (ἡ)<def> 1   neve   2   neve derretida; água gelada; água fresca.  </def></entryFree><p></p>
+
+<entryFree>χλαῖνα, ης (ἡ)<def> 1   manto de inverno; sobretudo   2   capa.  </def></entryFree><p></p>
+
+<entryFree>χλαμύδιον, ου (τό)<def> pequena clâmide; pequeno manto. </def></entryFree><p></p>
+
+<entryFree>χλαμυδουργία, ας (ἡ)<def> confecção de clâmide. 〈χλαμύς, ἔργον〉 </def></entryFree><p></p>
+
+<entryFree>χλαμύς, ύδος<def> (ἡ)  1   clâmide, capa de cavaleiro; manto curto   2   clâmide, capa usada pelos efebos: ἐκ χλαμύδος plut. ao desvestir a clâmide, i.e., ao deixar a categoria de efebo   3   capa de soldado   4   capa de comandante, de rei, de nobre, de general   5   roupa da cidade, op. à roupa do campo.  </def></entryFree><p></p>
+
+<entryFree>χλανίδιον, ου (τό)<def> pequeno manto; capa feminina. </def></entryFree><p></p>
+
+<entryFree>χλανιδοποιΐα, ας (ἡ)<def> confecção de manto leve. 〈χλανίς, ποιέω〉 </def></entryFree><p></p>
+
+<entryFree>χλανίς, ίδος (ἡ)<def> 1   manto leve; capa   2   lençol; coberta. </def></entryFree><p></p>
+
+<entryFree>χλευάζω<def> 1   chacotear; zombetear   2   escarnecer de; zombar de; ridicularizar, ac. ♦ méd.   3   rir; gracejar ♦ pas.   4   ser alvo de chacota. 〈χλεύη〉 </def></entryFree><p></p>
+
+<entryFree>χλευασμός, οῦ (ὁ)<def> 1   zombaria; troça   2   ironia   3   gracejo. 〈χλευάζω〉 </def></entryFree><p></p>
+
+<entryFree>χλεύη, ης (ἡ)<def> 1   zombaria; escárnio; riso; ridículo   2   alvo de escárnio; alvo de zombaria   3   ilusão; engano.  </def></entryFree><p></p>
+
+<entryFree>χλιαίνω<def> (fut. χλιανῶ, aor. ἐχλίανα e ἐχλίηνα, inf. χλιῆναι; pas. aor. ἐχλιάνθην, perf. κεχλίασμαι)   1   aquecer; reaquecer; reaquecer lentamente ♦ pas.   2   tornar-se quente; esquentar; aquecer-se   3   tornar-se febril; arder de paixão.  </def></entryFree><p></p>
+
+<entryFree>χλιαρός, ά,<def> όν  1   quente; levemente aquecido; tépido; morno ♦ τὸ χλιαρόν   2   tepidez; calor. 〈χλίω〉 </def></entryFree><p></p>
+
+<entryFree>χλιδανός, ή, όν<def> 1   refinado; delicado   2   efeminado.  </def></entryFree><p></p>
+
+<entryFree>χλιδάω-ῶ<def> 1   ser refinado, viçoso, exuberante   2   viver na moleza, na preguiça   3   orgulhar-se de; ficar envaidecido de; comprazer-se de, dat.   4   mostrar-se insolente.  </def></entryFree><p></p>
+
+<entryFree>χλιδή, ῆς (ἡ)<def> 1   moleza; delicadeza   2   refinamento; luxo   3   insolência; soberba   4   ornamento luxuoso   5   beleza; fascínio.  </def></entryFree><p></p>
+
+<entryFree>χλίδημα, ατος (τό)<def> 1   moleza; delicadeza; boa vida; luxo   2   orgulho; insolência   3   adorno luxuoso; belo adereço.  </def></entryFree><p></p>
+
+<entryFree>χλιδών, ῶνος (ὁ)<def> 1   adereço; enfeite   2   bracelete   3   adorno de tornozelo   4   colar. </def></entryFree><p></p>
+
+<entryFree>χλίδωσις, εως (ἡ)<def> ornamentação. 〈χλιδάω〉 </def></entryFree><p></p>
+
+<entryFree>χλίω<def> orgulhar-se; regozijar-se; comprazer-se. </def></entryFree><p></p>
+
+<entryFree>χλόα<def> dór. = χλόη. </def></entryFree><p></p>
+
+<entryFree>χλοάζω<def> 1   tornar-se verde; enverdecer   2   ser verde   3   (planta) verdejar; brotar; germinar ♦ méd.   4   nutrir-se de ervas verdes. </def></entryFree><p></p>
+
+<entryFree>χλοαυγής, ής, ές<def> que tem um brilho esverdeado. 〈χλόα, αὐγή〉 </def></entryFree><p></p>
+
+<entryFree>χλοερός, ά,<def> όν  1   verde; verdejante  2   fresco; florescente. </def></entryFree><p></p>
+
+<entryFree>χλόη, ης (ἡ)<def> 1   erva ou grama ainda verde, nova   2   germe; rebento; broto   3   folhagem; fronde   4   verdura; erva ♦ Χλόη   5   Cloé, a verdejante, epít. da deusa Deméter   3   Cloé, n. de m. </def></entryFree><p></p>
+
+<entryFree>χλοητόκος, ος, ον<def> que produz brotos novos, verdejantes. </def></entryFree><p></p>
+
+<entryFree>χλούνης, ου<def> (masc.)   1   selvagem (porco) ♦ ὁ χλούνης   2   porco do mato; javali   3   eunuco. </def></entryFree><p></p>
+
+<entryFree>χλοῦνις (ἡ)<def> virilidade incipiente; puberdade. </def></entryFree><p></p>
+
+<entryFree>χλωρεύς, έως (ὁ)<def> pássaro de cor amarelada. </def></entryFree><p></p>
+
+<entryFree>χλωρηΐς, ΐδος<def> (fem.) fem. poét. de χλωρός.  </def></entryFree><p></p>
+
+<entryFree>χλωρίς, ίδος (ἡ)<def> 1   fêmea do verdilhão (pássaro)   2   clóris, erva. </def></entryFree><p></p>
+
+<entryFree>χλωρίων, ωνος (ὁ)<def> verdilhão amarelo (pássaro). </def></entryFree><p></p>
+
+<entryFree>χλωρόκομος, ος, ον<def> de cabeleira verdejante; de folhas verdes. </def></entryFree><p></p>
+
+<entryFree>χλωρόπτιλος, ος, ον<def> de plumagem esverdeada. </def></entryFree><p></p>
+
+<entryFree>χλωρός, ά,<def> όν  1   verde; coberto de vegetação; verdejante: χλωρὰς ῥῶπας hom. ramos verdes, ὄρος ζάθεον χλωρόν hin. montanha sagrada coberta de vegetação   2   amarelo; amarelado (mel, areia)  3   verde-claro  4   pálido; verde de medo: χλωροτέρα... ποίας ἔμμι safo estou mais pálido do que a grama  5   bilioso: χρῶμα χλωρόν hipócr. tez biliosa   6   que faz empalidecer; que faz amarelar (medo)  7   verde (op. a seco ou maduro): τοῦ σίτου ἔτι χλωροῦ ὄντος tuc. enquanto que o trigo estava ainda verde, χλωρὰ ξύλα artt. madeira verde  8   novo em folha; recente; fresco: τυρὸς χλωρός ar. queijo fresco  9   forte; vigoroso·(sangue, joelho). </def></entryFree><p></p>
+
+<entryFree>χλωρότης, ητος (ἡ)<def> 1   cor verde: χλ. ὕλης plut. o verde da selva   2   cor pálida; palidez   3   cor amarela: χλ. χρυσίου sept. o amarelo do ouro   4   valor; ânimo; vigor. 〈χλωρός〉  </def></entryFree><p></p>
+
+<entryFree>χνοάζω<def> ter os primeiros pelos de barba. 〈χνόος〉 </def></entryFree><p></p>
+
+<entryFree>χνοάω-ῶ<def> 1   ter os primeiros pelos de barba   2   cobrir-se de penugem (fruta). 〈χνόος〉 </def></entryFree><p></p>
+
+<entryFree>χνόη, ης (ἡ)<def> 1   porca de parafuso que sustenta o eixo de uma roda   2   extremidade do eixo na roda   3   mola que faz mover um corpo: χνόαι ποδῶν ésql. as molas dos pés, i.e., o movimento ágil dos pés. </def></entryFree><p></p>
+
+<entryFree>χνόος-οῦς, όου-οῦ (ὁ)<def> 1   vestígio de água do mar sobre a pele; salsugem   2   resto de material usado ou queimado; cinza   3   poeira   4   primeiros pelos; barba nascente   5   fina penugem sobre uma fruta   6   Ret. estilo florido   7   Ret. tom arcaizante. </def></entryFree><p></p>
+
+<entryFree>χοάνη, ης (ἡ)<def> 1   funil   2   crisol; cadinho. 〈χόανος〉 </def></entryFree><p></p>
+
+<entryFree>χόανος, ου (ὁ)<def> 1   recipiente para metal em fusão; cadinho para fundir metais   2   molde no qual se cola o metal fundido. 〈χέω〉 </def></entryFree><p></p>
+
+<entryFree>χοάς<def> ac. pl. de χοή. </def></entryFree><p></p>
+
+<entryFree>χόας<def> ou χοᾶς ac. pl. de χοῦς. </def></entryFree><p></p>
+
+<entryFree>Χοάσπης, ου (ὁ)<def> Coaspe, rio. </def></entryFree><p></p>
+
+<entryFree>χόες, χοεύς<def>  χόος.  </def></entryFree><p></p>
+
+<entryFree>χοή, ῆς (ἡ)<def> 1   ação de verter um líquido em honra aos deuses e aos mortos; libação; oferenda   2   água derramada; água que escorre. 〈χέω〉 </def></entryFree><p></p>
+
+<entryFree>χοήρης, ης, ες<def> próprio para as libações (vaso). 〈χοή, ἀραρίσκω〉 </def></entryFree><p></p>
+
+<entryFree>χοηφόρος, ου<def> (masc., fem.)   1   que leva libações aos mortos ♦ αἱ Χοηφόροι   2   Coéforas, título de uma tragédia de Ésquilo. 〈χοή, φέρω〉 </def></entryFree><p></p>
+
+<entryFree>χοἴδε<def> crase de καὶ οἴδε. </def></entryFree><p></p>
+
+<entryFree>χοϊκός, ή, όν<def> crist. feito de terra; terreno. 〈χοῦς〉 </def></entryFree><p></p>
+
+<entryFree>χοῖνιξ, ικος (ἡ)<def> 1   quênice, medida de capacidade para sólidos, equiv. a 3 ou 4 cótilos, i.e., aproximadamente 1 litro, representando a ração de trigo diária dada a um escravo ou trabalhador   2   pedaço de ferro ou de madeira atravessado; trava para os pés de escravos. </def></entryFree><p></p>
+
+<entryFree>χοἶον<def> crase de καὶ οἷον. </def></entryFree><p></p>
+
+<entryFree>χοιραδώδης, ης, ες<def> 1   cheio de escolhos; rochoso   2   escrofuloso. 〈χοιράς, -ωδης〉 </def></entryFree><p></p>
+
+<entryFree>χοιράς, άδος<def> (fem.)   1   semelhante ao dorso de um porco ou a um porco, i.e., sem rugosidade ♦ ἡ χοιράς   2   rochedo pouco elevado sobre a água; escolho   3   ilha pedregosa e pouco elevada, ref. a Delos   4   pl., Medic. gânglio inflamado do pescoço. 〈χοῖρος〉 </def></entryFree><p></p>
+
+<entryFree>χοίρειος, α, ον<def> de porco; suíno. 〈χοῖρος〉 </def></entryFree><p></p>
+
+<entryFree>χοίρεος, α, ον<def>  χοίρειος. </def></entryFree><p></p>
+
+<entryFree>χοιρίδιον, ου (τό)<def> porco pequeno. </def></entryFree><p></p>
+
+<entryFree>χοιρίνη, ης (ἡ)<def> pequena concha marítima utilizada pelos juízes atenienses em votações; voto. </def></entryFree><p></p>
+
+<entryFree>χοίρινος, η, ον<def> 1   de porco ♦ ὁ χοίρινος   2   pele de porco raspada. 〈χοῖρος〉 </def></entryFree><p></p>
+
+<entryFree>χοιρίον, ου (τό)<def> 1   porquinho; leitãozinho   2   com. vulva. </def></entryFree><p></p>
+
+<entryFree>χοιρόθλιψ, ιβος<def> (masc., fem.) com. depravado; libertino. 〈χοῖρος, θλίβω〉 </def></entryFree><p></p>
+
+<entryFree>χοιροκομεῖον, ου (τό)<def> 1   pocilga para pequenos porcos   2   vestimenta íntima feminina. 〈χοῖρος, κομέω〉  </def></entryFree><p></p>
+
+<entryFree>χοιρόκτονος, ος, ον<def> 1   acompanhado de sacrifício de um porco: καθαρμοὶ χοιρόκτονοι ésql. purificações em que se sacrifica um porco   2   de porco sacrificado (sangue). 〈χοῖρος, κτείνω〉 </def></entryFree><p></p>
+
+<entryFree>χοιροπῶλας, α (ὁ)<def> dór. comerciante de porcos. 〈χοῖρος, πωλέω〉 </def></entryFree><p></p>
+
+<entryFree>χοῖρος, ου (ὁ, ἡ)<def> 1   leitão; porco pequeno   2   porco   3   fem., partes íntimas da mulher; vulva   4   espécie de peixe do rio Nilo. </def></entryFree><p></p>
+
+<entryFree>Χολαργεῖς, έων (ὁ)<def> Colarges, demo ático. </def></entryFree><p></p>
+
+<entryFree>Χολαργεύς, έως<def> (masc.) habitante de Colarges. 〈Χολαργεῖς〉  </def></entryFree><p></p>
+
+<entryFree>χολάς, άδος (ἡ)<def> 1   cavidade abdominal   2   pl. intestinos; tripas. </def></entryFree><p></p>
+
+<entryFree>χολάω-ῶ<def> (só pres.)   1   estar cheio de bile; estar doido, furioso   2   ter raiva; ser mal-humorado; ser melancólico   3   irritar-se, encolerizar-se   4   ficar louco. 〈χολή〉 </def></entryFree><p></p>
+
+<entryFree>χολέρα, ας (ἡ)<def> 1   cólera, doença   2   bíbl. náusea. </def></entryFree><p></p>
+
+<entryFree>χολεριάω-ῶ<def> Medic. ter o cólera, estar doente de cólera. 〈χολέρα〉  </def></entryFree><p></p>
+
+<entryFree>χολερικός, ή, όν<def> Medic.   1   que concerne ao cólera; do cólera   2   atingido pelo cólera; doente de cólera. 〈χολέρα〉 </def></entryFree><p></p>
+
+<entryFree>χολή, ῆς (ἡ)<def> 1   bile; fel   2   bile provocada por sentimentos de raiva ou de ódio: χολὴ ἐπιζεῖ μοι ar. estou fervendo de raiva, χολὴν ἔχειν dem. ser irascível, χολὴν ἐμεῖν plut. vomitar a bile, i.e., ser maldizente, ter más intenções   3   vesícula biliar   4   Medic. disseminação de bile   5   veneno de serpente   6   líquido de defesa expelido por um molusco   7   bíbl. bebida amarga.  </def></entryFree><p></p>
+
+<entryFree>χολημεσία, ας (ἡ)<def> vômito de bile. 〈χολή, ἐμέω〉 </def></entryFree><p></p>
+
+<entryFree>χολικός, ή, όν<def> bilioso. 〈χολή〉 </def></entryFree><p></p>
+
+<entryFree>χόλιξ, ικος (ἡ)<def> 1   intestino   2   pl. tripas. 〈χολάς〉 </def></entryFree><p></p>
+
+<entryFree>χόλος, ου (ὁ)<def> 1   bile; fel   2   ódio; cólera; ressentimento; rancor   3   motivo de bile ou de cólera   4   furor de animal   5   veneno de sepente. 〈χολή〉 </def></entryFree><p></p>
+
+<entryFree>χολόω-ῶ<def> (fut. χολώσω, aor. ἐχόλωσα, perf. desus.; méd. pas. fut. χολώσομαι, aor. ἐχολωσάμην)   1   provocar a bile de; encolerizar; irritar; enfurecer alguém ♦ méd. pas.   2   encolerizar-se; irritar-se; enfurecer-se contra alguém, gen. ou dat., por causa de, gen. ou ἀμφί, ἐπί e dat. 〈χόλος〉 </def></entryFree><p></p>
+
+<entryFree>χολώδης, ης, ες<def> 1   cheio de bile; bilioso; irado   2   semelhante à bile   3   irritável; irascível. 〈χόλος, -ωδης〉 </def></entryFree><p></p>
+
+<entryFree>χολώσεαι<def> 2ª sing. subj. aor. méd. ép., χολωσέμεν inf. fut. at. ép., de χολόω.  </def></entryFree><p></p>
+
+<entryFree>χολωτός, ή, όν<def> cheio de bile; irado; indignado. 〈χολόω〉 </def></entryFree><p></p>
+
+<entryFree>χόνδρος, ου (ὁ)<def> 1   grão (de sal)   2   grão de trigo; grumo   3   farinha de aveia; trigo grosso   4   cartilagem (da orelha)   5   pl. cornos de enho. </def></entryFree><p></p>
+
+<entryFree>χόος-χοῦς1<def> e χοεύς, gen. χοέως-χοῶς (ὁ e ἡ)   1   côngio, medida para líquido equivalente a 3,25 litros ♦ οἱ Χόες   2   festa dos Côngios, celebrada no segundo dia das Antestérias. 〈χέω〉 </def></entryFree><p></p>
+
+<entryFree>χόος-χοῦς2,<def> gen. χόου-χοῦ (ὁ e ἡ)   1   terra retirada de uma escavação e amontoada; monte de terra   2   sepultura   3   aluvião   4   pó; terra. 〈χέω〉 </def></entryFree><p></p>
+
+<entryFree>χοραγός<def> dór. = χορηγός. </def></entryFree><p></p>
+
+<entryFree>χοραύλης, ου (ὁ)<def> flautista de coro. 〈χορός, αὐλέω〉 </def></entryFree><p></p>
+
+<entryFree>χορδή, ῆς (ἡ)<def> 1   tripa   2   pl. intestinos   3   corda de instrumento musical feita com tripa; corda   4   tripas preparadas como alimento   5   linguiça; chouriço. </def></entryFree><p></p>
+
+<entryFree>χορδολογέω-ῶ<def> afinar (instrumento). 〈χορδή, λέγω〉 </def></entryFree><p></p>
+
+<entryFree>χορδοστροφία, ας (ἡ)<def> torção de cordas de instrumento musical. 〈χορδή, στρέφω〉 </def></entryFree><p></p>
+
+<entryFree>χορεία, ας (ἡ)<def> 1   dança coral (com acompanhamento musical)   2   canto coral (para acompanhar a dança)   3   crist. coro de anjos   4   movimento circular dos astros. 〈χορός〉 </def></entryFree><p></p>
+
+<entryFree>χορεῖος, α, ον<def> 1   de ou para o coro ou a dança   2   que preside os coros, as danças ♦ ὁ χορεῖος   3   Métr. coreu; troqueu ♦ τὸ χορεῖον   4   lugar de dança. 〈χορός〉 </def></entryFree><p></p>
+
+<entryFree>χορευτής, οῦ (ὁ)<def> 1   aquele que dança em um coro; coreuta; corista   2   Fil. discípulo. 〈χορεύω〉 </def></entryFree><p></p>
+
+<entryFree>χορευτικός, ή, όν<def> da dança ou para a dança. 〈χορεύω〉 </def></entryFree><p></p>
+
+<entryFree>χορεύω<def> (fut. χορεύσω, aor. ἐχόρευσα, perf. κεχόρευκα; pas. aor. ἐχορεύθην, perf. κεχόρευμαι)   1   intr. dançar uma dança coral; participar de um coro; dançar em coro em honra de, dat., περί e ac. ou ἐπί e dat. ♦ at. e méd.   2   festejar ou celebrar com dança coral (deus, casamento) ♦ méd.   3   fazer ouvir (grito, hino) enquanto se dança em coro ♦ pas.   4   ser celebrado por um coro   5   ser representado por um coro: τὰ χορευθέντα plat. as figuras da dança mímica. 〈χορός〉 </def></entryFree><p></p>
+
+<entryFree>χορηγέω-ῶ<def> (fut. χορηγήσω, aor. ἐχορήγησα, perf. κεχορήγηκα; pas. aor. ἐχορηγήθην, perf. κεχορήγημαι)   1   conduzir o coro; guiar o coro   2   ser chefe de coro de um grupo; conduzir, gen.  3   dar o tom de um discurso, gen.   4   em Atenas, ser corego, i.e., equipar e preparar um coro   5   financiar os gastos de, ac. ou dat.: χ. χορηγίας antif. financiar as despesas da coregia, Λήναια χ. ar. custear as despesas das Leneias, χ. Παναθηναίοις dem. custear as despesas das Panateneias   6   custear os gastos de; pagar o preço de, dat.: χ. ταῖς σεαυτοῦ ἡδοναῖς ésqn. pagar o preço dos próprios prazeres ♦ at. e méd.   7   fornecer; providenciar; prover algo ou alguém, ac., dat. ou πρός e ac., de algo, dat. ou ac.: χ. τὸ στρατόπεδον τοῖς ἐπιτηδείοις plut. prover dos meios de subsistência o acampamento, χρήμασι πρὸς πάσας τὰς ἐπιβολὰς χ. pol. fornecer dinheiro a todos os projetos, χρήματα χ. ἡμῖν dem. fornecer-nos dinheiro ♦ pas.   8   ser dirigido em um coro   9   ser equipado em um coro   10   ser providenciado. 〈χορηγός〉 </def></entryFree><p></p>
+
+<entryFree>χορηγία, ας (ἡ)<def> 1   função de corego; coregia; equipamento e preparação de um coro   2   gastos; despesas; contribuição   3   fornecimento; abastecimento   4   abundância de, gen. 〈χορηγός〉 </def></entryFree><p></p>
+
+<entryFree>χορηγικός, ή, όν<def> 1   que concerne ao corego, à função de corego   2   consagrado pelo corego vencedor (tripé). 〈χορηγός〉 </def></entryFree><p></p>
+
+<entryFree>χορηγός, οῦ (ὁ)<def> 1   chefe do coro   2   condutor de um grupo, de um cortejo   3   corego, que custeia as despesas do coro   4   aquele que assume despesas de ou que fornece recursos para algo, dat., gen. ou εἰς e ac.   5   bíbl. dispensador, ref. a Deus, a Cristo   6   protetor. 〈χορός, ἡγέομαι〉 </def></entryFree><p></p>
+
+<entryFree>χορικός, ή, όν<def> 1   de ou para a dança coral ♦ τὸ χορικόν   2   parte coral (do drama). 〈χορός〉 </def></entryFree><p></p>
+
+<entryFree>χορικῶς<def> adv. em coro. </def></entryFree><p></p>
+
+<entryFree>χοροδιδάσκαλος, ου (ὁ)<def> instrutor do coro.  </def></entryFree><p></p>
+
+<entryFree>χοροιτυπία, ας (ἡ)<def> 1   batida no solo para ritmar a dança   2   dança coral   3   dança   4   passo de dança. 〈χορός, τύπτω〉 </def></entryFree><p></p>
+
+<entryFree>χορολέκτης, ου (ὁ)<def> aquele que escolhe os componentes do coro. 〈χορός, λέγω〉 </def></entryFree><p></p>
+
+<entryFree>χορόνδε<def> adv. em direção à dança. 〈χορός, -δε〉 </def></entryFree><p></p>
+
+<entryFree>χοροποιός, ός, όν<def> 1   aquele que dirige o coro ou a dança   2   aquele que institui o coro. 〈χορός, ποιέω〉 </def></entryFree><p></p>
+
+<entryFree>χορός, οῦ (ὁ)<def> 1   coro de dança; dança coral, acompanhado de canto: ∆ιόνυσον τιμώσας χοροῖς eur. honrando Dioniso com coros, ἐς χορὸν ἔρχεσθαι, ἰέναι, εἰσοιχνεῖν hom. ir à dança, entrar na roda, χορὸν ῥώννυσθαι, ἀρτύνειν Hin., ἐμποιήσασθαι Hes. organizar coros, κυκλικὸς, ἐγκύκλιος ou κύκλιος χορός eur. dança coral em círculo, em torno do altar   2   canto coral, que acompanha a dança coral: τῶν χορῶν ἀχούειν plat. ouvir os cantos corais, χορὸν ᾄδειν plut. cantar um canto coral   3   coro, grupo que executa uma dança: χοροὺς ἱστάναι plut. formar coros, χοροὺς ἀνῆγον αἱ πόλεις tuc. as cidades enviavam os coros, χορὸν ἅπτειν ésql. juntar o coro   4   no teatro ático, coro de tragédia, de comédia, de drama satírico: οἱ χοροὶ τῶν τραγῳδῶν ar. os coros trágicos, χορὸς κωμικός ar. coro cômico, χορὸν αἰτεῖν ar. solicitar um coro, i.e., solicitar a concessão de um coro para representação de uma peça de teatro, χορὸν διδόναι plat. conceder um coro, χορὸν λαβεῖν, ἔχειν ar. obter um coro   5   grupo; coro: χορὸς Μοισᾶν pínd. coro de Musas, χορὸς καλλίμορφος τέκνων eur. belo coro de crianças   6   grupo; bando; conjunto: ἄστρων αἰθέριοι χοροί eur. coros celestes dos astros, χορός μελιττῶν el. enxame de abelhas, τοῦ χοροῦ τοὺς προσθίους ar. os dentes da frente   7   crist. congregação; coro de fiéis.  </def></entryFree><p></p>
+
+<entryFree>χορτάζω<def> (fut. χορτάσω, aor. ἐχόρτασα; pas. perf. κεχόρτασμαι)   1   conduzir ao pasto; apascentar   2   engordar com forragem; forragear (animal)   3   empanturrar alguém, ac., de algo, dat.   4   bíbl. saciar; nutrir ♦ pas.   5   empanturrar-se; saciar-se de algo, ac. ou gen. 〈χόρτος〉 </def></entryFree><p></p>
+
+<entryFree>χορταῖος, α, ον<def> de sebe; de forragem; de capim. 〈χόρτος〉 </def></entryFree><p></p>
+
+<entryFree>χόρτασμα, ατος (τό)<def> 1   forragem   2   bíbl. alimento. 〈χορ­τάζω〉 </def></entryFree><p></p>
+
+<entryFree>χόρτος, ου (ὁ)<def> 1   lugar cercado de árvores, de sebe; recinto; pátio: χόρτοι εὔδενδροι eur. recinto de belas árvores   2   lugar de pastagem; pastagem   3   grama; forragem; feno: χόρτος κοῦφος xen. forragem leve, feno, χόρτος ἐξηράνθη n.t. a grama secou   4   alimento: θηρῶν ὀρείων χόρτον, οὐχ ἵππων λέγεις eur. falas de alimento das feras das montanhas, não dos cavalos   5   ceva de peixes. 〈χείρ〉 </def></entryFree><p></p>
+
+<entryFree>χοῦν<def> ac. de χοῦς1 e  2. </def></entryFree><p></p>
+
+<entryFree>χοῦς<def> cf. χόος. </def></entryFree><p></p>
+
+<entryFree>χουσί<def> dat. pl. de χοῦς. </def></entryFree><p></p>
+
+<entryFree>χοῦσι<def> 3ª pl. pres. ind. de χόω. </def></entryFree><p></p>
+
+<entryFree>χοὖτος, χοὖτω<def> crase de καὶ οὕτος, καὶ οὕτω. </def></entryFree><p></p>
+
+<entryFree>χόω<def> (impf. ἔχουν, aor. ἔχωσα; pas. fut. χωσθήσομαι, aor. ἐχώσθην, perf. inf. κεχῶσθαι)   1   acumular; amontoar (terra)   2   encher de terra; obstruir   3   cobrir de terra; sepultar ♦ méd.   4   acumular; amontoar (terra).  </def></entryFree><p></p>
+
+<entryFree>χρᾷ<def> 3a sing. pres. ind. at. ou 2a sing. pres. ind. méd. de χράω. </def></entryFree><p></p>
+
+<entryFree>χραίνω<def> (fut. χρανῶ, aor. ἔχρανα; pas. aor. ἐχράνθην, inf. κεχράνθαι)   1   tocar levemente; roçar   2   revestir; untar   3   tingir; colorir; caiar   4   sujar; manchar ♦ at. e méd.   5   enodoar; macular: χρ. θεῶν ὀνόματα plat. profanar os nomes dos deuses.  </def></entryFree><p></p>
+
+<entryFree>χραισμέω-ῶ<def> (fut. χραισμήσω, aor.1 ἐχραίσμησα, aor.2 ἔχραισμον, perf. desus.)  1   ser útil; ser prestativo; socorrer; ajudar alguém, dat., em algo, ac.: οὔ οἱ χραῖσμ᾽ Ἄρτεμις hom. Ártemis não lhe foi prestativa   2   ser útil; preservar; afastar alguém, dat., de algo, ac.: τοῖς οὔτις δύνατο χραισμῆσαι ὄλεθρον Τρώων hom. nenhum troiano podia preservá-los da morte  3   ter proteção contra; ser imune a algo, dat. </def></entryFree><p></p>
+
+<entryFree>χραισμησέμεν<def> inf. fut. ép. de χραισμέω. </def></entryFree><p></p>
+
+<entryFree>χράομαι<def> cf. χράω2 e  3. </def></entryFree><p></p>
+
+<entryFree>χρᾶσθαι<def> inf. pres. méd. de χράω3. </def></entryFree><p></p>
+
+<entryFree>χρᾶται<def> 3ª sing. pres. ind. méd. jôn. de χράω3. </def></entryFree><p></p>
+
+<entryFree>χραύω<def> (3ª sing. aor. subj. χραύσῃ) tocar de leve; ferir levemente. </def></entryFree><p></p>
+
+<entryFree>χράω1<def> (só aor.2, 3ª sing. ἔχραε e 2ª pl. ἐχράετε) ép.   1   (pessoa) cair sobre; precipitar-se sobre alguém, dat., ou algo, ac.: στυγερὸς δέ οἱ ἔχραε δαίμων hom. uma funesta divindade abateu-o, τόδε δῶμα ἐχράετ᾽ ἐσθιέμεν καὶ πινέμεν hom. invadistes esta casa para comer e beber   2   (coisa) caber a, dat.: τόσος πόνος, ὁππόσος ἡμῖν ἔχραε a.p. pena tão grande quanto a que nos coube. </def></entryFree><p></p>
+
+<entryFree>χράω2<def> (contr. em η: pres. 3ª sing. χρῇ, impf. 3ª sing. ἔχρη; fut. χρήσω, aor. ἔχρησα, perf. com sent. de pres. κέχρηκα; méd. χρῶμαι, χρῇ, χρῆται, inf. χρῆσθαι, fut. χρήσομαι, aor. ἐχρησάμην, perf. κέχρημαι; aor. pas. ἐχρήσθην) 
+ativa
+1	pôr algo, ac., à disposição de alguém, dat.; ceder; emprestar
+2	proporcionar
+média
+3	tomar emprestado algo, ac., de alguém, παρά e gen.
+4	tirar proveito de; servir-se de; dispor de, ac. ou dat.; χρείαν χρῆσθαι fazer uso de, ac. ou dat.
+5	ter relações com; relacionar-se com alguém, dat.; tomar, ter ou tratar alguém, dat., por ou como, dat. ou ὡς e dat. 
+6	relacionar-se sexualmente com uma mulher
+7	entregar-se a; usar de (nome abstrato), dat.
+
+1 Κορινθίων ἐδέοντο χρῆσαι σφίσι νέας her. pediam aos coríntios que lhes emprestassem navios
+2 κακὸν δέ οἱ ἔχραε κοῖτον nic. proporcionava-lhe um sono de morte 
+3 ὁ δ’ Ἀμφάρης καὶ κεχρημένος ἔναγχος ἱμάτια καὶ ποτήρια τῶν πολυτελῶν παρὰ τῆς Ἀγησιστράτας plut. Anfares, tendo há pouco tomado emprestado de Agesístrata roupas e vasos preciosos
+4 ἀπορῶ, οὐκ ἔχω ὅ τι χρήσομαι plat. estou em apuros, não tenho de que dispor, οἱ λογισμῷ ἐλάχιστα χρώμενοι tuc. os que fazem ínfimo uso do raciocínio, τὴν στρατείαν θαλάσσῃ ἤδη πλείω χρώμενοι ξυνῆλθον tuc. constituíram a expedição quando já tinham maior prática do mar, σὺ μὴ πάντα θυμῷ χρέω her. não te entregues completamente à cólera, ἣν ἂν δοκῇ χρείαν δεῖν χρῆσθαι πρὸς τὰ πολεμικά plat. [quanto à mulher] se parecer bom dela fazer uso para as atividades bélicas, μήτ᾽ ἄλλην χρείαν μηδεμίαν χρῆσθαι τῷ σώματι plat. não fazer nenhum outro uso de seu corpo 
+5 χρ. Πλάτωνι plut. estudar as obras de Platão ou seguir a doutrina de Platão, ἔμοιγε χρώμενος διδασκάλῳ ésql. tomando-me como mestre, ἐμοὶ χρ. κριτῇ eur. se alguém me toma como juiz, i.e., na minha opinião, a meu ver, ἡμᾶς τούσδε πρώτους λαβόντες χρήσασθε ὡς πολεμίοις tuc. é a nós que em primeiro lugar deveis capturar e tratar como inimigos
+6 γυναικὶ χρῆσθαι her. ter relações sexuais com uma mulher
+7 χρ. ὀργῇ her. abandonar-se à cólera, χρ. ταῖς ἐπιθυμίαις tuc. entregar-se às paixões, χρ. ὠμότητι plut. usar de crueldade, χρ. ἀληθέϊ λόγῳ her. usar de sinceridade, dizer a verdade, νόμῳ χρ. sóf. observar a lei, χρ. τοῖς κακοῖς eur. tirar vantagem da adversidade ou experimentar a adversidade, χρ. τοῖς ἁμαρτήμασι isócr. cometer erros, τοῖς πράγμασι χρ. át. saber ajustar-se às circunstâncias, saber usá-las, tirar vantagens delas, ou conduzir os negócios  </def></entryFree><p></p>
+
+<entryFree>χράω3<def> (fut. χρήσω, aor. ἔχρησα, perf. κέχρηκα; pas. aor. ἐχρήσθην, perf. κέχρησμαι e κέχρημαι)   1   (deus, oráculo) dar oráculo ou resposta; vaticinar; anunciar: τοῦ θεοῦ χρήσαντος tuc. tendo o deus anunciado sua resposta   2   dizer ou ordenar por meio de oráculo: χρῆσαι γῆν οἰκεῖν tuc. ordenar ou responder para habitar uma terra, ἔχρησας ὥστε τὸν ξένον μητροκτονεῖν ésql. pelo oráculo ordenaste que teu hóspede matasse a mãe ♦ méd. χράομαι-ῶμαι (fut. χρήσομαι, inf. χρᾶσθαι)  3   obter resposta de um deus, de um oráculo, dat.; interrogar ou consultar um oráculo: ἐσῆλθον τάχιστα ἐς τὸ μέγαρον οἱ Λυδοὶ χρησόμενοι τῷ θεῷ her. logo que os lídios entraram no templo para consultar o deus, χρ. μαντηΐῳ consultar um oráculo, χρ. ψυχῇ Τειρεσίαο hom. consultar a alma de Tirésias ♦ pas.   4   ser anunciado pelo oráculo a respeito de, gen.: τὸ χρησθέν pínd. a resposta do oráculo, τὰ χρησθέντα sóf. as declarações do oráculo, μαντεῖα ἃ τοῦδ᾽ ἐχρήσθη σώματος sóf. os presságios feitos a respeito deste corpo, χρησθὲν αὐτῷ τοῦτο παθεῖν tuc. como o oráculo lhe havia anunciado que ele sofreria esse tratamento. </def></entryFree><p></p>
+
+<entryFree>χράω4<def> (2ª sing. χρῇς e χρῆς, 3ª sing. χρῇ; méd. perf. com sent. de pres. κέχρημα)   1   ter necessidade de; desejar, gen.: νόστου κεχρημένον ἠδὲ γυναικός hom. [Odisseu] desejoso do regresso e da esposa   2   ter necessidade de; precisar de, gen.: οὐ πόνων κεχρήμεθα eur. não precisamos desses aborrecimentos, καὶ μάλα περ κεχρημένος hom. ainda que [eu] viva em grande penúria.  </def></entryFree><p></p>
+
+<entryFree>χρέα<def> cf. χρέος </def></entryFree><p></p>
+
+<entryFree>χρέεσθαι<def> inf. pres. méd. jôn., χρέεται 3ª sing. pres. ind. méd. jôn., de χράω2 e  3. </def></entryFree><p></p>
+
+<entryFree>χρεία, ας (ἡ)<def> 
+1	emprego; uso; utilidade; serventia
+2	serviço; ocupação; função
+3	modo de relacionar-se com alguém, gen. ou πρός e ac.; convívio
+4	objeto que se usa; apetrecho; equipamento
+5	matéria de discussão; assunto tratado
+6	máxima; sentença; dito espirituoso
+7	proveito; vantagem no uso de algo 
+8	necessidade; carência; falta de algo ou alguém, gen.
+9	privação; indigência, pobreza
+
+1 τὰ οὐδὲν εἰς χρείαν dem. as coisas que não têm nenhuma serventia, χρεία τῶν ὀνομάτων plut. emprego das palavras, χρείαν ἔχειν τοῖς ἀνθρώποις plat. ter utilidade para os homens
+2 ἡ πολεμικὴ χρεία καὶ ἡ εἰρηνική artt. a ocupação em tempo de guerra e em tempo de paz, χρείαι πολιτικαί plut. serviços públicos, καταστήσομαι ἐπὶ τῆς χρείας n.t. nós os [os homens de confiança] empregaremos nessa função 
+3 συνεβίω Ἀμύντᾳ ἰατροῦ καὶ φίλου χρείᾳ d.l. convivia com Amintas numa relação de médico e amigo, ἐν αὐτῶν τούτων χρείᾳ τινὶ τῇ πρὸς ἀλλήλους plat. em alguma relação dessas pessoas entre si
+4 χρεῖαι ναυτικαί el. equipamento de um navio
+5 ῥῆμα πρὸς τὴν προκειμένην χρείαν ἀνάρμοστον plut. palavra que não tem relação com o assunto proposto
+6 ἡ χρεία τοῦ Κλεομένους plut. a máxima de Cleômenes, Ζήνων δ’ ὁ Κιτιεὺς ἐν ταῖς Χρείαις καὶ κῴδιον αὐτόν φησί ποτε προσράψαι τῷ τρίβωνι ἀνεπιστρεπτοῦντα. d.l. Zenão de Cítio nas “Máximas” diz também que ele pôs um remendo de lã no velho manto, sem importar-se com isso
+7 ἑξήκοντα καὶ τριακόσια χρειῶν γένη παρέχον αὐτοῖς τὸ δένδρον plut. a árvore lhes proporcionava trezentas e sessenta espécies de usos 
+8 ἔτ᾽ ἐμοῦ χρείαν ἕξει ésql. ainda terá necessidade de mim, χρείᾳ φαρμάκων κατεσκέλλοντο ésql. enfraqueciam por falta de remédios, ἰατρῶν ἐν χρείαις ἐσόμεθα plat. precisaremos de médicos, ἐγὼ χρείαν ἔχω σοῦ βαπτισθῆναι n.t. tenho necessidade de ser batizado por ti, διὰ χρείαν xen., διὰ τὴν χρείαν plat., ὑπὸ χρείας plut., χρείας ὕπο ésql.por necessidade
+9 χρείαι τολμᾶν βιάζονται antif. as privações forçam a audácia.  </def></entryFree><p></p>
+
+<entryFree>χρείη<def> opt. pres. de χρή. </def></entryFree><p></p>
+
+<entryFree>χρεῖος1<def> ép. e jôn. = χρέος. </def></entryFree><p></p>
+
+<entryFree>χρεῖος2, ος, ον<def> 1   que precisa de; necessitado de, gen.   2   pobre; indigente. 〈χρέος〉 </def></entryFree><p></p>
+
+<entryFree>χρειώ, όος-οῦς (ἡ)<def> ép. = χρεώ.  </def></entryFree><p></p>
+
+<entryFree>χρειώδης, ης, ες<def> 1   necessário   2   útil; vantajoso para, dat. ♦ τὸ χρειῶδες   3   necessidade. 〈χρεία, -ωδης〉 </def></entryFree><p></p>
+
+<entryFree>χρείων<def> part. pres. ép. de χράω3. </def></entryFree><p></p>
+
+<entryFree>χρεμετίζω<def> (impf. poét. χρεμέτιζον, aor. ἐχρεμέτισα) relinchar. </def></entryFree><p></p>
+
+<entryFree>χρεμετισμός, οῦ (ὁ)<def> relincho. 〈χρεμετίζω〉 </def></entryFree><p></p>
+
+<entryFree>χρεμετιστικός, ή, όν<def> que gosta de relinchar ou que sabe relinchar. 〈χρεμετίζω〉 </def></entryFree><p></p>
+
+<entryFree>χρέμης, ητος (ὁ)<def> cremeta, peixe do mar. </def></entryFree><p></p>
+
+<entryFree>χρέμπτομαι<def> 1   desobstruir de pigarro a garganta; pigarrear antes de falar   2   Méd. expectorar   3   escarrar ruidosamente. </def></entryFree><p></p>
+
+<entryFree>χρεοκοπέω-ῶ<def> 1   cancelar dívidas; fraudar o credor   2   falir; quebrar   3   enganar; lograr. 〈χρέὸ, κόπτω〉  </def></entryFree><p></p>
+
+<entryFree>χρεοκοπία, ας (ἡ)<def> falência; bancarrota.  </def></entryFree><p></p>
+
+<entryFree>χρεοκοπίδαι, ῶν (οἱ)<def> os falidos, nome dos partidários da anistia das dívidas, proposta por Sólon. 〈χρεοκοπέω〉 </def></entryFree><p></p>
+
+<entryFree>χρεολυτέω-ῶ<def> pagar uma dívida; pagar o salário devido. 〈χρέος, λύω〉  </def></entryFree><p></p>
+
+<entryFree>χρέομενος<def> part. pres. jôn. de χράω2. </def></entryFree><p></p>
+
+<entryFree>χρεόν<def> jôn. = χρεών.  </def></entryFree><p></p>
+
+<entryFree>χρέονται<def> 3ª pl. pres. ind. jôn. de χράω2. </def></entryFree><p></p>
+
+<entryFree>χρέος, χρέεος-χρέους<def> pl. χρέεα-χρέα, gen. χρεῶν (τό)   1   liquidação de dívida; indenização; satisfação: ἔνθα χρεῖός μοι ὀφέλλεται hom. onde me é devido o pagamento de uma dívida, οἷσι χρεῖος ὀφείλετ᾽ ἐν    Ἥλιδι δίῃ hom. aos quais se devia um ressarcimento na divina Élida   2   dívida: τὴν οὐσίαν ἅπασαν χρέα κατέλιπον dem. como herança, deixaram dívidas, χρέα ἐπὶ τόκοις ὀφειλόμενα IS. dívidas contraídas com juros, χρέος ἀποδιδόναι, λύειν, διαλύειν pagar uma dívida, quitar uma dívida, χρέος διδόναι fazer um empréstimo, χρέος λαμβάνειν receber um empréstimo, contrair uma dívida, χρέος ἀπαιτεῖν pedir um empréstimo   3   necessidade de algo, gen.: τί δ᾽, ὦ τάλας, σε τοῦτ᾽ ἔχει τέκους χρέος; eur. infeliz, que necessidade tens desta criança? κατὰ χρέος conforme a necessidade, como convém   4   o que interessa ou concerne a uma pessoa; interesse: τὸ σὸν φρουρῆσαι χρέος sóf. ocupa-te do que diz respeito a ti, χρέος σὸν τόδε ἀνευρίσκειν eur. é tua competência encontrar isto   5   encargo; incumbência: οἷς τόδ᾽ ἦν χρέος ésql. aos quais isso cabia  6   coisa útil: σὺν πᾶσι χρήεσσι a.r. com tudo do que se precisa, ἐλάφους μέγα, τι χρέος cal. cervos, uma grande coisa, i.e., uma grande riqueza   7   coisa: τί καινὸν ἦλθε δώμασι χρέος; eur. que novidade aconteceu no palácio? </def></entryFree><p></p>
+
+<entryFree>χρέουσα<def> part. pres. fem. jôn. de χράω3. </def></entryFree><p></p>
+
+<entryFree>χρέω, εοῦς<def> 2ª sing. imper. pres. méd. jôn. de χράω2.  </def></entryFree><p></p>
+
+<entryFree>χρεώ,<def> jôn. χρειώ, gen. χρεόος-χρεοῦς (ἡ)   1   carência; necessidade de, gen. ou inf.; apuro; urgência: χρειοῖ ἀν­αγκαίῃ hom. por necessidade imperiosa, ἵν᾽ οὐ χρεὼ πείσμα­τός ἐστιν hom. onde não há necessidade de amarra, οὐδέ τί μιν χρεὼ νηῶν ἐπιβαινέμεν hom. não há necessidade de que ele embarque, ἐμὲ δὲ χρεὼ γίγνεται αὐτῆς hom. vou precisar dele [do navio]   2   negócio; objeto; coisa: ἤδη γὰρ χρειὼ κεκράαν­ται a.r. as coisas já estão concluídas. </def></entryFree><p></p>
+
+<entryFree>χρεώμενος, η, ον<def> part. pres. méd. jôn. de χράω2.  </def></entryFree><p></p>
+
+<entryFree>χρεών,<def> jôn. χρέον cf. χρή.  </def></entryFree><p></p>
+
+<entryFree>χρέωνται<def> 3ª pl. pres. ind. ou subj. jôn. de χράω2 e  3. </def></entryFree><p></p>
+
+<entryFree>χρέως (τό)<def> indecl. át. = χρέος. </def></entryFree><p></p>
+
+<entryFree>χρεώστης, ου (ὁ)<def> devedor. 〈χρέος〉 </def></entryFree><p></p>
+
+<entryFree>χρεωφειλέτης, ου (ὁ)<def> devedor. 〈χρέος, ὀφείλω〉 </def></entryFree><p></p>
+
+<entryFree>χρή<def> (subj. χρῇ, opt. χρείη, inf. χρῆναι, part. χρεών; impf. ἐχρῆν e χρῆν, fut. χρήσει e méd. χρῆσται) v. impes. 
+1	é preciso; convém; é necessário, or. inf.; no impf., com sent. potencial
+2	há necessidade de algo, gen., a alguém, ac.
+3	é fatal; é fatalidade; é desígnio do destino
+4	part. χρεών, jôn. χρεόν indecl., com ou sem ἐστί, é necessário; é preciso, inf.
+τὸ χρεών, jôn. τὸ χρεόν
+5	aquilo que é preciso; o que deve ser; χρεών ἐστι é preciso, or. inf.
+6	a necessidade; a imperiosidade; o destino
+7	destino inevitável; a morte
+
+1 νῦν δὲ χρὴ τετλάμεν hom. agora é preciso resignar-se, τί ἐχρῆν με ποιεῖν; dem. o que devia eu fazer? τίπτε μάχης ἀποπαύσεαι; οὐδέ τί σε χρή hom. por que abandonas o combate? não é preciso [abandoná-lo], οὔτε γὰρ ἂν ἐπιπλεύσειέ τις ὡς χρή tuc. ninguém navegaria como convém, θύσαντες οἷς χρή plat. tendo oferecido um sacrifício àqueles a quem é preciso [oferecer], ἔκανες ὃν οὐ χρῆν ésql. mataste aquele que não deverias [ter matado]
+2 τέο σε χρή; hom. de que tens necessidade? οὐδέ τί σε χρὴ ἀφροσύνης hom. não há necessidade de insensatez para ti, i.e., não precisas de insensatez, não precisas ser insensato, τί με χρὴ μητέρος αἴνου; hom. por que tenho de elogiar minha mãe?
+3 χρῆν γὰρ Κανδαύλῃ γενέσθαι κακῶς her. pois era fatal que acontecesse uma desgraça a Candaules, τὸ χρῆν eur. a fatalidade, o destino
+4 σέ τοι χρεόν ἐστι ἰέναι ἔνθα ἀπολαμπρύνεαι τοῖσι ἔργοισι her. é preciso que vás onde possas brilhar por teus feitos
+5 οὐ καταπροΐξεαι ἀποτρέπων τὸ χρεὼν γενέσθαι her. não ficarás impune tentando evitar que aconteça o que deve acontecer, τοῖς ἐμοῖς αὐτὴν χρεὼν τόξοις ἀλῶναι sóf. é preciso que, com minhas flechas, ela [Tróia] caia em nossas mãos 
+6 οὐκ ἔστι ἀπαλλαγὴ τοῦ χρεών eur. não há como escapar da necessidade, do destino 
+7 οἱ εἰς τό χρεὼν ὀδεύοντες plut. aqueles que caminham para o termo fatal. 〈χρέος〉 </def></entryFree><p></p>
+
+<entryFree>χρῇ<def> cf. χράω4. </def></entryFree><p></p>
+
+<entryFree>χρῇζω1<def> (impf. ἔχρῃζον, fut. χρῄσω, aor. ἔχρῃσα, perf. desus.)   1   ter necessidade de; desejar; pedir, gen. ou ac.: χρηΐζοντα καὶ αὐτὸν ἀμύμονος ἰητῆρος hom. tendo, ele também, necessidade de um médico irrepreensível, οὐδ᾽ ἐμοῦ διδασκάλου χρῄζεις ésql. não precisas de mim como mestre   2   ser necessitado; ser indigente: ὁ χρηΐζων hom. o pobre, o indigente, μηδὲ τὰ δῶρα οὕτω χρηΐζοντι κολούετε hom. não recuseis vossos dons a um homem tão necessitado assim   3   pedir algo, gen., a alguém, gen.; ou a alguém, gen. ou ac., algo, inf.: τῶνδε ἐγὼ ὑμέων χρηΐζων συνέλεξα her. eu vos reuni para pedir-vos o seguinte, ἐχρήϊζε τῶν Ἀθηναίων προσχωρῆσαι her. pedia aos atenienses que se aproximassem, φύλακα παιδός σε τοῦ ἐμοῦ χρηΐζω γενέσθαι her. peço-te que sejas o guardião de meu filho, τιμωρέειν ἑωυτοῖσι χρηΐζων her. pedindo socorro para seu povo   4   desejar algo, ac., gen. ou inf.: τοῦ μακροῦ χρῄζειν βίου sóf. desejar uma longa vida, εἰ τῶνδε χρῄζεις πλησιαζόντων κλύειν sóf. se desejas me ouvir na presença deles, φράσε... ὅ τι χρῄζεις ar. dize o que tens vontade [de dizer], ἴθ᾽ ὅποι χρῄζεις ar. vai onde desejas ♦ part. χρῄζων   5   que deseja muito; benevolente; favorável: ἢν τὸν θεὸν χρῄζοντ᾽ ἔχῃ eur. se não tem propício o deus, se o deus não lhe é propício ♦ τό χρῇζον   6   o desejo: εἰ γὰρ τὸ χρῇζον ἐπίθετο eur. se conseguisse persuadi-lo de seu desejo.  </def></entryFree><p></p>
+
+<entryFree>χρῄζω2<def> (só pres. e impf.)   1   pronunciar um oráculo   2   predizer.  </def></entryFree><p></p>
+
+<entryFree>χρηΐζω<def>  χρῄζω1.  </def></entryFree><p></p>
+
+<entryFree>χρηίσκομαι<def> (só pres.) se servir de; ter necessidade de, dat. </def></entryFree><p></p>
+
+<entryFree>χρηίσσω<def> fut. jôn. de χρῄζω. </def></entryFree><p></p>
+
+<entryFree>χρῆμα, ατος (τό)<def> 
+1	coisa
+2	coisa; acontecimento; ocorrência
+3	espécie ou espécime; categoria de, gen.
+4	pl. coisas de que se faz uso; posses; bens
+
+1 πάντων χρημάτων μέτρον ἄνθρωπος prot. o homem é a medida de todas as coisas, κοῦφον χρῆμα ποιητής ἐστιν καὶ πτηνὸν καὶ ἱερόν plat. o poeta é algo leve, alado e sagrado τί χρῆμα; ésql. τί τὸ χρῆμα; teócr. que coisa é essa aí? ἐς ἀφανὲς χρῆμα her. por uma coisa incerta
+2 σκοπέειν δὲ χρὴ παντός χρήματος τὴν τελευτὴν κῇ ἀποβήσεται her. em qualquer coisa é preciso considerar o fim, κοῖόν τι χρῆμα ἐποίησας; her. o que fizeste? τί χρῆμα πάσχει; plat. o que acontece? τί χρῆμα ἐπέμψω τὸν ἐμὸν ἐκ δόμων πόδα; eur. por que me fizeste sair de casa?
+3 χρ. θαυμαστὸν γυναικός plut. espécie admirável de mulher, συὸς χρ. μέγα her. um belo exemplar de javali, χρῆμα τῶν θηλειῶν eur. a espécie feminina, as mulheres, τὸ χρῆμα τῶν νυκτῶν ὅσον ar. que coisa longa que são as noites! 
+4 πρόβατα καὶ ἄλλα χρήματα xen. rebanhos e outros bens, τοῖς τε σκεύεσι καὶ τοῖς χρήμασιν ἀποθήκη tuc. depósito para as bagagens e os bens, οἱ τὰ χρήματα ἔχοντες xen. os que têm dinheiro, os ricos, χρήματα λέγομεν πάντα ὅσων ἡ ἀξία νομίσματι μετρεῖται artt. chamamos de bens tudo cujo valor se mede em moeda, χρήμασι νικώμενος tuc. vencido pelo dinheiro, corrupto, τὰ ἱρὰ χρήματα τῆς Ἀθηναίης her. o tesouro sagrado de Atena, χρήματα στρατιωτικά tuc. fundos consagrados à guerra, χρήματα δημόσια xen. fundos públicos. χρημάτων εἰσφορά plat. pagamento de contribuições, χρήματα ἀποτίνειν, τελεῖν, εἰσφέρειν artt. pagar fundos, χρήμασι κολάζειν plat. punir com uma multa. </def></entryFree><p></p>
+
+<entryFree>χρηματίζω<def> (fut. χρεματίσω, át. χρηματιῶ, aor. ἐχρημάτισα, perf. κεχρημάτικα; pas. aor. ἐχρηματίσθην, perf. κεχρημάτισμαι) 
+ativa
+1	ocupar-se de negócios; fazer negócios financeiros ou diplomáticos; negociar; tratar algo, ac., com alguém, dat.
+2	(assembléia) deliberar; decidir
+3	conceder sua atenção a; dar audiência a; escutar, dat.
+4	(oráculo) dar uma resposta; responder 
+5	bíbl. e crist. anunciar a palavra divina; fazer revelações
+6	assumir o nome de; agir ou comportar-se como; assumir-se como
+7	bíbl. dar a alguém, ac., o nome de, ac.
+média
+8	entabular negociações de seu interesse com alguém, dat.
+9	tirar proveito de algo ἀπό, ἐκ e gen.; tirar dinheiro; enriquecer às custas de de alguém, ac. ou ἀπό, ἐκ, παρά e gen.
+10	traficar; fazer comércio de, ac.
+passiva
+11	tornar-se objeto de negociação
+12	bíbl. e crist. receber o aviso de, inf., da parte de, ὑπό e gen.
+
+1 οἱ Ἀθηναίων πρέσβεις ὕστερον ἐφ᾽ ἅπερ ἦλθον χρηματίσαντες tuc. os embaixadores atenienses [voltaram] mais tarde, depois das negociações que tinham motivado sua vinda, ἐν τῇ  Ἰταλίᾳ τισὶ πόλεσιν ἐχρημάτισε περὶ φιλίας τοῖς Ἀθηναίοις tuc. na Itália negociou com algumas cidades a respeito da amizade com os atenienses, οὐδὲν ἐπαύσαντ᾽ ἰδίᾳ χρηματίζοντες dem. não pararam de fazer negociações em particular [com Filipe]
+2 ὅσα δεῖ χρηματίσαι τὴν βουλήν artt. [as questões] sobre as quais o Conselho deve deliberar, χρηματίζειν πρῶτα περὶ Εὐριπίδου ar. deliberar primeiramente sobre Eurípides 
+3 χρ. πρεσβευταῖς pol. conceder audiência aos embaixadores, χρ. ταῖς εὐχαῖς luc. escutar as preces 
+4 περὶ δὲ τῶν χρησμῶν ἔφησε μὴ χρηματίζειν τὸν θεὸν καθόλου περὶ θανάτου d.s. quanto aos oráculos, afirmou que o deus não dava nunca resposta sobre a morte 
+5 ἐπὶ γῆς παραιτησάμενοι τὸν χρηματίζοντα n.t. tendo eles rejeitado aquele que na terra anunciava a palavra divina 
+6 χρηματίζει βασιλεύς pol. assume o título de rei, νέος ∆ιό­νυσος χρημθατίζει d.s. [Ptolomeu] se assume como novo Dio­niso, χρηματίζειν μοιχαλίς n.t. assumir o nome de adúltera 
+7 χρ. τοὺς μαθητὰς Χριστιανούς n.t. dar aos discípulos o nome de cristãos 
+8 ἤθελε ἐς τὰ βασιλήια ἐσελθὼν χρηματίσασθαι τῷ βασιλέι her. desejava entrar no palácio e entabular negociações com o rei 
+9 χρηματίζεσθαι τὸν ἐκ γῆς χρηματισμόν plat. retirar da terra a renda, χρηματίζεσθαι παρὰ τῶν νεωτέρων isócr. tirar dinheiro dos jovens 
+10 χρηματίζεσθαι χρήματα xen. manipular fundos, χρηματίζεσθαι τὸ νόμισμα artt. fazer comércio com o dinheiro
+11 πρᾳότης αὐτοῦ τοῦ τυράννου περὶ ἕκαστα τῶν χρηματιζομένων plut. a cordialidade do próprio tirano em relação a cada um dos temas de negociação
+12 ἐχρηματίσθη ὑπὸ ἀγγέλου ἁγίου μεταπέμψασθαί σε εἰς τὸν οἶκον αὐτοῦ n.t. [Cornélio] recebeu da parte de um santo anjo o aviso de conduzir-te para a casa dele. </def></entryFree><p></p>
+
+<entryFree>χρηματικός, ή, όν<def> 1   que diz respeito ao dinheiro; pecuniário ♦ οἱ χρηματικόι   2   os ricos. 〈χρῆμα〉 </def></entryFree><p></p>
+
+<entryFree>χρημάτισις, εως (ἡ)<def> ação de negociar para enriquecer; ganho; enriquecimento. 〈χρηματίζω〉 </def></entryFree><p></p>
+
+<entryFree>χρηματισμός, οῦ (ὁ)<def> 1   ação de negociar para ganhar dinheiro; comércio; tráfico   2   ganho   3   negociação; discussão   4   audiência dada aos embaixadores   5   instrução; decreto; sentença de juiz   6   pl. documentos de negócios; atas; documentos   7   título; nome; atribuição que se assume. 〈χρηματίζω〉 </def></entryFree><p></p>
+
+<entryFree>χρηματιστέον<def> adj. verb. de χρηματίζω. </def></entryFree><p></p>
+
+<entryFree>χρηματιστήριον, ου (τό)<def> 1   sala de conselho; sala de deliberação   2   lugar de negócios; praça de comércio; mercado   3   sede de um oráculo. 〈χρηματίζω〉 </def></entryFree><p></p>
+
+<entryFree>χρηματιστής, οῦ (ὁ)<def> 1   homem de negócios; negociante; comerciante ♦ adj.   2   de homem de negócios. 〈χρηματίζομαι〉 </def></entryFree><p></p>
+
+<entryFree>χρηματιστικός, ή, όν<def> 1   que diz respeito ao gerenciamento de dinheiro; financeiro; lucrativo  2   que prenuncia dinheiro (oráculo)  3   hábil em fazer negócios (raça)   4   em que se realizam negociações (tenda)   5   de oráculo ♦ οἱ χρηματιστικοί  6   homens de negócios ♦ ἡ χρηματιστική e τὸ χρηματιστικόν   7   arte de ganhar dinheiro. 〈χρηματίζω〉 </def></entryFree><p></p>
+
+<entryFree>χρηματοδαίτης, ου (ὁ)<def> distribuidor de bens. 〈χρῆμα, δαίομαι〉 </def></entryFree><p></p>
+
+<entryFree>χρηματοποιός, ός, όν<def> que proporciona riquezas; que traz dinheiro. 〈χρῆμα, ποιέω〉 </def></entryFree><p></p>
+
+<entryFree>χρημοσύνη, ης (ἡ)<def> carência; necessidade; pobreza. 〈χράω2〉 </def></entryFree><p></p>
+
+<entryFree>χρῆν<def> impf. de χρή. </def></entryFree><p></p>
+
+<entryFree>χρῇς<def> cf. χράω4. </def></entryFree><p></p>
+
+<entryFree>χρῆσαι<def> inf. aor. de χράω1 e  3. </def></entryFree><p></p>
+
+<entryFree>χρησάμενος, η, ον<def> part. aor.1 méd. de χράω.  </def></entryFree><p></p>
+
+<entryFree>χρῆσθα<def> cf. χρή. </def></entryFree><p></p>
+
+<entryFree>χρήσθων<def> 3ª pl. imper. pres. méd. de χράω.  </def></entryFree><p></p>
+
+<entryFree>χρησιμεύω<def> ser útil a alguém, dat., em algo, εἰς ou πρός e ac. 〈χρήσιμος〉 </def></entryFree><p></p>
+
+<entryFree>χρήσιμος, η<def> e ος, ον   1   que tem serventia; útil; proveitoso; vantajoso (coisa) para, πρός, εἰς, κατά, περί e ac., ἐπί e ac. ou dat.   2   utilizado; frequentado (lugar sagrado)   3   útil; benevolente, serviçal (pessoa) ♦ οἱ χρήσιμοι   4   os bons cidadãos ♦ τὸ χρήσιμον   5   utilidade; boa qualidade   6   os bons cidadãos. 〈χρῆσις〉 </def></entryFree><p></p>
+
+<entryFree>χρησίμως<def> adv. com utilidade; com proveito; vantajosamente. </def></entryFree><p></p>
+
+<entryFree>χρῆσις, εως (ἡ)<def> 1   uso; emprego; serventia (de algo)   2   utilidade; vantagem  3   relações; familiaridade; ligações com alguém   4   relacionamento íntimo; relação sexual   5   Ret. uso; emprego de um autor; citação   6   Ret. modo de escrever; estilo. 〈χράω2〉 </def></entryFree><p></p>
+
+<entryFree>χρησμαγόρης, ου (ὁ)<def> aquele que pronuncia oráculos; profeta. 〈χρησμός, ἀγορεύω〉 </def></entryFree><p></p>
+
+<entryFree>χρησμηγορέω-ῶ<def> pronunciar oráculos; predizer o futuro; profetizar. 〈χρησμηγόρος〉 </def></entryFree><p></p>
+
+<entryFree>χρησμηγόρος, ος, ον<def>  χρησμαγόρης. </def></entryFree><p></p>
+
+<entryFree>χρησμολογέω-ῶ<def> pronunciar oráculos; profetizar. 〈χρησμολόγος〉 </def></entryFree><p></p>
+
+<entryFree>χρησμολογία, ας (ἡ)<def> profecia; vaticínio. 〈χρησμολόγος〉 </def></entryFree><p></p>
+
+<entryFree>χρησμολόγος, ος, ον<def> 1   que pronuncia oráculos; profético   2   que interpreta ou explica oráculos   3   com. que comercia oráculos. 〈χρησμός, λέγω〉 </def></entryFree><p></p>
+
+<entryFree>χρησμοποιός, ός, όν<def> que compõe oráculos (em versos). 〈χρησμός, ποιέω〉 </def></entryFree><p></p>
+
+<entryFree>χρησμός, οῦ (ὁ)<def> resposta de oráculo; oráculo.  </def></entryFree><p></p>
+
+<entryFree>χρησμοσύνη, ης (ἡ)<def> 1   carência; indigência; pobreza   2   importunação   3   ajuda. 〈χρησμός〉 </def></entryFree><p></p>
+
+<entryFree>χρησμοφύλαξ, ακος (ὁ)<def> guardião de oráculos pronunciados. 〈χρησμός, φύλαξ〉 </def></entryFree><p></p>
+
+<entryFree>χρησμῳδέω-ῶ<def> (perf. pas. κεχρησμῴδημαι)   1   pronunciar oráculos en versos   2   vaticinar algo, ac., a alguém, dat. ♦ pas.   3   ser pronunciado profeticamente   4   receber uma inspiração profética. 〈χρησμῳδός〉 </def></entryFree><p></p>
+
+<entryFree>χρησμῳδία, ας (ἡ)<def> resposta de um oráculo. 〈χρησμῳδός〉 </def></entryFree><p></p>
+
+<entryFree>χρησμῳδικός, ή, όν<def> relativo aos oráculos; oracular; profético. 〈χρησμῳδός〉 </def></entryFree><p></p>
+
+<entryFree>χρησμῳδός, ός, όν<def> 1   que pronuncia oráculos; que profetisa ♦ ὁ χρησμῳδός   2   adivinho; profeta. 〈χρησμός, ᾄδω〉 </def></entryFree><p></p>
+
+<entryFree>χρῆσται<def> fut. méd. de χρή. </def></entryFree><p></p>
+
+<entryFree>χρηστέον<def> adj. verb. de χράω2. </def></entryFree><p></p>
+
+<entryFree>χρηστεύομαι<def> bíbl. comportar-se como homem de bem. 〈χρηστός〉 </def></entryFree><p></p>
+
+<entryFree>χρηστηριάζω<def> 1   proferir oráculo; profetizar; vaticinar ♦ méd.   2   consultar um oráculo a respeito de algo, περί e gen. ou ἐπί e dat.   3   fazer consulta oracular a (um deus), dat., por meio de (sacrifício), dat. 〈χρηστήριος〉 </def></entryFree><p></p>
+
+<entryFree>χρηστήριος1, α<def> e ος, ον   1   de oráculo; oracular; profético ♦ τὸ χρηστήριον   2   sede de um oráculo   3   resposta de oráculo   4   sacrifício oferecido em consulta ao oráculo. 〈χράω3〉 </def></entryFree><p></p>
+
+<entryFree>χρηστήριος2, α, ον<def> 1   que tem utilidade; de uso ♦ τὰ χρηστήρια   2   utensílios. 〈χράω3〉 </def></entryFree><p></p>
+
+<entryFree>χρήστης, ου (ὁ)<def> 1   credor; usurário   2   devedor. 〈χράω3〉 </def></entryFree><p></p>
+
+<entryFree>χρηστικός, ή, όν<def> 1   que sabe usar; hábil para usar algo, gen. ou dat.   2   bom para ser usado; adequado para o uso; útil. 〈χράω3〉 </def></entryFree><p></p>
+
+<entryFree>χρηστικῶς<def> adv. utilmente. </def></entryFree><p></p>
+
+<entryFree>χρηστογραφία, ας (ἡ)<def> 1   talento para pintar bem   2   boa pintura. 〈χρηστός, γράφω〉 </def></entryFree><p></p>
+
+<entryFree>χρηστοήθης, ης, ες<def> de caráter bom e honesto; de bom temperamento. 〈χρηστός, ἦθος〉 </def></entryFree><p></p>
+
+<entryFree>χρηστολογία, ας (ἡ)<def> bíbl. linguagem gentil. 〈χρηστο­λόγος〉 </def></entryFree><p></p>
+
+<entryFree>χρηστολόγος, ος, ον<def> que fala de maneira gentil. 〈χρηστός, λέγω〉 </def></entryFree><p></p>
+
+<entryFree>χρηστομάθεια, ας (ἡ)<def> 1   estudo das coisas úteis; boa instrução   2   crestomatia; compilação de excertos escolhidos. 〈χρηστομαθής〉 </def></entryFree><p></p>
+
+<entryFree>χρηστομαθής, ής, ές<def> que tem boa e sólida educação. 〈χρηστός, μανθάνω〉 </def></entryFree><p></p>
+
+<entryFree>χρηστός, ή<def> e ός, όν   1   honesto; honrado; corajoso; virtuo- so   2   moralmente bom; de boa posição; de bom nascimento; nobre   3   feliz (fim)   4   benigno; leve (ferimento, mordida)   5   de boa qualidade (alimento)   6   bom; devotado; prestimoso; diligente para com alguém ou algo, dat., περί, ἐπί, εἰς e ac.   7   bonachão; crédulo; ingênuo   8   beneficente; prestativo; obsequioso   9   favorável; propício (sacrifício) ♦ ὁ χρηστός   10   cidadão útil; bom cidadão   11   pl. as pessoas de boa família; os cidadãos importantes ♦ τὰ χρηστά   12   as coisas boas; as coisas honradas   13   os benefícios; os préstimos   14   acontecimentos felizes.  </def></entryFree><p></p>
+
+<entryFree>χρηστότης, ητος (ἡ)<def> 1   boa qualidade; utilidade; serventia   2   bondade; caráter nobre; honestidade   3   bonacheirice; simploriedade; ingenuidade. 〈χρηστός〉 </def></entryFree><p></p>
+
+<entryFree>χρηστοφιλία, ας (ἡ)<def> amizade com pessoas de bem. 〈χρηστόφιλος〉 </def></entryFree><p></p>
+
+<entryFree>χρηστόφιλος, ος, ον<def> que tem amizade com pessoas de bem; que tem bons amigos. </def></entryFree><p></p>
+
+<entryFree>χρηστῶς<def> adv.   1   de modo saudável; de modo prático   2   honestamente; de boa fé; com lealdade   3   bem; convenientemente. </def></entryFree><p></p>
+
+<entryFree>χρῖμα, ατος (τό)<def>  χρίσμα. </def></entryFree><p></p>
+
+<entryFree>χρίμπτω<def> (aor. ἔκριμψα; méd. aor. ἐχριμψάμην, inf. χρίμ­ψασθαι; aor. pas. ἐχρίμφθην, part. χριμφθείς)   1   aproximar-se de; roçar, dat.: αὐδῶ μὴ χρίμπτειν θριγκοῖς  eur. digo que não se aproximem das balaustradas ♦ at. e méd.   2   aproximar (pé, cabeça), ac., de, dat. ou πρός e ac.: πόδας χρίμπτουσα ῥαχίαισι ésql. aproximando o pé dos rochedos ♦ méd. pas.   3   aproximar-se de, dat., gen.: δόμοισι τοῖσδε χρίμπτεσθαι ésql. aproximar-se desse palácio, νεκροθήκης οὐ χριμπτόμενος eur. não se aproximando da urna funerária. </def></entryFree><p></p>
+
+<entryFree>χρῖσις, εως (ἡ)<def> 1   ação de besuntar; leve fricção   2   bíbl.  unção para consagrar   3   camada de gesso ou de argamassa. 〈χρίω〉 </def></entryFree><p></p>
+
+<entryFree>χρῖσμα, ατος (τό)<def> 1   unguento; bálsamo; essência; óleo   2   mistura de gesso ou de cal; argamassa; reboco   3   bíbl.  unção. 〈χρίω〉 </def></entryFree><p></p>
+
+<entryFree>χριστιανισμός, οῦ (ὁ)<def> tard. cristianismo. 〈χριστιανός〉 </def></entryFree><p></p>
+
+<entryFree>χριστιανός, οῦ (ὁ)<def> quem segue o Cristo; cristão. 〈Χριστός〉 </def></entryFree><p></p>
+
+<entryFree>χριστός, ή, όν<def> 1   ungido com óleo; untado levemente; besuntado   2   que recebeu a unção sagrada   3   que serve para ungir ♦ ὁ Χριστός   4   o Cristo; o ungido do Senhor. 〈χρίω〉 </def></entryFree><p></p>
+
+<entryFree>χρίω<def> (fut. χρίσω, aor. ἔχρισα, perf. κέχρικα; pas. fut. χρισ­θήσομαι, aor. ἐχρίσθην, perf. κέχριμαι, tard. κέχρισμαι)   1   friccionar; untar; besuntar: χρῖσόν τ᾽ ἀμβροσίῃ hom. besunta-o de ambrosia, πέπλον ἔχριον sóf. untei a túnica   2   bíbl.  ungir para consagrar; ungir alguém, ac., de (óleo santo), ac.: ἔχρισέν σε ὁ θεὸς ἔλαιον ἀγαλλιάσεως n.t. o deus te ungiu com óleo de alegria, χρίειν τινὰ εἰς βασιλέα ou τοῦ βασιλεύειν sept. ungir alguém para que se torne um rei, dar a alguém a unção real   3   (inseto) ferir de leve; picar ♦ méd.   4   ungir para si; besuntar para si ou em si: ἰοὺς χρίεσθαι χαλκήρεας hom. untar [de veneno] suas flechas de bronze, τὸ σῶμα μίλτῳ χρίονται her. besuntam seus corpos com vermelhão   5   ungir-se; besuntar-se: κάλλει ἀμβροσίῳ οἵῳπερ Κυθέρεια χρίεται hom. da divina beleza com a qual a Citereia se unge.  </def></entryFree><p></p>
+
+<entryFree>χρόα1, ας (ἡ)<def> 1   superfície de um corpo   2   pele (do corpo humano)   3   corpo   4   aparência de corpos celestes   5   aparência superficial   6   coloração da pele   7   Mús. escala cromática. </def></entryFree><p></p>
+
+<entryFree>χρόα2<def> ac. poét. de χρῶς. </def></entryFree><p></p>
+
+<entryFree>χροΐ<def> dat. jôn. e poét. de χρῶς. </def></entryFree><p></p>
+
+<entryFree>χροιά<def> poét. = χροά. </def></entryFree><p></p>
+
+<entryFree>χρόμαδος, ου (ὁ)<def> 1   tremor; estalo   2   estalido.  </def></entryFree><p></p>
+
+<entryFree>χρονίζω<def> (fut. χρονίσω, át. χρονιῶ, aor. ἐχρόνισα, perf. κεχρόνικα, aor. pas. ἐχρονίσθην)   1   passar o tempo em um lugar   2   durar longo tempo; durar   3   persistir; continuar: χρονίζει τοῦτο δρῶν plat. leva tempo fazendo isso   4   demorar; ser lento; adiar ♦ pas.   5   estirar-se; crescer   6   (vinho) avançar em idade; envelhecer   7   prolongar-se: χρονισθέντος τοῦ πολέμου and. prolongando-se a guerra   8   Medic. (doença) tornar-se crônico. 〈χρόνος〉 </def></entryFree><p></p>
+
+<entryFree>χρονικός, ή, όν<def> 1   que concerne ao tempo ou a um período de tempo; cronológico   2   Gram. relativo ao tempo; temporal: χρονικὴ αὔξησις aumento temporal ♦ τὰ χρονι­κά e αἱ χρονικαί   3   crônicas. 〈χρόνος〉 </def></entryFree><p></p>
+
+<entryFree>χρόνιος, α<def> e ος, ον   1   que ocorre depois de muito tempo; que se faz esperar por muito tempo; que esperou muito tempo: ἐλθόντα χρόνιον hom. que chegou depois de muito tempo, χρόνιοι ξυνιόντες tuc. reunindo-se após um longo tempo   2   que dura muito tempo ou há muito tempo; que se prolonga: χρόνιος ἀπών eur. ausente há muito tempo, χρόνιος στρατεία tuc. expedição de longa duração   3   lento; tardo (coisa): χρόνια τὰ τῶν θεῶν eur. as vontades dos deuses tardam para se cumprirem   4   hesitante (pessoa): μή νυν χρόνιοι μέλλετε πράσσειν sóf. não tardeis a agir   5   durável; arraigado: χρόνια νοσήματα hipócr. doenças crônicas   6   durável; eterno ♦ χρόνια adv.   7   após um longo tempo; há muito tempo. 〈χρόνος〉 </def></entryFree><p></p>
+
+<entryFree>χρονιστέον<def> adj. verb. de χρονίζω. </def></entryFree><p></p>
+
+<entryFree>χρονιστός, ή, όν<def> que deve ser prorrogado. 〈χρονίζω〉 </def></entryFree><p></p>
+
+<entryFree>χρονογράφος, ου (ὁ)<def> historiador que compila os fatos em ordem cronológica; autor de crônica. 〈χρόνος, γράφω〉 </def></entryFree><p></p>
+
+<entryFree>χρόνος, ου (ὁ)<def> 
+1	tempo; duração do tempo; o passar do tempo 
+2	duração de um período determinado 
+3	duração da vida; idade
+4	duração exigida por uma ação; prazo; demora;  atraso
+5	período de tempo; época; data
+6	Métr. duração (quantidade) de uma sílaba
+7	Gram. tempo do verbo
+8	o Tempo, person.
+
+1 ὁ πᾶς χρόνος pínd. o tempo inteiro, ὁ μακρὸς κἀναρίθμητος χρόνος sóf. o tempo longo e infinito, χρόνον hom., πολὺν χρόνον, δηρὸν χρόνον, οὐκ ὀλίγον χρόνον hom. durante muito tempo, há muito tempo, εἰς ἅπαντα χρόνον, ἐς τὸ πᾶν χρόνον ésql., ἐς τὸν αἰὲν χρόνον eur. pela eternidade, χρόνῳ ésql., ἐν χρόνῳ ésql., τῷ χρόνῳ ar. com o tempo, χρόνου περιϊόντος ou προβαίνοντος her. com o passar do tempo, πολλοῦ χρόνου ar. há muito tempo, διὰ χρόνου ou οὐ μακροῦ χρόνου sóf. há não muito tempo, τοῦ λοιποῦ χρόνου sóf. no tempo restante 
+2 χρ. βίου eur. duração da vida, χρ. ἥβης eur. duração da juventude, χρ. τρίμηνος sóf. período de três meses, τοῦ ἔτους χρ. xen. duração do ano, ἐν τῷ μαχρῷ ἀνθρώπων χρόνῳ sóf. na longa vida dos homens
+3 χρόνῳ παλαιοί sóf. muito velhos, χρόνῳ μείων sóf. de menos idade, mais jovem 
+4 χρόνου πολλοῦ δέονται xen. exigem muito tempo, χρό­νον ποιεῖν ou ἐμποιεῖν ter atraso, atrasar
+5 ἧ γάρ ποτε χρόνος, ὃτε... plat. havia uma época em que..., οἱ τῆς τριηραρχίας χρόνοι dem. o período de trierarquia, τοῦτον τὸν χρόνον át. nessa época, κατ᾽ ἐκεῖνον τὸν χρό­νον át. por volta desse tempo
+6 αὐτὸ γὰρ τὸ “ὥσπερ νέφος” ἐπὶ μακροῦ τοῦ πρώτου ῥυθμοῦ βέβηκε, τέτρασι καταμετρουμένου χρόνοις long. “ὥσπερ νέφος” ocorre na longa do primeiro pé medindo quatro tempos
+7 τὸ λέγετε ὁριστικόν, ἀλλ’ οὐ τὸ ἄγε λέγετε, ἄγε τύπτεσθε. – τὰ χρονικὰ ἐπιρρήματα συμφωνοῦσαν τοῖς τοῦ ῥήματος χρόνοις ποιεῖται σύνταξιν a.d. o “λέγετε” é indicativo, mas não o “ἄγε λέγετε, ἄγε τύπτεσθε” – os advérbios de tempo combinando-se com os tempos do verbo criam sintaxe
+8 Χρόνος ὁ πάντων πατήρ pínd. o pai de tudo é o tempo.  </def></entryFree><p></p>
+
+<entryFree>χρονοτριβέω-ῶ<def> 1   perder tempo; ser lento; hesitar   2   prolongar; arrastar (a guerra). </def></entryFree><p></p>
+
+<entryFree>χροός<def> gen. jôn. e poét. de χρώς. </def></entryFree><p></p>
+
+<entryFree>χρυσᾶ<def> pl. n. de χρύσεος. </def></entryFree><p></p>
+
+<entryFree>Χρῦσα, ας (ἡ)<def> Crisa, n. de lugar (porto, ilha, localidade) e n. de m. </def></entryFree><p></p>
+
+<entryFree>χρυσαίετος, ου (ὁ<def> e ἡ) águia real.  </def></entryFree><p></p>
+
+<entryFree>χρυσαμοιβός, ός, όν<def> que troca (cadáver), gen., por ouro, epit. de Ares. 〈χρυσός, ἀμείβω〉 </def></entryFree><p></p>
+
+<entryFree>χρυσάμπυξ<def> (masc., fem.)   1   de faixa de ouro   2   de frontal de ouro (cavalo).  </def></entryFree><p></p>
+
+<entryFree>χρυσάνιος<def> dór. = χρυσήνιος. </def></entryFree><p></p>
+
+<entryFree>χρυσάορος, ος, ον<def> de espada de ouro, epít. de divindades. </def></entryFree><p></p>
+
+<entryFree>χρυσαυγής, ής, ές<def> que brilha como ouro; reluzente. </def></entryFree><p></p>
+
+<entryFree>χρυσεῖον, ου (τό)<def> 1   mina de ouro   2   ourivesaria. 〈χρυσός〉 </def></entryFree><p></p>
+
+<entryFree>χρύσειος, α, ον<def> de ouro. 〈χρυσός〉 </def></entryFree><p></p>
+
+<entryFree>χρυσελεφαντήλεκτρος, ος, ον<def> feito ou incrustado de ouro, marfim e cobre. 〈χρυσός, ἐλέφας, ἤλεκτρον〉 </def></entryFree><p></p>
+
+<entryFree>χρυσένδετος, ος, ον<def> incrustado em ouro. 〈χρυσός, ἐνδέω〉 </def></entryFree><p></p>
+
+<entryFree>χρυσεόδμητος, ος, ον<def> feito de ouro. 〈χρύσεος, δέμω〉 </def></entryFree><p></p>
+
+<entryFree>χρυσεόκμητος, ος, ον<def> lavorado em ouro. 〈χρύσεος, κάμνω〉 </def></entryFree><p></p>
+
+<entryFree>χρυσεοκόμης, ου<def> poét. = χρυσοκόμης. </def></entryFree><p></p>
+
+<entryFree>χρύσεος-οῦς, έα-ῆ, εον-οῦν<def> 1   de ouro; em ouro   2   recoberto de ouro; ornado de ouro; dourado   3   da cor do ouro; áureo   4   belo ou precioso como o ouro ♦ ὁ χρυσοῦς   5   moeda de ouro   6   estátua de ouro; peça de ouro. 〈χρυσός〉 </def></entryFree><p></p>
+
+<entryFree>χρυσεοσάνδαλος, ος, ον<def> com sadálias de ouro. 〈χρύσεος, σάνδαλον〉 </def></entryFree><p></p>
+
+<entryFree>χρυσεόστολμος, ος, ον<def> coberto de ouro; decorado com ouro. 〈χρύσεος, στέλλω〉 </def></entryFree><p></p>
+
+<entryFree>χρυσεραστής, οῦ (ὁ)<def> que tem paixão pelo ouro. </def></entryFree><p></p>
+
+<entryFree>Χρύση, ης (ἡ)<def>  Χρῦσα. </def></entryFree><p></p>
+
+<entryFree>χρυσῆ<def> fem. de χρυσοῦς. </def></entryFree><p></p>
+
+<entryFree>Χρυσηΐς, ΐδος (ἡ)<def> filha de Crises; Criseida. 〈Χρύσης〉 </def></entryFree><p></p>
+
+<entryFree>χρυσηλάκατος, ος, ον<def> com a roca de ouro. 〈χρυσός, ἠλακάτη〉 </def></entryFree><p></p>
+
+<entryFree>χρυσήλατος, ος, ον<def> feito em ouro forjado; de ouro. 〈χρυσός, ἐλαύνω〉 </def></entryFree><p></p>
+
+<entryFree>χρυσήνιος, ος, ον<def> com rédeas de ouro, epít. de divindades. 〈χρυσός, ἡνία〉 </def></entryFree><p></p>
+
+<entryFree>χρυσήρης, ης, ες<def> ornado de ouro; decorado com ouro; dourado. </def></entryFree><p></p>
+
+<entryFree>Χρύσης, ου (ὁ)<def> Crises, n. de h.  </def></entryFree><p></p>
+
+<entryFree>χρυσίδιον, ου (τό)<def> 1   pequena moeda de ouro   2   pequena soma de dinheiro (em moedas de ouro)   3   pequeno adorno de ouro   4   pequeno vaso de ouro. 〈χρυσός〉 </def></entryFree><p></p>
+
+<entryFree>χρύσινος, η, ον<def> 1   de ouro ♦ ὁ χρύσινος   2   moeda de ouro. 〈χρυσός〉 </def></entryFree><p></p>
+
+<entryFree>χρυσίον, ου (τό)<def> 1   pedaço de ouro; um pouco de ouro   2   objeto de ouro (taça, vaso)   3   adereço de ouro (jóia, adorno)   4   moeda de ouro   5   soma em ouro   6   valor em ouro; bens; riquezas   7   fio de ouro   8   tesouro, ref. a pessoa: ὦ χρυσίον meu tesouro, minha riqueza. </def></entryFree><p></p>
+
+<entryFree>χρυσίς, ίδος (ἡ)<def> 1   recipiente de ouro   2   vestimenta bordada em ouro   3   calçado bordado em ouro. 〈χρυσός〉 </def></entryFree><p></p>
+
+<entryFree>χρυσῖτις, ιδος (ἡ)<def> 1   recipiente de ouro   2   pó ou minério de ouro.  </def></entryFree><p></p>
+
+<entryFree>χρυσοβαφής, ής, ές<def> tingido em ouro; bordado em ouro. 〈χρυσός, βάπτω〉 </def></entryFree><p></p>
+
+<entryFree>χρυσόγονος, ος, ον<def> nascido do ouro (raça). 〈χρυσός, γίγνομαι〉 </def></entryFree><p></p>
+
+<entryFree>χρυσοδαίδαλτος, ος, ον<def> ricamente decorado em ouro. 〈χρυσός, δαιδάλλω〉 </def></entryFree><p></p>
+
+<entryFree>χρυσοδακτύλιος, α, ον<def> bíbl. que usa um anel de ouro.  </def></entryFree><p></p>
+
+<entryFree>χρυσόδετος, ος<def> e η, ον   1   ligado com ouro; incrustado em ouro   2   ornado de ouro; coberto com ouro. 〈χρυσός, δέω〉 </def></entryFree><p></p>
+
+<entryFree>χρυσοειδής, ής, ές<def> que se assemelha ao ouro; dourado. 〈χρυσός, εἶδος〉 </def></entryFree><p></p>
+
+<entryFree>χρυσόζυγος, ος, ον<def> que tem jugo de ouro. 〈χρυσός, ζυγόν〉 </def></entryFree><p></p>
+
+<entryFree>χρυσόθρονος, ος, ον<def> em trono de ouro. 〈χρυσός, θρόνος〉 </def></entryFree><p></p>
+
+<entryFree>χρυσόκερως, ως, ων<def> que tem chifres de ouro, epít. de Pã. 〈χρυσός, χέρας〉 </def></entryFree><p></p>
+
+<entryFree>χρυσοκόλλητος, ος, ον<def> forjado em ouro; enfeitado com ouro. 〈χρυσός, κολλάω〉 </def></entryFree><p></p>
+
+<entryFree>χρυσοκόμης, ου<def> 1   que tem cabeleira de ouro   2   de cabelos enfeitados de ouro. 〈χρυσός, κόμη〉 </def></entryFree><p></p>
+
+<entryFree>χρυσόκομος, ος, ον<def> 1   de cabelos de ouro   2   de plumas de ouro   3   de pétalas de ouro. </def></entryFree><p></p>
+
+<entryFree>χρυσόλιτος, ου (ὁ)<def> topázio, pedra preciosa. 〈χρυσός, λίθος〉 </def></entryFree><p></p>
+
+<entryFree>χρυσολύρης,<def> dór. χρυσολύρας, -ου (masc.) de lira de ouro, epít. de Apolo e de Orfeu. </def></entryFree><p></p>
+
+<entryFree>χρυσόμαλλος, ος, ον<def> que tem velo de ouro. </def></entryFree><p></p>
+
+<entryFree>χρυσομηλολόνθιον, ου (τό)<def> pequeno escaravelho de ouro. </def></entryFree><p></p>
+
+<entryFree>χρυσομίτρης,<def> dór. χρυσομίτας, ου (masc.)   1   de cinto de ouro   2   de mitra de ouro. </def></entryFree><p></p>
+
+<entryFree>χρυσόνωτος, ο, ον<def> recoberto de ouro. 〈χρυσός, νῶτον〉 </def></entryFree><p></p>
+
+<entryFree>χρυσόπαστος, ος, ον<def> coberto de ouro; incrustado de ouro; enfeitado de ouro. 〈χρυσός, πάσσω〉 </def></entryFree><p></p>
+
+<entryFree>χρυσοπέδιλος, ος, ον<def> que usa calçados de ouro. 〈χρυσός, πέδιλον〉 </def></entryFree><p></p>
+
+<entryFree>χρυσοπήληξ, ηκος<def> (masc., fem.) que tem elmo de ouro. </def></entryFree><p></p>
+
+<entryFree>χρυσοποιός, οῦ (ὁ)<def> ourives. 〈χρυσός, ποιέω〉 </def></entryFree><p></p>
+
+<entryFree>χρυσόπολις, εως (ἡ)<def> planta fictícia, com propriedade de testar o ouro. </def></entryFree><p></p>
+
+<entryFree>χρυσόπρασος, ου (ὁ)<def> bíbl. espécie de pedra preciosa, esverdeada com reflexos dourados. </def></entryFree><p></p>
+
+<entryFree>χρυσόπρυμνος, ος, ον<def> que tem popa de ouro. 〈χρυσός, πρύμνα〉 </def></entryFree><p></p>
+
+<entryFree>χρυσόπτερος, ος, ον<def> que tem asas de ouro. 〈χρυσός, πτέρον〉  </def></entryFree><p></p>
+
+<entryFree>χρυσόροφος, ος, ον<def> que tem teto de ouro. 〈χρυσός, ὄροφος〉 </def></entryFree><p></p>
+
+<entryFree>χρυσόρραπις, ιδος<def> (masc., fem.) que tem vara de ouro, epít. de Hermes.  </def></entryFree><p></p>
+
+<entryFree>χρυσορρόης, ου<def> (masc.) que escorre ouro em suas águas; de correnteza de ouro. 〈χρυσός, ῥέω〉 </def></entryFree><p></p>
+
+<entryFree>χρυσόρρυτος   1   = χρυσορρόης ♦ τὰ χρυσόρρυτα<def> 2   correntes auríferas. 〈χρυσός, ῥέω〉 </def></entryFree><p></p>
+
+<entryFree>χρυσόρυτος, ος, ον<def> nascido da chuva de ouro (Perseu). 〈χρυσός, ῥέω〉 </def></entryFree><p></p>
+
+<entryFree>χρυσός, οῦ (ὁ)<def> 1   ouro: λευκὸς χ. her. ouro branco, liga de ouro e prata   2   adorno de ouro   3   taça de ouro   4   moeda de ouro   5   armadura de ouro ou enfeitada de ouro   6   veste bordada em ouro   7   objeto precioso como ouro; χρυσῷ πάττειν τινά ar. salpicar alguém de ouro, i.e., cobrir alguém de elogios   8   riqueza; tesouro. </def></entryFree><p></p>
+
+<entryFree>χρυσοστέφανος, ος, ον<def> 1   que tem coroa de ouro; coroado de ouro   2   cujo preço é uma coroa de ouro. </def></entryFree><p></p>
+
+<entryFree>χρυσόστροφος, ος, ον<def> feito de fio de ouro torcido; tecido de ouro. 〈χρυσός, στρέφω〉  </def></entryFree><p></p>
+
+<entryFree>χρυσότευκτος, ος, ον<def> feito de ouro; de ouro. 〈χρυσός, τέκτων〉 </def></entryFree><p></p>
+
+<entryFree>χρυσοτόκος, ος, ον<def> quem põe ovos de ouro. 〈χρυσός, τίκτω〉 </def></entryFree><p></p>
+
+<entryFree>χρυσοῦς, ῆ, οῦν<def> contr. de χρύσεος.  </def></entryFree><p></p>
+
+<entryFree>χρυσοφαής, ής, ές<def> que reluz como o ouro. 〈χρυσός, φάος〉 </def></entryFree><p></p>
+
+<entryFree>χρυσοφανής, ής, ές<def> brilhante como o ouro; de cor ou esplendor áureo. 〈χρυσός, φαίνομαι〉 </def></entryFree><p></p>
+
+<entryFree>χρυσοφεγγής, ής, ές<def> reluzente como o ouro. 〈χρυσός, φέγγος〉 </def></entryFree><p></p>
+
+<entryFree>χρυσοφορέω-ῶ<def> 1   usar enfeites de ouro ou roupas bordadas em ouro; levar ouro   2   pagar em ouro (tributo)   3   produzir ouro. 〈χρυσοφόρος〉 </def></entryFree><p></p>
+
+<entryFree>χρυσοφόρος, ος, ον<def> 1   que se veste com roupas de ouro ou que se adorna com ouro   2   que transporta ouro. 〈χρυσός, φέρω〉 </def></entryFree><p></p>
+
+<entryFree>χρυσοφύλαξ, ακος (ὁ, ἡ)<def> guardião do ouro; guardião do tesouro. 〈χρυσός, φύλαξ〉 </def></entryFree><p></p>
+
+<entryFree>χρυσοχάλινος, ος, ον<def> de rédeas de ouro. 〈χρυσός, χαλινός〉 </def></entryFree><p></p>
+
+<entryFree>χρυσόχειρ, χειρος<def> (masc., fem.) com dedos repletos de anéis de ouro. 〈χρυσός, χείρ〉 </def></entryFree><p></p>
+
+<entryFree>χρυσοχοέω-ῶ<def> 1   fundir minerais para extrair ouro; forjar o ouro   2   trabalhar o ouro; ser ourives. 〈χρυσοχόος〉 </def></entryFree><p></p>
+
+<entryFree>χρυσοχόος, όου (ὁ)<def> 1   aquele que derrama o ouro sobre os chifres da vítima   2   aquele que despeja o ouro; forjador   3   ourives. 〈χρυσός, χέω〉 </def></entryFree><p></p>
+
+<entryFree>χρυσόω-ῶ<def> (fut. χρυσώσω; perf. part. pas. κεχρυσωμένος) revestir de ouro; dourar. 〈χρυσός〉 </def></entryFree><p></p>
+
+<entryFree>χρυσωνέω-ῶ<def> trocar ouro. 〈χρυσός, ὠνέομαι〉 </def></entryFree><p></p>
+
+<entryFree>χρυσῶπις, ιδος<def> (masc., fem.) = χρυσωπός.  </def></entryFree><p></p>
+
+<entryFree>χρυσωπός, ός, όν<def> 1   que tem a face ou os olhos de ouro   2   reluzente como o ouro   3   que tem a cor do ouro ♦ ὁ χρυσωπός   4   dourada, peixe. 〈χρυσός, ὤψ〉 </def></entryFree><p></p>
+
+<entryFree>χρυσωρυχέω-ῶ<def> escavar ou explorar uma mina de ouro. 〈χρυσωρύχος〉 </def></entryFree><p></p>
+
+<entryFree>χρυσωρύχος, ος, ον<def> que extrai ouro de mina. 〈χρυσός, ὀρύσσω〉 </def></entryFree><p></p>
+
+<entryFree>χρύσωσις, εως (ἡ)<def> ação de dourar. 〈χρυσόω〉 </def></entryFree><p></p>
+
+<entryFree>χρυσωτής, οῦ (ὁ)<def> dourador. 〈χρυσόω〉 </def></entryFree><p></p>
+
+<entryFree>χρῶ<def> imper. pres. méd. contr. χράω. </def></entryFree><p></p>
+
+<entryFree>χρῷ<def> dat. át. de χρώς. </def></entryFree><p></p>
+
+<entryFree>χρώζω<def> (fut. χρώσω, aor. ἔχρωσα; pas. aor. ἐχρώσθην, perf. κέχρωσμαι)   1   tocar a superfície de; roçar; tocar (joelhos)   2   abraçar os joelhos como suplicante; suplicar   3   tingir; colorir   4   manchar ♦ méd.   5   tingir; colorir ♦ pas.   6   Medic. ser infectado. 〈χρώς〉 </def></entryFree><p></p>
+
+<entryFree>χρῶμα, ατος (τό)<def> 1   superfície de um corpo   2   superfície do corpo humano; pele   3   cor da pele; tez   4   cor natural   5   cor artificial; tintura   6   Bot. curcuma   7   Ret. colorido; ornamento do estilo   8   Mús. modulação   9   Mús. melodia   10   Mús. escala cromática. 〈χρώννυμι〉 </def></entryFree><p></p>
+
+<entryFree>χρωματικός, ή, όν<def> 1   Ret. colorido; florido (estilo) ♦ τὸ χρωματικόν   2   Mús. tipo cromático (série de semitons). 〈χρῶμα〉 </def></entryFree><p></p>
+
+<entryFree>χρώννυμι<def> (só pres.) colorir; tingir. </def></entryFree><p></p>
+
+<entryFree>χρώς, χρωτός<def> dat. át. χρῷ, dat. jôn. χροΐ (τό)   1   pele: ἐν χροῒ κείρεσθαι her. ser tosado rente à pele   2   carne   3   corpo   4   cor da pele; tez: χρὼς τρέπεται hom. sua cor muda, i.e., ele muda de cor, φεῦγε δ᾽ ἄπο χρώς teócr. a cor o abandonava, i.e., ele empalidecia   5   cor (do sangue)   6   superfície: ἐν χρῷ τοῦ θώρακος plut. na superfície da couraça ♦ ἐν χρῷ e ἐν χροΐ   7   rente: ἐν χρῷ παραπλεῖν tuc. navegar rente à margem, ἐν χρῷ τῆς γῆς luc. rente à terra, ἐν χρῷ μάχην συνάπτειν plut. travar um combate de perto, partir para as vias de fato, ἡ ἐν χρῷ συνουσία luc. união íntima. </def></entryFree><p></p>
+
+<entryFree>χρωτίζω<def> at. e méd. colorir; tingir. </def></entryFree><p></p>
+
+<entryFree>Χτησιφών, ῶντος (ὁ)<def> Ctesifão, n. de h. </def></entryFree><p></p>
+
+<entryFree>χυδαῖος, ος, ον<def> 1   derramado por todos os lados; espalhado; abundante   2   comum; vulgar; trivial. 〈χύδην〉 </def></entryFree><p></p>
+
+<entryFree>χύδην<def> adv.   1   em quantidade; em abundância   2   confusamente; em desordem   3   em linguagem corrente; em prosa.  </def></entryFree><p></p>
+
+<entryFree>χυλός, οῦ (ὁ)<def> 1   sumo; seiva (de planta)   2   substância (do corpo)   3   Medic. suco da digestão; quilo   4   suco de alimentos; suco nutritivo   5   infusão; maceração   6   gosto; sabor. 〈χέω〉  </def></entryFree><p></p>
+
+<entryFree>χυλόω-ῶ<def> 1   extrair, espremendo, o suco de (maçã), ac. ♦ pas.   2   tornar-se suco ou sumo. 〈χυλός〉 </def></entryFree><p></p>
+
+<entryFree>χύλωσις, εως<def> (ἡ)  1   Medic. ação de converter em quilo   2   Medic. decocção. 〈χυλόω〉 </def></entryFree><p></p>
+
+<entryFree>χύμενος<def> part. aor. pas. ép. de χέω. </def></entryFree><p></p>
+
+<entryFree>χυμός, οῦ (ὁ)<def> 1   suco; sumo; seiva de plantas   2   líquido; humor (do corpo)   3   molho ou caldo de carne   4   sabor; gosto   5   alimento suculento. </def></entryFree><p></p>
+
+<entryFree>χύντο<def> 3ª pl. aor. pas. poét. de χέω. </def></entryFree><p></p>
+
+<entryFree>χύσις, εως (ἡ)<def> 1   derramamento; escoamento; efusão (de líquido)   2   expansão; dissipação (de vapor)   3   abundância (de folhas, de pão)   4   difusão; disseminação de uma epidemia   5   fluência de palavras.  </def></entryFree><p></p>
+
+<entryFree>χύτλον, ου (τό)<def> 1   água para banho   2   pl. libações   3   água corrente. </def></entryFree><p></p>
+
+<entryFree>χυτλόω-ῶ<def> (aor. ἐκύτλωσα, aor. méd. ἐχυτλωσάμην) at. e méd.   1   banhar; lavar ♦ méd.   2   lavar   3   besuntar-se de óleo após o banho   4   Medic. friccionar-se com emulsão de óleo e água. 〈χύτλον〉 </def></entryFree><p></p>
+
+<entryFree>χύτο<def> 3ª sing. aor.2 méd. ép. de χέω. </def></entryFree><p></p>
+
+<entryFree>χυτός, ή, όν<def> 1   despejado; derramado   2   fundido; derretido; fluido   3   que se pode fundir; fundível   4   amontoado (terra)   5   formado de terra amontoada (porto)   6   que se estende ao longe; que se propaga   7   esvoaçante (cabeleira)   8   pl. que se espalham ou se deslocam em massa (peixes) ♦ οἱ χυτοί   9   diques. 〈χέω〉 </def></entryFree><p></p>
+
+<entryFree>χύτρα, ας (ἡ)<def> 1   panela de argila; marmita: χύτραν ποι­κίλλειν ar. pintar uma marmita, i.e., fazer um trabalho inútil   2   pl. mercado de cerâmica. 〈χέω〉 </def></entryFree><p></p>
+
+<entryFree>χυτρεύς, έως (ὁ)<def> oleiro. 〈χύτρα〉 </def></entryFree><p></p>
+
+<entryFree>χυτρίδιον, ου (τό)<def> pequena vasilha de cerâmica. 〈χύτρα〉 </def></entryFree><p></p>
+
+<entryFree>χυτρίς, ίδος (ἡ)<def> vasilha de cerâmica; marmita. 〈χύτρα〉 </def></entryFree><p></p>
+
+<entryFree>χυτρόπους, -ποδος (τό)<def> 1   pote ou panela de cerâmica com pés; caldeirão   2   base para um caldeirão. 〈χύτρα, πούς〉 </def></entryFree><p></p>
+
+<entryFree>χύτρος, ου (ὁ)<def> 1   vasilha de cerâmica; marmita ♦ οἱ Χύτροι   2   Festa das Marmitas, 3º dia das Antestérias, em que eram oferecidas a Dioniso e a Hermes marmitas repletas de legumes cozidos   3   Marmitas, fontes termais nas Termópilas. </def></entryFree><p></p>
+
+<entryFree>χυτροτομέω-ῶ<def> ridicularizar; zombar. 〈χύτρα, τέμνω〉 </def></entryFree><p></p>
+
+<entryFree>χὡ<def> crase de καὶ ὁ.  </def></entryFree><p></p>
+
+<entryFree>χᾡ<def> crase de καὶ οἱ. </def></entryFree><p></p>
+
+<entryFree>χῳ΅<def> crase de καὶ ᾥ. </def></entryFree><p></p>
+
+<entryFree>χώεο<def> 2ª sing. imper. pres., χώετο 3ª sing. impf. ép. de χώομαι.  </def></entryFree><p></p>
+
+<entryFree>χωλεία, ας (ἡ)<def> o mancar; o claudicar; claudicação. 〈χωλεύω〉 </def></entryFree><p></p>
+
+<entryFree>χωλεύω<def> 1   tornar manco; aleijar   2   intr. ser manco; mancar ♦ pas.   3   ser ou tornar-se coxo; coxear   4   estar enfermo. 〈χωλός〉 </def></entryFree><p></p>
+
+<entryFree>χωλοποιός, ός, όν<def> o que torna manco; que faz coxear. 〈χωλός, ποιέω〉 </def></entryFree><p></p>
+
+<entryFree>χωλός, ή, όν<def> 1   coxo; manco   2   estropiado: χ. τὴν χεῖρα eup. maneta, χεῖρα χωλὴν ἔχειν hipócr. ter a mão deformada   3   defeituoso; imperfeito; vacilante. </def></entryFree><p></p>
+
+<entryFree>χωλότης, ητος (ἡ)<def> o coxear; claudicação. 〈χωλός〉 </def></entryFree><p></p>
+
+<entryFree>χῶμα, ατος (τό)<def> 1   amontoado de terra (colocado junto aos muros de uma cidade sitiada); aterro   2   dique   3   quebra-mar; molhe   4   promontório de areia; duna   5   amontoado de terra (sobre uma tumba); túmulo   6   bloco de terra (com raízes); torrão   7   monte de ruínas; escombros. 〈χώννυμι〉 </def></entryFree><p></p>
+
+<entryFree>χῶν<def> part. pres. de χόω. </def></entryFree><p></p>
+
+<entryFree>χωνεύω<def> 1   fundir ♦ at. e méd.   2   fabricar com metal fundido.  </def></entryFree><p></p>
+
+<entryFree>χώνη, ης (ἡ)<def> contr. de χοάνη. </def></entryFree><p></p>
+
+<entryFree>χώννυμι<def> (pres. e impf. at.; fut. pas. 3ª sing. χωσθήσεται)   1   amontoar terra ou areia: χῶμα ou χώματα χ. át. construir um dique, χ. τάφον, τύμβον, χῶμα erguer um túmulo de terra amontoada   2   encher de terra; acumular terra em, ac. 〈χόω〉  </def></entryFree><p></p>
+
+<entryFree>χὦνπερ<def> crase poét. de καὶ ὥνπερ. </def></entryFree><p></p>
+
+<entryFree>χώομαι<def> (fut. χώσομαι, aor. ἐχωσάμην, perf. desus.) estar contrariado; irritar-se; zangar-se contra alguém, gen., περί e gen., por causa de algo ou alguém, ac. ou περί e dat.: χ. θυμόν ou θυμῷ irritar-se no fundo do coração, χ. κῆρ, κηρόθι irritar-se em seu coração. </def></entryFree><p></p>
+
+<entryFree>χὦπῃ<def> crase καί ὃπῃ. </def></entryFree><p></p>
+
+<entryFree>χὠπόσος<def> crase poét. de καὶ ὁπόσος. </def></entryFree><p></p>
+
+<entryFree>χωπόταν<def> crase de καὶ ὁπόταν. </def></entryFree><p></p>
+
+<entryFree>χὤπου<def> crase poét. de καὶ ὅπου. </def></entryFree><p></p>
+
+<entryFree>χὤπως<def> crase poét. de καὶ ὅπως. </def></entryFree><p></p>
+
+<entryFree>χώρα, ας,<def> jôn. χώρη, ης (ἡ)   1   espaço de terra situado entre dois objetos; intervalo: οὐδέ τι πολλὴ χώρη μεσσηγύς hom. não há no meio uma grande extensão de terra   2   local; lugar: ὀλίγῃ ἐνὶ χώρῃ hom. em um espaço estreito   3   lugar marcado: ἐν χώρῃ ἕζεσθαι hom. sentar-se em seu lugar   4   Mil. lugar designado para um soldado; posto: χώραν ἔχειν xen. ocupar o seu posto   5   lugar ou posição que se ocupa na vida; situação; condição: ἀνδραπόδων χώρᾳ εἶναι xen. ser reduzido à condição de escravo   6   país; região; terra: ἡ χώρη ἡ Ἁττική her. a Ática, ὁ τόπος τῆς χώρας plat. a topografia da região   7   a região da Ática   8   pátria   9   chão; solo; terra: τὰ ἐκ τῆς χώρας tuc. os produtos da terra   10   campo (op. a cidade): ἡ πόλις καὶ ἡ χώρα lic. a cidade e o campo. </def></entryFree><p></p>
+
+<entryFree>χωρέω-ῶ<def> (fut. χωρήσω e χωρήσομαι, aor. ἐχώρησα, perf. κεχώρηκα)   1   retirar-se; recuar; afastar-se de algo, gen. com ou sem prep., ou diante de alguém, dat.: ἐχώρησαν πάλιν αὖτις hom. recuaram novamente, Ἀργεῖοι δὲ νεῶν μὲν ἐχώρησαν hom. os argivos distanciaram-se dos navios, νηῶν ἄπο ἑχώρησαν hom. distanciaram-se dos navios, οὐδ᾽ ἂν Ἀχιλλῆι χωρήσειεν hom. não recuava nem diante de Aquiles   2   andar; ir em frente: ἀλλὰ χωρῶμεν sóf. vamos, avante! πάντα χωρεῖ καὶ οὐδὲν μένει plat. tudo anda e nada permanece imóvel, χ. πρὸς ἔργον sóf. pôr mãos à obra, entrar em ação   3   ir: χ. ἐς δαῖτα eur. ir a um jantar, Κεκροπίαν χθόνα χώρει eur. vai ao país de Cécrops, τὰ τοξεύματα ἐχώρει διὰ τῶν ἀσπίδων xen. os dardos atravessavam os escudos, χωροῖς ἂν εἴσω sóf. entra, por favor   4   progredir; avançar: νὺξ ἐχώρει ésql. a noite avançava, πῶς οὖν χωρεῖ τοὔργον; ar. como anda o trabalho? τὰ πράγματα χωρεῖ κατὰ λόγον pol. os negócios desenvolvem-se normalmente   5   ter capacidade de receber; conter; compreender, ac.: χωρέων ἀμφορέας ἑξακοσίους her. [cratera] que contém seiscentas ânforas   6   abarcar pelo pensamento; compreender   7   ser capaz de, inf.   8   impes. haver lugar: ὅταν μηκέτι χωρῇ αὐταῖς ἐργαζομέναις artt. quando [as abelhas] não têm mais espaço suficiente para seu trabalho. 〈χῶρος〉 </def></entryFree><p></p>
+
+<entryFree>χώρη<def> jôn. = χώρα. </def></entryFree><p></p>
+
+<entryFree>χωρητικός, ή, όν<def> capaz de conter. 〈χωρητός〉 </def></entryFree><p></p>
+
+<entryFree>χωρητός, ή, όν<def> compreensível; inteligível. 〈χωρέω〉 </def></entryFree><p></p>
+
+<entryFree>χωρίδιον, ου (τό)<def> dim. de χωρίον. </def></entryFree><p></p>
+
+<entryFree>χωρίζω<def> (fut. χωρίσω, át. χωριῶ, aor. ἐχώρισα; pas. aor. ἐχωρίσθην, perf. κεχώρισμαι)   1   colocar à parte algo, ac.; separar uma coisa, ac., da outra, gen. ou ἀπό e gen.: χ. τὴν ψυχὴν τοῦ σώματος plat. separar a alma do corpo   2   distinguir: χωρίζειν ἡδύ τε καὶ δίκαιον plat. distinguir o agradável e o justo, χ. ἀλλήλων λόγους eur. distinguir os discursos uns dos outros ♦ pas.   3   ser afastado; ser distanciado de, gen.   4   separar-se; afastar-se de algo ou alguém, ἀπό e gen.: εἰς Συρακούσας ἐχωρίσθη d.s. ele se foi para Siracusa   5   desligar-se de; romper com alguém, ἐπί e gen.   6   ser diferente de; distinguir-se de, gen., dat. ou ἀπό e gen.: γνῶμαι κεχωρισμέναι her. opiniões divergentes   7   manter-se afastado de; abster-se de; ser estranho a, gen. 〈χωρίς〉 </def></entryFree><p></p>
+
+<entryFree>χωρίον, ου (τό)<def> 1   lugar; local; região   2   Geom. espaço; superfície; área   3   região; país   4   casa de campo   5   campo; jardim   6   passagem de um livro   7   Medic. parte do corpo   8   mercado   9   Mil. praça forte   10   período da história. 〈χῶρος〉 </def></entryFree><p></p>
+
+<entryFree>χωρίς<def> adv.   1   à parte; em particular; separadamente: χίλια τάλαντα χ. θέσθαι tuc. pôr em separado mil talentos   2   diferentemente: χ. τό τ᾽ εἶναι καὶ τὸ μὴ νομίζεται sóf. o ser e o não-ser são considerados duas coisas diferentes ♦ prep. com gen.   3   separadamente de; à parte de; fora de: ἔα πόλεμον μάχαν τε πᾶσαν χ. ἀθανάτων pínd. deixa a guerra e toda batalha à parte dos imortais, χ. ὀμμάτων ἐμῶν eur. fora de minha vista   4   sem: χ. Ζηνός sóf. sem a ajuda de Zeus, πόνου τοι χ. οὐδὲν εὐτυχεῖ sóf. nada tem êxito sem dificuldade   5   diferentemente de: χ. δήπου σοφία ἐστὶν ἀνδρείας plat. a sabedoria é seguramente diferente da bravura   6   indepedentemente de; além de: χ. τῶν τε Αἰγυπτίων ἔργων καὶ τῶν Βαβυλωνίων her. além das obras egípcias e babilônias, χ. τοῦ φόρου her. independentemente do tributo.  </def></entryFree><p></p>
+
+<entryFree>χωρισμός, οῦ (ὁ)<def> 1   separação   2   secreção   3   separação; distanciamento   4   isolamento. 〈χωρίζω〉 </def></entryFree><p></p>
+
+<entryFree>χωριστός, ή, όν<def> 1   separável; alienável   2   que existe separadamente; separado; abstrato. 〈χωρίζω〉 </def></entryFree><p></p>
+
+<entryFree>χωρίτης, ου (ὁ)<def> 1   habitante do país; habitante da região   2   camponês; aldeão. 〈χώρα〉 </def></entryFree><p></p>
+
+<entryFree>χωριτικός, ή, όν<def> do campo; rústico; rural. 〈χωρίτης〉 </def></entryFree><p></p>
+
+<entryFree>χωριτικῶς<def> adv. rusticamente; de modo grosseiro. </def></entryFree><p></p>
+
+<entryFree>χωρίτις, ιδος (ἡ)<def> camponesa; aldeã. </def></entryFree><p></p>
+
+<entryFree>χωροθεσία, ας (ἡ)<def> situação geográfica de um país. 〈χώρα, τίθημι〉 </def></entryFree><p></p>
+
+<entryFree>χῶρος, ου (ὁ)<def> 1   espaço; local; lugar   2   país; região   3   campo ♦ Χῶρος   4   bíbl. o vento de noroeste.  </def></entryFree><p></p>
+
+<entryFree>χὡς<def> crase de καὶ ὡς. </def></entryFree><p></p>
+
+<entryFree>χώσατο<def> 3ª sing. aor. ép. de χώομαι. </def></entryFree><p></p>
+
+<entryFree>χώσεται<def> 3ª sing. subj. aor. de χώομαι. </def></entryFree><p></p>
+
+<entryFree>χῶσις, εως (ἡ)<def> 1   amontoamento de terra   2   construção de dique   3   construção de quebra-mar. 〈χώννυμι〉 </def></entryFree><p></p>
+
+<entryFree>χώσομαι<def> 1   fut. de χώομαι   2   fut. méd de χόω e χώννυμι. </def></entryFree><p></p>
+
+<entryFree>χὤσους<def> crase de καὶ ὅσους. </def></entryFree><p></p>
+
+<entryFree>χὤσπερ<def> crase poét. de καὶ ὥσπερ. </def></entryFree><p></p>
+
+<entryFree>χὤταν<def> crase poét. de καὶ ὅταν. </def></entryFree><p></p>
+
+<entryFree>χὤτι<def> crase poét. de καὶ ὅτι. </def></entryFree><p></p>
+
+<entryFree>χὤτε<def> crase poét. de καὶ ὅτε. </def></entryFree><p></p>
+
+  </body>
+ </text>
+</TEI>

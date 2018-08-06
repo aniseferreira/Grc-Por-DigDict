@@ -1,0 +1,1011 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="pt">
+    <teiHeader type="text" xml:lang="pt">
+        
+        
+        <fileDesc>
+            <titleStmt>
+                <title>Dicionário Grego-Português- Letra Ω, versão 1.0 </title>
+                <author>Autores da versão impressa: <lb></lb>
+                    
+                    <name>MALHADAS, D. ; DEZOTTI, M. C.C. ; NEVES, M. H. de M. ; DUARTE, A. S. ; FERREIRA, Anise D'O. ; PRADO, Anna. Lia. A. A. ; FERAL, Claudia R. ; MORAIS, C. B. ; ROSA, Edvanda. B. ; SANTOS, Fernando. B. ; STARZYNSKI, G. M. R. ; ONELLEY, G. B. ; STARLING, M. A. P. A. ; PESSANHA, N. M. ; DAMASCENO, S. ; BARBOSA, T. V. R. </name>
+                    Responsável pela edição digital:<name> Anise D'Orange Ferreira.</name></author>
+                <author><name> Edição digital: Atribuição-NãoComercial-CompartilhaIgual 4.0 Internacional</name></author>
+                <!--CC BY-NC-SA. Edição impressa, vols 1 a 5: Editora  Ateliê:
+                        http://www.atelie.com.br/livro/especial-dicionario-grego-portugues--> 
+                
+                
+                
+                
+                <editor>Organizadores/coordenadores:  Malhadas, Daisi; Neves, M.H.M e Dezotti, Maria Celeste C. </editor>
+                <principal>
+                    <name>Responsável pela edição eletrônica: Anise D'Orange Ferreira, FCLAr, UNESP</name></principal>
+                <sponsor> Financiado por _____ </sponsor>
+                <respStmt>
+                    <resp> editado por </resp>  
+                    <name> Nome do editor </name>
+                </respStmt>   
+                <respStmt>
+                    <resp> Colaboradores</resp>  
+                    <name> Fulano </name>
+                    <!-- pode haver tantos resp quantos necessários no statement de responsabilidades, dependendo do tipo de participação)-->
+                    
+                </respStmt>
+            </titleStmt>
+            
+            <publicationStmt>
+                <publisher>Ateliê</publisher>
+                <pubPlace>São Paulo</pubPlace>
+                <distributor> Pessoa ou agência responsável pela distribuição</distributor>
+                <authority>Responsável, agência ou pessoa, para disponibilizar, sem ser o distribuidor ou editora</authority>
+                <date>  2005-2010</date>
+                <idno type="ISBN" >vol 1: 8574803278; vol 2: 9788574803845; vol 3: 9788574803845; vol 4: 9788574804323; vol 5 : 9788574804 </idno>
+                
+                <availability status="restricted">
+                    <!--<licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/"> Atribuição-NãoComercial-CompartilhaIgual 
+CC BY-NC-SA
+                    </licence>-->
+                    <p>Edição digital: Licença Creative Commons http://creativecommons.org/licenses/by-nc-sa/4.0/. Edição impressa: Ateliê Editorial: http://www.atelie.com.br</p>
+                    
+                </availability>
+                
+            </publicationStmt>
+            <sourceDesc>
+                <!-- origem da publicação - se não for 'born digital', colocar a fonte - Acho que aqui vou colocar as referências a todos os volumes usando listBbl--> 
+                <bibl default="false">
+                    <lb></lb>
+                    Dicionário Grego-Português vol.1, vol.2, vol.3, vol.4 e vol.5
+                    DEZOTTI, M. C.C. ; MALHADAS, D. ; Neves, M. H. de M. ; Prado, A. L. A. A. ; SANTOS, F. B. ; ROSA, E. B. ; DUARTE, A. S. ; FERREIRA, A. A. G. D. ; Barbosa, T. V. R. ; Pessanha, N. M. ; Damasceno, S. ; Morais, C. B. ; Onelley, G. B. ; et al. . (da equipe de autores) In Neves, Dezotti e Malhadas (coords) Dicionario grego-português. Vol. 5. 1. ed. São Paulo: Atelie, 2010. v. 1. 296p .
+                    
+                    <lb></lb>
+                    MALHADAS, D. ; DEZOTTI, M. C.C. ; Neves, M. H. de M. ; DUARTE, A. S. ; FERREIRA, A. A. G. D. ; Prado, A. L. A. A. ; FERAL, C. ; Morais, C. B. ; ROSA, E. B. ; SANTOS, F. B. ; Starzynski, G. M. R. ; Onelley, G. B. ; Starling, M. A. P. A. ; Pessanha, N. M. ; Damasceno, S. ; Barbosa, T. V. R. . (da equipe de autores) In Daisi Malhadas, Maria Celeste C. Dezotti (coords) Dicionário grego-português vol.4. 1. ed. São Paulo: Ateliê Editorial, 2009. v. 5. 191p .
+                    
+                    <lb></lb>
+                    MALHADAS, D. ; DEZOTTI, M. C.C. ; Neves, M. H. de M. ; DUARTE, A. S. ; FERREIRA, A. A. G. D. ; Prado, A. L. A. A. ; FERAL, C. ; Morais, C. B. ; ROSA, E. B. ; SANTOS, F. B. ; Starzynski, G. M. R. ; Onelley, G. B. ; Starling, M. A. P. A. ; Pessanha, N. M. ; Damasceno, S. ; Melo, S. T. M. ; Barbosa, T. V. R. . (da Equipe de autores) In Daisi Malhadas, Maria Celeste C. Dezotti (coords) Dicionário grego-português vol. 3. 1. ed. São Paulo, SP: Atelier Editorial, 2008. v. 1. 260p .
+                    
+                    <lb></lb>
+                    MALHADAS, D. ; DEZOTTI, M. C.C. ; FERREIRA, A. A. G. D. ; AUTORES-TOTAL 17 . (da Equipe de autores) In Daisi Malhadas, Maria Celeste C. Dezotti e Neves, M.H. (coords) Dicionário grego-português vol. 2.. 1a. ed. São Paulo: Ateliê, 2007. v. vol.2. 272p .
+                    
+                    <!-- bibl (bibliographic citation) contains a loosely-structured bibliographic citation of which the sub-components may or may not be explicitly tagged.
+biblFull (fully-structured bibliographic citation) contains a fully-structured bibliographic citation, in which all components of the TEI  le description are present. 
+biblStruct (structured bibliographic citation) contains a structured bibliographic citation, in which only bibliographic sub-elements appear and in a speci ed order. 
+listBibl (citation list) contains a list of bibliographic citations of any kind.
+msDesc (manuscript description) contains a description of a single identi able manuscript or other text-bearing object.  --> 
+                    <title>Dicionário Grego-Português</title>
+                    <author>MALHADAS, D. ; DEZOTTI, M. C.C. ; Neves, M. H. de M. ; DUARTE, A. S. ; FERREIRA, A. A. G. D. ; Prado, A. L. A. A. ; FERAL, C. ; Morais, C. B. ; ROSA, E. B. ; SANTOS, F. B. ; Starzynski, G. M. R. ; Onelley, G. B. ; Starling, M. A. P. A. ; Pessanha, N. M. ; Damasceno, S. ; Barbosa, T. V. R. . </author>
+                    <editor role="editor">Ateliê Editorial</editor>
+                    <pubPlace>São Paulo</pubPlace>
+                    <date>volumes 1 a 5: 2006-2010</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        
+        <profileDesc>
+            <langUsage>
+                <language ident="en">English
+                </language><language ident="greek">Greek
+                </language><language ident="la">Latin
+                </language><language ident="fr">French
+                </language><language ident="pt">Portuguese</language>
+            </langUsage>
+            
+        </profileDesc>
+        <encodingDesc> 
+            <tagsDecl>
+                <rendition xml:id="FontRoman" scheme="css">font-family: serif
+                </rendition>
+                
+            </tagsDecl>
+            
+        </encodingDesc>
+        
+        <revisionDesc> 
+            <!-- ppode-se inserir tantos changes quantos necessários-->
+            <change when= "2015-10-04" who="Anise"> Conversão para txt, início da etiquetagem do header</change>
+            <change when="2016-01-15" who="Anise D'Orange Ferreira">Complementação do header</change>
+        </revisionDesc>
+        
+        
+        
+    </teiHeader>
+    <text>
+        
+        <body> 
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="pt">
+    
+    <teiHeader type="text" xml:lang="pt">
+        
+        
+        <fileDesc>
+            <titleStmt>
+                <title>Dicionário Grego-Português- Demo com a Letra Ω, versão 1.0 </title>
+                <author>Autores da versão impressa:
+                    
+                 <name>MALHADAS, D. ; DEZOTTI, M. C.C. ; NEVES, M. H. de M. ; DUARTE, A. S. ; FERREIRA, Anise D'O. ; PRADO, Anna. Lia. A. A. ; FERAL, Claudia R. ; MORAIS, C. B. ; ROSA, Edvanda. B. ; SANTOS, Fernando. B. ; STARZYNSKI, G. M. R. ; ONELLEY, G. B. ; STARLING, M. A. P. A. ; PESSANHA, N. M. ; DAMASCENO, S. ; BARBOSA, T. V. R. </name>
+                    <lb/>Responsável pela edição digital:<name> Anise D'Orange Ferreira</name>
+                     Edição digital: Atribuição-NãoComercial-CompartilhaIgual 4.0 Internacional
+                </author>
+                <!--CC BY-NC-SA. Edição impressa, vols 1 a 5: Editora  Ateliê:
+                        http://www.atelie.com.br/livro/especial-dicionario-grego-portugues-->                       
+                
+                <editor>Organizadores/coordenadores:  Malhadas, Daisi; Neves, M.H.M e Dezotti, Maria Celeste C. </editor>
+                <principal>
+                    <name>Responsável pela edição eletrônica: Anise D'Orange Ferreira, FCLAr, UNESP</name></principal>
+                <sponsor> Financiado por _____ </sponsor>
+                <respStmt>
+                    <resp> editado por </resp>  
+                    <name> Nome do editor </name>
+                </respStmt>   
+                <respStmt>
+                    <resp> Colaboradores</resp>  
+                    <name> Fulano </name>
+                    <!-- pode haver tantos resp quantos necessários no statement de responsabilidades, dependendo do tipo de participação)-->
+                    
+                </respStmt>
+            </titleStmt>
+            
+            <publicationStmt>
+                <publisher><name>Ateliê</name></publisher>
+                <pubPlace>
+                    <name>São Paulo</name></pubPlace>
+                <distributor> Pessoa ou agência responsável pela distribuição</distributor>
+                <authority>Responsável, agência ou pessoa, para disponibilizar, sem ser o distribuidor ou editora</authority>
+                <date>  2005-2010</date>
+                <idno type="ISBN" >vol 1: 8574803278; vol 2: 9788574803845; vol 3: 9788574803845; vol 4: 9788574804323; vol 5 : 9788574804 </idno>
+                
+                <availability status="free">
+                    <!--<licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/"> Atribuição-NãoComercial-CompartilhaIgual 
+CC BY-NC-SA
+                    </licence>-->
+                    <p>Edição digital: Licença Creative Commons http://creativecommons.org/licenses/by-nc-sa/4.0/. Edição impressa: Ateliê Editorial: http://www.atelie.com.br</p>
+                    
+                </availability>
+                
+            </publicationStmt>
+            <sourceDesc>
+                <!-- origem da publicação - se não for 'born digital', colocar a fonte - Acho que aqui vou colocar as referências a todos os volumes usando listBbl--> 
+                <bibl default="false">
+                    <lb></lb>
+                    Dicionário Grego-Português vol.1, vol.2, vol.3, vol.4 e vol.5
+                    DEZOTTI, M. C.C. ; MALHADAS, D. ; Neves, M. H. de M. ; Prado, A. L. A. A. ; SANTOS, F. B. ; ROSA, E. B. ; DUARTE, A. S. ; FERREIRA, A. A. G. D. ; Barbosa, T. V. R. ; Pessanha, N. M. ; Damasceno, S. ; Morais, C. B. ; Onelley, G. B. ; et al. . (da equipe de autores) In Neves, Dezotti e Malhadas (coords) Dicionario grego-português. Vol. 5. 1. ed. São Paulo: Atelie, 2010. v. 1. 296p .
+                    
+                    <lb></lb>
+                    MALHADAS, D. ; DEZOTTI, M. C.C. ; Neves, M. H. de M. ; DUARTE, A. S. ; FERREIRA, A. A. G. D. ; Prado, A. L. A. A. ; FERAL, C. ; Morais, C. B. ; ROSA, E. B. ; SANTOS, F. B. ; Starzynski, G. M. R. ; Onelley, G. B. ; Starling, M. A. P. A. ; Pessanha, N. M. ; Damasceno, S. ; Barbosa, T. V. R. . (da equipe de autores) In Daisi Malhadas, Maria Celeste C. Dezotti (coords) Dicionário grego-português vol.4. 1. ed. São Paulo: Ateliê Editorial, 2009. v. 5. 191p .
+                    
+                    <lb></lb>
+                    MALHADAS, D. ; DEZOTTI, M. C.C. ; Neves, M. H. de M. ; DUARTE, A. S. ; FERREIRA, A. A. G. D. ; Prado, A. L. A. A. ; FERAL, C. ; Morais, C. B. ; ROSA, E. B. ; SANTOS, F. B. ; Starzynski, G. M. R. ; Onelley, G. B. ; Starling, M. A. P. A. ; Pessanha, N. M. ; Damasceno, S. ; Melo, S. T. M. ; Barbosa, T. V. R. . (da Equipe de autores) In Daisi Malhadas, Maria Celeste C. Dezotti (coords) Dicionário grego-português vol. 3. 1. ed. São Paulo, SP: Atelier Editorial, 2008. v. 1. 260p .
+                    
+                    <lb></lb>
+                    MALHADAS, D. ; DEZOTTI, M. C.C. ; FERREIRA, A. A. G. D. ; AUTORES-TOTAL 17 . (da Equipe de autores) In Daisi Malhadas, Maria Celeste C. Dezotti e Neves, M.H. (coords) Dicionário grego-português vol. 2.. 1a. ed. São Paulo: Ateliê, 2007. v. vol.2. 272p .
+                    
+                    <!-- bibl (bibliographic citation) contains a loosely-structured bibliographic citation of which the sub-components may or may not be explicitly tagged.
+biblFull (fully-structured bibliographic citation) contains a fully-structured bibliographic citation, in which all components of the TEI  le description are present. 
+biblStruct (structured bibliographic citation) contains a structured bibliographic citation, in which only bibliographic sub-elements appear and in a speci ed order. 
+listBibl (citation list) contains a list of bibliographic citations of any kind.
+msDesc (manuscript description) contains a description of a single identi able manuscript or other text-bearing object.  --> 
+                    <title>Dicionário Grego-Português</title>
+                    <author>MALHADAS, D. ; DEZOTTI, M. C.C. ; Neves, M. H. de M. ; DUARTE, A. S. ; FERREIRA, A. A. G. D. ; Prado, A. L. A. A. ; FERAL, C. ; Morais, C. B. ; ROSA, E. B. ; SANTOS, F. B. ; Starzynski, G. M. R. ; Onelley, G. B. ; Starling, M. A. P. A. ; Pessanha, N. M. ; Damasceno, S. ; Barbosa, T. V. R. . </author>
+                    <editor role="editor">Ateliê Editorial</editor>
+                    <pubPlace>São Paulo</pubPlace>
+                    <date>volumes 1 a 5: 2006-2010</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        
+        <profileDesc>
+            <langUsage>
+                <language ident="en">English
+                </language><language ident="greek">Greek
+                </language><language ident="la">Latin
+                </language><language ident="fr">French
+                </language><language ident="pt">Portuguese</language>
+            </langUsage>
+            
+        </profileDesc>
+        <encodingDesc> 
+            <tagsDecl>
+                <rendition xml:id="FontRoman" scheme="css">font-family: serif
+                </rendition>
+                
+            </tagsDecl>
+            
+        </encodingDesc>
+        
+        <revisionDesc> 
+            <!-- ppode-se inserir tantos changes quantos necessários-->
+            <change when= "2015-10-04" who="Anise"> Conversão para txt, início da etiquetagem do header</change>
+            <change when="2016-01-15" who="Anise D'Orange Ferreira">Complementação do header</change>
+        </revisionDesc>
+        
+        
+        
+    </teiHeader>
+<text>
+<body>        
+<entryFree>Ω, ω (ὦ μέγα) (τό)<def> 1   ômega, 24ª letra do alfabeto ♦ num.   2   ωʹ = 800 ou 800º   3   ͵ω = 800.000 ou 800.000º. </def></entryFree><p></p><p></p><p></p>
+
+<entryFree>ὤ<def> interj. (expressa surpresa, espanto admirativo ou jocoso, indignação ou dor) oh! ah!, seguido de nom., de gen., com pron. pes. no dat.: ὤ τάλας ἐγώ sóf. oh! como sou infeliz, ὤ πόποι hom. ah! infelicidade, ὤ τῆς ἀναισχυντίας luc. oh! que impudência! ὤ μοι, διογενὲς Πάτροκλεις, οἷον ἔειπες hom. oh! o que me dizes, divino Pátroclo! ὤ τί λέγεις; plat. oh! o que dizes? ὤ χαῖρε, sóf. oh! salve! </def></entryFree><p></p><p></p>
+
+<entryFree>ὦ<def> interj. (chamamento) ó, ô, com voc., com voc. e nom.: ὦ βασιλεῦ her. ó rei! ὦ ἄνδρες δικασταί dem. ó juízes! ἀγακλεὲς ὦ Μενέλαε, hom. ó ilustre Menelau! φίλος ὦ Μενέλαε hom. ó caro Menelau, οὗτος ὦ σέ τοι καλῶ ar. ó fulano! é a ti que eu chamo!; ὦ ἀγαθέ teócr., ὠγαθέ át. meu bem! </def></entryFree><p></p><p></p>
+
+<entryFree>ὦ, ᾖς, ᾖ<def> subj. pres. de εἰμί. </def></entryFree><p></p><p></p>
+
+<entryFree>ὧ<def> gen. sing. dór. masc. e n. de ὅς. </def></entryFree><p></p><p></p>
+
+<entryFree>ᾧ<def> 1   dat. sing. masc. e n. de ὅς   2   dat. sing. poét. do pron. poss. ἑός.  </def></entryFree><p></p><p></p>
+
+<entryFree>ὥ<def> nom. e ac. dual de ὅς, ἥ, ὅ. </def></entryFree><p></p><p></p>
+
+<entryFree>ᾥά<def> nom. e ac. pl. de ᾠόν. </def></entryFree><p></p><p></p>
+
+<entryFree>ὠβάζω<def> (inf. aor. ὠβάξαι) dividir em seções; dividir em tribos. 〈ὠβά〉 </def></entryFree><p></p><p></p>
+
+<entryFree>ὠβά, ᾶς (ἡ)<def> dór. oba, divisão da tribo lacedemônica, correspondente à φρατρία ateniense. </def></entryFree><p></p><p></p>
+
+<entryFree>ὠγαθέ<def> crase át. de ὦ ἀγαθέ. </def></entryFree><p></p><p></p>
+
+<entryFree>ὤγκωσα<def> aor. de ὀγκόω. </def></entryFree><p></p><p></p>
+
+<entryFree>ὠγμός, οῦ (ὁ)<def> o grito “oh!”; gemido. 〈ὤζω〉 
+ Ὠγυγία, ας (ἡ) Ogígia, ilha mítica.  </def></entryFree><p></p><p></p>
+
+<entryFree>ὠγύγιος, α<def> e ος, ον   1   muito antigo; primitivo; primordial   2   gigantesco. </def></entryFree><p></p><p></p>
+
+<entryFree>ὧδε<def> adv. 
+de modo
+1	assim; deste modo; dessa maneira, ref. à situação, ou ao que segue ou ao que precede
+2	assim; de tal maneira; a esse ponto; a tal ponto
+de lugar
+3	neste lugar; para este lugar; aqui; cá, ger. indicando imediatez; também grafado ὦδε 
+
+1 ὧδ᾽ ἠμείφατο sóf. respondeu assim, ἀπειλήσω τοι ὧδε hom. ameaço-te assim, i.e., faço-te esta ameaça, εἴπερ ὧδ᾽ ἔχει sóf. se é assim, ὧδε ὡς ὅδε οἶνος hom. assim como este vinho
+2 τίς ὧδε τλησικάρδιος ὅτω...; ésql. quem de tal modo duro de coração que...? ὧδε αὔτως hom. justamente assim, ὧδε πως plat. aproximadamente assim, ὧδε τλήμων sóf. a tal ponto resistente
+3 ὧδ᾽ ἴθι teócr. vem aqui, ὧδε ἐλήλυθα sóf. vieram aqui, ὧδε καὶ χίλιας ὠδ᾽ ἐμβαλεῖν herond. dar mil golpes cá e lá, βάλλει ὧδε καὶ ὧδε χέρας a.p. [a dançarina] move vertiginosamente as mãos.  </def></entryFree><p></p><p></p>
+
+<entryFree>ᾠδεῖον, ου (τό)<def> odeão, edifício público destinado a espetáculos. 〈ᾠδή〉 </def></entryFree><p></p><p></p>
+
+<entryFree>ᾠδή, ῆς (ἡ)<def> 1   canto; canção; cântico; ode   2   canto mágico; encantação   3   ação de cantar; o cantar   4   corda de instrumento musical. 〈ἀοιδή〉  </def></entryFree><p></p><p></p>
+
+<entryFree>ᾤδηκα, ὤδησα<def> cf. οἰδέω. </def></entryFree><p></p><p></p>
+
+<entryFree>ᾤδί<def> át. = ὧδε. 〈ὧδε, -ι intens.〉 </def></entryFree><p></p><p></p>
+
+<entryFree>ᾠδικός, ή, όν<def> 1   próprio para cantar; musical   2   hábil em cantar; que canta bem   3   canoro (ave) ♦ ὁ ᾠδικός   4   musicista. 〈ᾠδή〉 </def></entryFree><p></p><p></p>
+
+<entryFree>ᾠδικῶς<def> adv. musicalmente; melodiosamente. </def></entryFree><p></p><p></p>
+
+<entryFree>ὠδίν, ῖνος (ἡ)<def> bíbl. = ὠδίς. </def></entryFree><p></p><p></p>
+
+<entryFree>ὠδίνω<def> (impf ὤδινον, fut. ὠδινῶ e ὠδινήσω, aor. ὠδίνησα e aor. causat. ὤδινα; pas. aor. ὠδινήθην, aor. méd. pas. bíbl. ὠδινησάμην)   1   sofrer as dores do parto; estar em trabalho de parto: κράζει ὠδίνουσα n.t. grita sofrendo as dores do parto   2   parir   3   sofrer uma dor violenta; sofrer dores cruéis por algo ou alguém, περί ou ὑπέρ e gen.   4   esperar com impaciência; estar angustiado. 〈ὠδίς〉  </def></entryFree><p></p><p></p>
+
+<entryFree>ὠδίς, ῖνος<def> ac. bíbl. ὠδίν, dat. pl. ὠδῖσι e, poét., ὠδίνεσσι (ἡ)   1   dores ou trabalhos do parto; parto   2   fruto das dores do parto; prole; cria; filhote; filho   3   ovo   4   mel de abelha   5   gravidez; prenhez   6   dor aguda; sofrimento terrível; angústia   7   produção do espírito; trabalho mental. </def></entryFree><p></p><p></p>
+
+<entryFree>ᾠδός, οῦ (ὁ,<def> ἡ)  1   cantor; cantora: τὸν ᾠδὸν ὄρνιθα pólux. o pássaro cantor, i.e., o galo   2   taça que circulava, no banquete, enquanto se cantava o escólio. 〈ἀείδω〉 </def></entryFree><p></p><p></p>
+
+<entryFree>ᾤδουν<def> impf. de οἰδέω. </def></entryFree><p></p><p></p>
+
+<entryFree>ὠδύρατο<def> 3ª sing. aor. de ὀδύρομαι. </def></entryFree><p></p><p></p>
+
+<entryFree>ὠδυσάμην<def> cf. ὀδύσσομαι. </def></entryFree><p></p><p></p>
+
+<entryFree>ὠδώδειν<def> m.-q.-perf. de ὄζω. </def></entryFree><p></p><p></p>
+
+<entryFree>ᾤετο<def> 3ª sing. impf. de οἴομαι.  </def></entryFree><p></p><p></p>
+
+<entryFree>ὤζησα, ὤζον<def> cf. ὄζω. </def></entryFree><p></p><p></p>
+
+<entryFree>ὤζω<def> (só pres.) exclamar oh!: ὤζωσιν οἱ θεαταί ar. que os espectadores exclamem oh! </def></entryFree><p></p><p></p>
+
+<entryFree>ὠή<def> interj. (para chamamento) ei! olá! oi! </def></entryFree><p></p><p></p>
+
+<entryFree>ᾠήθην<def> cf. οἴομαι. </def></entryFree><p></p><p></p>
+
+<entryFree>ὥθεσκε<def> 3ª sing. impf. iter. de ὠθέω. </def></entryFree><p></p><p></p>
+
+<entryFree>ὤθετο<def> cf. ὄθομαι. </def></entryFree><p></p><p></p>
+
+<entryFree>ὠθέω-ῶ<def> (impf. ἐώθουν, impf. iter. 3a sing. ὤθεσκε, fut. ὤσω, aor. ἔωσα, aor. poét. ὦσα, perf. ἔωκα; pas. fut. ὠσθήσομαι, aor. ἐώσθην, perf. ἔωσμαι)
+ativa
+1	empurrar para frente; precipitar
+2	impelir para trás; repelir; fazer recuar
+3	repelir; repudiar
+4	impelir contra ou para o interior de
+5	fazer precipitar; provocar (uma situação)
+6	puxar para trás; arrancar
+média
+7	repelir; fazer recuar
+8	precipitar-se; lançar-se para frente; impelir-se à frente
+9	(pessoa) entrechocar-se; comprimir-se
+
+1 ὤθει δ᾽ ἐν σάκει πίπτων ῥόος hom. a correnteza, caindo no escudo, empurrava [Aquiles] para frente, τὴν θύραν ὠθεῖν ar. forçar a porta, ὦσαι ἑωυτὸν εἰς τὸ πῦρ her. precipitar-se no fogo, ἐπὶ κεφαλὴν ὠθεῖ ἐκ τοῦ θρόνου plat. derruba do trono [aquele amor pela competição] de ponta-cabeça, λᾶαν ἄνω ὤθεσκε ποτὶ λόφον hom. ficava sempre empurrando uma pedra para o alto de uma colina, αὐτὴν πνεῦμα Βορέου κατὰ τῶν πετρῶν ὦσαι plat. [dizem] que o sopro de Bóreas precipitou-a [Orítia] do alto dos rochedos, ἔξω δόμων τε καὶ πάτρας ὠθεῖν ἐμέ ésql. expulsar-me da casa e da pátria, ἀπὸ τῶν ἱερῶν ὠθεῖν ἐμέ ésqn. excluir-me dos ritos sacrificiais, τὸ οὖν αἴτιον καὶ τὸ ἀρχηγὸν αὐτῶν εἶναι τὸ ὠθοῦν plat. essas coisas têm como causa e princípio aquilo que as põe em movimento
+2 ἀπὸ εἷο τράπεζαν ὦσε ποδὶ πλήξας hom. num golpe empurrou para longe de si a mesa com os pés, οἱ δ᾽ ἰθὺς τάφροιο βαθείης ὦσαν Ἀχαιούς hom. eles repeliram os aqueus na direção do poço profundo
+3 τοὺς πρὸς αἵματος οὓς ὠθεῖς ἀθάπτους sóf. os parentes consanguíneos que repudias insepultos
+4 [ἔγχος] ἰθὺς ἐμεῦ ὤσας hom. tendo empurrado a lança diretamente contra mim, ὤθεε τὸ ξίφος καὶ δι’ ἀμφοτέρων her. impele a espada trespassando a ambos também, ὠ. ξίφος ἐς κουλέον hom. enfiar uma espada na bainha
+5 ὠθέει τε ἐμπεσὼν τὰ πρήγματα ἄνευ νόου her. [o povo] faz precipitar as situações, caindo nelas sem ponderação
+6 ἐκ δ᾽ ἄρα οἱ μηροῦ δόρυ μείλινον ὦσε hom. então de sua coxa arrancou a lança de freixo
+7 ἐξ οὖ προτὶ    Ἴλιον ὠσάμεθ᾽ αὐτούς hom. desde que nós os repelimos para Ilion 
+8 ὥσπερ οἱ κάπροι οἱ πρὸς τὴν πληγὴν ὁμόσε ὠθούμενοι plat. como os bodes que se jogam na direção do golpe, ὠσάμενοι ἔσω ἔργου ἐχώμεθα her. avancemos para dentro do palácio e cumpramos nossa missão, ἐχώρησαν Τρῶες, ὤσαντο δ᾽ Ἀχαιοί hom. os troianos se deslocaram e os aqueus avançaram
+9 οἱ δ᾽ αὖ Πέρσαι κατά τε τὰς εἰσόδους ἐφεπόμενοι ὠθουμένων αὐτῶν πολλοὺς κατεστρώννυσαν xen. os persas, perseguindo-os até às entradas [do acampamento], iam abatendo muitos deles </def></entryFree><p></p><p></p>
+
+<entryFree>ὠθίζω<def> 1   empurrar; pressionar ♦ méd.   2   bater-se; lutar por algo, εἰς ou πρός e ac.   3   altercar. 〈ὠθέω〉  </def></entryFree><p></p><p></p>
+
+<entryFree>ὠθισμός, οῦ (ὁ)<def> 1   embate; batalha; tumulto   2   embate de palavras; altercação. 〈ὠθίζω〉 </def></entryFree><p></p><p></p>
+
+<entryFree>ὠΐγνυντο<def> 3ª pl. impf. pas. de οἴγνυμι. </def></entryFree><p></p><p></p>
+
+<entryFree>ὠϊόμην<def> 1ª sing. impf. poét. de οἴομαι. </def></entryFree><p></p><p></p>
+
+<entryFree>ὤϊξα<def> aor. ép. de οἴγω. </def></entryFree><p></p><p></p>
+
+<entryFree>ὤϊον<def> poét. = ᾠόν. </def></entryFree><p></p><p></p>
+
+<entryFree>ὠΐσθην<def> aor. pas. ép. de οἴομαι. </def></entryFree><p></p><p></p>
+
+<entryFree>ὠΐχθην<def> aor. pas. de οἴγνυμι. </def></entryFree><p></p><p></p>
+
+<entryFree>ὦκ᾽<def>  ὦκα em elisão. </def></entryFree><p></p><p></p>
+
+<entryFree>ὦκα<def> adv. (superl. ὤκιστα)   1   (modo) com rapidez; com agilidade   2   (tempo) rapidamente; imediatamente. 〈ὠκύς〉 </def></entryFree><p></p><p></p>
+
+<entryFree>ὠκέα<def> fem. jôn. e ép. de ὠκύς.
+ Ὠκεάνιος, α, ον relativo ao Oceano; oceânico. 〈 Ὠκεανός〉
+ Ὠκεανός, οῦ (ὁ)   1   Oceano, filho de Urano e Gaia, deus do mar   2   o mar exterior, op. aos mares interiores   3   oceano Atlântico. </def></entryFree><p></p><p></p>
+
+<entryFree>ὠκειάων<def> gen. pl. fem. ép. de ὠκύς. </def></entryFree><p></p><p></p>
+
+<entryFree>ᾤκεον<def> impf. ép. de οἰκέω.  </def></entryFree><p></p><p></p>
+
+<entryFree>ὠκέως<def> adv. (superl. ὤκιστα) rapidamente; imediatamente; depressa; com agilidade. 〈ὠκύς〉 </def></entryFree><p></p><p></p>
+
+<entryFree>ᾤκηθεν<def> 3ª pl. aor. pas. ép. de οἰκέω. </def></entryFree><p></p><p></p>
+
+<entryFree>ᾤκηκα, ᾤκησα<def> cf. οἰκέω. </def></entryFree><p></p><p></p>
+
+<entryFree>ᾤκιζον, ᾤκικα<def> cf. οἰκίζω. </def></entryFree><p></p><p></p>
+
+<entryFree>ὠκινάκης<def> crase de ὁ ἀκινάκης. </def></entryFree><p></p><p></p>
+
+<entryFree>ᾠκίσθην, ᾤκισμαι<def> cf. οἰκίζω. </def></entryFree><p></p><p></p>
+
+<entryFree>ὤκιστα<def> cf. ὦκα  </def></entryFree><p></p><p></p>
+
+<entryFree>ὤκιστος<def> cf. ὠκύς. </def></entryFree><p></p><p></p>
+
+<entryFree>ᾠκούρουν<def> cf. οἰκουρέω. </def></entryFree><p></p><p></p>
+
+<entryFree>ᾤκτισα<def> cf. οἰκτίζω. </def></entryFree><p></p><p></p>
+
+<entryFree>ὠκύαλος, ος, ον<def> que fende rapidamente o mar; ágil; rápido (nau). 〈ὠκύς, ἅλς〉 </def></entryFree><p></p><p></p>
+
+<entryFree>ὠκυβόλος, ος, ον<def> que se lança e atinge prontamente; veloz (flecha, águia). 〈ὠκύς, βάλλω〉 </def></entryFree><p></p><p></p>
+
+<entryFree>ὠκύμορος, ος, ον<def> 1   que morre prematuramente; destinado a morte prematura   2   que mata depressa (dardo, veneno). 〈ὠκύς, μόρος〉  </def></entryFree><p></p><p></p>
+
+<entryFree>ὠκυπέτης, ου<def> (masc.) de vôo rápido; veloz. 〈ὠκύς, πέτομαι〉  </def></entryFree><p></p><p></p>
+
+<entryFree>ὠκυπόδεσσι<def> dat. pl. ép. de ὠκύπους. </def></entryFree><p></p><p></p>
+
+<entryFree>ὠκύποινος, ος, ον<def> que castiga prontamente; que traz pronto castigo (transgressão). 〈ὠκύς, ποινή〉 </def></entryFree><p></p><p></p>
+
+<entryFree>ὠκυπομπός, ός, όν<def> transportado rapidamente; rápido (navio). 〈ὠκύς, πέμπω〉  </def></entryFree><p></p><p></p>
+
+<entryFree>ὠκύπορος, ος, ον<def> que avança rapidamente; veloz; rápido (nau). 〈ὠκύς, πόρος〉 </def></entryFree><p></p><p></p>
+
+<entryFree>ὠκύπους, ους, ουν<def> gen. -ποδος de pés ágeis; veloz. 〈ὠκύς, πούς〉  </def></entryFree><p></p><p></p>
+
+<entryFree>ὠκύπτερος, ος, ον<def> 1   de asas rápidas (falcão) ♦ τὰ ὠκύπ­τερα   2   penachos das asas. 〈ὠκύς, πτερόν〉 </def></entryFree><p></p><p></p>
+
+<entryFree>ὠκύροος, ος, ον<def> que corre rápido; de curso rápido (rio). 〈ὠκύς, ῥέω〉 </def></entryFree><p></p><p></p>
+
+<entryFree>ὠκύς, εῖα, ύ<def> (superl. ὠκύτατος e ὤκιστος)   1   rápido; pronto; ágil: πόδας ὠκύς hom. de pés ágeis   2   agudo; penetrante (som)   3   aguçado (ouvido) ♦ ὠκύ adv.   4   rapidamente ♦ τὸ ὠκύ   5   velocidade.  </def></entryFree><p></p><p></p>
+
+<entryFree>ὠκυτόκιος, ος, ον<def> 1   próprio para apressar o parto ♦ τὸ ὠκυ­τόκιον   2   remédio para apressar o parto. 〈ὠκύς, τίκτω〉  </def></entryFree><p></p><p></p>
+
+<entryFree>ὠκυτόκος, ος, ον<def> 1   que apressa ou facilita o parto   2   fecundante (rio) ♦ τὸ ὠκυτόκον   3   parto rápido ou fácil. 〈ὠκύς, τίκτω〉 </def></entryFree><p></p><p></p>
+
+<entryFree>ὠλάφιον<def> crase át. de ὦ ἐλάφιον. </def></entryFree><p></p><p></p>
+
+<entryFree>ὤλβισα<def> cf. ὀλβίζω. </def></entryFree><p></p><p></p>
+
+<entryFree>ὠλένη, ης (ἡ)<def> 1   antebraço   2   cotovelo   3   braço   4   mão.  </def></entryFree><p></p><p></p>
+
+<entryFree>ὤλεσα<def> aor. at. de ὄλλυμι </def></entryFree><p></p><p></p>
+
+<entryFree>ὠλεσίκαρπος, ος, ον<def> que perde o fruto prematuramente; estéril (planta).  </def></entryFree><p></p><p></p>
+
+<entryFree>ὤλετο<def> 3ª sing. aor.2 méd. de ὄλλυμι. </def></entryFree><p></p><p></p>
+
+<entryFree>ὠλεύθερος<def> crase át. de ὁ ἐλεύθερος. </def></entryFree><p></p><p></p>
+
+<entryFree>ὠλίσθηκα<def> cf. ὀλισθάνω.  </def></entryFree><p></p><p></p>
+
+<entryFree>ὦλκα<def> ac. sing., ὦλκας ac. pl., poét. = αὖλαξ.  </def></entryFree><p></p><p></p>
+
+<entryFree>ὥλλος, ὥλλοι<def> crase de ὁ ἄλλος, οἱ ἄλλοι. </def></entryFree><p></p><p></p>
+
+<entryFree>ὠλλύμαν<def> impf. méd. dór. de ὄλλυμι. </def></entryFree><p></p><p></p>
+
+<entryFree>ὠλοκαύτουν<def> cf. ὀλοκαυτέω.  </def></entryFree><p></p><p></p>
+
+<entryFree>ὠλοκαύτωσα<def> cf. ὀλοκαυτόω. </def></entryFree><p></p><p></p>
+
+<entryFree>ὠλόμαν<def> aor.2 méd. dór. de ὄλλυμι. </def></entryFree><p></p><p></p>
+
+<entryFree>ὤλοντο<def> 3ª pl. aor.2 méd. de ὄλλυμι. </def></entryFree><p></p><p></p>
+
+<entryFree>ὠλοφυράμην, ὠλοφύρθην<def> cf. ὀλοφύρομαι. </def></entryFree><p></p><p></p>
+
+<entryFree>ὠμηστής, οῦ<def> (masc.)   1   que come carne crua; carnívoro   2   carniceiro; feroz; cruel   3   cruel; desumano; desleal (pessoa) ♦ ὁ ὠμηστής   4   animal feroz. 〈ὠμός, ἔδω〉 </def></entryFree><p></p><p></p>
+
+<entryFree>ὠμίληκα<def> cf. ὀμιλέω. </def></entryFree><p></p><p></p>
+
+<entryFree>ὦμμαι<def> perf. pas. de ὁράω. </def></entryFree><p></p><p></p>
+
+<entryFree>ὤμνυν<def> impf. de ὄμνυμι. </def></entryFree><p></p><p></p>
+
+<entryFree>ὠμοβοέη<def> cf. ὠμοβόεος. </def></entryFree><p></p><p></p>
+
+<entryFree>ὠμοβόειος, α, ον<def> 1   de couro bovino não curtido   2   de carne bovina crua. 〈ὠμός, βοῦς〉 </def></entryFree><p></p><p></p>
+
+<entryFree>ὠμοβόεος, α, ον<def> jôn. = ὠμοβόειος. </def></entryFree><p></p><p></p>
+
+<entryFree>ὠμοβόϊνος, ος, ον<def>  ὠμοβόειος. </def></entryFree><p></p><p></p>
+
+<entryFree>ὠμοβόρος, ος, ον<def> que come carne crua; feroz; sanguinário: ὠμοβόρον βλέπειν alcífr. olhar com ferocidade. 〈ὠμός, βιβρώσκω〉 </def></entryFree><p></p><p></p>
+
+<entryFree>ὠμόβυρσος, ος, ον<def> feito de couro não curtido. 〈ὠμός, βύρσα〉 </def></entryFree><p></p><p></p>
+
+<entryFree>ὠμογέρων, οντος (ὁ, ἡ)<def> 1   velho ainda ativo: ὠμογέρον­τα δέ μίν φασ᾽ ἔμμεναι hom. dizem que ele é um velho ainda ativo   2   maduro antes do tempo: ὠμογέρων βόστρυχος a.p. cacho de uvas maduras antes do tempo.  </def></entryFree><p></p><p></p>
+
+<entryFree>ὠμοδακής, ής, ές<def> que morde ferozmente; feroz. 〈ὠμός, δάκνω〉 </def></entryFree><p></p><p></p>
+
+<entryFree>ὠμοθετέω-ῶ<def> at. e méd.   1   pôr a carne crua de vítima sacrificial sobre o altar recoberta de gordura   2   oferecer um sacrifício. 〈ὠμός, θετός〉 </def></entryFree><p></p><p></p>
+
+<entryFree>ὠμόθην<def> aor. pas. de ὄμνυμι. </def></entryFree><p></p><p></p>
+
+<entryFree>ὠμόθυμος, ος, ον<def> de coração duro; insensível; cruel. 〈ὠμός, θυμός〉 </def></entryFree><p></p><p></p>
+
+<entryFree>ὤμοι<def> interj.   1   (expr. de lamento) ai!: ὤμοι μοι át. ai de mim! ai de mim! ὤμοι τάλας ar. ai! como sou infeliz! ὤμοι ἀναιδείην ἐπιειμένε hom. ai! a falta de vergonha é tua veste!; com gen. de causa, ὤμοι βαρείας ἆρα τῆς ἐμῆς τύχης sóf. ai! que sorte pesada é a minha! 〈ὤ, μοι〉 </def></entryFree><p></p><p></p>
+
+<entryFree>ὡμοιωθήμεναι<def> inf. aor. pas. ép. de ὁμοιόω. </def></entryFree><p></p><p></p>
+
+<entryFree>ὡμοιωθήμεναι, ὡμοιωθήσομαι, ὡμοίωμαι, ὡμοίωσα<def> cf. ὁμοιόω.  </def></entryFree><p></p><p></p>
+
+<entryFree>ὠμοκρατής, ής, ές<def> de espáduas fortes; indômito. 〈ὦμος, κράτος〉 </def></entryFree><p></p><p></p>
+
+<entryFree>ὠμόλινος, ος, ον<def> 1   de linho cru ♦ τὸ ὠμόλινον   2   linho cru   3   lenço   4   toalha. 〈ὠμός, λίνον〉 </def></entryFree><p></p><p></p>
+
+<entryFree>ὡμολόγηκα<def> cf. ὁμολογέω. </def></entryFree><p></p><p></p>
+
+<entryFree>ὠμοπλάτης, ης (ἡ)<def> omoplata. 〈ὦμος, πλάτη〉 </def></entryFree><p></p><p></p>
+
+<entryFree>ὤμορξα, ὠμορξάμην<def> cf. ὀμόργνυμι. </def></entryFree><p></p><p></p>
+
+<entryFree>ὦμος, ου<def> (ὁ)  1   sing. ou pl. espádua: ὤμῳ σάκος ἑλεῖν hom. pôr o escudo na espádua, ἀμφὶ ou περὶ ὤμοισιν hom. ao redor da espádua   2   parte superior das patas dianteiras de um animal   3   braço   4   braço de cadeira.  </def></entryFree><p></p><p></p>
+
+<entryFree>ὠμός, ή, όν<def> 1   não cozido; cru (carne, vegetal): ὠμὰ κρέα hom. carnes cruas, κριθαὶ ὠμαί luc. cevada crua, não torrada, ὕδωρ ὠμόν artt. água não fervida, ὠμὸν βιβρώσκειν Πρίαμον hom. devorar Príamo vivo   2   indigesto (alimento)   3   não maduro; ainda verde (fruto)   4   prematuro; precoce (velhice)   5   não secado pelo sol (trigo)   6   não abrandado pela educação; não civilizado; grosseiro; rude   7   cruel; inumano; atroz com alguém, dat. ou εἰς e ac. ♦ ὠμά adv.   8   em estado cru.  </def></entryFree><p></p><p></p>
+
+<entryFree>ὤμοσα<def> aor. de ὄμνυμι. </def></entryFree><p></p><p></p>
+
+<entryFree>ὠμόσιτος, ος, ον<def> selvagem, feroz. 〈ὠμός, σιτέομαι〉 </def></entryFree><p></p><p></p>
+
+<entryFree>ὠμότης, ητος (ἡ)<def> 1   ausência de cozimento; estado cru (de alimento)   2   crueza da digestão; indigestão   3   ausência de maturação; verdor (de fruta)   4   crueza; crueldade; desumanidade. 〈ὠμός〉 </def></entryFree><p></p><p></p>
+
+<entryFree>ὠμοφαγία, ας (ἡ)<def> ação ou hábito de comer carne crua. 〈ὠμοφάγος〉 </def></entryFree><p></p><p></p>
+
+<entryFree>ὠμοφάγος, ος,<def> ον  1   que come carne crua; carniceiro; carnívoro (predador)  2   que se pode comer cru ♦ τὰ ὠμοφάγα   3   animais carniceiros; feras. 〈ὠμός, φαγεῖν〉 </def></entryFree><p></p><p></p>
+
+<entryFree>ὠμοφρόνως<def> adv. com sentimentos cruéis; cruelmente. 〈ὠμός, φρήν〉 </def></entryFree><p></p><p></p>
+
+<entryFree>ὠμόφρων, ονος<def> (masc., fem.)   1   de coração duro; cruel; desumano   2   de índole feroz. 〈ὠμός, φρήν〉 </def></entryFree><p></p><p></p>
+
+<entryFree>ᾤμωγμαι, ᾤμωζον<def> cf. οἰμώζω. </def></entryFree><p></p><p></p>
+
+<entryFree>ὠμωμόκειν<def> m.-q.-perf. de ὄμνυμι. </def></entryFree><p></p><p></p>
+
+<entryFree>ᾤμωξα<def> aor. de οἰμώζω. </def></entryFree><p></p><p></p>
+
+<entryFree>ὠμῶς<def> adv. duramente; cruelmente. </def></entryFree><p></p><p></p>
+
+<entryFree>ὤν, οὖσα, ὄν<def> part. pres. de εἰμί. </def></entryFree><p></p><p></p>
+
+<entryFree>ὦν<def> jôn. = οὖν. </def></entryFree><p></p><p></p>
+
+<entryFree>ὧν<def> gen. pl. do pron. rel. ὅς, ἥ, ὅ. </def></entryFree><p></p><p></p>
+
+<entryFree>ᾠνάμην<def> aor.2 de ὀνίναμαι. </def></entryFree><p></p><p></p>
+
+<entryFree>ὦναξ<def> crase de ὦ ἄναξ. </def></entryFree><p></p><p></p>
+
+<entryFree>ὤνατο<def> 3ª sing. aor. de ὀνίναμαι e de ὄνομαι. </def></entryFree><p></p><p></p>
+
+<entryFree>ὦνδρες<def> crase de ὦ ἄνδρες. </def></entryFree><p></p><p></p>
+
+<entryFree>ὠνείδικα, ὠνείδισα, ὠνειδίσθην<def> cf. ὀνειδίζω. </def></entryFree><p></p><p></p>
+
+<entryFree>ὤνεκα<def> crase dór. de οὖ ἕνεκα. </def></entryFree><p></p><p></p>
+
+<entryFree>ὤνεμος<def> crase dór. de ὁ ἄνεμος. </def></entryFree><p></p><p></p>
+
+<entryFree>ὠνέομαι<def> cf. ὠνέω. </def></entryFree><p></p><p></p>
+
+<entryFree>ὤνευον<def> cf. ὀνεύω. </def></entryFree><p></p><p></p>
+
+<entryFree>ὠνέω-ῶ<def> (só part. perf. ἐωνηκώς), ger. méd. ὠνέομαι-οῦμαι (impf. ἐωνούμην e ὠνούμην, fut. ὠνήσομαι, aor. ἐωνησάμην e ὠνησάμην, perf. ἐώνημαι; pas. impf. ἐωνούμην, aor. ἐωνήθην, perf. ἐώνημαι, m.-q.-perf. ἐωνήμην)
+ativa e média
+1	comprar; adquirir algo, ac., por um preço, gen. ou dat., de alguém, dat., παρά ou ἀπό e dat., de 
+2	comprar; corromper alguém 
+3	pagar resgate por; resgatar
+4	crist. redimir alguém
+5	propor a compra de; negociar
+6	tomar de arrendamento
+7	afastar, cancelar mediante pagamento
+8	ressarcir alguém, ac., de algo, ac., por um preço, gen.
+passiva
+9	ser objeto de uma compra; ser comprado
+
+1 ὠνέονται τὰς γυναῖκας παρὰ τῶν γονέων χρημάτων μεγάλων her. compram as esposas, de seus genitores, por um alto preço, ὠνεῖσθαι τῷ θανάτῳ τὴν σωτηρίαν naz. comprar a salvação eterna pelo preço da morte, ὁ ὠνούμενος e ὁ ὠνησάμενος o comprador, ὁ ἐωνημένος o proprietário
+2 τοὺς πονηροὺς καὶ καταστασιάζοντας ὠνεῖσθαι καὶ διαφθείρειν plut. comprar e corromper os maus e rebeldes
+3 ὠνεῖσθαι τὰς αὑτῶν ψυχὰς παρὰ τῶν ἐχθρῶν lís. resgatar das mãos dos inimigos a própria vida
+4 ὠνεῖσθαι ἡμᾶς τῷ ἰδίῳ αἵματι oríg. [Cristo] nos redimir com o próprio sangue
+5 Κροῖσος δέ σφι ὠνεομένοισι ἔδωκε δωτίνην her. a eles que propunham a compra [do ouro], Creso deu-o de presente, ὠνέεσθαι τῶν φορτίων τῶν σφι ἦν θυμὸς μάλιστα her. [conta-se que elas] negociavam as mercadorias de que mais gostavam
+6 παρὰ τῶν τὰ μέταλλ᾽ ἐωνημένων εἴκοσιν ἐξέλεξεν δραχμὰς παρ᾽ ἑκάστου dem. extorquiu 20 dracmas de cada um dos que eram arrendatários das minas
+7 τὰ ἐγκλήματα ἐωνοῦντο dem. tentavam evitar as acusações mediante pagamento 
+8 εἰ μὴ ἐγὼ ταλάντου ὠνησάμην τὸ πλημμέλημα luc. se eu não [o] tivesse ressarcido do dano com um talento
+9 ἥδε ἡ οἰκία πλείστου ἐωνήθη isócr. esta casa foi comprada por um valor altíssimo. </def></entryFree><p></p><p></p>
+
+<entryFree>ὠνή, ῆς (ἡ)<def> 1   compra; aquisição de algo, gen.   2   arrendamento; aluguel   3   preço da compra   4   valor do aluguel.  </def></entryFree><p></p><p></p>
+
+<entryFree>ὠνήμην<def> aor. méd. de ὀνίνημι. </def></entryFree><p></p><p></p>
+
+<entryFree>ὠνήρ<def> crase jôn. de ὦ ἀνήρ. </def></entryFree><p></p><p></p>
+
+<entryFree>ὤνησα<def> aor. de ὀνίνημι. </def></entryFree><p></p><p></p>
+
+<entryFree>ὠνησάμην<def> aor. méd. de ὠνέομαι. </def></entryFree><p></p><p></p>
+
+<entryFree>ὠνητής, οῦ (ὁ)<def> comprador. 〈ὠνέομαι〉 </def></entryFree><p></p><p></p>
+
+<entryFree>ὠνητός, ή, όν<def> 1   adquirido; comprado: δοῦλος οὐκ ὠνη­τὸς ἀλλ᾽ οἴκοι τραφείς sóf. escravo não comprado mas criado em casa, δύναμις ὠνητή tuc. força mercenária, exército   2   que se compra; que se pode comprar; venal: δόξα χρημάτων οὐκ ὠνητή isócr. glória que não se compra com dinheiro, ἐλπὶς χρημάσιν ὠνητή tuc. esperança adquirida com dinheiro.  </def></entryFree><p></p><p></p>
+
+<entryFree>ὤ᾽ νθρωπε<def> elisão poét. de ὦ ἄνθρωπε. </def></entryFree><p></p><p></p>
+
+<entryFree>ὤνθρωπος, ὤνθρωποι<def> crase de ὦ ἄνθρωπος, ὦ ἄνθρωποι. </def></entryFree><p></p><p></p>
+
+<entryFree>ὤνιος, ος<def> e α, ον   1   que se compra; que se pode comprar ou vender: πῶς ὁ σῖτος ὤνιος; ar. quanto custa o trigo? ὤνιον εἶναι plat. estar à venda, ὤνιον ἄγειν ou ἐξάγειν ou κομίζειν plut. levar ao mercado, pôr à venda   2   que se deixa comprar; venal (pessoa) ♦ τὰ ὤνια   3   mercadorias.  </def></entryFree><p></p><p></p>
+
+<entryFree>ὤνομα<def> eól. = ὄνομα.  </def></entryFree><p></p><p></p>
+
+<entryFree>ὠνομάδαται<def> 3ª pl. m.-q.-perf. jôn. de ὀνομάζω. </def></entryFree><p></p><p></p>
+
+<entryFree>ὠνομασμένως<def> adv. pelo nome; nomeadamente. 〈ὀνομάζω〉 </def></entryFree><p></p><p></p>
+
+<entryFree>ὠνόμηνα<def> aor. poét. de ὀνομαίνω. </def></entryFree><p></p><p></p>
+
+<entryFree>ὦνος, ου (ὁ)<def> 1   preço; valor   2   compra; aquisição   3   gênero à venda; mercadoria.  </def></entryFree><p></p><p></p>
+
+<entryFree>ᾧνος<def> crase de ὁ οἶνος. </def></entryFree><p></p><p></p>
+
+<entryFree>ὠνοσάμην<def> aor. de ὄνομαι. </def></entryFree><p></p><p></p>
+
+<entryFree>ᾠνοχόει<def> 3ª sing. impf. de οἰνοχοέω. </def></entryFree><p></p><p></p>
+
+<entryFree>ᾠνώθην, ᾤνωμαι<def> cf. οἰνόω. </def></entryFree><p></p><p></p>
+
+<entryFree>ὡξ<def> crase dór. de ὁ ἐξ. </def></entryFree><p></p><p></p>
+
+<entryFree>ὦξα<def> aor. de οἴγνυμι ou de οἴγω. </def></entryFree><p></p><p></p>
+
+<entryFree>ὤξυνα, ὠξύνθην<def> cf. ὀξύνω. </def></entryFree><p></p><p></p>
+
+<entryFree>ᾠοειδής, ής, ές<def> 1   semelhante a um ovo; em forma de ovo; oval ♦ τὸ ᾠοειδές   2   secreção dos olhos. 〈ᾠον, εἶδος〉 </def></entryFree><p></p><p></p>
+
+<entryFree>ᾠόμην<def> impf. de οἴομαι. </def></entryFree><p></p><p></p>
+
+<entryFree>ᾠόν, οῦ (τό)<def> 1   ovo: ᾠὸν τίκτειν her. ou ἀφιέναι artt. pôr ovo, ᾠὸν ἐκλέπειν her. fazer sair da casca   2   grão de planta   3   objeto oval. </def></entryFree><p></p><p></p>
+
+<entryFree>ὠόπ<def> ou ὠὸπ ὄπ (marcação do ritmo para os remadores) oh! op, oh! op, op.  </def></entryFree><p></p><p></p>
+
+<entryFree>ᾠοτοκέω-ῶ<def> 1   pôr ovos   2   (planta) produzir grãos. 〈ᾠο­τόκος〉 </def></entryFree><p></p><p></p>
+
+<entryFree>ᾠοτοκία, ας (ἡ)<def> capacidade de botar ovos; postura. 〈ᾠοτόκος〉 </def></entryFree><p></p><p></p>
+
+<entryFree>ᾠοτόκος, ος, ον<def> 1   que põe ovos; ovíparo ♦ τὰ ᾠοτόκα   2   animais ovíparos. 〈ᾠόν, τίκτω〉 </def></entryFree><p></p><p></p>
+
+<entryFree>ᾠοῦ<def> gen. de ᾠόν. </def></entryFree><p></p><p></p>
+
+<entryFree>ᾤου<def> 2ª sing. do impf. de οἴομαι. </def></entryFree><p></p><p></p>
+
+<entryFree>ᾠοφόρος, ος, ον<def> 1   que tem ovos   2   que produz ovos. 〈ᾠόν, φέρω〉 </def></entryFree><p></p><p></p>
+
+<entryFree>ᾠοφυλακέω-ῶ<def> guardar, vigiar os ovos. 〈ᾠόν, φύλαξ〉 </def></entryFree><p></p><p></p>
+
+<entryFree>ὤπαζον, ὤπασα<def> cf. ὀπάζω. </def></entryFree><p></p><p></p>
+
+<entryFree>ᾧπερ<def> dat. de ὅσπερ. </def></entryFree><p></p><p></p>
+
+<entryFree>ὠπισάμην<def> cf. ὁπλίζω.  </def></entryFree><p></p><p></p>
+
+<entryFree>ὤπλισσα<def> aor. ép. de ὁπλίζω.
+  Ὡπόλλων crase poét. de ὁ Ἀπόλλων. </def></entryFree><p></p><p></p>
+
+<entryFree>ὦπται<def> 3ª sing. perf. pas. de ὁράω. </def></entryFree><p></p><p></p>
+
+<entryFree>ὠπτήθην, ὤπτημαι, ὤπτησα, ὤπτων<def> cf. ὀπτάω. </def></entryFree><p></p><p></p>
+
+<entryFree>ὤπυιον<def> cf. ὀπυίω. </def></entryFree><p></p><p></p>
+
+<entryFree>ὤπυον<def> cf. ὀπύω </def></entryFree><p></p><p></p>
+
+<entryFree>ὤπωπα<def> perf.2 de ὁράω. </def></entryFree><p></p><p></p>
+
+<entryFree>ὦρ<def> contr. de ὄαρ. </def></entryFree><p></p><p></p>
+
+<entryFree>ὤρα, ας (ἡ)<def> cuidado; atenção; preocupação; desvelo por, gen.: ὤραν ἔχειν ou ποιεῖσθαι her. cuidar de, preocupar-se com.  </def></entryFree><p></p><p></p>
+
+<entryFree>ὥρα, ας,<def> jôn. ὥρη, ης (ἡ)
+1	porção de tempo; período de tempo
+2	ano
+3	parte do ano; estação
+4	produto da estação; colheita
+5	estação favorável às operações militares, o verão 
+6	estação por excelência; primavera
+7	parte precisa de um dia; hora
+8	tempo estabelecido; momento favorável; tempo oportuno
+9	primavera da vida; frescor da idade; juventude
+10	frescor juvenil; graciosidade; beleza
+  Ὥρα
+11	Hora; Juventude, person. 
+12	pl.  Ὧραι, as Horas, person. das estações do ano
+
+1 νυκτός τε ὥραν καὶ μηνὸς καὶ ἐνιαυτοῦ δύνασθαι γιγνώσκειν xen. conseguir reconhecer o período da noite, do mês e do ano, νυκτὸς ἐν ὥρῃ hom. durante a noite, δι’ ὥραν ἡμέρας dem. durante o dia
+2 ἐκ τῶν ὡρῶν εἰς τὰς ὥρας ar. de ano em ano, ἐν τῇ πέρυσιν ὥρᾳ dem. no ano anterior
+3 ὥρη εἰαρινή hom., ἦρος ὥρα ar. estação da primavera, θέρεος ὥρη hes. estação do verão, ὥρη χειμερίη hom., χειμῶνος ὥρα plut. estação do inverno 
+4 ἀπὸ τῆς ὥρας ἐτρέφοντο xen. alimentavam-se dos frutos da estação
+5 τὸν τῆς ὥρας εἰς τὸν περίπλουν χρόνον xen. o tempo da estação da guerra até o da circunavegação
+6 φύλλα καὶ ἄνθεα γίγνεται ὥρῃ hom. folhas e flores surgem na primavera
+7 οὐχὶ δώδεκα ὧραι εἰσὶ τῆς ἡμέρας; n.t. não são doze as horas do dia? xen. as horas do dia, ἐπὶ τὴν ὥραν τῆς προσευχῆς τὴν ἐνάτην n.t. durante a hora da prece, a nona [hora] 
+8 ὥρη δόρποιο hom. hora de jantar, ὥρη καθεύδειν hom. é hora de dormir, ἐν ὥρᾳ ἐργάζεσθαι xen. trabalhar no tempo (destinado ao trabalho), i.e., trabalhar o tempo inteiro, πρὸ τῆς ὥρας ἀπιέναι xen. ir embora antes do tempo, εἰς ὥρας hom. no momento conveniente
+9 οἱ ἐν ὥρᾳ plat. os que estão na flor da idade, ὥραν ἔχειν ésql. estar na flor da idade, ὥστε μηδένα ἀποβάλλειν τῶν ἀνθούντων ἐν ὥρᾳ plat. para não perder nenhum dos que estão na flor da idade
+10 φεῦ φεῦ τῆς ὥρας τοῦ κάλλους ar. oh! que graça, que beleza! τὴν ὥραν πωλεῖν xen., ἀφ᾽ ὥρας ἐργάζεσθαι plut. vender a própria beleza, viver da própria beleza
+11   Ὥρα πότνια, κᾶρυξ Ἀφροδίτας pínd. Hora venerável, mensageira de Afrodite
+12 τέκεν   Ὥρας, Εὐνομίην τε ∆ίκην τε καὶ Εἰρήνην hes. [Têmis] gerou as Horas, Equidade, Justiça e Paz. </def></entryFree><p></p><p></p>
+
+<entryFree>ὡραία, α (ἡ)<def> cf. ὡραῖος. </def></entryFree><p></p><p></p>
+
+<entryFree>ὡραΐζω<def> (impf. ὡρᾴζον, aor. ὡράϊσα; aor. pas. ὡραΐσθην)   1   embelezar; adornar   2   crist. glorificar ♦ pas.  3   intr. estar na flor da idade ou no auge da beleza   4   comportar-se com afetação. 〈ὡραῖος〉 </def></entryFree><p></p><p></p>
+
+<entryFree>ὡραῖος, α, ον<def> 1   da estação; sazonal (produtos da terra): ὡραῖοι καρποί her. frutos da estação, ὡραῖος βίος hes. provisão da estação, trigo   2   que tem um ano; de um ano (animal)   3   feito na época propícia ou no momento oportuno (trabalho, ação): ἄροτος ὡραῖος hes. lavoura feita no tempo oportuno, πλόος ὡραῖος hes. navegação empreendida no momento conveniente   4   que atinge o ponto devido; maduro; pronto: θάνατος ὡραῖος xen. morte na idade certa, morte não prematura, ὡραῖος ἐτελεύτησε ou ἀποτέθνηκε plut. morreu na idade certa, ὡραία γάμου herod. que tem a idade para o casamento, maduro para o casamento   5   conveniente; regular; devido: ὡραῖα ἱερά plat. sacrifícios regulares   6   que está na flor da idade; belo; gracioso; atraente: οἱ καλοὶ καὶ ὡραῖοι xen. os belos e graciosos ♦ ἡ ὡραία   7   estação da ceifa ou da colheita; canícula: περὶ τὴν ὡραίην paus. pela época da colheita   8   estação de operação militar   9   estação das chuvas: τὴν μὲν ὡραῖα οὐκ ὕει her. não chove na estação das chuvas ♦ τὸ ὡραῖον   10   crist. beleza ♦ τὰ ὡραῖα tuc.   11   frutos da estação   12   Medic. menstruação. 〈ὥρα〉  </def></entryFree><p></p><p></p>
+
+<entryFree>ὡραιότης, ητος (ἡ)<def> 1   madureza dos frutos   2   juventude; frescor; beleza   3   ornamento; adorno. 〈ὠραῖος〉 </def></entryFree><p></p><p></p>
+
+<entryFree>ὡραισμός, οῦ (ὁ)<def> 1   beleza; graça   2   adorno sofisticado   3   Ret. afetação (do discurso). 〈ὡραΐζω〉 </def></entryFree><p></p><p></p>
+
+<entryFree>ὡρακιάω-ῶ<def> perder os sentidos; desfalecer. </def></entryFree><p></p><p></p>
+
+<entryFree>ὠρανός<def> dór. = οὐρανός. </def></entryFree><p></p><p></p>
+
+<entryFree>ὥρασι<def> e ὥρασιν adv. na estação ou no tempo oportuno. 〈ὥρα〉  </def></entryFree><p></p><p></p>
+
+<entryFree>ὤργανα<def> cf. ὀργαίνω. </def></entryFree><p></p><p></p>
+
+<entryFree>ὤργασα, ὤργασμαι<def> cf. ὀργαζω.
+  Ὡργεῖος (ὁ) crase poét. de ὁ Ἀργεῖος. </def></entryFree><p></p><p></p>
+
+<entryFree>ὤργισα, ὠργίσθην, ὤργισμαι<def> cf. ὀργίζω. </def></entryFree><p></p><p></p>
+
+<entryFree>ὤρεα<def> pl. dór. de ὄρος. </def></entryFree><p></p><p></p>
+
+<entryFree>ὤρεγμαι, ὤρεξα<def> cf. ὀρέγω. </def></entryFree><p></p><p></p>
+
+<entryFree>ὤρεον<def> impf. jôn. de ὁράω. </def></entryFree><p></p><p></p>
+
+<entryFree>ὤρεσσι<def> dat. pl. ép. contr. de ὄαρ. </def></entryFree><p></p><p></p>
+
+<entryFree>ὠρέξθην<def> cf. ὀρέγω.  </def></entryFree><p></p><p></p>
+
+<entryFree>ὠρέων<def> gen. pl. jôn. de ὥρα.  </def></entryFree><p></p><p></p>
+
+<entryFree>ὤρη<def> jôn. = ὤρα. </def></entryFree><p></p><p></p>
+
+<entryFree>ὤριζον, ὤρικα<def> cf. ὀρίζω. </def></entryFree><p></p><p></p>
+
+<entryFree>ὡρικός, ή, όν<def> 1   que está no ponto; maduro   2   que está em todo o seu vigor, na flor da idade; jovem; belo. 〈ὥρα〉 </def></entryFree><p></p><p></p>
+
+<entryFree>ὡρικώς<def> adv. no ponto; no momento oportuno. </def></entryFree><p></p><p></p>
+
+<entryFree>ὤρινα, ὠρίνθην<def> cf. ὀρίνω. </def></entryFree><p></p><p></p>
+
+<entryFree>ὥριος, α<def> e, poét., ος, ον   1   que se faz na época certa; regular; habitual: ὥριος ὄμβρος hes. chuva habitual, no momento desejado, ὥριαι τελεταί pind. sacrifícios nas épocas determinadas   2   que se faz no momento oportuno ou favorável: ὥριον ἔργον hes. trabalho na hora certa, trabalho oportuno   3   maduro; pronto para algo, dat.: πλόος κώπαις ὥριος arato navegação pronta para os remos, navegação oportuna, κούρη ὥριος γάμῳ a.p. jovem na idade de casamento   4   propício; favorável: ὥρια πάντα γένοιτο teócr. que todos os momentos sejam favoráveis   5   que está na flor da idade ♦ ὥρια   6   frutos da estação: ὥρια πάντα hom. todos os frutos da estação. 〈ὥρα〉 </def></entryFree><p></p><p></p>
+
+<entryFree>ὥριστος<def> crase de ὁ ἄριστος. </def></entryFree><p></p><p></p>
+
+<entryFree>ὠρίων, ωνος (ὁ)<def> pássaro fabuloso.
+ Ὠρίων, ωνος (ὁ)   1   Órion, caçador mítico, amante de Aurora   2   Órion, constelação. </def></entryFree><p></p><p></p>
+
+<entryFree>ὡρμάθην<def> aor. pas., ὥρμασα aor. at., formas dór. de ὁρμάω. </def></entryFree><p></p><p></p>
+
+<entryFree>ὡρμεόμην<def> impf. pas. jôn. de ὁρμάω. </def></entryFree><p></p><p></p>
+
+<entryFree>ὥρμηνα<def> cf. ὁρμαίνω. </def></entryFree><p></p><p></p>
+
+<entryFree>ὥρμισα<def> cf. ὁρμίζω. </def></entryFree><p></p><p></p>
+
+<entryFree>ὥρμων<def> cf. ὁρμάω. </def></entryFree><p></p><p></p>
+
+<entryFree>ὤρνυον<def> impf. de ὀρνύω. </def></entryFree><p></p><p></p>
+
+<entryFree>ὤρνυτο<def> 3ª sing. impf. pas. de ὄρνυμι. </def></entryFree><p></p><p></p>
+
+<entryFree>ὡρογράφος, ου (ὁ)<def> redator de anais; compendiador. 〈ὥρα, γράφω〉 </def></entryFree><p></p><p></p>
+
+<entryFree>ὡρολόγιον, ου (τό)<def> relógio; quadrante solar. 〈ὥρα, λέγω〉  </def></entryFree><p></p><p></p>
+
+<entryFree>ὡρόμαντις, εως (ὁ)<def> profeta das horas, ref. ao galo. </def></entryFree><p></p><p></p>
+
+<entryFree>ὠρόμην<def> aor.2 méd. de ὄρνυμι. </def></entryFree><p></p><p></p>
+
+<entryFree>ὧρος, ου (ὁ)<def> 1   ano   2   pl. anais. </def></entryFree><p></p><p></p>
+
+<entryFree>ὦρος, εος (τό)<def> dór. = ὄρος. </def></entryFree><p></p><p></p>
+
+<entryFree>ὤρουν, ὤρουσα<def> cf. ὀρούω. </def></entryFree><p></p><p></p>
+
+<entryFree>ὠρρώδουν<def> cf. ὀρρωδέω. </def></entryFree><p></p><p></p>
+
+<entryFree>ὦρσε<def> 3ª sing. aor. de ὄρνυμι. </def></entryFree><p></p><p></p>
+
+<entryFree>ὦρτο<def> 3ª sing. aor.2 méd. de ὄρνυμι. </def></entryFree><p></p><p></p>
+
+<entryFree>ὠρυγή, ῆς (ἡ)<def> bramido.  </def></entryFree><p></p><p></p>
+
+<entryFree>ὠρυγμός, οῦ (ὁ)<def> rugido. 〈ὠρυγή〉 </def></entryFree><p></p><p></p>
+
+<entryFree>ὤρυξα<def> aor. de ὀρύσσω. </def></entryFree><p></p><p></p>
+
+<entryFree>ὠρυσάμην<def> cf. ὠρύω.  </def></entryFree><p></p><p></p>
+
+<entryFree>ὤρυσσον, ὠρύχθην<def> cf. ὀρύσσω.  </def></entryFree><p></p><p></p>
+
+<entryFree>ὠρύω<def> ger. méd. ὠρύομαι (fut. ὠρύσομαι, aor. ὠρυσάμην)   1   (cão, lobo) uivar; ulular   2   (leão) urrar; rugir   3   (mar) bramir   4   (pessoa) soltar gritos de dor por causa de, ac. ou περί e ac. ou ἐπί e dat.   5   gritar de alegria. </def></entryFree><p></p><p></p>
+
+<entryFree>ὡρχαῖοι<def> crase jôn. de οἱ ἀρχαῖοι. </def></entryFree><p></p><p></p>
+
+<entryFree>ὠρχεῦντο<def> 3ª pl. poét. impf. méd. de ὀρχέω. </def></entryFree><p></p><p></p>
+
+<entryFree>ὤρχων<def> crase jôn. e dór. de ὁ ἄρχων.  </def></entryFree><p></p><p></p>
+
+<entryFree>ὠρωρύγμην, ὠρωρύχειν<def> cf. ὀρύσσω. </def></entryFree><p></p><p></p>
+
+<entryFree>ὥς1<def> e ὧς adv. dem.   1   assim; desta maneira: ὣς φάτο hom. assim falou, ὣς    Ἕκτωρ ἀγόρευσε hom. assim falou Heitor   2   assim; por isso: ὣς οὐ τοῦτον μῦθον ἐνίψω hom. por isso não pronunciarei mais esta palavra   3   assim; por exemplo ♦ καὶ ὥς   4   mesmo assim; de toda maneira; todavia; não obstante: οὐδ᾽ ὥς (οὐδ᾽ ὧς), μηδ᾽ ὥς (ou μηδ᾽ ὧς) nem mesmo assim, ἀλλ᾽ οὐδ᾽ ὧς ἐτάρους ἐρρύσατο hom. mas nem mesmo assim salvou os companheiros, ἠξιώσαμεν μηδ᾽ ὣς τὸ τῶν προλοιπὸν ξυμμάχων κοινὸν προλιπεῖν tuc. estimamos que nem mesmo assim devíamos abandonar o interesse comum dos aliados.  </def></entryFree><p></p><p></p>
+
+<entryFree>ὥς2<def>  ὡς1, posposto ao termo ao qual se refere. </def></entryFree><p></p><p></p>
+
+<entryFree>ὡς1<def> e, posposto, ὥς.
+conj. comparativa/adv. relativo
+1	(modo) do mesmo modo como; do modo como; como; ger. em correl. com adv. dem. ὥς... ὥς, ὡς... οὕτω(ς), ὡς... ὧδε, ὧδε... ὡς, do mesmo modo como; ép., antes de or. temporal, ὡς δ᾽ ὅτε, ὡς δ᾽ ὅτ᾽ ἄν da mesma forma que quando, como quando; poét., com ἄν ou ke, implica indeterminação
+2	(quantidade) tanto quanto
+3	(conformidade, relação) conforme; como; pode envolver alguma indeterminação, na medida em que, pelo que
+4	(tempo) tanto tempo quanto; ao mesmo tempo que; enquanto
+5	(condicionalidade) como se (fosse); como; à guisa de; na qualidade de; se for para
+6	(aproximação) como que; algo como; cerca de
+7	(intensidade em exclamação) quão!, que!, como!
+8	(desejo em exclamação) com opt., por vezes acompanhado de ἄν ou κε, geralmente não se traduz
+9	(intensificação em inter. ind.) de que maneira; como; quanto; quão
+10	introduzindo o complemento de um comp., que; do que
+conj. adverbial
+11	(de fim) a fim de (que); para (que); com a intenção de (que); com vista a (que), com subj. ou opt. oblíquo
+12	(de consequência) que; de (tal) sorte que; com inf., de modo a
+13	(de tempo) quando; desde que; logo que; depois que; todas as vezes que; cada vez que
+14	(de causa) porque; pois
+conj. integrante
+15	que, com ind. e com opt.
+
+1 ὡς ἂν εἴπω, πειθώμεθα πάντες hom. façamos todos como (do mesmo modo como) eu disser, πάϊς δ᾽ ὣς νήπια βάζεις hom. dizes tolices como (= da mesma maneira que) uma criança, θεὸς δ᾽ ὣς τίετο hom. ele era honrado como um deus, κινήθη δ᾽ ἀγορὰ ὡς κύματα μακρὰ θαλάσσης hom. a assembléia ficou agitada como as grandes ondas do mar, ὡς δ᾽ ἄνεμος ἄχνας φοβέει..., ὣς τότ᾽ Ἀχαιοί hom. como o vento espalha a palha, assim também os gregos, οὕτω νῦν καὶ ἐγὼ νοέω ὡς σὺ εΐκεις hom. agora também eu penso de tal modo como imaginas, κίονας ὡς ὅτε θαυμαστὸν μέγαρον πάξομεν pínd. erigiremos colunas como quando construímos um magnífico palácio, ἥριπε δ᾽ ὡς ὅτε τις δρῦς ἤριπεν hom. ele tombou como tomba um carvalho (como quando tomba), ὡς ἂν ποήσῃς sóf. do modo como ages, seja qual for, αὐτῷ ὥς κεν ἅδῃ, τὼς ἔσσεται a.p. do modo como te agrade, assim será
+2 ἑλὼν κρέας ὥς οἱ χεῖρες ἐχάνδανον hom. tendo tomado da carne tanto quanto suas mãos podiam conter, τὼς δέ σ᾽ ἀπεχθήρω, ὡς νῦν σ᾽ ἔκπαγλ᾽ ἐφίλησα hom. e que eu te odeie tanto quanto estranhamente eu te amei até agora
+3 ὡς ὁ μάντις φησίν ésql. segundo o que diz o adivinho, ὡς φάτις ἀνδρῶν sóf. como dizem os homens, ὡς δὲ Σκύθαι λέγουσι νεώτατον ἁπάντων ἐθνέων εἶναι τὸ σφέτερον (por ἐστίν, ὡς λέγουσι) her. a nação dos citas, segundo o que eles mesmos dizem, é a mais nova de todas, ὡς δ᾽ ἐγὼ ἤκουσα εἶναι αὐτὸν  Ἰδανθύρσου πάτρων her.. conforme o que eu ouvi (dizer), ele era tio de Idantirso, ὡς ἐκ τῶν δυνατῶν tuc. na medida em que isso é possível, ὡς ἐμὲ εὖ μεμνῆσθαι her. pelo que bem me lembro, ὡς σάφ᾽ εἰκάσαι sóf. pelo que se pode claramente conjeturar, ὡς ἐτητύμως sóf. verdadeiramente, θαυμαστῶς ὡς plat. espantosamente
+4 ὡς ἂν οὗτος ἥλιος αἴρη sóf. tanto tempo quanto esse sol se elevará no céu, ὡς πρὸς ἀστρονομίαν ὄμματα πέπηγεν, ὣς πρὸς ἐναρμόνιον φορὰν ὦτα παγῆναι plat. ao mesmo tempo que seus olhos se fixam no curso dos astros, os ouvidos estão fixos nos acordes harmoniosos que lhes chegam, ὡς ἄν ᾖς οἱόσπερ εἶ sóf. enquanto fores tal qual és 
+5 συσκευάζεσθαι ὡς εἰς στρατείαν xen. fazer os preparativos como (se fosse) para uma expedição, ὡς σιτίον καὶ φάρμακον διδόναι xen. dar também veneno à guisa de alimento, δεδίασιν ὡς εἰδότες plat. temiam como se soubessem, ὡς πολεμίοις αὐτοῖς χρῶνται xen. eles os tratavam como a inimigos, μακρὰν ὡς γέροντι ὁδόν sóf. longo caminho, para um velho
+6 ἀπέθανον ὡς πεντακόσιοι xen. algo como quinhentos morreram, ὡς δύο παρασάγγας xen. como que (cerca de) duas parasangas
+7 ὡς ἄνοον κραδίην ἔχες hom. que espírito imprudente tens! ὡς ἀστεῖος ὁ ἄνθρωπος plut. que homem encantador! ὡς ἄρα ἐφλυαροῦμεν xen. como fazíamos coisas pueris!
+8 ὡς ἔρις ἀπόλοιτο hom. possa cessar a discórdia, ὡς ὤφελες αὐτόθ᾽ ὀλέσθαι hom. oxalá tivesse perecido lá mesmo
+9 διελέγοντο πρὸς ἀλλήλους ὡς μνημονικὸς ὁ Κῦρος xen. eles diziam uns aos outros como Ciro tinha boa memória, θαυμάζω ὡς ἡδέως καθεύδεις plat. admiro como dormes calmamente, μερμήριζε ὡς Ἀχιλῆα τιμήσειε hom. meditava como honraria Aquiles
+10 μᾶλλον πρέπει οὕτως ὡς plat. convém mais deste modo que, οὐδενὸς μᾶλλον φροντίζειν ὡς pol. não preocupar-se com nada mais que
+11 ἐλάμβανε τὸ τόξον ὡς κατατοξεύσων αὐτόν her. ele tomava o seu arco a fim de atingi-lo com uma flecha, συλλαμβάνει Κῦρον ὡς ἀποκτενῶν xen. detém Ciro para matá-lo, παρεσκευάζοντο ὡς πολεμήσοντες tuc. preparavam-se com vista a fazer a guerra
+12 εὗρος ὡς δύο τριήρεις πλέειν ὁμοῦ her. de uma largura tal que duas trirremes possam navegar de frente, ἐνετύγχανον τάφροις πλήρεσιν ὕδατος ὡς μὴ δύνασθαι διαβαίνειν xen. encontraram poças cheias d’água, de tal sorte que não se podia atravessar, οὕτως ἐμοὶ ἐβοήθησας ὡς νῦν σέσωσμαι xen. tu me socorreste de tal modo que agora estou salvo, οὕτως ὡπλισμένοι ὡς ὅτι προσωτάτω ταχθέντες μάχεσθαι xen. armados de modo a combater em linha o mais longe possível
+13 ὡς δὲ εἶδεν ἔλαφον xen. quando viu uma corça, εὐθὺς ὡς ἤκουσεν ésql. desde que ouviu, ὡς ἄρα μιν προσστῆναι τοῦτο, ἐς τρὶς ὀνομάσαι Σόλωνα her. logo que isso lhe veio ao pensamento, pronunciou três vezes o nome de Sólon, ὡς δὲ εἰς τὴν Μιλησίην ἀπίκοιτο her. todas as vezes que ele chegava a Mileto, τῶν δὲ ὡς ἕκαστός οἱ μιχθῆ, διδοῖ δῶρον her. cada vez que cada um deles se une à mulher, ele dá um presente
+14 τί ποτε λέγεις, ὦ τέκνον; ὡς οῦ μανθάνω, sóf. o que enfim tu dizes, criança? porque eu não compreendo, δείξει αὐτός, ὡς ἔγωγ᾽ ἀπέρχομαι ar. ele mesmo te mostrará, porque eu já estou indo embora
+15 ὡς εἴσ᾽ ἀληθεῖς οἶδα sóf. eu sei que eles são sinceros, οὔποτ᾽ ἐρεῖ οὐδεὶς ὡς ἐγὼ τὴν τῶν βαρβάρων φιλίαν εἱλόμην xen. jamais alguém dirá que preferi a amizade dos bárbaros, ἐλέχθη ὡς οἱ Πελοποννήσιοι φάρμακα ἐσβεβλήκοιεν ἐς τὰ φρέατα tuc. foi dito que os peloponésios jogaram veneno nos poços, προεῖπεν ὡς μηδεὶς κινήσοιτο xen. ordenou que ninguém se movesse. </def></entryFree><p></p><p></p>
+
+<entryFree>ὡς2<def> prep. com ac.   1   com n. de pessoa, (indo) para; junto de; em casa de: αἰεὶ τὸν ὁμοῖον ἄγει θεὸς ὡς τὸν ὁμοῖον hom. um deus sempre conduz o semelhante para o seu semelhante, ἐσελθόντα δὲ ὡς τοῦ βασιλέος τὴν θυγατέρα her. tendo ele chegado junto da filha do rei   2   com n. de lugar, a; para: Ἀστυόχου ἤκοντος ὡς τὴν Μίλητον tuc. tendo Astíoco chegado a Mileto. </def></entryFree><p></p><p></p>
+
+<entryFree>ὦσα<def> aor. de ὠθέω. </def></entryFree><p></p><p></p>
+
+<entryFree>ὡσάν<def> e ὡς ἄν conj.   1   como se: κρότον τοιοῦτον ὡς ἂν ἐπαινοῦντες ἐποιήσατε dem. fizestes um tal rumor como se estivésseis aplaudindo   2   como se fosse: τὸν Κῦρον ἐπερέσθαι ὡς ἂν παῖς xen. interrogar a Ciro como se ele fosse uma criança   3   visto que: ὡς ἂν τοῖς πλείστοις φίλος ὤν luc. visto que era amigo da maioria. </def></entryFree><p></p><p></p>
+
+<entryFree>ὡσανεί<def> conj. como se; como se fosse; por assim dizer; quase: μήτε βλέπειν μήτ᾽ ἀκούειν ἀλλ᾽ ὡσανεὶ βλέπειν καὶ ὡσανεὶ ἀκούειν plut. sem ver nem ouvir, mas como se visse e ouvisse, ὡσανεὶ προκαλούμενος τοὺς πολεμίους pol. quase provocando os inimigos. 〈ὡς, ἄν, εἰ〉 </def></entryFree><p></p><p></p>
+
+<entryFree>ὤσασκε<def> 3ª sing. do aor. iter. de ὠθέω.  </def></entryFree><p></p><p></p>
+
+<entryFree>ὡσαύτως<def> adv. do mesmo modo que, dat.; semelhantemente; igualmente; em Hom., com tmese, ὡς δ᾽ αὔτως: ἐὰν μὴ μετανοήσητε, πάντες ὡσαύτως ἀπολεῖθε n.t. se não fizerdes penitência, do mesmo modo todos perecereis, ὡς δ᾽ αὔτως Μενέλαος ἀρήιος ἔντε᾽ ἔδυνεν hom. da mesma forma, Menelau guerreiro revestiu-se com suas armas, Μῆδοι δὲ τήν περ ἐν τῷ πεζῷ εἶχον σκευήν, καὶ Κίσσιοι ὡσαύτως her. os [cavaleiros] medos usavam exatamente o equipamento da infantaria, e os císsios também, καὶ ὡσαύτως οἱ  Ἠλεῖοι τοῖσι Μαντινεῦσι συμφορὴν ποιησάμενοι ἀπαλλάσσοντο her. e do mesmo modo que os mantineus, os eleus foram embora muito desolados. </def></entryFree><p></p><p></p>
+
+<entryFree>ὦσδε<def> 3ª sing. impf. dór. de ὄζω. </def></entryFree><p></p><p></p>
+
+<entryFree>ὡσεί<def> conj.   1   como se; como quando   2   como; da mesma maneira que ♦ adv.   3   com num., quase; cerca de. 〈ὥς, εἰ〉  </def></entryFree><p></p><p></p>
+
+<entryFree>ὤσθην<def> aor. pas. de ὠθέω.  </def></entryFree><p></p><p></p>
+
+<entryFree>ὠσί<def> dat. pl. de οὖς. </def></entryFree><p></p><p></p>
+
+<entryFree>ὦσι<def> 3ª pl. subj. de εἰμί. </def></entryFree><p></p><p></p>
+
+<entryFree>ὡσίουν<def> cf. ὁσιόω. </def></entryFree><p></p><p></p>
+
+<entryFree>ὦσις, εως (ἡ)<def> choque; golpe. 〈ὠθέω〉 </def></entryFree><p></p><p></p>
+
+<entryFree>ὠσιώθην<def> cf. ὀσιόω.  </def></entryFree><p></p><p></p>
+
+<entryFree>ὦσμαι<def> perf. pas. de ὠθέω. </def></entryFree><p></p><p></p>
+
+<entryFree>ὥσπερ<def> (em Hom., às vezes com tmese, ὡς... περ) adv. e conj. comp.   1   como; assim como; da mesma forma que; tal qual: τοῖς ἠτυχηκόσιν ὥσπερ ἐγώ dem. aos que são desafortunados assim como eu, ζῆν ὥσπερ ἤδη ζῇς sóf. viver da mesma maneira que já vives, τηλίκου ὥσπερ ἐγών hom. da mesma idade que a minha   2   como; por exemplo: ὅταν χορὸς γίγνεται, ὥσπερ ὁ εἰς ∆ῆλον πεμπόμενος xen. quando se forma um coro, como por exemplo o que se envia a Delos, μοῖραν ἴσην ὡς αὐτοί περ ἐλάγχανον hom. parte igual àquela a que eles mesmos tinham direito   3   por assim dizer; quase: ὥσπερ ἀκονιτί tuc. sem poeira por assim dizer, i.e., quase sem combate   4   (conform.) como; conforme; segundo: ὥσπερ λέγω plat. como estou dizendo   5   (comp.) como se: ὥσπερ ἐντεταμένου τοῦ σώματος plat. como se o corpo estivesse esticado.  </def></entryFree><p></p><p></p>
+
+<entryFree>ὡσπερεί<def> conj.   1   como se ♦ adv.   2   de qualquer sorte. </def></entryFree><p></p><p></p>
+
+<entryFree>ὡσπεροῦν<def> conj. e adv., como efetivamente; desde que efetivamente; pois que efetivamente: εἰ δ᾽ ἔστιν ὡσπεροῦν ἐστι, Θεός plat. se Deus existe, e ele existe efetivamente. </def></entryFree><p></p><p></p>
+
+<entryFree>ὥστε<def> (às vezes com tmese, ὥς τε) conj. e adv.
+conj. comparativa
+1   como; da mesma forma que
+2   com causalidade implicada, como; dando-se o fato de que; na qualidade de; já que
+conj. consecutiva
+3   de (tal) modo a; de (tal) sorte que; ao ponto de; de maneira a fazer que; nas condições tais que; na condição de, com ind., opt. ou inf. 
+adv.
+4   a um ponto (determinado pelo sentido do advérbio)
+
+1 ὥστε μύρμηκες ésql. como formigas, ὥστε θεώπερ ἀμφὶς ἀριζήλω hom. da mesma forma que os deuses, ambos muito brilhantes, ὥς τ᾽ ὀρνίθων ἔθνεα ποτῶνται hom. como bandos de pássaros volteiam 
+2 τὸν δ᾽ ἐξήρπαξ᾽ Ἀφροδίτη ῥεῖα μάλ᾽ ὥστε θεός hom. mas Afrodite arrebatou-o facilmente, como deusa (que era), ὥστε δὲ ταῦτα νομίζων her. como acreditava nisso, τὸν ὄγδοον ὥστε Κόροιβον οὐ συναριθμέομεν cal. o oitavo não contamos, já que é Corebo, ὥστε φυλασσομένων τῶν ὁδῶν her. visto que as estradas estavam guardadas
+3 εἰδὼς ἃ ἐπαγγέλοιντο, ὥστε ἐκπλεῖν xen. sabendo o que eles proporiam, de sorte a levantar âncora, οὕτως ἀγνωμόνος ἔχετε, ὥστε ἐλπίζετε; dem. sois tão tolos, a ponto de serdes esperançosos? ὥστε ὁ βίος ἀβίωτος γίγνοιτ᾽ ἄν plat. de sorte que a vida se tornaria insuportável, καὶ εἰς μὲν τὴν ὑστεραίαν οὐκ ἧκεν, ὥσθ᾽ οἱ    Ἕλληνες ἐφρόντιζον xen. e no dia seguinte ele não voltou, de sorte que os gregos se preocuparam, ὥστ᾽ εἰ φρονῶν ἔπρασσον, οὐδ᾽ ἂν ὥδ᾽ ἐγιγνόμην κακός sóf. de tal sorte que, se eu tivesse agido refletidamente, eu não me teria tornado mau, ὥστε οὐκ ἂν ἔλαθεν αὐτόθεν ὀρμώμενος tuc. de tal sorte que sua partida não passou despercebida, ὥστε ἀποπλησθῆναι τὸν χρησμὸν her. de sorte que o oráculo não se cumpriu, ἔτι τηλίκος εἰμί, ὥστ᾽ ἐπιτειλαμένῳ σημάντορι πάντα πιθέσθαι hom. eu ainda não sou tão idoso, para obedecer em tudo a um mestre que dá ordens
+4 πόλεμος σκληρὸς ὥστε λίαν sept. uma guerra dura, a um ponto extremo (a ponto de ser extremamente dura). </def></entryFree><p></p><p></p>
+
+<entryFree>ὥστε<def> ac. pl. dór. do pron. rel. ὅστε. </def></entryFree><p></p><p></p>
+
+<entryFree>ὠστίζομαι<def> dar encontrões; dar esbarrões; acotovelar-se.  </def></entryFree><p></p><p></p>
+
+<entryFree>ὠστράκιζον, ὠστρακισμένος<def> cf. ὀστρακίζω. </def></entryFree><p></p><p></p>
+
+<entryFree>ὤσφραντο<def> 3ª pl. aor. méd. jôn. de ὀσφραίνω. </def></entryFree><p></p><p></p>
+
+<entryFree>ὠσφρησάμην, ὠσφρόμην<def> aor. e aor.2 méd. de ὀσφραίνω. </def></entryFree><p></p><p></p>
+
+<entryFree>ὦσχος, ου (ὁ)<def>  ὄσχος.  </def></entryFree><p></p><p></p>
+
+<entryFree>ὠσχοφόρια, ων (τά)<def> oscofórias, festa ateniense em que se carregavam em procissão brotos de videira. 〈ὦσχος, φέρω〉 </def></entryFree><p></p><p></p>
+
+<entryFree>ὤσω<def> fut. de ὠθέω. </def></entryFree><p></p><p></p>
+
+<entryFree>ὧτα<def> pl. de οὗς. </def></entryFree><p></p><p></p>
+
+<entryFree>ὠτακουστέω-ῶ<def> prestar ouvidos; procurar ouvir; espionar. </def></entryFree><p></p><p></p>
+
+<entryFree>ὠτακουστής, οῦ (ὁ)<def> escuta; espião. 〈οὖς, ἀκούω〉 </def></entryFree><p></p><p></p>
+
+<entryFree>ὦ τᾶν<def> cf. τάν. </def></entryFree><p></p><p></p>
+
+<entryFree>ὠτάριον, ου (τό)<def> 1   orelhinha   2   orelha   3   pequena asa ou alça (de objeto)   4   espécie de molusco. 〈οὖς〉  </def></entryFree><p></p><p></p>
+
+<entryFree>ᾧτε<def> dat. sing. do pron. rel. ὅστε. </def></entryFree><p></p><p></p>
+
+<entryFree>ὠτειλή, ῆς (ἡ)<def> 1   ferida aberta   2   ferida   3   úlcera   4   cicatriz. 〈οὐτάω〉 </def></entryFree><p></p><p></p>
+
+<entryFree>ὥτερος<def> crase dór. de ὁ ἕτερος. </def></entryFree><p></p><p></p>
+
+<entryFree>ᾧτινι<def> dat. de ὅστις. </def></entryFree><p></p><p></p>
+
+<entryFree>ὠτίον, ου (τό)<def> 1   orelha   2   asa; alça (de objeto). 〈οὖς〉 </def></entryFree><p></p><p></p>
+
+<entryFree>ὠτίς, ίδος (ἡ)<def> abetarda, ave. 〈οὖς〉 </def></entryFree><p></p><p></p>
+
+<entryFree>ὠτοκάταξις, ιος (ὁ)<def> atleta de orelha rasgada por golpes. 〈οὖς, κατάγνυμι〉 </def></entryFree><p></p><p></p>
+
+<entryFree>ὠτός<def> gen. de οὖς. </def></entryFree><p></p><p></p>
+
+<entryFree>ὦτος, ου (ὁ)<def> 1   bufo, espécie de coruja   2   pessoa tola, imbecil ♦  Ὦτος   3   Oto, n. de herói mítico. 〈οὖς〉 </def></entryFree><p></p><p></p>
+
+<entryFree>ὤτρυνα, ὠτρύνθην, ὤτρυνον<def> cf. ὀτρύνω.
+ Ὠττικοί crase dór. por οἱ Ἀττικοί. </def></entryFree><p></p><p></p>
+
+<entryFree>ὠτώεις, ώεσσα, ῶεν<def> guarnecido de asas (objeto). 〈οὖς〉 </def></entryFree><p></p><p></p>
+
+<entryFree>ὠτῶν<def> gen. pl. de οὖς. </def></entryFree><p></p><p></p>
+
+<entryFree>ωὑτός<def> crase jôn. e dór. de ὁ αὐτός. </def></entryFree><p></p><p></p>
+
+<entryFree>ὤφειλα<def> aor. de ὀφέλλω. </def></entryFree><p></p><p></p>
+
+<entryFree>ὠφειλήθην, ὠφείληκα, ὠφείλησα<def> cf. ὀφείλω. </def></entryFree><p></p><p></p>
+
+<entryFree>ὤφειλον<def> impf. de ὀφείλω.  </def></entryFree><p></p><p></p>
+
+<entryFree>ὠφέλεια<def> e ὠφελία (ἡ)   1   ajuda; assistência; socorro: ὠφε­λίαν ὠφελεῖν, παρέχειν prestar ajuda, dar assistência, ὠφε­λίαν προσλαμβάνειν tuc. receber assistência   2   socorro militar: ὠφελίαν τινὰ πειρᾶσθαι ἀπ᾽ ἀὐτῶν εὑρίσκεσθαι tuc. tentar conseguir deles algum socorro   3   utilidade; vantagem; proveito: ἡ ὠφελία ἡ τῶν τειχέων her. a utilidade das muralhas, ἐπ᾽ ὠφελίᾳ ἐς τὰς ἄλλας πόλεις tuc. em socorro de outros povos   4   pl. vantagens; lucros; benefícios: ἡ τοῖς φίλοις τε καὶ ἐχθροῖς ὠφελίας τε καὶ βλάβας ἀποδιδοῦσα plat. a [arte] que confere benefícios aos amigos e aos inimigos, prejuízos, τὴν κοινὴν ὠφελίαν φύλαξαι tuc. velar pelo interesse comum   5   despojo de caça ou de guerra; butim: μεγάλας ὠφελείας ἀθροίζειν plut. recolher grandes despojos. 〈ὄφελος〉 </def></entryFree><p></p><p></p>
+
+<entryFree>ὠφελέω-ῶ<def> (fut. ὠφελήσω, aor. ὠφέλησα, perf. ὠφέληκα, m.-q.-perf. ὠφελήκειν e ὠφελήκη; pas. fut. ὠφεληθήσομαι, aor. ὠφελήθην, perf. ὠφέλημαι)   1   ser útil a alguém, ac. ou dat., em algo, ac., para algo, εἰς ou πρός e ac.; ajudar; socorrer: τί δῆτ᾽ ἂν ἀλλὰ νῦν σ᾽ ἔτ᾽ ὠφελοῖμ᾽ ἐγώ; sóf. mas agora em que eu ainda poderia ser útil a ti? τοῖς θανοῦσι πλοῦτος οὐδὲν ὠφέλει ésql. a riqueza em nada ajuda aos mortos, μένων ἐν τῇσι  Σάρδισι  Ὀροίτης ὠφέλεε μὲν οὐδὲν Πέρσας her. permanecendo em Sardes, Oretes de nada servia aos persas, τούς τε Πελοποννησίους ὠφέλουν ἐς τὰ ναυτικὰ κυβερνήτας πέμποντες tuc. ajudavam os peloponésios enviando pilotos para a frota ♦ pas.   2   receber ajuda; tirar partido de; tirar proveito de; obter vantagem de algo ou de alguém, dat. ou gen. ou ἐκ, ἀπό, παρά, πρός, ὑπό e gen., em vista de, εἰς ou πρός e ac., por meio de,  διά e ac. ou gen.: τῷ πλήθει τῶν νεῶν οὐκ ὠφελήσον­ται tuc. eles não tirarão proveito da multidão dos navios, ἔσθ᾽ ὅτι ὠφελεῖται ὁ δημιουργὸς ἀπὸ τῆς τέχνης; plat. há alguma vantagem que o artífice obtenha de sua arte? τοιάδε ἐξ ἐμοῦ ὁ τῶν θεῶν τύραννος ὠφελημένος  ésql. o senhor dos deuses obtendo de mim tal proveito, δι’ ἁρπαγῆς ὠφελεῖσθαι plat. tirar proveito de saques. 〈ὄφελος〉 </def></entryFree><p></p><p></p>
+
+<entryFree>ὠφέλημα, ατος (τό)<def> 1   coisa vantajosa; fonte de proveito; benefício   2   pessoa benfeitora   3   utilidade; vantagem; proveito. 〈ὠφελέω〉 </def></entryFree><p></p><p></p>
+
+<entryFree>ὠφελήσιμος, ος, ον<def> 1   útil, vantajoso   2   que presta socorro; prestativo; serviçal (pessoa). 〈ὠφελέω〉  </def></entryFree><p></p><p></p>
+
+<entryFree>ὠφέλησις, εως (ἡ)<def> vantagem; utilidade. 〈ὠφελέω〉  </def></entryFree><p></p><p></p>
+
+<entryFree>ὠφελητέος, α, ον<def> adj. verb. de ὠφελέω.  </def></entryFree><p></p><p></p>
+
+<entryFree>ὠφελία<def>  ὠφέλεια.  </def></entryFree><p></p><p></p>
+
+<entryFree>ὠφελίη<def> jôn. = ὠφέλεια. </def></entryFree><p></p><p></p>
+
+<entryFree>ὠφέλιμος, ος<def> e η, ον   1   que presta socorro; prestativo; serviçal (pessoa)   2   útil; vantajoso; proveitoso (coisa), a alguém, dat. ou εἰς e ac., para algo, inf. ou εἰς, πρός e ac. ou ὑπέρ e gen. ♦ τὸ ὠφέλιμον   3   utilidade; vantagem. 〈ὠφελέω〉  </def></entryFree><p></p><p></p>
+
+<entryFree>ὠφελίμως<def> adv. utilmente; de maneira vantajosa. </def></entryFree><p></p><p></p>
+
+<entryFree>ὤφελλον<def> impf. de ὀφέλλω. </def></entryFree><p></p><p></p>
+
+<entryFree>ὤφελον<def> aor.2 de ὀφείλω. </def></entryFree><p></p><p></p>
+
+<entryFree>ὦφθαι<def> inf. perf. pas., ὤφθην aor. pas., de ὁράω e de ὄσσομαι. </def></entryFree><p></p><p></p>
+
+<entryFree>ὤφληκα, ὤφλησα, ὦφλον<def> cf. ὀφλισκάνω. </def></entryFree><p></p><p></p>
+
+<entryFree>ὠφρόντιστος<def> crase poét. por ὁ ἀφρόντιστος. </def></entryFree><p></p><p></p>
+
+<entryFree>ὠφρυωμένος, η, ον<def> part. perf. méd. pas. de ὀφρυόω. </def></entryFree><p></p><p></p>
+
+<entryFree>ὦχ᾽<def>  ὦκα em elisão, diante de vogal aspirada. </def></entryFree><p></p><p></p>
+
+<entryFree>ὤχει, ὠχεῖτο<def> 3ª sing. impf. at. e pas. de ὀχέω. </def></entryFree><p></p><p></p>
+
+<entryFree>ᾥχετο<def> 3ª sing. impf. de οἴχομαι. </def></entryFree><p></p><p></p>
+
+<entryFree>ὤχευμαι, ὤχευσα<def> cf. ὀχεύω. </def></entryFree><p></p><p></p>
+
+<entryFree>ᾤχεμαι<def> cf. οἴχομαι.  </def></entryFree><p></p><p></p>
+
+<entryFree>ὤχησα<def> cf. ὀχέω. </def></entryFree><p></p><p></p>
+
+<entryFree>ᾤχθην<def> aor. pas. de οἴγνυμι e de οἴγω. </def></entryFree><p></p><p></p>
+
+<entryFree>ὤχθην<def> 3ª pl. aor. de ὀχθέω. </def></entryFree><p></p><p></p>
+
+<entryFree>ὤχμασα<def> aor. de ὀχμάζω.  </def></entryFree><p></p><p></p>
+
+<entryFree>ᾠχόμην<def> impf. de οἴχομαι. </def></entryFree><p></p><p></p>
+
+<entryFree>ὤχουν<def> impf. de ὀχέω.  </def></entryFree><p></p><p></p>
+
+<entryFree>ὤχρα<def> 3ª sing. impf. de ὠχράω. </def></entryFree><p></p><p></p>
+
+<entryFree>ὠχρά<def> fem. de ὠχρός. </def></entryFree><p></p><p></p>
+
+<entryFree>ὠχράω-ῶ<def> (3ª sing. impf. ὤχρα, 3ª subj. aor. ὠχρήσῃ, 3ª opt. aor. ὠχρήσαι, part. aor. ac. ὠχρήσαντα) tornar-se amarelo ou pálido; empalidecer. 〈ὠχρός〉 </def></entryFree><p></p><p></p>
+
+<entryFree>ὠχρίασις, εως (ἡ)<def> empalidecimento; palidez. 〈ὠχριάω〉 </def></entryFree><p></p><p></p>
+
+<entryFree>ωχριάω-ῶ<def> (fut. ὠχριάσω, aor. ὠχρίασα, perf. ὠχρίακα) = ὠχράω.  </def></entryFree><p></p><p></p>
+
+<entryFree>ὠχρός, ά, όν<def> 1   de um amarelo pálido; pálido ♦ τὸ ὠχρόν   2   a cor amarelo pálido   3   o amarelo; a gema: τὸ ὠχρὸν τοῦ ᾠμοῦ arist. o amarelo do ovo.  </def></entryFree><p></p><p></p>
+
+<entryFree>ὦχρος, ου (ὁ)<def> cor amarelo pálido; palidez. </def></entryFree><p></p><p></p>
+
+<entryFree>ὠχρότης, ητος (ἡ)<def> palidez. 〈ὠχρός〉 </def></entryFree><p></p><p></p>
+
+<entryFree>ᾤχωκα<def> cf. οἴχομαι. </def></entryFree><p></p><p></p>
+
+<entryFree>ὤψ, ὠπός (ἡ)<def> 1   ép., só ac., semblante; face: ἔμοιγε εἰς ὦπα ἰδέσθαι hom. olhar-me de frente, ∆ιὸς εἰς ὦπα ἰδέσθαι hom. olhar Zeus em face, estar em presença de Zeus ♦ masc. e n.   2   ger. pl., olho.  </def></entryFree><p></p><p></p>
+
+<entryFree>ὧψαι<def> 2ª sing. perf. pas. de ὁράω. </def></entryFree><p></p><p></p>
+
+<entryFree>ᾠῶν<def> gen. pl. de ᾠόν. </def></entryFree><p></p><p></p>
+
+</body>
+</text>
+    </TEI>
+
+
