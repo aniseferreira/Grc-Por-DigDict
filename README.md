@@ -1,9 +1,27 @@
 # Grc-Por-DigDict
 
-Projeto indicado no Currículo Lattes: Este é um subprojeto dentro do projeto guarda-chuva <b>Projetos abertos em Letras Clássicas Digitais</b> - FCLAr/UNESP. Para que o dicionário grego-português possa ser utilizado em aplicativos e serviços web vinculados a diversos portais ligados a estudos clássicos e diferentes projetos, deve estar etiquetado adequadamente e em compatibilidade com Text Encoding Initiative versão 5 e em formato XML. O projeto conta com a colaboração da equipe do Projeto Perseus/Perseids ligado a Tufts University e Alexander von Humboldt Chair in Digital Humanities of the University of Leipzig, recebendo sugestões técnicas de Bridget Almas, Timothy Buckingham e de Monica Berti, além de participar do consórcio <a href="http://sunoikisisdc.github.io/SunoikisisDC/"> Sunoikisis Digital Classics</a>. Na FCL-Ar conta com apoio voluntário de Rubens Antônio Rodrigues na elaboração do etiquetador automático e da interface de busca.  Está disponível para consulta em http://perseidas.fclar.unesp.br  
+Projeto indicado no Currículo Lattes: Este é um subprojeto dentro do projeto guarda-chuva <b>Projetos abertos em Letras Clássicas Digitais</b> - FCLAr/UNESP (School of Humanities and Sciences at São Paulo State University in Araraquara). Para que o dicionário grego-português possa ser utilizado em aplicativos e serviços web vinculados a diversos portais ligados a estudos clássicos e diferentes projetos, deve estar etiquetado adequadamente e em compatibilidade com Text Encoding Initiative versão 5 e em formato XML. O projeto conta com a colaboração da equipe do Projeto Perseus/Perseids ligado a Tufts University e Alexander von Humboldt Chair in Digital Humanities of the University of Leipzig, recebendo sugestões técnicas de Bridget Almas, Timothy Buckingham e de Monica Berti, além de participar do consórcio <a href="http://sunoikisisdc.github.io/SunoikisisDC/"> Sunoikisis Digital Classics</a>. Na FCL-Ar, conta com apoio voluntário de Rubens Antônio Rodrigues na elaboração do etiquetador automático e da interface de busca.  Está disponível para consulta em versão e estágio preliminar:  http://perseidas.fclar.unesp.br 
 
 OBS. Os arquivos atuais tem o conteúdo etiquetado com as etiquetas entryFree e def, e as etiquetas de metadados podem estar incompletos ou com incorreções. Para ver as metas previstas de desenvolvimento, ler abaixo.
-<p>NOTE. The current files have the content tagged with entryFree and def tags,  and metadata tags may be incomplete or incorrect. To know the next planned improvements read below.
+<p>NOTE. The current files have the content tagged with entryFree and def tags,  and metadata tags may be incomplete or incorrect. As to the next planned improvements, please, read the project description below (not necessarily in that order).
+ 
+### Este projeto conta com o apoio de/ This project has de support of:
+
+- A Fellowship - Bolsa de Produtividade em Pesquisa PQ2 do CNPq - 304122/2016-5 - vigência/duration: 01/03/2017 - 29/02/2020.
+
+- A Regular Grant -  FAPESP, por meio auxílio regular 17/02161-2 - vigência/durationL 1/10/2017 - 30/09/2019. (http://www.bv.fapesp.br/en/auxilios/98095/greek-portuguese-digital-dictionary-annotation-and-edition-a-continuous-open-access-project/)
+
+- A Scholarship PIBIC/CNPq to undergraduate student - Projeto de Iniciação Científica de alunos de graduação/Undergraduate students working on a Scientific Initiation project: *Índice Digital de Nomes Próprios da Antiguidade Grega transcritos em Português - Um projeto distribuído e associado ao Dicionário Digital Grego-Português*. Duration: 2018-2019.
+ 
+ ### Equipe atual/Current team
+ 
+ - **Pesquisadora responsável/P.I.**: Anise D'Orange Ferreira (Área de Grego do Departamento de Linguística e Programa PG em Linguística e Língua Portuguesa da Fac de C. e Letras de UNESP/Araraquara). Working on manual annotations in TEI P5-XML, preparation of external references and additions.
+ - **Pesquisadora Associada/A.R.**: Maria Celeste C. Dezotti (Área de Grego do Departamento de Linguística e Programa de PG em Estudos Literários da Fac.de C. e Letras da UNESP/Araraquara). Working on manual corrections and additions.
+ - **Desenvolvimento técnico e programação**: Rúbens Antônio Rodrigues (volunteer, UNESP, Araraquara). Working on the current tagger, database admin, search engine settings, and the web interface for queries and for corrections and additions made by researchers.
+ - **Colaborador em computação**: Tariq Yousef, Research Assistant and Ph.D. candidate in Digital Humanities at Universität Leipzig, collaborating on the automatic tagger and open data links. 
+ - **Alunos de graduação/Undergraduate students**: Aline Delgado, Allan Pradella, Josiane Santana working on proper names annotation and translations 
+ - **Collaborators through their relationship with the Open Projects in Digital Classics at FCLAr/UNESP** : Michel F. dos Reis (Ph.D. candidate) and Paula Boschiero (M.A. candidate); Murilo Alves (I.C.PIBIC/CNPq 2016-18); Edineia Souza (I.C.PIBIC/CNPq, 2017-18); and Caio Camargo (post-doctoral researcher CNPq fellow)
+ - **Indirect collaborators**: external users and students enrolled in the Greek Course since 2017.
  
 ## Portuguese description 
 
