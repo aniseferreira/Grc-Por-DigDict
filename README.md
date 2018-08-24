@@ -20,7 +20,7 @@ OBS. Os arquivos atuais tem o conteúdo etiquetado com as etiquetas entryFree e 
  - **Desenvolvimento técnico e programação**: Rúbens Antônio Rodrigues (volunteer, UNESP, Araraquara). Working on the current tagger, database admin, search engine settings, and the web interface for queries and for corrections and additions made by researchers.
  - **Colaborador em computação**: Tariq Yousef, Research Assistant and Ph.D. candidate in Digital Humanities at Universität Leipzig, collaborating on the automatic tagger and open data links. 
  - **Alunos de graduação/Undergraduate students**: Aline Delgado, Allan Pradella, Josiane Santana working on proper names annotation and translations 
- - **Collaborators through their relationship with the Open Projects in Digital Classics at FCLAr/UNESP** : Michel F. dos Reis (Ph.D. candidate) and Paula Boschiero (M.A. candidate); Murilo Alves (I.C.PIBIC/CNPq 2016-18); Edineia Souza (I.C.PIBIC/CNPq, 2017-18); and Caio Camargo (CNPq post-doctoral fellow, 2018-2020).
+ - **Collaborators through their engagement in the Open Projects in Digital Classics at FCLAr/UNESP** : Michel F. dos Reis (Ph.D. candidate) and Paula Boschiero (M.A. candidate); Murilo Alves (I.C.PIBIC/CNPq 2016-18); Edineia Souza (I.C.PIBIC/CNPq, 2017-18); and Caio Camargo (CNPq post-doctoral fellow, 2018-2020).
  - **Indirect collaborators**: external users and students enrolled in the Greek Course since 2017.
  
 ## Portuguese description 
