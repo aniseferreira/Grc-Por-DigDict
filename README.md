@@ -12,6 +12,8 @@ OBS. Os arquivos atuais tem o conteúdo etiquetado com as etiquetas entryFree e 
 - A Regular Grant -  FAPESP, por meio auxílio regular 17/02161-2 - vigência/durationL 1/10/2017 - 30/09/2019. (http://www.bv.fapesp.br/en/auxilios/98095/greek-portuguese-digital-dictionary-annotation-and-edition-a-continuous-open-access-project/)
 
 - A Scholarship PIBIC/CNPq to undergraduate student - Projeto de Iniciação Científica de alunos de graduação/Undergraduate students working on a Scientific Initiation project: *Índice Digital de Nomes Próprios da Antiguidade Grega transcritos em Português - Um projeto distribuído e associado ao Dicionário Digital Grego-Português*. Duration: 2018-2019.
+
+- Chamada Universal/CNPq n.28/2018: 2018-2021. Grant for one 18-month technical support and one 24-month Scientific Initiation scholarship; 3rd-party services; and permanent material. 
  
  ### Equipe atual/Current team
  
