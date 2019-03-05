@@ -7,7 +7,7 @@ Este é um subprojeto dentro do projeto guarda-chuva <b> <a href="https://github
 OBS. Os arquivos atuais tem o conteúdo etiquetado com as etiquetas entryFree e def, e as etiquetas de metadados podem estar incompletos ou com incorreções. Para ver as metas previstas de desenvolvimento, ler abaixo.
 <p>NOTE. The current files have the content tagged with entryFree and def tags,  and metadata tags may be incomplete or incorrect. As to the next planned improvements, please, read the project description below (not necessarily in that order).<p> 
  
-### Este projeto conta com o apoio de/ This project has de support of:
+<h3> Este projeto conta com o apoio de/ This project has de support of:</h3>
 <p>
 - A Fellowship - Bolsa de Produtividade em Pesquisa PQ2 do CNPq - 304122/2016-5 - vigência/duration: 01/03/2017 - 29/02/2020.
 <p>
