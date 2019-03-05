@@ -6,17 +6,17 @@ OBS. Os arquivos atuais tem o conteúdo etiquetado com as etiquetas entryFree e 
 <p>NOTE. The current files have the content tagged with entryFree and def tags,  and metadata tags may be incomplete or incorrect. As to the next planned improvements, please, read the project description below (not necessarily in that order).
  
 ### Este projeto conta com o apoio de/ This project has de support of:
-<p>#
+<p>
 - A Fellowship - Bolsa de Produtividade em Pesquisa PQ2 do CNPq - 304122/2016-5 - vigência/duration: 01/03/2017 - 29/02/2020.
-<p>#
+<p>
 - A Regular Grant -  FAPESP, por meio auxílio regular 17/02161-2 - vigência/durationL 1/10/2017 - 30/09/2019. (http://www.bv.fapesp.br/en/auxilios/98095/greek-portuguese-digital-dictionary-annotation-and-edition-a-continuous-open-access-project/)
-<p>#
+<p>
 - A Scholarship PIBIC/CNPq to undergraduate student - Projeto de Iniciação Científica de alunos de graduação/Undergraduate students working on a Scientific Initiation project: *Índice Digital de Nomes Próprios da Antiguidade Grega transcritos em Português - Um projeto distribuído e associado ao Dicionário Digital Grego-Português*. Duration: 2018-2019.
-<p>#
+<p>
 - Chamada Universal/CNPq n.28/2018: 2018-2021. Grant for one 18-month technical support and one 24-month Scientific Initiation scholarship; 3rd-party services; and permanent material. 
-<p># 
+<p> 
  ### Equipe atual/Current team
-<p># 
+<p> 
  - **Pesquisadora responsável/P.I.**: Anise D'Orange Ferreira (Área de Grego do Departamento de Linguística e Programa PG em Linguística e Língua Portuguesa da Fac de C. e Letras de UNESP/Araraquara). Working on manual annotations in TEI P5-XML, preparation of external references and additions.
  - **Pesquisadora Associada/A.R.**: Maria Celeste C. Dezotti (Área de Grego do Departamento de Linguística e Programa de PG em Estudos Literários da Fac.de C. e Letras da UNESP/Araraquara). Working on manual corrections and additions.
  - **Desenvolvimento técnico e programação**: Rúbens Antônio Rodrigues (volunteer, UNESP, Araraquara). Working on the current tagger, database admin, search engine settings, and the web interface for queries and for corrections and additions made by researchers.
@@ -24,8 +24,8 @@ OBS. Os arquivos atuais tem o conteúdo etiquetado com as etiquetas entryFree e 
  - **Alunos de graduação/Undergraduate students**: Aline Delgado, Allan Pradella, Josiane Santana working on proper names annotation and translations 
  - **Collaborators through their engagement in the Open Projects in Digital Classics at FCLAr/UNESP** : Michel F. dos Reis (Ph.D. candidate) and Paula Boschiero (M.A. candidate); Murilo Alves (I.C.PIBIC/CNPq 2016-18); Edineia Souza (I.C.PIBIC/CNPq, 2017-18); and Caio Camargo (CNPq post-doctoral fellow, 2018-2020); Aline Delgado (I.S.B./UNESP 2018-19); Josiane Santana (I.C. PIBIC/CNPq 2018-2019);  Allan Pradella (ISB/UNESP 2018-19; IC/CNPq 2019-2020).
  - **Indirect collaborators**: external users and students enrolled in the Greek Course since 2017.
- #
- #
+#
+#
 ## Portuguese description 
 #
 #
