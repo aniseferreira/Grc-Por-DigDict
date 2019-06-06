@@ -1,0 +1,2 @@
+
+This is an Ancient Greek keyboard layout for Mac OS X users following the beta code transliteration since the Polytonic Greek keyboard embedded in the system is not at all user-friendly. This keyboard is a modification of the keyboard Greek Koine RD by Rod Decker. The modification refers to the vowels with just the acute accent. Originally it has the Unicode acute OXIA accent. This one has the Unicode acute Greek TONOS according to the newest web applications, such as Tündra, and to extensions such as the Greek Beta Converter.
