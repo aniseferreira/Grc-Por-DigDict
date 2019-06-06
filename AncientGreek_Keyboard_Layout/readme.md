@@ -4,7 +4,7 @@ This is an Ancient Greek keyboard layout for Mac OS X users following the beta c
 
 The modification was done with Ukelele software.
 
-Este é um teclado para digitação em grego antigo para usuários de Mac OSX que segue a transliteração do código beta, uma vez que o teclado para grego politônico inato no sistema operacional é muito pouco amigável. Este teclado é uma modificaçao do Greek Koine RD de Rod Decker (link acima). A modificação consiste nas vogais com apenas o acento agudo. Originalmente, essas vogais com acento agudo recebiam o acento Unicode OXIA (U+1FFD). Com este teclado agora as vogais com apenas acento agudo têm Greek TONOS (Unicode U+384), de acordo com as aplicações de web mais recentes, como o Tündra, e extensios de navegadores, como o Greek Beta Code Converter. 
+Este é um teclado para digitação em grego antigo para usuários de Mac OSX que segue a transliteração do código beta, uma vez que o teclado para grego politônico inato no sistema operacional é muito pouco amigável. Este teclado é uma modificaçao do Greek Koine RD de Rod Decker (link acima). A modificação consiste nas vogais com apenas o acento agudo. Originalmente, essas vogais com acento agudo recebiam o acento Unicode OXIA (U+1FFD). Com este teclado agora as vogais com apenas acento agudo têm Greek TONOS (Unicode U+384), de acordo com as aplicações de web mais recentes, como o Tündra, e extensões de navegadores, como o Greek Beta Code Converter. 
 
 <b> Instalação do teclado </b>
 
