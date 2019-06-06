@@ -12,9 +12,15 @@ A instalação segue duas etapas:
 
 1) colocar (arrastando ou copiando e colando) o arquivo com extensão .bundle na pasta Keyboard Layouts que está dentro da pasta Biblioteca ou Library (pede sua senha) no seu diretório raiz (HD) ου no diretório do usuário.
 
-
+<p>
+  <img src="https://github.com/aniseferreira/Grc-Por-DigDict/blob/master/AncientGreek_Keyboard_Layout/install_keyboard_layout.png" width="75%" height="75%">
+  </p><p>
 
 2) ativar o teclado selecionando a opção "preferências de teclado" que pode ser aberta pela preferências de sistema  ou pelo menu no topo da tela à direita "Abrir preferências de teclado" 
+<p>
+  <img src="https://github.com/aniseferreira/Grc-Por-DigDict/blob/master/AncientGreek_Keyboard_Layout/preferencias_teclado.png" width="30%" height="30%">
+  </p>
+  <p>
 
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
