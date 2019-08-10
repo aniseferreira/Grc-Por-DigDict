@@ -11,7 +11,7 @@ OBS. Os arquivos atuais tem o conteúdo etiquetado com as etiquetas entryFree e 
 <p>
 - A Fellowship - Bolsa de Produtividade em Pesquisa PQ2 do CNPq - 304122/2016-5 - vigência/duration: 01/03/2017 - 29/02/2020.
 <p>
-- A Regular Grant -  FAPESP, por meio auxílio regular 17/02161-2 - vigência/durationL 1/10/2017 - 30/09/2019. (http://www.bv.fapesp.br/en/auxilios/98095/greek-portuguese-digital-dictionary-annotation-and-edition-a-continuous-open-access-project/)
+- A Regular Grant -  FAPESP, por meio auxílio regular 17/02161-2 - vigência/duration 1/10/2017 - 30/09/2019. (http://www.bv.fapesp.br/en/auxilios/98095/greek-portuguese-digital-dictionary-annotation-and-edition-a-continuous-open-access-project/)
 <p>
 - A Scholarship PIBIC/CNPq to undergraduate student - Projeto de Iniciação Científica de alunos de graduação/Undergraduate students working on a Scientific Initiation project: *Índice Digital de Nomes Próprios da Antiguidade Grega transcritos em Português - Um projeto distribuído e associado ao Dicionário Digital Grego-Português*. Duration: 2018-2019.
 <p>
