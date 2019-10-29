@@ -1,0 +1,476 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Abbreviation Tags from TEI XML tagset used in DDGP </title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <!--all abbreviations are in italics, except authors'abbreviations-->
+         <!--all authors'abbreviations are smallcaps -->
+         
+         <!-- for the entire list of authors with cts urn, see https://docs.google.com/spreadsheets/d/1WY_OuAdnFTMi2Nbxi3SHRaYf8Bm-8SmRjRiShwCBTcY/edit?usp=sharing -->
+         <p>
+            <abbr type="author" style="petitcaps">A.D.</abbr>
+            <abbr type="author" style="petitcaps"> ARTT</abbr> etc.
+            <abbr type="author" style="petitcaps" subtype="DEM">DEM.</abbr>
+            <abbr type="author" subtype="DEM" style="petitcaps">DEM?</abbr>
+            <abbr type="author" subtype="urn:cite:perseus:author.466">DEM</abbr>
+            
+            <!--Grammatical abbreviations  Examples-->
+            
+            <!-- type for tense, tns; mood, gen(der), dialect, genre, degree, case etc 
+               subtypes for tns, moods, pos, person, number, degree, and case the initials described in 
+               postag Celano's description at https://docs.google.com/document/d/19WPl8VhEv7o1N2QR5WwPER3wJmjiDnEDVeTu15H8A4M/edit?usp=sharing
+            -->
+            
+            <!-- tense
+			
+				p	present
+				i	imperfect
+				r	perfect
+				l	pluperfect
+				t	future perfect
+				f	future
+				a	aorist
+Note that in Portuguese they name the future perfect as futuro anterior 
+            -->
+            
+            <abbr type="tns" subtype="a"> aor.</abbr>
+            <abbr type="tns" subtype="a2">aor.2</abbr>
+            <abbr type="tns" subtype="i">impf.</abbr>
+            <abbr type="tns" subtype="r">perf.</abbr>
+            <abbr type="tns" subtype="t">fut.ant.</abbr>
+            <abbr type="tns" subtype="f">fut.</abbr>
+            <abbr type="tns" subtype="l">m.-q.-perf.</abbr>
+            <abbr type="tns" subtype="p">pres.</abbr>
+            
+            
+            <!-- mood
+            i	indicative
+            s	subjunctive
+            o	optative
+            n	infinitive
+            m	imperative
+            p	participle-->
+            
+            <abbr type= "mood" subtype="m"> imper.</abbr>
+            <abbr type= "mood" subtype="n"> inf.</abbr>
+            <abbr type= "mood" subtype="s"> subj.</abbr>
+            <abbr type= "mood" subtype="o"> opt.</abbr>
+            <abbr type= "mood" subtype="i"> ind.</abbr>
+            <abbr type= "mood" subtype="p"> part.</abbr>
+            
+            <!-- case
+			
+				n	nominative
+				g	genitive
+				d	dative
+				a	accusative
+				v	vocative
+            -->
+            
+            <abbr type="case" subtype="n"> nom. </abbr>
+            <abbr type="case" subtype="g"> gen. </abbr>
+            <abbr type="case" subtype="d"> dat. </abbr>
+            <abbr type="case" subtype="a"> ac. </abbr>
+            <abbr type="case" subtype="v"> voc. </abbr>
+            
+            <!--part of speech
+			
+				n	noun
+				v	verb
+				a	adjective
+				d	adverb
+				l	article
+				g	particle
+				c	conjunction
+				r	adposition
+				p	pronoun
+				m	numeral
+				i	interjection
+				u	punctuation
+
+            -->
+            
+            <abbr type="pos" subtype="d"> adv.</abbr>
+            <abbr type="pos" subtype="n"> subst.</abbr>
+            <abbr type="pos" subtype="v"> v.</abbr>
+            <abbr type="pos" subtype="a"> adj.</abbr>
+            <abbr type="pos" subtype="l"> art.</abbr>
+            <abbr type="pos" subtype="g"> partíc.</abbr>
+            <abbr type="pos" subtype="c"> conj.</abbr>
+            <abbr type="pos" subtype="r"> prep.</abbr>
+            <abbr type="pos" subtype="p"> pron.</abbr>
+            <abbr type="pos" subtype="adjverb"> adj. verb.</abbr>
+            <abbr type="pos" subtype="i"> interj.</abbr>
+            <abbr type="pos" subtype="m"> num.</abbr>
+            
+            
+            <!-- degree
+
+			           p       positive
+			           c       comparative	
+                    s       superlative
+-->
+            <abbr type= "degree" subtype="c"> comp.</abbr>
+            <abbr type= "degree" subtype="s"> superl.</abbr>
+            
+            <!-- voice
+			
+				a	active
+				p	passive
+				m	middle
+				e	medio-passive -->
+            
+            <abbr type="voice" subtype="m"> méd.</abbr>
+            <abbr type="voice" subtype="a"> at.</abbr>
+            <abbr type="voice" subtype="p"> pas.</abbr>
+           
+            <!-- gender
+			
+				m	masculine
+				f	feminine
+				n	neuter
+
+           -->
+            
+            <abbr type="gen" subtype="f"> fem.</abbr>
+            <abbr type="gen" subtype="m"> masc.</abbr>
+            <abbr type="gen" subtype="n"> n.</abbr>
+            
+            <!-- 	number
+			
+				s	singular
+				p	plural
+				d	dual
+            -->
+            
+            <abbr type="num" subtype="p"> pl.</abbr>
+            <abbr type="num" subtype="s"> sing.</abbr>
+            <abbr type="num" subtype="d"> dual</abbr>
+            <abbr type="num" subtype="2d"> 2ªdual</abbr>
+            
+            <!-- person
+			
+				1	first person
+				2	second person
+				3	third person -->
+            
+            
+            <abbr type="person" subtype="1"> 1ª pes.</abbr> 
+            <abbr type="person" subtype="2"> 2ª pes.</abbr>
+            <abbr type="person" subtype="3"> 3ª pes.</abbr>
+            <abbr type="person"> pes.</abbr>
+                        
+            <!-- for language, dialect and genre-->
+            
+            <abbr type="dialect" subtype="jon"> jôn.</abbr> 
+            <abbr type="dialect" subtype="at"> át.</abbr>
+            <abbr type="dialect" subtype="eol"> eól.</abbr>
+            <abbr type="dialect" subtype="dor"> dór.</abbr>
+            <abbr type="dialect" subtype="hom"> hom.</abbr>
+            
+            <abbr type="lang" subtype="hebr"> hebr.</abbr>
+            
+            <abbr type="genre" subtype="poet"> poét.</abbr>
+            <abbr type="genre" subtype="ep"> ép.</abbr> 
+            <abbr type="genre" subtype="bibl"> bíbl.</abbr>
+            <abbr type="genre" subtype="com"> com. </abbr>
+            
+            <!--other abbreviations  -->
+            
+            <abbr type="cert"   subtype="duv">duv.</abbr> <!-- duvidoso -->
+            <abbr type="derivative" subtype="dim"> dim. </abbr><!-- diminutivo -->
+            
+            <abbr type="refer" subtype="cf">cf.</abbr> <!-- confira -->
+            <abbr type="refer" subtype="seg">seg. </abbr><!-- seguinte - nao aparece-->
+            <abbr type="refer" subtype="ss">ss.</abbr><!-- seguintes  não aparece-->
+            <abbr type="refer" subtype="qqr">qqr.</abbr> <!-- qualquer  nao aparece--> 
+            
+            <!-- sense types: subtypes: absoluto, bom sentido, desiderativo, interjeição, exortativo, eufemismo, metáfora ou metafórico, metonímia, pejorativo, oposto, negativo, partitivo, por extensão, pleonasmo, indeterminado, instrumental, próprio, gramatical  -->
+            
+            <abbr type="sense" subtype="abs"> abs.</abbr>
+            <abbr type="sense" subtype="good"> b.sent.</abbr> <!-- nao tem -->
+            <abbr type="sense" subtype="desid"> desid.</abbr>
+            <abbr type="sense" subtype="interj"> interj.</abbr> <!-- or type pos?  -->
+            <abbr type="sense" subtype="inter"> inter.</abbr>
+            <abbr type="sense" subtype="exort"> exort.</abbr>
+            <abbr type="sense" subtype="eufem"> eufem.</abbr> <!-- nao tem -->
+            <abbr type="sense" subtype="met"> met.</abbr> <!-- nao tem -->
+            <abbr type="sense" subtype="meton">meton.</abbr>
+            <abbr type="sense" subtype="pejor"> pejor.</abbr>
+            <abbr type="sense" subtype="op">op.</abbr>
+            <abbr type="sense" subtype="negat">negat.</abbr>
+            <abbr type="sense" subtype="partit">partit.</abbr>
+            <abbr type="sense" subtype="p.ext">p. ext.</abbr>
+            <abbr type="sense" subtype="pleon">pleon.</abbr>
+            <abbr type="sense" subtype="indet">indet.</abbr>
+            <abbr type="sense" subtype="instr">instr.</abbr>
+            <abbr type="sense" subtype="pr">pr.</abbr>
+            <abbr type="sense" subtype="gram">gram.</abbr> 
+            
+            
+            <abbr type="dimensions" subtype="aprox">aprox.</abbr>
+            
+            <!-- type nouns: subtypes coletivo, onomatopeia -->
+            
+            <abbr type="noun" subtype="col">col.</abbr>
+            <abbr type="noun"  subtype="onomat">onomat.</abbr>
+            
+            <!-- type verb, subtypes: causativo, intransitivo, impessoal, transitivo, copulativo, regular  -->
+            <abbr type="verb" subtype="causat">causat.</abbr>
+            <abbr type="verb" subtype="intr">intr.</abbr>
+            <abbr type="verb" subtype="impes">impes.</abbr>
+            <abbr type="verb" subtype="tr">tr.</abbr>
+            <abbr type="verb" subtype="cop">cop.</abbr>
+            <abbr type="verb" subtype="reg">reg.</abbr>
+            
+            
+            <!-- type pronouns, subtypes: demonstrativo, indefinido, possessivo, reflexivo, correlativo -->
+            <abbr type="pronoun" subtype="dem">dem.</abbr>
+            <abbr type="pronoun" subtype="indef">indef.</abbr>
+            <abbr type="pronoun" subtype="pos">pos.</abbr>
+            <abbr type="pronoun" subtype="refl">refl.</abbr>
+            <abbr type="pronun" subtype="correl">correl.</abbr>
+            
+            
+            <abbr type="adv" subtype="indef">indef.</abbr>
+            <abbr type="gram" subtype="encl">encl.</abbr>
+            <abbr type="gram" subtype="assim">assim.</abbr> <!-- assimilação -->
+            
+            <abbr type="particl" subtype="encl">encl.</abbr>
+            
+            <abbr type="author" subtype="dem" style="petitcaps">dem.</abbr>
+            
+            <abbr type="corresp" subtype="equiv">equiv.</abbr>
+            <abbr type="corresp" subtype="i.e.">i.e.</abbr>
+            
+            <!-- type usage:  -->
+            
+            <abbr type="usg" subtype="expr">expr.</abbr>
+            <abbr type="usg" subtype="form">fórm.</abbr>
+            <abbr type="usg" subtype="crist">crist.</abbr>
+            <abbr type="usg" subtype="ger">ger.</abbr>
+            <abbr type="usg" subtype="poshom">pós-hom</abbr>
+            <abbr type="usg" subtype="indir">indir.</abbr>
+            <abbr type="usg" subtype="fam">fam.</abbr>
+            
+            <!-- type orthography:  -->
+            
+            <abbr type="orth" subtype="iter">iter.</abbr> 
+            <abbr type="orth" subtype="ant">ant.</abbr> <!-- parei aqui -->
+            <abbr type="orth" subtype="apoc">apóc.</abbr>
+            <abbr type="orth" subtype="contr"> contr. </abbr>
+            <abbr type="orth" subtype="indecl.">indecl.</abbr>
+            <abbr type="orth" subtype="invar.">invar.</abbr>
+            <abbr type="orth" subtype="irreg.">irreg.</abbr>
+            <abbr type="orth" subtype="post">post.</abbr>
+            <abbr type="orth" subtype="poshom">pós-hom.</abbr>
+            <abbr type="orth" subtype="sinc">sinc.</abbr>
+            
+            <!-- type dialect subtypes: lacônio, lacedemônio, lídio -->
+            <abbr type="dialect" subtype="lac">lac</abbr>
+            <abbr type="dialect" subtype="laced">laced.</abbr>
+            <abbr type="dialect" subtype="beoc">beóc.</abbr>
+            <abbr type="dialect" subtype="dor">dór.</abbr>
+            <abbr type="dialect" subtype="fen">fen.</abbr>
+            <abbr type="dialect" subtype="frig">fríg.</abbr>
+            
+            <!-- name subtypes: epíteto, nome próprio, personificação -->
+            <abbr type="addName" subtype="epit">epít.</abbr>
+            <abbr type="name" subtype="npr">n. pr.</abbr>
+            <abbr type="name" subtype="person">person.</abbr>
+            <abbr type="name">n.</abbr> de
+            
+            <abbr type="persName" subtype="h">h.</abbr> <!--feito-->
+            <abbr type="persName" subtype="m">m.</abbr>  <!--feito-->
+            
+ <!-- type domain  - está contido no grupo "cultural" -->
+            <abbr type="domain" subtype="jur">Jur.</abbr>
+            <abbr type="domain" subtype="partic">partic.</abbr>
+            <abbr type="domain" subtype="medic">Medic.</abbr>
+            <abbr type="domain" subtype="anat">Anat. </abbr>
+            <abbr type="domain" subtype="arquit">Arquit.</abbr>
+            <abbr type="domain" subtype="astrol">Astrol. </abbr>
+            <abbr type="domain" subtype="bot">Bot.</abbr>
+            <abbr type="domain" subtype="dram">Dram. </abbr>
+            <abbr type="domain" subtype="filos">Filos. </abbr>
+            <abbr type="domain" subtype="geom">Geom. </abbr>
+            <abbr type="domain" subtype="geogr">Geogr. </abbr>
+            <abbr type="domain" subtype="gram">Gram. </abbr>
+            <abbr type="domain" subtype="log">Lóg. </abbr>
+            <abbr type="domain" subtype="math">Matem. </abbr>
+            <abbr type="domain" subtype="metr">Métr. </abbr>
+            <abbr type="domain" subtype="mil">Mil. </abbr>
+            <abbr type="domain" subtype="myth">Mit. </abbr>
+            <abbr type="domain" subtype="mus">Mús. </abbr>
+            <abbr type="domain" subtype="naut">Náut. </abbr>
+            <abbr type="domain" subtype="pol">Pol. </abbr>
+            <abbr type="domain" subtype="pros">Pros. </abbr>
+            <abbr type="domain" subtype="relig">Relig. </abbr>
+            <abbr type="domain" subtype="ret">Ret. </abbr>
+            <abbr type="domain" subtype="zool">Zool. </abbr>
+            <abbr type="domain" subtype="hum">hum. </abbr><!-- humano nao tem -->
+            
+            
+           
+            <abbr type="phr" subtype="loc">loc.</abbr> <!-- locução -->
+            <abbr type="phr" subtype="prov">prov.</abbr><!-- provérbio -->
+            
+            
+            <abbr type="clause" subtype="cond">cond.</abbr> <!-- nao tem -->
+            <abbr type="clause" subtype="or">or.</abbr>
+            <abbr type="clause" subtype="temp">temp.</abbr>
+            <abbr type="clause" subtype="subord">subord.</abbr> <!-- subordinada -->
+            
+            
+            <!--  type function predic. subtypes = predicativo; pred.= predicado; mas alguns pred sao predicativos **** -->
+            <abbr type="function" subtype="predic">predic.</abbr>
+            <abbr type="function" subtype="pred">pred.</abbr>
+              <abbr type="function" subtype="suj">suj. </abbr> <!-- nao tem  -->
+            <abbr type="function" subtype="obj">obj.</abbr> <!-- nao tem -->
+            <abbr type="function" subtype="objint">obj.int.</abbr> <!-- nao tem -->
+            
+            <!-- type m (morpheme) subtypes: privativo, sufixo, prefixo, intensivo, protético,raiz, radical-->
+            
+            <abbr type="m" subtype="priv">priv.</abbr> <!-- privativo - só tem um -->
+            <abbr type="m" subtype="suf">suf.</abbr> <!-- sufixo nao tem -->
+            <abbr type="m" subtype="pref">pref.</abbr> <!-- prefixo nao tem -->
+            <abbr type="m" subtype="intens">intens.</abbr>
+            <abbr type="m" subtype="protet">protét.</abbr> <!-- nao tem -->
+            <abbr type="m" subtype="iter">iter.</abbr> <!-- or type "orth"?-->
+            <abbr type="m" subtype="raiz">r.</abbr>
+            <abbr type="m" subtype="radical">rad.</abbr>
+            
+         </p>
+         <!-- Sinais constantes 
+         Parênteses: 
+         (<gen
+         </gen>)
+         <gramGrp>(<abbr type="tns"
+         
+         
+         Chaves quadradas
+          <abbr type="lang" subtype="hebr">[hebr.] </abbr>
+         
+        
+         MUDANÇAS NO DICIONÁRIO DIGITAL - ABREVIATURAS
+         n. = nome de (pessoa) 
+         corresp.= corresponde
+         
+         Problemas
+         d. dual - tem em outras abreviaturas de nomes de autores
+         n. = nome (cultural) e neutro (gramatical)
+         hom. = homero e homérico
+        
+ANOTAÇÕES FEITAS PELA CELESTE SOBRE AS ABREVIATURAS
+        jur. (gramat.) / Jur. (cultural)
+neg. para negativo e para negação (não listado)
+op. oposição e oposto (não listado).
+conj. conjunção e conjuncional (cf. or. conj.)
+temp. temporal e tempo (não listado)
+Nomes de autores e obras
+
+corrigi Pórfiro para Porfírio e a abrev. para porf. (sem acento), já que o nome do filósofo em grego é Porphyrios. Vou conferir se há alguma ocorrência dele nos verbetes para fazer a alteração
+
+b. mantive um único duplo para teste: n.t.  
+Se não funcionar, sugiro mudar para nv., conforme proposta de simplificação abaixo.
+
+c. sugestões para simplificar os duplos:
+Apolônio Díscolo - apol.
+Apolônio de Rodes - apolon.
+Appendix nova epigrammatum = append.
+Antonino Liberalis = anton.
+Antologia Palatina = Palat.
+Antologia de Planudes = Plan.
+Aquiles Tácio = Aql.
+Díon Cássio = cás.
+Díon Crisóstomo = crisóst.
+João Crisóstomo = cris.
+Dionísio de Halicarnaso = dionís.
+Diógenes Laércio = dióg.
+Diógenes de Sinope = dióg. [muito menos doc que o Laércio] > diógn.
+                    inverter: “dióg.”para o Laércio e outra para o de Sinope
+Diodoro da Sicília/(Sículo) = diod.
+Dionísio Trácio = trác.
+Dionísio de Alexandria = dion.
+Marco Aurélio = marc.
+Nono de Panópolis = n.
+Novo Testamento = nv.
+Platão apócrifo = plt.
+Plutarco apócrifo = pl.
+Platão cômico = plc.
+Quinto de Esmirna = Q.
+Sexto Empírico = sext.
+Simônides de Céos = sim.
+Simônides de Amorgos = simôn.
+Timeu de Locres = t.
+Xenofonte (de Atenas) = xen.
+Xenofonte de Éfeso = xenf.
+
+
+d. nomes que não são abreviaturas, grafados por extenso; sugestão de abreviaturas entre parênteses:
+Arato (a.) - Arion (an.) - Aristeias (arst.) - Bábrio (bb.) - Bíon (bn.) - Demades (dd.) - Fílon (f.) - Íon  (í.) - Lísis (l.) - Longo (lg.) - Pólux (pól.) - Proclo (pr.) - Safo (s.) 
+
+II. Abreviaturas Gramaticais
+
+Registrei as abreviaturas simples. 
+Muitas delas prevêem o uso na forma masculina ou feminina; caberia ao leitor escolher a forma adequada, embora na listagem de abreviaturas nem todas elas exponham a dupla possibilidade. No registro que fiz, usei para teste “méd.” (para médio e média) e descrevi como “médio/a”, um modo de usar a mesma abrev. para as duas possibilidades e ainda manter para o leitor a tarefa de adotar a adequada num dado contexto. A conferir se funciona bem…
+
+Fiz varredura no DGP para verificar ocorrências de outras abreviaturas com duplo valor e ver como podemos  resolver essa questão.
+apóc. = apócope ou apocopado. Apocopado tem uma única ocorrência em ἀμ = ἀν = ἀνά apóc. Ou se ignora isso e deixa como está, ou a gente poderia criar a abrev. apoc. sem acento para     “apocopado”. Aliás, ela já aparece no verbete ἠλέ voc. apoc. de   ἠλεός !!!
+
+afirm. = afirmativo ou afirmação. Encontrei 10 ocorrências para a primeira e 4 para a segunda (nos verbetes μα, νύν, οὐκουν, οὔκουν, τοί ).
+
+compl. = complemento ou completiva. Esta última só ocorre na expressão or. compl., nos verbetes εἰ, ἔχω, μή (3x). Poderíamos compor complt. para esses casos.
+
+excl. = exclamação ou exclamativo. O primeiro ocorre apenas no verbete μᾶ, mas nele o sentido “exclamativo" não ficaria mal. Já inseri na listagem, mantendo apenas “exclamativo” na descrição.
+
+freq. = frequente, frequentemente, frequentativo. O primeiro não ocorre; o segundo é a maioria das ocorrências. O terceiro  ocorre apenas em dois verbetes: ἐπειδάν  e  ἐπειδή. Podemos criar para eles a abrev. freqt.
+
+ger. = geral ou geralmente. Este último é a maioria. ‘geral’ ocorre na expressão “em ger.”, que são poucas ocorrências (nos verbetes δρύοχος, ἐγώ, ζυγόν, κνώδαλον) e poderíamos grafar por extenso.
+
+inter. = interrogação ou interrogativa. Esta é predominante; a primeira ocorre uma única vez, no verbete τοι. Melhor mudar aí e grafar por extenso.
+
+PROBLEMA: examinando as ocorrências dessa abrev., vi um erro que preciso corrigir: a abrev. ind. (= indicativo) está usada em vários verbetes com o significado de “indireto" e de “indefinido”!!!!!!
+
+lit. = literal ou literalmente. A primeira não ocorre. Já eliminei ao fazer o registro.
+
+n. = nome ou neutro. Problemão. As duas têm muitas ocorrências. Não há outra saída a não ser forjar outra abreviatura. Talvez seja mais palatável a abrev. ne. para "neutro"; a abrev. n. para “nome" me parece já consagrada e se forjássemos no. ficaria estranho.
+
+pes. = pessoa e pessoal. Este é mais numeroso, mas há casos em que os dois ocorrem na mesma descrição, como em αὐτός 3a pes. pron. pes. oblíquo. Também teremos que alterar, talvez usando a abrev. p. para “pessoa”.
+
+pleon. = pleonasmo ou pleonástico. Só o primeiro ocorre; já alterei ao fazer o registro.
+
+post. = posterior ou posteriormente. Só o segundo ocorre; já acertei ao fazer o registro.
+
+ref. = referência ou referente. Este predomina; o primeiro ocorre nos verbetes ἀδελφός (em ref. a),    εἰ (com ref. a), τέκνον (ref. afetiva a…; poderíamos substituir por “tratamento”). Talvez as outras duas ocorrências também admitiriam o sentido “referente" e assim a gente unificaria o valor da abrev.
+
+rel. = relativo ou relação. O primeiro predomina; o segundo aparece nas expressões em rel. a (ταπεινῶς ), ac. de rel. ( ταχύς) e em rel. com (τοιοῦτος ). Conferir se não aparece mais vezes.
+
+Conferir ainda se ocorre: 
+jur. (gramat.) / Jur. (cultural)
+neg. para negativo e para negação (não listado)
+op. oposição e oposto (não listado).
+conj. conjunção e conjuncional (cf. or. conj.)
+temp. temporal e tempo (não listado)
+
+         
+         
+         --> 
+      </body>
+  </text>
+</TEI>
