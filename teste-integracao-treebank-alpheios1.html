@@ -1,0 +1,40 @@
+<!-- This demo shows how to add treebank data to a page -->
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Testando integração</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/alpheios-components@latest/dist/style/style-components.css"/>
+
+</head>
+
+
+
+<body data-alpheios_tb_app="perseids-treebank-template"
+    data-alpheios_tb_app_version="3.3.0" data-alpheios_tb_app_url="https://aniseferreira.github.io/treebank-template/embed/DOC/SENTENCE">
+   
+
+ <script type="text/javascript">
+        document.addEventListener("DOMContentLoaded", function(event) {
+          import ('https://cdn.jsdelivr.net/npm/alpheios-embedded@latest/dist/alpheios-embedded.js').then(embedLib => {
+            window.AlpheiosEmbed.importDependencies({ mode: 'cdn' }).then(Embedded => {
+              new Embedded({clientId: 'embed-lib-demo-treebanks', authEnv: null}).activate();
+            }).catch(e => {
+              console.error(`Import of an embedded library dependencies failed: ${e}`)
+            })
+          }).catch(e => {
+            console.error(`Import of an embedded library failed: ${e}`)
+          })
+        });
+
+    </script>
+
+<div lang="grc" class="alpheios-enabled" data-alpheios_tb_doc="artemidorus-5-55"">
+<div lang="grc" class="alpheios-enabled" data-alpheios_tb_doc="artemidorus-5-55" data-alpheios_tb_sent="1">
+<p data-alpheios_tb_sent="1">Δρομεὺς ἐν Ὀλυμπίᾳ παίδων στάδιον ἐστεφανωμένος <span data-alpheios_tb_word="7">μέλλων</span> ἕτερον ἀγῶνα ἀγωνίζεσθαι ἔδοξεν ἐν τῷ Ὀλυμπικῷ στεφάνῳ ὥσπερ ἐν λεκάνῃ τοὺς πόδας νίπτεσθαι .</p>
+div lang="grc" class="alpheios-enabled" data-alpheios_tb_doc="artemidorus-5-55" data-alpheios_tb_sent="2">ἐλείφθη ἐκεῖνον τὸν <span data-alpheios_tb_word="4"> ἀγῶνα  </span> καὶ ἀδόξως ** τοῦ σταδίου ·</p>
+div lang="grc" class="alpheios-enabled" data-alpheios_tb_doc="artemidorus-5-55" data-alpheios_tb_sent="3">κατῄσχυνε γὰρ τὸν πρότερον <span data-alpheios_tb_word="5"> στέφανον</span.</p>
+</div>
+</div>
+</body>
+</html>
