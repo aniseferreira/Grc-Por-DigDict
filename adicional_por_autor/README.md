@@ -1,1 +1,1 @@
-## Acréscimos de itens lexicais ao DDGP
+### Acréscimos de itens lexicais ao DDGP
