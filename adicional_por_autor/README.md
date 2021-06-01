@@ -1,0 +1,1 @@
+Acréscimos de itens lexicais
